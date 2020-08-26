@@ -1,7 +1,7 @@
 # JuneBrideWallFloor
 **Named columns**: 5/5
 
-**Documented columns**: 5/5
+**Documented columns**: 1/5
 
 **Description**: Various wallapaper-rug-flooring combinations for each wedding event theme
 ## Theme
@@ -24,7 +24,7 @@
 
 **Hashed string**: FloorItemId u16
 
-**Notes**: The floor used for this combination.
+**Notes**: The floor used for this combination. Matches with UniqueID in ItemParam.
 
 **Versions**: 1.2.0, 1.3.0, 1.4.0
 
@@ -36,7 +36,7 @@
 
 **Hashed string**: RugItemId u16
 
-**Notes**: The rug used for this combination. Equals -2 if no rug.
+**Notes**: The rug used for this combination. Equals -2 if no rug. Matches with UniqueID in ItemParam.
 
 **Versions**: 1.2.0, 1.3.0, 1.4.0
 
@@ -58,7 +58,7 @@
 
 **Hashed string**: WallItemId u16
 
-**Notes**: The wallpaper used for this combination.
+**Notes**: The wallpaper used for this combination. Matches with UniqueID in ItemParam.
 
 **Versions**: 1.2.0, 1.3.0, 1.4.0
 
