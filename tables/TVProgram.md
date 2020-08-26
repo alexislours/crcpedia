@@ -177,6 +177,8 @@
 
 **Hashed string**: EndMoN1 u8
 
+**Notes**: The ending month for each special case in the northern hemisphere.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EndMoN2
@@ -186,6 +188,8 @@
 **Hash**: 0x78815c1c
 
 **Hashed string**: EndMoN2 u8
+
+**Notes**: Same as above.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -197,6 +201,8 @@
 
 **Hashed string**: EndMoN3 u8
 
+**Notes**: Same as above.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EndMoN4
@@ -206,6 +212,8 @@
 **Hash**: 0x5dea03c0
 
 **Hashed string**: EndMoN4 u8
+
+**Notes**: Same as above.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -217,6 +225,8 @@
 
 **Hashed string**: EndMoN5 u8
 
+**Notes**: Same as above.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EndMoN6
@@ -226,6 +236,8 @@
 **Hash**: 0xf7e3cb4b
 
 **Hashed string**: EndMoN6 u8
+
+**Notes**: Same as above.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -237,6 +249,8 @@
 
 **Hashed string**: EndMoS1 u8
 
+**Notes**: The ending month for each special case in the southern hemisphere.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EndMoS2
@@ -246,6 +260,8 @@
 **Hash**: 0xe0f10f2f
 
 **Hashed string**: EndMoS2 u8
+
+**Notes**: Same as above.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -257,6 +273,8 @@
 
 **Hashed string**: EndMoS3 u8
 
+**Notes**: Same as above.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EndMoS4
@@ -266,6 +284,8 @@
 **Hash**: 0xc59a50f3
 
 **Hashed string**: EndMoS4 u8
+
+**Notes**: Same as above.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -277,6 +297,8 @@
 
 **Hashed string**: EndMoS5 u8
 
+**Notes**: Same as above.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EndMoS6
@@ -286,6 +308,8 @@
 **Hash**: 0x6f939878
 
 **Hashed string**: EndMoS6 u8
+
+**Notes**: Same as above.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -297,6 +321,8 @@
 
 **Hashed string**: ResourceName string33
 
+**Notes**: The default resource name used.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ResourceNameSp1
@@ -306,6 +332,8 @@
 **Hash**: 0x7834d5db
 
 **Hashed string**: ResourceNameSp1 string33
+
+**Notes**: The resource name used for each special case.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -317,6 +345,8 @@
 
 **Hashed string**: ResourceNameSp2 string33
 
+**Notes**: Same as above.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ResourceNameSp3
@@ -326,6 +356,8 @@
 **Hash**: 0x7cc105e6
 
 **Hashed string**: ResourceNameSp3 string33
+
+**Notes**: Same as above.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -337,6 +369,8 @@
 
 **Hashed string**: ResourceNameSp4 string33
 
+**Notes**: Same as above.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ResourceNameSp5
@@ -346,6 +380,8 @@
 **Hash**: 0x71df75a1
 
 **Hashed string**: ResourceNameSp5 string33
+
+**Notes**: Same as above.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -357,6 +393,8 @@
 
 **Hashed string**: ResourceNameSp6 string33
 
+**Notes**: Same as above.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StartDayN1
@@ -367,6 +405,8 @@
 
 **Hashed string**: StartDayN1 u8
 
+**Notes**: The starting day for each special case in the northern hemisphere.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StartDayN2
@@ -376,6 +416,8 @@
 **Hash**: 0x010c5bb2
 
 **Hashed string**: StartDayN2 u8
+
+**Notes**: Same as above.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
