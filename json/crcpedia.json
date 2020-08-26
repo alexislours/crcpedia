@@ -6363,7 +6363,7 @@
     "name": "FieldLandMakingUnitModelParam",
     "namedColumns": "42/42",
     "documentedColumns": "0/42",
-    "description": "",
+    "description": "Param for island part models and textures",
     "hashes": [
       {
         "hash": "d943e2bd",
