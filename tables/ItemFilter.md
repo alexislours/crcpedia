@@ -3,6 +3,7 @@
 
 **Documented columns**: 0/19
 
+**Description**: Item filter for donation to NPC and selling
 ## ItemKind1
 
 **Name**: ItemKind1
