@@ -6322,7 +6322,7 @@
     "name": "FieldLandMakingRoadKindParam",
     "namedColumns": "3/3",
     "documentedColumns": "0/3",
-    "description": "",
+    "description": "Param for path and their MSBT label",
     "hashes": [
       {
         "hash": "2df085cc",

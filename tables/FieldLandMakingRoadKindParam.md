@@ -3,6 +3,7 @@
 
 **Documented columns**: 0/3
 
+**Description**: Param for path and their MSBT label
 ## GroundAttributeUniqueID
 
 **Name**: GroundAttributeUniqueID
