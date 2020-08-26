@@ -5409,7 +5409,7 @@
   },
   "EventPlazaPlacementParam": {
     "name": "EventPlazaPlacementParam",
-    "namedColumns": "11/17",
+    "namedColumns": "12/17",
     "documentedColumns": "13/17",
     "description": "Placement of furniture and objects in the plaza",
     "hashes": [
@@ -5537,10 +5537,10 @@
       {
         "hash": "30127dfd",
         "type": "u8",
-        "hashedString": "",
+        "hashedString": "DisableInDream u8",
         "hashNotes": "",
         "formattedHash": "_30127dfd",
-        "name": "",
+        "name": "DisableInDream",
         "functionalityNotes": "",
         "knownFunctionality": false,
         "versions": ["1.4.0"]

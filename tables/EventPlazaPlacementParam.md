@@ -1,5 +1,5 @@
 # EventPlazaPlacementParam
-**Named columns**: 11/17
+**Named columns**: 12/17
 
 **Documented columns**: 13/17
 
@@ -126,11 +126,13 @@
 
 **Versions**: 1.4.0
 
-## 0x30127dfd
+## DisableInDream
+
+**Name**: DisableInDream
 
 **Hash**: 0x30127dfd
 
-**Type**: u8
+**Hashed string**: DisableInDream u8
 
 **Versions**: 1.4.0
 
