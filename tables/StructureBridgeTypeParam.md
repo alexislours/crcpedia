@@ -3,6 +3,7 @@
 
 **Documented columns**: 4/5
 
+**Description**: Bridge types
 ## 0x904611f3
 
 **Hash**: 0x904611f3

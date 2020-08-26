@@ -21,7 +21,7 @@
 
 **Hashed string**: Name string64
 
-**Notes**: Japanese strings
+**Notes**: Japanese strings. We've translated the 3 values as "Curtains", "Slatted Blinds", and "Roller Shades" in the Item Spreadsheet
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

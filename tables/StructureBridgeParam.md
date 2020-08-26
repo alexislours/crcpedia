@@ -1,8 +1,9 @@
 # StructureBridgeParam
 **Named columns**: 4/4
 
-**Documented columns**: 0/4
+**Documented columns**: 4/4
 
+**Description**: Bridges types and orientations and their data
 ## BridgePattern
 
 **Name**: BridgePattern
@@ -45,7 +46,7 @@
 
 **Hashed string**: ModelName string32
 
-**Notes**: The name of the used model for this variation.
+**Notes**: The name of the model used for this variation.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

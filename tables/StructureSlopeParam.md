@@ -3,6 +3,7 @@
 
 **Documented columns**: 4/4
 
+**Description**: Slopes and their data
 ## ItemNameUniqueID
 
 **Name**: ItemNameUniqueID

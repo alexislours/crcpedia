@@ -3,6 +3,7 @@
 
 **Documented columns**: 57/57
 
+**Description**: The resource name for each tv program depending on the time of year.
 ## TVProgramName
 
 **Name**: TVProgramName
