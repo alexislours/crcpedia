@@ -13121,8 +13121,8 @@
   "ItemPlayerInitialOutfitBoyAWParam": {
     "name": "ItemPlayerInitialOutfitBoyAWParam",
     "namedColumns": "9/9",
-    "documentedColumns": "0/9",
-    "description": "",
+    "documentedColumns": "8/9",
+    "description": "All possible initial outfits for new girl players starting in Spring or Summer.",
     "hashes": [
       {
         "hash": "2b57b24a",
@@ -13132,7 +13132,7 @@
         "formattedHash": "_2b57b24a",
         "name": "AcceEye",
         "functionalityNotes": "The initial eye accessory. Matches ItemParam's UniqueID. Equals -2 if none.",
-        "knownFunctionality": false,
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -13143,7 +13143,7 @@
         "formattedHash": "_9403c267",
         "name": "AcceMouth",
         "functionalityNotes": "The initial mouth accessory. Matches ItemParam's UniqueID. Equals -2 if none.",
-        "knownFunctionality": false,
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -13154,7 +13154,7 @@
         "formattedHash": "_cc136eb5",
         "name": "Bottoms",
         "functionalityNotes": "The initial bottoms. Matches ItemParam's UniqueID. Equals -2 if none.",
-        "knownFunctionality": false,
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -13165,7 +13165,7 @@
         "formattedHash": "_291a1b04",
         "name": "Cap",
         "functionalityNotes": "The initial headwear. Matches ItemParam's UniqueID. Equals -2 if none.",
-        "knownFunctionality": false,
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -13175,8 +13175,8 @@
         "hashNotes": "",
         "formattedHash": "_ce827d47",
         "name": "Shoes",
-        "functionalityNotes": "",
-        "knownFunctionality": false,
+        "functionalityNotes": "The initial shoes. Matches ItemParam's UniqueID. Equals -2 if none.",
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -13186,8 +13186,8 @@
         "hashNotes": "",
         "formattedHash": "_39ed7f5a",
         "name": "Socks",
-        "functionalityNotes": "",
-        "knownFunctionality": false,
+        "functionalityNotes": "The initial socks. Matches ItemParam's UniqueID. Equals -2 if none.",
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -13197,8 +13197,8 @@
         "hashNotes": "",
         "formattedHash": "_870f1e29",
         "name": "Tops",
-        "functionalityNotes": "",
-        "knownFunctionality": false,
+        "functionalityNotes": "The initial top. Matches ItemParam's UniqueID. Equals -2 if none.",
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -13209,7 +13209,7 @@
         "formattedHash": "_54706054",
         "name": "UniqueID",
         "functionalityNotes": "",
-        "knownFunctionality": false,
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -13228,8 +13228,8 @@
   "ItemPlayerInitialOutfitBoySSParam": {
     "name": "ItemPlayerInitialOutfitBoySSParam",
     "namedColumns": "9/9",
-    "documentedColumns": "0/9",
-    "description": "",
+    "documentedColumns": "8/9",
+    "description": "All possible initial outfits for new girl players starting in Spring or Summer.",
     "hashes": [
       {
         "hash": "2b57b24a",
@@ -13238,8 +13238,8 @@
         "hashNotes": "",
         "formattedHash": "_2b57b24a",
         "name": "AcceEye",
-        "functionalityNotes": "",
-        "knownFunctionality": false,
+        "functionalityNotes": "The initial eye accessory. Matches ItemParam's UniqueID. Equals -2 if none.",
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -13249,8 +13249,8 @@
         "hashNotes": "",
         "formattedHash": "_9403c267",
         "name": "AcceMouth",
-        "functionalityNotes": "",
-        "knownFunctionality": false,
+        "functionalityNotes": "The initial mouth accessory. Matches ItemParam's UniqueID. Equals -2 if none.",
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -13260,8 +13260,8 @@
         "hashNotes": "",
         "formattedHash": "_cc136eb5",
         "name": "Bottoms",
-        "functionalityNotes": "",
-        "knownFunctionality": false,
+        "functionalityNotes": "The initial bottoms. Matches ItemParam's UniqueID. Equals -2 if none.",
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -13271,8 +13271,8 @@
         "hashNotes": "",
         "formattedHash": "_291a1b04",
         "name": "Cap",
-        "functionalityNotes": "",
-        "knownFunctionality": false,
+        "functionalityNotes": "The initial headwear. Matches ItemParam's UniqueID. Equals -2 if none.",
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -13282,8 +13282,8 @@
         "hashNotes": "",
         "formattedHash": "_ce827d47",
         "name": "Shoes",
-        "functionalityNotes": "",
-        "knownFunctionality": false,
+        "functionalityNotes": "The initial shoes. Matches ItemParam's UniqueID. Equals -2 if none.",
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -13293,8 +13293,8 @@
         "hashNotes": "",
         "formattedHash": "_39ed7f5a",
         "name": "Socks",
-        "functionalityNotes": "",
-        "knownFunctionality": false,
+        "functionalityNotes": "The initial socks. Matches ItemParam's UniqueID. Equals -2 if none.",
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -13304,8 +13304,8 @@
         "hashNotes": "",
         "formattedHash": "_870f1e29",
         "name": "Tops",
-        "functionalityNotes": "",
-        "knownFunctionality": false,
+        "functionalityNotes": "The initial top. Matches ItemParam's UniqueID. Equals -2 if none.",
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -13316,7 +13316,7 @@
         "formattedHash": "_54706054",
         "name": "UniqueID",
         "functionalityNotes": "",
-        "knownFunctionality": false,
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -13335,8 +13335,8 @@
   "ItemPlayerInitialOutfitGirlAWParam": {
     "name": "ItemPlayerInitialOutfitGirlAWParam",
     "namedColumns": "9/9",
-    "documentedColumns": "0/9",
-    "description": "",
+    "documentedColumns": "8/9",
+    "description": "All possible initial outfits for new girl players starting in Spring or Summer.",
     "hashes": [
       {
         "hash": "2b57b24a",
@@ -13345,8 +13345,8 @@
         "hashNotes": "",
         "formattedHash": "_2b57b24a",
         "name": "AcceEye",
-        "functionalityNotes": "",
-        "knownFunctionality": false,
+        "functionalityNotes": "The initial eye accessory. Matches ItemParam's UniqueID. Equals -2 if none.",
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -13356,8 +13356,8 @@
         "hashNotes": "",
         "formattedHash": "_9403c267",
         "name": "AcceMouth",
-        "functionalityNotes": "",
-        "knownFunctionality": false,
+        "functionalityNotes": "The initial mouth accessory. Matches ItemParam's UniqueID. Equals -2 if none.",
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -13367,8 +13367,8 @@
         "hashNotes": "",
         "formattedHash": "_cc136eb5",
         "name": "Bottoms",
-        "functionalityNotes": "",
-        "knownFunctionality": false,
+        "functionalityNotes": "The initial bottoms. Matches ItemParam's UniqueID. Equals -2 if none.",
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -13378,8 +13378,8 @@
         "hashNotes": "",
         "formattedHash": "_291a1b04",
         "name": "Cap",
-        "functionalityNotes": "",
-        "knownFunctionality": false,
+        "functionalityNotes": "The initial headwear. Matches ItemParam's UniqueID. Equals -2 if none.",
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -13389,8 +13389,8 @@
         "hashNotes": "",
         "formattedHash": "_ce827d47",
         "name": "Shoes",
-        "functionalityNotes": "",
-        "knownFunctionality": false,
+        "functionalityNotes": "The initial shoes. Matches ItemParam's UniqueID. Equals -2 if none.",
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -13400,8 +13400,8 @@
         "hashNotes": "",
         "formattedHash": "_39ed7f5a",
         "name": "Socks",
-        "functionalityNotes": "",
-        "knownFunctionality": false,
+        "functionalityNotes": "The initial socks. Matches ItemParam's UniqueID. Equals -2 if none.",
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -13411,8 +13411,8 @@
         "hashNotes": "",
         "formattedHash": "_870f1e29",
         "name": "Tops",
-        "functionalityNotes": "",
-        "knownFunctionality": false,
+        "functionalityNotes": "The initial top. Matches ItemParam's UniqueID. Equals -2 if none.",
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -13423,7 +13423,7 @@
         "formattedHash": "_54706054",
         "name": "UniqueID",
         "functionalityNotes": "",
-        "knownFunctionality": false,
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -13442,8 +13442,8 @@
   "ItemPlayerInitialOutfitGirlSSParam": {
     "name": "ItemPlayerInitialOutfitGirlSSParam",
     "namedColumns": "9/9",
-    "documentedColumns": "0/9",
-    "description": "",
+    "documentedColumns": "8/9",
+    "description": "All possible initial outfits for new girl players starting in Spring or Summer.",
     "hashes": [
       {
         "hash": "2b57b24a",
@@ -13452,8 +13452,8 @@
         "hashNotes": "",
         "formattedHash": "_2b57b24a",
         "name": "AcceEye",
-        "functionalityNotes": "",
-        "knownFunctionality": false,
+        "functionalityNotes": "The initial eye accessory. Matches ItemParam's UniqueID. Equals -2 if none.",
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -13463,8 +13463,8 @@
         "hashNotes": "",
         "formattedHash": "_9403c267",
         "name": "AcceMouth",
-        "functionalityNotes": "",
-        "knownFunctionality": false,
+        "functionalityNotes": "The initial mouth accessory. Matches ItemParam's UniqueID. Equals -2 if none.",
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -13474,8 +13474,8 @@
         "hashNotes": "",
         "formattedHash": "_cc136eb5",
         "name": "Bottoms",
-        "functionalityNotes": "",
-        "knownFunctionality": false,
+        "functionalityNotes": "The initial bottoms. Matches ItemParam's UniqueID. Equals -2 if none.",
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -13485,8 +13485,8 @@
         "hashNotes": "",
         "formattedHash": "_291a1b04",
         "name": "Cap",
-        "functionalityNotes": "",
-        "knownFunctionality": false,
+        "functionalityNotes": "The initial headwear. Matches ItemParam's UniqueID. Equals -2 if none.",
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -13496,8 +13496,8 @@
         "hashNotes": "",
         "formattedHash": "_ce827d47",
         "name": "Shoes",
-        "functionalityNotes": "",
-        "knownFunctionality": false,
+        "functionalityNotes": "The initial shoes. Matches ItemParam's UniqueID. Equals -2 if none.",
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -13507,8 +13507,8 @@
         "hashNotes": "",
         "formattedHash": "_39ed7f5a",
         "name": "Socks",
-        "functionalityNotes": "",
-        "knownFunctionality": false,
+        "functionalityNotes": "The initial socks. Matches ItemParam's UniqueID. Equals -2 if none.",
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -13518,8 +13518,8 @@
         "hashNotes": "",
         "formattedHash": "_870f1e29",
         "name": "Tops",
-        "functionalityNotes": "",
-        "knownFunctionality": false,
+        "functionalityNotes": "The initial top. Matches ItemParam's UniqueID. Equals -2 if none.",
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -13530,7 +13530,7 @@
         "formattedHash": "_54706054",
         "name": "UniqueID",
         "functionalityNotes": "",
-        "knownFunctionality": false,
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {

@@ -1,8 +1,9 @@
 # ItemPlayerInitialOutfitGirlAWParam
 **Named columns**: 9/9
 
-**Documented columns**: 0/9
+**Documented columns**: 8/9
 
+**Description**: All possible initial outfits for new girl players starting in Spring or Summer.
 ## AcceEye
 
 **Name**: AcceEye
@@ -10,6 +11,8 @@
 **Hash**: 0x2b57b24a
 
 **Hashed string**: AcceEye u16
+
+**Notes**: The initial eye accessory. Matches ItemParam's UniqueID. Equals -2 if none.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -21,6 +24,8 @@
 
 **Hashed string**: AcceMouth u16
 
+**Notes**: The initial mouth accessory. Matches ItemParam's UniqueID. Equals -2 if none.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Bottoms
@@ -30,6 +35,8 @@
 **Hash**: 0xcc136eb5
 
 **Hashed string**: Bottoms u16
+
+**Notes**: The initial bottoms. Matches ItemParam's UniqueID. Equals -2 if none.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -41,6 +48,8 @@
 
 **Hashed string**: Cap u16
 
+**Notes**: The initial headwear. Matches ItemParam's UniqueID. Equals -2 if none.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Shoes
@@ -50,6 +59,8 @@
 **Hash**: 0xce827d47
 
 **Hashed string**: Shoes u16
+
+**Notes**: The initial shoes. Matches ItemParam's UniqueID. Equals -2 if none.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -61,6 +72,8 @@
 
 **Hashed string**: Socks u16
 
+**Notes**: The initial socks. Matches ItemParam's UniqueID. Equals -2 if none.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Tops
@@ -70,6 +83,8 @@
 **Hash**: 0x870f1e29
 
 **Hashed string**: Tops u16
+
+**Notes**: The initial top. Matches ItemParam's UniqueID. Equals -2 if none.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
