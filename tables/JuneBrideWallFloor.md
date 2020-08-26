@@ -1,7 +1,7 @@
 # JuneBrideWallFloor
 **Named columns**: 5/5
 
-**Documented columns**: 1/5
+**Documented columns**: 5/5
 
 **Description**: Various wallapaper-rug-flooring combinations for each wedding event theme
 ## Theme
