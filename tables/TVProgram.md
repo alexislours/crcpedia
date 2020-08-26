@@ -321,7 +321,7 @@
 
 **Hashed string**: ResourceName string33
 
-**Notes**: The default resource name used.
+**Notes**: The default resource name used. For FtrTVProgramWeather, a file will be chosen depending on this day's weather pattern.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

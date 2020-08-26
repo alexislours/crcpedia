@@ -12,7 +12,7 @@
 
 **Hashed string**: TVProgramName.hshCstringRef
 
-**Notes**: The texture file to display when a TV is turned on. For FtrTVProgramWeather, a file will be chosen depending on this day's weather pattern.
+**Notes**: Matches ProgramName in TVProgram. Indicates the TV program shown.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
