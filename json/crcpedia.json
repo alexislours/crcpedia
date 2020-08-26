@@ -15025,7 +15025,7 @@
         "hashNotes": "",
         "formattedHash": "_23a01e5b",
         "name": "Theme",
-        "functionalityNotes": "",
+        "functionalityNotes": "The theme corresponding to this combination.",
         "knownFunctionality": false,
         "versions": ["1.2.0", "1.3.0", "1.4.0"]
       },
@@ -15036,7 +15036,7 @@
         "hashNotes": "",
         "formattedHash": "_4e718582",
         "name": "FloorItemId",
-        "functionalityNotes": "",
+        "functionalityNotes": "The floor used for this combination.",
         "knownFunctionality": false,
         "versions": ["1.2.0", "1.3.0", "1.4.0"]
       },
@@ -15069,7 +15069,7 @@
         "hashNotes": "",
         "formattedHash": "_350e1ef9",
         "name": "WallItemId",
-        "functionalityNotes": "",
+        "functionalityNotes": "The wallpaper used for this combination.",
         "knownFunctionality": false,
         "versions": ["1.2.0", "1.3.0", "1.4.0"]
       }
