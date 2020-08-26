@@ -3,6 +3,7 @@
 
 **Documented columns**: 0/12
 
+**Description**: Params for field modification like cliff and rivers
 ## ActionRange
 
 **Name**: ActionRange

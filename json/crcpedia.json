@@ -6097,7 +6097,7 @@
     "name": "FieldLandMakingActionParam",
     "namedColumns": "9/12",
     "documentedColumns": "0/12",
-    "description": "",
+    "description": "Params for field modification like cliff and rivers",
     "hashes": [
       {
         "hash": "59485fad",
