@@ -204,7 +204,7 @@
 
 **Hashed string**: IsSpecial u8
 
-**Notes**: 1 if the achievement doesn't work on a rank basis (eg: plant fruits)
+**Notes**: 1 if the achievement doesn't work on a rank basis (eg plant fruits)
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
