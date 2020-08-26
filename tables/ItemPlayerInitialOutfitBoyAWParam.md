@@ -3,7 +3,7 @@
 
 **Documented columns**: 8/9
 
-**Description**: All possible initial outfits for new girl players starting in Spring or Summer.
+**Description**: All possible initial outfits for new boy players starting in Autumn or Winter.
 ## AcceEye
 
 **Name**: AcceEye

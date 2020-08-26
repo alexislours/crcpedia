@@ -13122,7 +13122,7 @@
     "name": "ItemPlayerInitialOutfitBoyAWParam",
     "namedColumns": "9/9",
     "documentedColumns": "8/9",
-    "description": "All possible initial outfits for new girl players starting in Spring or Summer.",
+    "description": "All possible initial outfits for new boy players starting in Autumn or Winter.",
     "hashes": [
       {
         "hash": "2b57b24a",
@@ -13229,7 +13229,7 @@
     "name": "ItemPlayerInitialOutfitBoySSParam",
     "namedColumns": "9/9",
     "documentedColumns": "8/9",
-    "description": "All possible initial outfits for new girl players starting in Spring or Summer.",
+    "description": "All possible initial outfits for new boy players starting in Spring or Summer.",
     "hashes": [
       {
         "hash": "2b57b24a",
@@ -13336,7 +13336,7 @@
     "name": "ItemPlayerInitialOutfitGirlAWParam",
     "namedColumns": "9/9",
     "documentedColumns": "8/9",
-    "description": "All possible initial outfits for new girl players starting in Spring or Summer.",
+    "description": "All possible initial outfits for new girl players starting in Autumn or Winter.",
     "hashes": [
       {
         "hash": "2b57b24a",
