@@ -3,6 +3,7 @@
 
 **Documented columns**: 0/14
 
+**Description**: Player animations
 ## 0x58102055
 
 **Hash**: 0x58102055

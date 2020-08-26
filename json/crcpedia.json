@@ -8516,7 +8516,7 @@
     "name": "GmoFootprintParam",
     "namedColumns": "4/4",
     "documentedColumns": "0/4",
-    "description": "",
+    "description": "Footprint GFX",
     "hashes": [
       {
         "hash": "6d4bd7da",
@@ -8568,7 +8568,7 @@
     "name": "HumanAnimParam",
     "namedColumns": "10/14",
     "documentedColumns": "0/14",
-    "description": "",
+    "description": "Player animations",
     "hashes": [
       {
         "hash": "58102055",
