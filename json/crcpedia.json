@@ -10569,7 +10569,7 @@
   "ItemKind": {
     "name": "ItemKind",
     "namedColumns": "27/28",
-    "documentedColumns": "18/28",
+    "documentedColumns": "20/28",
     "description": "Defines what actions can be done to items from inventory and other params",
     "hashes": [
       {
@@ -10667,8 +10667,8 @@
         "hashNotes": "",
         "formattedHash": "_472724ed",
         "name": "CanBury",
-        "functionalityNotes": "Can be buried (why do some plants have 1 and some have 0?)",
-        "knownFunctionality": false,
+        "functionalityNotes": "Can be buried (shows a \"Bury\" option in the inventory UI)",
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -10733,8 +10733,8 @@
         "hashNotes": "",
         "formattedHash": "_d4697ff8",
         "name": "CanPlant",
-        "functionalityNotes": "Can be planted (what does this mean exactly?)",
-        "knownFunctionality": false,
+        "functionalityNotes": "Can be planted (shows a \"Plant\" option in the inventory UI)",
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {

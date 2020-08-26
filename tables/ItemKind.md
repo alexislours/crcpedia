@@ -1,7 +1,7 @@
 # ItemKind
 **Named columns**: 27/28
 
-**Documented columns**: 18/28
+**Documented columns**: 20/28
 
 **Description**: Defines what actions can be done to items from inventory and other params
 ## FtrIconCaptureType
@@ -100,7 +100,7 @@
 
 **Hashed string**: CanBury u8
 
-**Notes**: Can be buried (why do some plants have 1 and some have 0?)
+**Notes**: Can be buried (shows a "Bury" option in the inventory UI)
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -172,7 +172,7 @@
 
 **Hashed string**: CanPlant u8
 
-**Notes**: Can be planted (what does this mean exactly?)
+**Notes**: Can be planted (shows a "Plant" option in the inventory UI)
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
