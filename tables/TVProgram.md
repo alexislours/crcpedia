@@ -11,6 +11,8 @@
 
 **Hashed string**: TVProgramName.hshCstringRef
 
+**Notes**: The TV program's name.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0x01481890
@@ -31,6 +33,8 @@
 
 **Hashed string**: EndDayN1 u8
 
+**Notes**: The ending day for each special case in the northern hemisphere.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EndDayN2
@@ -40,6 +44,8 @@
 **Hash**: 0x51e492aa
 
 **Hashed string**: EndDayN2 u8
+
+**Notes**: Same as above.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -51,6 +57,8 @@
 
 **Hashed string**: EndDayN3 u8
 
+**Notes**: Same as above.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EndDayN4
@@ -60,6 +68,8 @@
 **Hash**: 0x748fcd76
 
 **Hashed string**: EndDayN4 u8
+
+**Notes**: Same as above.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -71,6 +81,8 @@
 
 **Hashed string**: EndDayN5 u8
 
+**Notes**: Same as above.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EndDayN6
@@ -80,6 +92,8 @@
 **Hash**: 0xde8605fd
 
 **Hashed string**: EndDayN6 u8
+
+**Notes**: Same as above.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -91,6 +105,8 @@
 
 **Hashed string**: EndDayS1 u8
 
+**Notes**: The ending day for each special case in the southern hemisphere.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EndDayS2
@@ -100,6 +116,8 @@
 **Hash**: 0xc994c199
 
 **Hashed string**: EndDayS2 u8
+
+**Notes**: Same as above.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -111,6 +129,8 @@
 
 **Hashed string**: EndDayS3 u8
 
+**Notes**: Same as above.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EndDayS4
@@ -120,6 +140,8 @@
 **Hash**: 0xecff9e45
 
 **Hashed string**: EndDayS4 u8
+
+**Notes**: Same as above.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -131,6 +153,8 @@
 
 **Hashed string**: EndDayS5 u8
 
+**Notes**: Same as above.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EndDayS6
@@ -140,6 +164,8 @@
 **Hash**: 0x46f656ce
 
 **Hashed string**: EndDayS6 u8
+
+**Notes**: Same as above.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

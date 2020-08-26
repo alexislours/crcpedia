@@ -24961,7 +24961,7 @@
         "hashNotes": "",
         "formattedHash": "_a988063c",
         "name": "TVProgramName",
-        "functionalityNotes": "",
+        "functionalityNotes": "The TV program's name.",
         "knownFunctionality": false,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
@@ -24983,7 +24983,7 @@
         "hashNotes": "",
         "formattedHash": "_43513d44",
         "name": "EndDayN1",
-        "functionalityNotes": "",
+        "functionalityNotes": "The ending day for each special case in the northern hemisphere.",
         "knownFunctionality": false,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
@@ -24994,7 +24994,7 @@
         "hashNotes": "",
         "formattedHash": "_51e492aa",
         "name": "EndDayN2",
-        "functionalityNotes": "",
+        "functionalityNotes": "Same as above.",
         "knownFunctionality": false,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
@@ -25005,7 +25005,7 @@
         "hashNotes": "",
         "formattedHash": "_e958f5cf",
         "name": "EndDayN3",
-        "functionalityNotes": "",
+        "functionalityNotes": "Same as above.",
         "knownFunctionality": false,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
@@ -25016,7 +25016,7 @@
         "hashNotes": "",
         "formattedHash": "_748fcd76",
         "name": "EndDayN4",
-        "functionalityNotes": "",
+        "functionalityNotes": "Same as above.",
         "knownFunctionality": false,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
@@ -25027,7 +25027,7 @@
         "hashNotes": "",
         "formattedHash": "_cc33aa13",
         "name": "EndDayN5",
-        "functionalityNotes": "",
+        "functionalityNotes": "Same as above.",
         "knownFunctionality": false,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
@@ -25038,7 +25038,7 @@
         "hashNotes": "",
         "formattedHash": "_de8605fd",
         "name": "EndDayN6",
-        "functionalityNotes": "",
+        "functionalityNotes": "Same as above.",
         "knownFunctionality": false,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
@@ -25049,7 +25049,7 @@
         "hashNotes": "",
         "formattedHash": "_db216e77",
         "name": "EndDayS1",
-        "functionalityNotes": "",
+        "functionalityNotes": "The ending day for each special case in the southern hemisphere.",
         "knownFunctionality": false,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
@@ -25060,7 +25060,7 @@
         "hashNotes": "",
         "formattedHash": "_c994c199",
         "name": "EndDayS2",
-        "functionalityNotes": "",
+        "functionalityNotes": "Same as above.",
         "knownFunctionality": false,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
@@ -25071,7 +25071,7 @@
         "hashNotes": "",
         "formattedHash": "_7128a6fc",
         "name": "EndDayS3",
-        "functionalityNotes": "",
+        "functionalityNotes": "Same as above.",
         "knownFunctionality": false,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
@@ -25082,7 +25082,7 @@
         "hashNotes": "",
         "formattedHash": "_ecff9e45",
         "name": "EndDayS4",
-        "functionalityNotes": "",
+        "functionalityNotes": "Same as above.",
         "knownFunctionality": false,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
@@ -25093,7 +25093,7 @@
         "hashNotes": "",
         "formattedHash": "_5443f920",
         "name": "EndDayS5",
-        "functionalityNotes": "",
+        "functionalityNotes": "Same as above.",
         "knownFunctionality": false,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
@@ -25104,7 +25104,7 @@
         "hashNotes": "",
         "formattedHash": "_46f656ce",
         "name": "EndDayS6",
-        "functionalityNotes": "",
+        "functionalityNotes": "Same as above.",
         "knownFunctionality": false,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
