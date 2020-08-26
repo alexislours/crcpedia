@@ -1,0 +1,57 @@
+# RoomLandingParam
+**Named columns**: 5/5
+
+**Documented columns**: 0/5
+
+## Floorboards
+
+**Name**: Floorboards
+
+**Hash**: 0xab771eae
+
+**Hashed string**: Floorboards u16
+
+**Notes**: Potentially matches up with CarpetMaterial in ItemParam
+
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+
+## UISortID
+
+**Name**: UISortID
+
+**Hash**: 0x2fe593c3
+
+**Hashed string**: UISortID s16
+
+**Versions**: 1.3.0, 1.4.0
+
+## UniqueID
+
+**Name**: UniqueID
+
+**Hash**: 0x54706054
+
+**Hashed string**: UniqueID u16
+
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+
+## LandingName
+
+**Name**: LandingName
+
+**Hash**: 0x05038516
+
+**Hashed string**: LandingName string64
+
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+
+## ResourceName
+
+**Name**: ResourceName
+
+**Hash**: 0x4b9c4229
+
+**Hashed string**: ResourceName string64
+
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+

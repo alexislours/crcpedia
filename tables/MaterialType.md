@@ -1,0 +1,35 @@
+# MaterialType
+**Named columns**: 3/3
+
+**Documented columns**: 0/3
+
+## SoundAttribute
+
+**Name**: SoundAttribute
+
+**Hash**: 0x2e17a0a7
+
+**Hashed string**: SoundAttribute u16
+
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+
+## UniqueID
+
+**Name**: UniqueID
+
+**Hash**: 0x54706054
+
+**Hashed string**: UniqueID u16
+
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+
+## DebugName
+
+**Name**: DebugName
+
+**Hash**: 0xab51a3cf
+
+**Hashed string**: DebugName string32
+
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+

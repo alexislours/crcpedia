@@ -1,0 +1,35 @@
+# FieldLandMakingRoadKindParam
+**Named columns**: 3/3
+
+**Documented columns**: 0/3
+
+## GroundAttributeUniqueID
+
+**Name**: GroundAttributeUniqueID
+
+**Hash**: 0x2df085cc
+
+**Hashed string**: GroundAttributeUniqueID u16
+
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+
+## InnerType
+
+**Name**: InnerType
+
+**Hash**: 0xaf88956b
+
+**Hashed string**: InnerType u8
+
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+
+## MessageLabel
+
+**Name**: MessageLabel
+
+**Hash**: 0xf68a2366
+
+**Hashed string**: MessageLabel string32
+
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+

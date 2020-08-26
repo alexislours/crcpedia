@@ -1,0 +1,48 @@
+# ItemFrom
+**Named columns**: 4/4
+
+**Documented columns**: 4/4
+
+**Description**: Defines HHA base point values
+## HHABaseScore
+
+**Name**: HHABaseScore
+
+**Hash**: 0xd62525d0
+
+**Hashed string**: HHABaseScore s16
+
+**Notes**: Base points for HHA calculation
+
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+
+## UniqueID
+
+**Name**: UniqueID
+
+**Hash**: 0x54706054
+
+**Hashed string**: UniqueID u16
+
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+
+## Label
+
+**Name**: Label
+
+**Hash**: 0x87bf00e8
+
+**Hashed string**: Label string32
+
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+
+## Name
+
+**Name**: Name
+
+**Hash**: 0x036e8ebe
+
+**Hashed string**: Name string64
+
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+
