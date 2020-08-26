@@ -24899,7 +24899,7 @@
   "StructureSlopeParam": {
     "name": "StructureSlopeParam",
     "namedColumns": "4/4",
-    "documentedColumns": "0/4",
+    "documentedColumns": "4/4",
     "description": "",
     "hashes": [
       {
@@ -24909,8 +24909,8 @@
         "hashNotes": "",
         "formattedHash": "_c33a894e",
         "name": "ItemNameUniqueID",
-        "functionalityNotes": "",
-        "knownFunctionality": false,
+        "functionalityNotes": "The item corresponding to this slope. Matches with UniqueID in ItemParam.",
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -24921,7 +24921,7 @@
         "formattedHash": "_54706054",
         "name": "UniqueID",
         "functionalityNotes": "",
-        "knownFunctionality": false,
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -24931,8 +24931,8 @@
         "hashNotes": "",
         "formattedHash": "_08462f85",
         "name": "JpName",
-        "functionalityNotes": "",
-        "knownFunctionality": false,
+        "functionalityNotes": "The slope's name in Japanese.",
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -24942,8 +24942,8 @@
         "hashNotes": "",
         "formattedHash": "_39b5a93d",
         "name": "ModelName",
-        "functionalityNotes": "",
-        "knownFunctionality": false,
+        "functionalityNotes": "The resource name.",
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       }
     ]
