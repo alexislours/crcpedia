@@ -1,7 +1,7 @@
 # EventPlazaPlacementParam
 **Named columns**: 12/17
 
-**Documented columns**: 13/17
+**Documented columns**: 14/17
 
 **Description**: Placement of furniture and objects in the plaza
 ## 0x036dd90c
@@ -133,6 +133,8 @@
 **Hash**: 0x30127dfd
 
 **Hashed string**: DisableInDream u8
+
+**Notes**: 1 = Doesn't appear in dreams, 0 = Does appear in dreams
 
 **Versions**: 1.4.0
 
