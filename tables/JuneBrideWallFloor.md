@@ -1,8 +1,9 @@
 # JuneBrideWallFloor
 **Named columns**: 5/5
 
-**Documented columns**: 0/5
+**Documented columns**: 5/5
 
+**Description**: Combinations for each theme
 ## Theme
 
 **Name**: Theme
@@ -34,6 +35,8 @@
 **Hash**: 0xa1249129
 
 **Hashed string**: RugItemId u16
+
+**Notes**: The rug used for this combination.
 
 **Versions**: 1.2.0, 1.3.0, 1.4.0
 

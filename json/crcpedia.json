@@ -15015,8 +15015,8 @@
   "JuneBrideWallFloor": {
     "name": "JuneBrideWallFloor",
     "namedColumns": "5/5",
-    "documentedColumns": "0/5",
-    "description": "",
+    "documentedColumns": "5/5",
+    "description": "Combinations for each theme",
     "hashes": [
       {
         "hash": "23a01e5b",
@@ -15026,7 +15026,7 @@
         "formattedHash": "_23a01e5b",
         "name": "Theme",
         "functionalityNotes": "The theme corresponding to this combination.",
-        "knownFunctionality": false,
+        "knownFunctionality": true,
         "versions": ["1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -15037,7 +15037,7 @@
         "formattedHash": "_4e718582",
         "name": "FloorItemId",
         "functionalityNotes": "The floor used for this combination.",
-        "knownFunctionality": false,
+        "knownFunctionality": true,
         "versions": ["1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -15047,8 +15047,8 @@
         "hashNotes": "",
         "formattedHash": "_a1249129",
         "name": "RugItemId",
-        "functionalityNotes": "",
-        "knownFunctionality": false,
+        "functionalityNotes": "The rug used for this combination.",
+        "knownFunctionality": true,
         "versions": ["1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -15059,7 +15059,7 @@
         "formattedHash": "_54706054",
         "name": "UniqueID",
         "functionalityNotes": "",
-        "knownFunctionality": false,
+        "knownFunctionality": true,
         "versions": ["1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -15070,7 +15070,7 @@
         "formattedHash": "_350e1ef9",
         "name": "WallItemId",
         "functionalityNotes": "The wallpaper used for this combination.",
-        "knownFunctionality": false,
+        "knownFunctionality": true,
         "versions": ["1.2.0", "1.3.0", "1.4.0"]
       }
     ]
