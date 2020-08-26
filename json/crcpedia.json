@@ -15016,7 +15016,7 @@
     "name": "JuneBrideWallFloor",
     "namedColumns": "5/5",
     "documentedColumns": "5/5",
-    "description": "Combinations for each theme",
+    "description": "Various wallapaper-rug-flooring combinations for each wedding event theme",
     "hashes": [
       {
         "hash": "23a01e5b",
@@ -15047,7 +15047,7 @@
         "hashNotes": "",
         "formattedHash": "_a1249129",
         "name": "RugItemId",
-        "functionalityNotes": "The rug used for this combination.",
+        "functionalityNotes": "The rug used for this combination. Equals -2 if no rug.",
         "knownFunctionality": true,
         "versions": ["1.2.0", "1.3.0", "1.4.0"]
       },

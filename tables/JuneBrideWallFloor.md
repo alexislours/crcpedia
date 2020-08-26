@@ -3,7 +3,7 @@
 
 **Documented columns**: 5/5
 
-**Description**: Combinations for each theme
+**Description**: Various wallapaper-rug-flooring combinations for each wedding event theme
 ## Theme
 
 **Name**: Theme
@@ -36,7 +36,7 @@
 
 **Hashed string**: RugItemId u16
 
-**Notes**: The rug used for this combination.
+**Notes**: The rug used for this combination. Equals -2 if no rug.
 
 **Versions**: 1.2.0, 1.3.0, 1.4.0
 
