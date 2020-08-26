@@ -1,7 +1,7 @@
 # StructureBridgeTypeParam
 **Named columns**: 4/5
 
-**Documented columns**: 0/5
+**Documented columns**: 4/5
 
 ## 0x904611f3
 
@@ -18,6 +18,8 @@
 **Hash**: 0xc33a894e
 
 **Hashed string**: ItemNameUniqueID u16
+
+**Notes**: The item corresponding to this bridge. Matches with UniqueID in ItemParam.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -39,6 +41,8 @@
 
 **Hashed string**: BridgeTypeName string32
 
+**Notes**: The resource name.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## BridgeTypeNameJp
@@ -48,6 +52,8 @@
 **Hash**: 0x5c28c4db
 
 **Hashed string**: BridgeTypeNameJp string32
+
+**Notes**: The name of the bridge in Japanese.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

@@ -358,7 +358,7 @@
 
 **Type**: hshCstringRef
 
-**Notes**: clothing style 1
+**Notes**: Villager clothing style preference 1
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -368,7 +368,7 @@
 
 **Type**: u32/s32
 
-**Notes**: clothing style 2
+**Notes**: Villager clothing style preference 2
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

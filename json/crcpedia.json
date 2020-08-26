@@ -12375,7 +12375,7 @@
         "hashNotes": "",
         "formattedHash": "_164a5f24",
         "name": "",
-        "functionalityNotes": "clothing style 1",
+        "functionalityNotes": "Villager clothing style preference 1",
         "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
@@ -12386,7 +12386,7 @@
         "hashNotes": "",
         "formattedHash": "_9ba040c2",
         "name": "",
-        "functionalityNotes": "clothing style 2",
+        "functionalityNotes": "Villager clothing style preference 2",
         "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
@@ -23748,7 +23748,7 @@
         "hashNotes": "",
         "formattedHash": "_74be6041",
         "name": "BridgePattern",
-        "functionalityNotes": "",
+        "functionalityNotes": "The bridge variation: 03 for a bridge with a length of 3 tiles, 04 for 4, 05 for 5, Diagonal025 for a diagonal with a length 2.5, Diagonal030 for a diagonal with a length of 3, Diagonal035 for a diagonal with a length of 3.5.",
         "knownFunctionality": false,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
@@ -23759,7 +23759,7 @@
         "hashNotes": "",
         "formattedHash": "_ee9ce68d",
         "name": "BridgeTypeUniqueID",
-        "functionalityNotes": "",
+        "functionalityNotes": "Matches with UniqueID in StructureBridgeTypeParam.",
         "knownFunctionality": false,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
@@ -23781,7 +23781,7 @@
         "hashNotes": "",
         "formattedHash": "_39b5a93d",
         "name": "ModelName",
-        "functionalityNotes": "",
+        "functionalityNotes": "The name of the used model for this variation.",
         "knownFunctionality": false,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       }
@@ -23790,7 +23790,7 @@
   "StructureBridgeTypeParam": {
     "name": "StructureBridgeTypeParam",
     "namedColumns": "4/5",
-    "documentedColumns": "0/5",
+    "documentedColumns": "4/5",
     "description": "",
     "hashes": [
       {
@@ -23811,8 +23811,8 @@
         "hashNotes": "",
         "formattedHash": "_c33a894e",
         "name": "ItemNameUniqueID",
-        "functionalityNotes": "",
-        "knownFunctionality": false,
+        "functionalityNotes": "The item corresponding to this bridge. Matches with UniqueID in ItemParam.",
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -23823,7 +23823,7 @@
         "formattedHash": "_54706054",
         "name": "UniqueID",
         "functionalityNotes": "",
-        "knownFunctionality": false,
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -23833,8 +23833,8 @@
         "hashNotes": "",
         "formattedHash": "_68cf5938",
         "name": "BridgeTypeName",
-        "functionalityNotes": "",
-        "knownFunctionality": false,
+        "functionalityNotes": "The resource name.",
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -23844,8 +23844,8 @@
         "hashNotes": "",
         "formattedHash": "_5c28c4db",
         "name": "BridgeTypeNameJp",
-        "functionalityNotes": "",
-        "knownFunctionality": false,
+        "functionalityNotes": "The name of the bridge in Japanese.",
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       }
     ]
