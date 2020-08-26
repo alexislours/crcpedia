@@ -1,7 +1,7 @@
 # TVProgram
 **Named columns**: 56/57
 
-**Documented columns**: 0/57
+**Documented columns**: 57/57
 
 ## TVProgramName
 
@@ -429,6 +429,8 @@
 
 **Hashed string**: StartDayN3 u8
 
+**Notes**: Same as above.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StartDayN4
@@ -438,6 +440,8 @@
 **Hash**: 0x2467046e
 
 **Hashed string**: StartDayN4 u8
+
+**Notes**: Same as above.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -449,6 +453,8 @@
 
 **Hashed string**: StartDayN5 u8
 
+**Notes**: Same as above.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StartDayN6
@@ -458,6 +464,8 @@
 **Hash**: 0x8e6ecce5
 
 **Hashed string**: StartDayN6 u8
+
+**Notes**: Same as above.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -469,6 +477,8 @@
 
 **Hashed string**: StartDayS1 u8
 
+**Notes**: The starting day for each special case in the southern hemisphere.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StartDayS2
@@ -478,6 +488,8 @@
 **Hash**: 0x997c0881
 
 **Hashed string**: StartDayS2 u8
+
+**Notes**: Same as above.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -489,6 +501,8 @@
 
 **Hashed string**: StartDayS3 u8
 
+**Notes**: Same as above.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StartDayS4
@@ -498,6 +512,8 @@
 **Hash**: 0xbc17575d
 
 **Hashed string**: StartDayS4 u8
+
+**Notes**: Same as above.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -509,6 +525,8 @@
 
 **Hashed string**: StartDayS5 u8
 
+**Notes**: Same as above.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StartDayS6
@@ -518,6 +536,8 @@
 **Hash**: 0x161e9fd6
 
 **Hashed string**: StartDayS6 u8
+
+**Notes**: Same as above.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -529,6 +549,8 @@
 
 **Hashed string**: StartMoN1 u8
 
+**Notes**: The starting month for each special case in the northern hemisphere.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StartMoN2
@@ -538,6 +560,8 @@
 **Hash**: 0x9539786c
 
 **Hashed string**: StartMoN2 u8
+
+**Notes**: Same as above.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -549,6 +573,8 @@
 
 **Hashed string**: StartMoN3 u8
 
+**Notes**: Same as above.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StartMoN4
@@ -558,6 +584,8 @@
 **Hash**: 0xb05227b0
 
 **Hashed string**: StartMoN4 u8
+
+**Notes**: Same as above.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -569,6 +597,8 @@
 
 **Hashed string**: StartMoN5 u8
 
+**Notes**: Same as above.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StartMoN6
@@ -578,6 +608,8 @@
 **Hash**: 0x1a5bef3b
 
 **Hashed string**: StartMoN6 u8
+
+**Notes**: Same as above.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -589,6 +621,8 @@
 
 **Hashed string**: StartMoS1 u8
 
+**Notes**: The starting month for each special case in the southern hemisphere.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StartMoS2
@@ -598,6 +632,8 @@
 **Hash**: 0x0d492b5f
 
 **Hashed string**: StartMoS2 u8
+
+**Notes**: Same as above.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -609,6 +645,8 @@
 
 **Hashed string**: StartMoS3 u8
 
+**Notes**: Same as above.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StartMoS4
@@ -618,6 +656,8 @@
 **Hash**: 0x28227483
 
 **Hashed string**: StartMoS4 u8
+
+**Notes**: Same as above.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -629,6 +669,8 @@
 
 **Hashed string**: StartMoS5 u8
 
+**Notes**: Same as above.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StartMoS6
@@ -638,6 +680,8 @@
 **Hash**: 0x822bbc08
 
 **Hashed string**: StartMoS6 u8
+
+**Notes**: Same as above.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
