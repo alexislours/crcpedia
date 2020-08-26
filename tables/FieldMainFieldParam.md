@@ -3,6 +3,7 @@
 
 **Documented columns**: 0/6
 
+**Description**: Different island presets
 ## UniqueID
 
 **Name**: UniqueID
