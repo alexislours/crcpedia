@@ -3,6 +3,7 @@
 
 **Documented columns**: 0/27
 
+**Description**: Island beach templates
 ## E0Parts
 
 **Name**: E0Parts

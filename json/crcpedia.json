@@ -7038,7 +7038,7 @@
     "name": "FieldOutsideParts",
     "namedColumns": "4/4",
     "documentedColumns": "0/4",
-    "description": "",
+    "description": "Island beach parts",
     "hashes": [
       {
         "hash": "493eed57",
@@ -7090,7 +7090,7 @@
     "name": "FieldOutsideTemplate",
     "namedColumns": "27/27",
     "documentedColumns": "0/27",
-    "description": "",
+    "description": "Island beach templates",
     "hashes": [
       {
         "hash": "4038a881",

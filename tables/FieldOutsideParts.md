@@ -3,6 +3,7 @@
 
 **Documented columns**: 0/4
 
+**Description**: Island beach parts
 ## PartsKind
 
 **Name**: PartsKind
