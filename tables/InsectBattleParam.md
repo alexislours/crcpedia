@@ -3,6 +3,7 @@
 
 **Documented columns**: 0/3
 
+**Description**: Params for insect that "attack" the player
 ## Level
 
 **Name**: Level

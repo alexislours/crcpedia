@@ -3,6 +3,7 @@
 
 **Documented columns**: 0/5
 
+**Description**: Indoor param for building objects
 ## ArtObjNum
 
 **Name**: ArtObjNum

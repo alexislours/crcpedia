@@ -8730,7 +8730,7 @@
     "name": "IndoorIdrParam",
     "namedColumns": "5/5",
     "documentedColumns": "0/5",
-    "description": "",
+    "description": "Indoor param for building objects",
     "hashes": [
       {
         "hash": "607ccfce",
@@ -9722,7 +9722,7 @@
     "name": "InsectBattleParam",
     "namedColumns": "3/3",
     "documentedColumns": "0/3",
-    "description": "",
+    "description": "Params for insect that \"attack\" the player",
     "hashes": [
       {
         "hash": "36083c78",
