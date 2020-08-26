@@ -3,7 +3,7 @@
 
 **Documented columns**: 4/4
 
-**Description**: Bridges types and orientations and their data
+**Description**: Bridge types and variations
 ## BridgePattern
 
 **Name**: BridgePattern

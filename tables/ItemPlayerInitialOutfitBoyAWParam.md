@@ -11,6 +11,8 @@
 
 **Hashed string**: AcceEye u16
 
+**Notes**: The initial eye accessory. Matches ItemParam's UniqueID. Equals -2 if none.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## AcceMouth
@@ -20,6 +22,8 @@
 **Hash**: 0x9403c267
 
 **Hashed string**: AcceMouth u16
+
+**Notes**: The initial mouth accessory. Matches ItemParam's UniqueID. Equals -2 if none.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -31,6 +35,8 @@
 
 **Hashed string**: Bottoms u16
 
+**Notes**: The initial bottoms. Matches ItemParam's UniqueID. Equals -2 if none.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Cap
@@ -40,6 +46,8 @@
 **Hash**: 0x291a1b04
 
 **Hashed string**: Cap u16
+
+**Notes**: The initial headwear. Matches ItemParam's UniqueID. Equals -2 if none.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
