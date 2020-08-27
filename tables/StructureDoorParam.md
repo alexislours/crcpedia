@@ -3,6 +3,7 @@
 
 **Documented columns**: 0/28
 
+**Description**: Param for doors between different stages?
 ## 0xe7e1c6cd
 
 **Hash**: 0xe7e1c6cd

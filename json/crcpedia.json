@@ -23854,7 +23854,7 @@
     "name": "StructureDoorParam",
     "namedColumns": "15/28",
     "documentedColumns": "0/28",
-    "description": "",
+    "description": "Param for doors between different stages?",
     "hashes": [
       {
         "hash": "e7e1c6cd",
