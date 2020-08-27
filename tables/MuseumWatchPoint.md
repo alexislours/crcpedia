@@ -1,7 +1,7 @@
 # MuseumWatchPoint
 **Named columns**: 13/14
 
-**Documented columns**: 0/14
+**Documented columns**: 7/14
 
 **Description**: Camera positions inside the museum
 ## SilhouetteID
@@ -11,6 +11,8 @@
 **Hash**: 0x3e884a6d
 
 **Hashed string**: SilhouetteID u32
+
+**Notes**: The index for the silhouette in MuseumNPCSilhouette
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -22,6 +24,8 @@
 
 **Hashed string**: StageName.hshCstringRef
 
+**Notes**: The room in which this watch point is. Matches with MuseumNPCSpotTalk.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0x35ac2c17
@@ -29,6 +33,8 @@
 **Hash**: 0x35ac2c17
 
 **Type**: hshCstringRef
+
+**Notes**: Either Always, Daytime or Night. During what time period this watch point is visible.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -80,6 +86,8 @@
 
 **Hashed string**: WatchPosX f32
 
+**Notes**: The x coordinate of the position from where this view point is seen.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## WatchPosY
@@ -90,6 +98,8 @@
 
 **Hashed string**: WatchPosY f32
 
+**Notes**: The y coordinate of the position from where this view point is seen.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## WatchPosZ
@@ -99,6 +109,8 @@
 **Hash**: 0x5cf3a1a1
 
 **Hashed string**: WatchPosZ f32
+
+**Notes**: The z coordinate of the position from where this view point is seen.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
