@@ -3,6 +3,7 @@
 
 **Documented columns**: 0/3
 
+**Description**: Params for the sound doors make
 ## SoundAttribute
 
 **Name**: SoundAttribute

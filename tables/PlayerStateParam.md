@@ -1,7 +1,7 @@
 # PlayerStateParam
 **Named columns**: 26/42
 
-**Documented columns**: 0/42
+**Documented columns**: 1/42
 
 ## BgCheckType
 

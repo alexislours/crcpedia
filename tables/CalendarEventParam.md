@@ -1,7 +1,7 @@
 # CalendarEventParam
 **Named columns**: 162/162
 
-**Documented columns**: 146/162
+**Documented columns**: 152/162
 
 **Description**: Dates and settings for calendar events and Nook Shopping seasonal events
 ## EventType

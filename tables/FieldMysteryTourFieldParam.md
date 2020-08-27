@@ -1,7 +1,7 @@
 # FieldMysteryTourFieldParam
 **Named columns**: 2/2
 
-**Documented columns**: 0/2
+**Documented columns**: 2/2
 
 ## MysteryTourFieldOutside
 

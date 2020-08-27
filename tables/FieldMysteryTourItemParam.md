@@ -1,7 +1,7 @@
 # FieldMysteryTourItemParam
 **Named columns**: 1/1
 
-**Documented columns**: 0/1
+**Documented columns**: 1/1
 
 ## UniqueID
 

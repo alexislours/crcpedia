@@ -1,7 +1,7 @@
 # RoomWallParam
 **Named columns**: 15/15
 
-**Documented columns**: 9/15
+**Documented columns**: 10/15
 
 ## AO
 

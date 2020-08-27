@@ -1,7 +1,7 @@
 # RoomFloorParam
 **Named columns**: 14/14
 
-**Documented columns**: 7/14
+**Documented columns**: 8/14
 
 ## Act
 

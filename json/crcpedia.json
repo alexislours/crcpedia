@@ -399,7 +399,7 @@
   "CalendarEventParam": {
     "name": "CalendarEventParam",
     "namedColumns": "162/162",
-    "documentedColumns": "146/162",
+    "documentedColumns": "152/162",
     "description": "Dates and settings for calendar events and Nook Shopping seasonal events",
     "hashes": [
       {
@@ -6906,7 +6906,7 @@
   "FieldMysteryTourFieldParam": {
     "name": "FieldMysteryTourFieldParam",
     "namedColumns": "2/2",
-    "documentedColumns": "0/2",
+    "documentedColumns": "2/2",
     "hashes": [
       {
         "hash": "e8fa8b93",
@@ -6935,7 +6935,7 @@
   "FieldMysteryTourItemParam": {
     "name": "FieldMysteryTourItemParam",
     "namedColumns": "1/1",
-    "documentedColumns": "0/1",
+    "documentedColumns": "1/1",
     "hashes": [
       {
         "hash": "54706054",
@@ -6953,7 +6953,7 @@
   "FieldMysteryTourParam": {
     "name": "FieldMysteryTourParam",
     "namedColumns": "7/7",
-    "documentedColumns": "0/7",
+    "documentedColumns": "7/7",
     "hashes": [
       {
         "hash": "dd59b554",
@@ -15414,7 +15414,7 @@
     "name": "MaterialType",
     "namedColumns": "3/3",
     "documentedColumns": "0/3",
-    "description": "",
+    "description": "Params for the sound doors make",
     "hashes": [
       {
         "hash": "2e17a0a7",
@@ -20758,7 +20758,7 @@
   "PlayerStateParam": {
     "name": "PlayerStateParam",
     "namedColumns": "26/42",
-    "documentedColumns": "0/42",
+    "documentedColumns": "1/42",
     "description": "",
     "hashes": [
       {
@@ -21842,7 +21842,7 @@
   "RoomFloorParam": {
     "name": "RoomFloorParam",
     "namedColumns": "14/14",
-    "documentedColumns": "7/14",
+    "documentedColumns": "8/14",
     "description": "",
     "hashes": [
       {
@@ -22067,7 +22067,7 @@
   "RoomWallParam": {
     "name": "RoomWallParam",
     "namedColumns": "15/15",
-    "documentedColumns": "9/15",
+    "documentedColumns": "10/15",
     "description": "",
     "hashes": [
       {
@@ -23220,7 +23220,7 @@
   "SoundAmbientPlacementParam": {
     "name": "SoundAmbientPlacementParam",
     "namedColumns": "2/2",
-    "documentedColumns": "0/2",
+    "documentedColumns": "2/2",
     "description": "",
     "hashes": [
       {

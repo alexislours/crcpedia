@@ -1,7 +1,7 @@
 # FieldMysteryTourParam
 **Named columns**: 7/7
 
-**Documented columns**: 0/7
+**Documented columns**: 7/7
 
 ## ItemPlacementKind
 
