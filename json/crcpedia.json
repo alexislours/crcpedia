@@ -16429,7 +16429,7 @@
     "name": "MuseumNPCLayoutInfo",
     "namedColumns": "7/7",
     "documentedColumns": "0/7",
-    "description": "",
+    "description": "NPC params inside the museum",
     "hashes": [
       {
         "hash": "54706054",

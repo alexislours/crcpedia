@@ -3,6 +3,7 @@
 
 **Documented columns**: 0/7
 
+**Description**: NPC params inside the museum
 ## UniqueID
 
 **Name**: UniqueID
