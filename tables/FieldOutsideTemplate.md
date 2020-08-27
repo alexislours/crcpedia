@@ -240,7 +240,7 @@
 
 **Hashed string**: TemplateKind.hshCstringRef
 
-**Notes**: "3B_" followed by where the river 
+**Notes**: "3B_" followed by where the river mouths are: either "S2" if both mouths are south, "SW" if one is south and the other is west, and "SE" if one is south and the other is east.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
