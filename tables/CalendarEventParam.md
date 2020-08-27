@@ -1714,7 +1714,7 @@
 
 **Hashed string**: MsgFile string64
 
-**Notes**: Key for villager dialogs, either {}
+**Notes**: Key for villager dialogs, either {personalityCode}_FreeF_{MsgFile}.msbt or {personalityCode}_GEvent_{MsgFile}.msbt
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
