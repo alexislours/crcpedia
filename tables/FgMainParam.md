@@ -1,7 +1,7 @@
 # FgMainParam
 **Named columns**: 22/23
 
-**Documented columns**: 7/23
+**Documented columns**: 12/23
 
 **Description**: Parameters for outdoor objects, such as trees
 ## CollisionHeight
@@ -11,6 +11,8 @@
 **Hash**: 0x0c315945
 
 **Hashed string**: CollisionHeight f32
+
+**Notes**: Collision height of the model, 0 if no collision
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -46,6 +48,8 @@
 
 **Hashed string**: PicIconHeight f32
 
+**Notes**: Always 0
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## BuryItem
@@ -55,6 +59,8 @@
 **Hash**: 0x6ac5a6df
 
 **Hashed string**: BuryItem u16
+
+**Notes**: Item burried
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -66,6 +72,8 @@
 
 **Hashed string**: BuryItem2 u16
 
+**Notes**: Item burried
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## BuryItem3
@@ -75,6 +83,8 @@
 **Hash**: 0xe8ffd1ee
 
 **Hashed string**: BuryItem3 u16
+
+**Notes**: Item burried
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -98,6 +108,8 @@
 
 **Hashed string**: DigItem u16
 
+**Notes**: Item returned when digging
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EffectAttribute
@@ -107,6 +119,8 @@
 **Hash**: 0x6ab4b6fb
 
 **Hashed string**: EffectAttribute u16
+
+**Notes**: Always 0
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
