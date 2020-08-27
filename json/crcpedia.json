@@ -15099,7 +15099,7 @@
         "hashNotes": "",
         "formattedHash": "_50edd045",
         "name": "BaseName",
-        "functionalityNotes": "",
+        "functionalityNotes": "Ressource for the Texture",
         "knownFunctionality": false,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
@@ -15110,7 +15110,7 @@
         "hashNotes": "",
         "formattedHash": "_d22a8fc9",
         "name": "CNzh",
-        "functionalityNotes": "",
+        "functionalityNotes": "Simplified Chinese",
         "knownFunctionality": false,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
@@ -15121,7 +15121,7 @@
         "hashNotes": "",
         "formattedHash": "_f551b995",
         "name": "EUde",
-        "functionalityNotes": "",
+        "functionalityNotes": "German",
         "knownFunctionality": false,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
@@ -15132,7 +15132,7 @@
         "hashNotes": "",
         "formattedHash": "_1f301724",
         "name": "EUen",
-        "functionalityNotes": "",
+        "functionalityNotes": "English",
         "knownFunctionality": false,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
@@ -15143,7 +15143,7 @@
         "hashNotes": "",
         "formattedHash": "_bd439866",
         "name": "EUes",
-        "functionalityNotes": "",
+        "functionalityNotes": "Spanish",
         "knownFunctionality": false,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
@@ -15154,7 +15154,7 @@
         "hashNotes": "",
         "formattedHash": "_425f85d3",
         "name": "EUfr",
-        "functionalityNotes": "",
+        "functionalityNotes": "French",
         "knownFunctionality": false,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
@@ -15165,7 +15165,7 @@
         "hashNotes": "",
         "formattedHash": "_e5644dde",
         "name": "EUit",
-        "functionalityNotes": "",
+        "functionalityNotes": "Italian",
         "knownFunctionality": false,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
@@ -15176,7 +15176,7 @@
         "hashNotes": "",
         "formattedHash": "_c2e9eebe",
         "name": "EUnl",
-        "functionalityNotes": "",
+        "functionalityNotes": "Dutch",
         "knownFunctionality": false,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
@@ -15187,7 +15187,7 @@
         "hashNotes": "",
         "formattedHash": "_4ae88c28",
         "name": "EUru",
-        "functionalityNotes": "",
+        "functionalityNotes": "Russian",
         "knownFunctionality": false,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
@@ -15198,7 +15198,7 @@
         "hashNotes": "",
         "formattedHash": "_638671f9",
         "name": "JPja",
-        "functionalityNotes": "",
+        "functionalityNotes": "Japanese",
         "knownFunctionality": false,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
@@ -15209,7 +15209,7 @@
         "hashNotes": "",
         "formattedHash": "_558685c5",
         "name": "KRko",
-        "functionalityNotes": "",
+        "functionalityNotes": "Korean",
         "knownFunctionality": false,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },

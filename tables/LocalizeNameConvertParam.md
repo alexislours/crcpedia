@@ -22,6 +22,8 @@
 
 **Hashed string**: BaseName string32
 
+**Notes**: Ressource for the Texture
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## CNzh
@@ -31,6 +33,8 @@
 **Hash**: 0xd22a8fc9
 
 **Hashed string**: CNzh u8
+
+**Notes**: Simplified Chinese
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -42,6 +46,8 @@
 
 **Hashed string**: EUde u8
 
+**Notes**: German
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EUen
@@ -51,6 +57,8 @@
 **Hash**: 0x1f301724
 
 **Hashed string**: EUen u8
+
+**Notes**: English
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -62,6 +70,8 @@
 
 **Hashed string**: EUes u8
 
+**Notes**: Spanish
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EUfr
@@ -71,6 +81,8 @@
 **Hash**: 0x425f85d3
 
 **Hashed string**: EUfr u8
+
+**Notes**: French
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -82,6 +94,8 @@
 
 **Hashed string**: EUit u8
 
+**Notes**: Italian
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EUnl
@@ -91,6 +105,8 @@
 **Hash**: 0xc2e9eebe
 
 **Hashed string**: EUnl u8
+
+**Notes**: Dutch
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -102,6 +118,8 @@
 
 **Hashed string**: EUru u8
 
+**Notes**: Russian
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## JPja
@@ -112,6 +130,8 @@
 
 **Hashed string**: JPja u8
 
+**Notes**: Japanese
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## KRko
@@ -121,6 +141,8 @@
 **Hash**: 0x558685c5
 
 **Hashed string**: KRko u8
+
+**Notes**: Korean
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
