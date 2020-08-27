@@ -7371,9 +7371,8 @@
         "hashNotes": "",
         "formattedHash": "_dadfa19a",
         "name": "EnglishName",
-        "functionalityNotes": "The template's name? Format is FldOutTemplate[A, B or C][number from 0 to 11]",
-        "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "functionalityNotes": "The template's name? Format is FldOutTemplate[A, B or C][number from 0 to 11]. If A, TemplateKind is 3B_S2, if B it's 3B_SW and if C it's 3B_SE.",
+        "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       }
     ]
   },

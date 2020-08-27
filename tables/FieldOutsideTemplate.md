@@ -322,7 +322,7 @@
 
 **Hashed string**: EnglishName string32
 
-**Notes**: The template's name? Format is FldOutTemplate[A, B or C][number from 0 to 11]
+**Notes**: The template's name? Format is FldOutTemplate[A, B or C][number from 0 to 11]. If A, TemplateKind is 3B_S2, if B it's 3B_SW and if C it's 3B_SE.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
