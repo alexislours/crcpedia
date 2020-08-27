@@ -1,7 +1,7 @@
 # ItemRemakeCommonPatternCategory
 **Named columns**: 3/3
 
-**Documented columns**: 2/3
+**Documented columns**: 3/3
 
 ## SortID
 
@@ -10,6 +10,8 @@
 **Hash**: 0x8fb1ed85
 
 **Hashed string**: SortID u32
+
+**Notes**: Sort ID for common pattern categories.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

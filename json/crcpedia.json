@@ -14398,7 +14398,7 @@
   "ItemRemakeCommonPatternCategory": {
     "name": "ItemRemakeCommonPatternCategory",
     "namedColumns": "3/3",
-    "documentedColumns": "2/3",
+    "documentedColumns": "3/3",
     "description": "",
     "hashes": [
       {
@@ -14408,8 +14408,8 @@
         "hashNotes": "",
         "formattedHash": "_8fb1ed85",
         "name": "SortID",
-        "functionalityNotes": "",
-        "knownFunctionality": false,
+        "functionalityNotes": "Sort ID for common pattern categories.",
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
