@@ -3,7 +3,7 @@
 
 **Documented columns**: 0/31
 
-**Description**: Params for the scaling of tops for the NPCs
+**Description**: Params for the scaling of tops for the villagers
 ## OnepieceHNormalScaleMaskA
 
 **Name**: OnepieceHNormalScaleMaskA

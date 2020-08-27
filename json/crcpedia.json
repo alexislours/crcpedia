@@ -11267,7 +11267,7 @@
     "name": "ItemNpcTopsForm",
     "namedColumns": "31/31",
     "documentedColumns": "0/31",
-    "description": "Params for the scaling of tops for the NPCs",
+    "description": "Params for the scaling of tops for the villagers",
     "hashes": [
       {
         "hash": "afa7b084",
