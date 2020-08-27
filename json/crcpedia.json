@@ -3585,7 +3585,7 @@
   "EventFlagsAocParam": {
     "name": "EventFlagsAocParam",
     "namedColumns": "6/6",
-    "documentedColumns": "1/6",
+    "documentedColumns": "2/6",
     "description": "Table for NSO checks?",
     "hashes": [
       {
@@ -3597,7 +3597,7 @@
         "name": "DefaultValue",
         "functionalityNotes": "",
         "versions": ["1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "110b14c",
