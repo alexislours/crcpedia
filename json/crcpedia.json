@@ -14323,7 +14323,7 @@
         "hashNotes": "",
         "formattedHash": "_90466afd",
         "name": "Category",
-        "functionalityNotes": "",
+        "functionalityNotes": "The category this pattern pertains to.",
         "knownFunctionality": false,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
