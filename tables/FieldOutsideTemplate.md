@@ -322,5 +322,7 @@
 
 **Hashed string**: EnglishName string32
 
+**Notes**: The template's name? Format is FldOutTemplate[A, B or C][number from 0 to 11]
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
