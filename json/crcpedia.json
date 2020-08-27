@@ -14846,7 +14846,7 @@
     "name": "ItemUIContextMenu",
     "namedColumns": "6/6",
     "documentedColumns": "0/6",
-    "description": "",
+    "description": "UI created by interacting with items?",
     "hashes": [
       {
         "hash": "200dd382",

@@ -3,6 +3,7 @@
 
 **Documented columns**: 0/6
 
+**Description**: UI created by interacting with items?
 ## Priority
 
 **Name**: Priority
