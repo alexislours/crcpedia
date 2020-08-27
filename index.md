@@ -1,4 +1,6 @@
-![Last commit](https://img.shields.io/github/last-commit/alexislours/crcpedia)[![GitHub license](https://img.shields.io/github/license/alexislours/crcpedia)](https://github.com/alexislours/crcpedia/blob/master/LICENSE)
+![Last commit](https://img.shields.io/github/last-commit/alexislours/crcpedia) [![GitHub license](https://img.shields.io/github/license/alexislours/crcpedia)](https://github.com/alexislours/crcpedia/blob/master/LICENSE)
+
+**Last update**: Thu Aug 27 2020 14:50:52 GMT+0000 (Coordinated Universal Time)
 
 **CRCPedia** is a documentation on Animal Crossing: New Horizons BCSV files.
 
