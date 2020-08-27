@@ -1,7 +1,7 @@
 # BgmPropertyParam
 **Named columns**: 2/2
 
-**Documented columns**: 0/2
+**Documented columns**: 2/2
 
 **Description**: Definition table for the sound effects
 ## UniqueID
