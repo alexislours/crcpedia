@@ -3,6 +3,7 @@
 
 **Documented columns**: 3/3
 
+**Description**: Categories for the patterns that Sable gives to the player.
 ## SortID
 
 **Name**: SortID

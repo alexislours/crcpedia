@@ -14399,7 +14399,7 @@
     "name": "ItemRemakeCommonPatternCategory",
     "namedColumns": "3/3",
     "documentedColumns": "3/3",
-    "description": "",
+    "description": "Categories for the patterns that Sable gives to the player.",
     "hashes": [
       {
         "hash": "8fb1ed85",
