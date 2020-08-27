@@ -14920,7 +14920,7 @@
     "name": "ItemUnitIcon",
     "namedColumns": "8/8",
     "documentedColumns": "0/8",
-    "description": "",
+    "description": "Params for items dropped on the ground",
     "hashes": [
       {
         "hash": "68460c05",

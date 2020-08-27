@@ -3,6 +3,7 @@
 
 **Documented columns**: 0/8
 
+**Description**: Params for items dropped on the ground
 ## ScaleOffset
 
 **Name**: ScaleOffset
