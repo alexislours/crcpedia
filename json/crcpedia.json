@@ -16651,7 +16651,7 @@
     "name": "MuseumNameboardInfo",
     "namedColumns": "13/13",
     "documentedColumns": "0/13",
-    "description": "",
+    "description": "Pannel param inside the museum",
     "hashes": [
       {
         "hash": "2c40799e",

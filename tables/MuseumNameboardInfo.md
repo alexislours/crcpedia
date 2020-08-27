@@ -3,6 +3,7 @@
 
 **Documented columns**: 0/13
 
+**Description**: Pannel param inside the museum
 ## NameboardAngleY
 
 **Name**: NameboardAngleY
