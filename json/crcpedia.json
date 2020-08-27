@@ -5286,7 +5286,7 @@
         "hashNotes": "",
         "formattedHash": "_39b5a93d",
         "name": "ModelName",
-        "functionalityNotes": "",
+        "functionalityNotes": "Model file for the plaza, either before or after resident service was created",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": true
       }
