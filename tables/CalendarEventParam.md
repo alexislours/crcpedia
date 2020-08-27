@@ -1,7 +1,7 @@
 # CalendarEventParam
 **Named columns**: 162/162
 
-**Documented columns**: 154/162
+**Documented columns**: 153/162
 
 **Description**: Dates and settings for calendar events and Nook Shopping seasonal events
 ## EventType
@@ -23,6 +23,8 @@
 **Hash**: 0xa75689ff
 
 **Hashed string**: FlagLand1 s32
+
+**Notes**: UniqueID of EventFlagsLandParam, define the flag required for the event to start
 
 **Versions**: 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
