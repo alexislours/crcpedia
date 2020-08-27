@@ -34,7 +34,7 @@
 
 **Hashed string**: GetScale f32
 
-**Notes**: Might modify model scale when caught?
+**Notes**: Might modify model scale when caught? Doesn't appear to be used in the main binary
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
