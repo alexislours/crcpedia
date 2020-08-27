@@ -16330,7 +16330,7 @@
   "MuseumFossilDonateInfo": {
     "name": "MuseumFossilDonateInfo",
     "namedColumns": "5/5",
-    "documentedColumns": "5/5",
+    "documentedColumns": "4/5",
     "description": "Camera params for fossils donated to the museum",
     "hashes": [
       {
@@ -16384,9 +16384,8 @@
         "hashNotes": "",
         "formattedHash": "_b16c3035",
         "name": "CameraParamName",
-        "functionalityNotes": "",
-        "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": true
+        "functionalityNotes": "The fossil name? Altough all entries don't match with ItemParam's Label. If the field is empty, the appropriate value is the one from the row with the closest inferior ModelID that has the same StageName.",
+        "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       }
     ]
   },
