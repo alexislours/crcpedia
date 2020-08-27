@@ -5265,7 +5265,7 @@
   "EventPlazaGround": {
     "name": "EventPlazaGround",
     "namedColumns": "2/2",
-    "documentedColumns": "0/2",
+    "documentedColumns": "2/2",
     "description": "State of the plaza, only used for before and after resident service is built",
     "hashes": [
       {
@@ -5277,7 +5277,7 @@
         "name": "UniqueID",
         "functionalityNotes": "",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "39b5a93d",
@@ -5288,7 +5288,7 @@
         "name": "ModelName",
         "functionalityNotes": "",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       }
     ]
   },

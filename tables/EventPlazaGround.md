@@ -1,7 +1,7 @@
 # EventPlazaGround
 **Named columns**: 2/2
 
-**Documented columns**: 0/2
+**Documented columns**: 2/2
 
 **Description**: State of the plaza, only used for before and after resident service is built
 ## UniqueID
