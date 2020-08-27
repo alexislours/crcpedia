@@ -240,6 +240,8 @@
 
 **Hashed string**: TemplateKind.hshCstringRef
 
+**Notes**: "3B_" followed by where the river 
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## W0Parts

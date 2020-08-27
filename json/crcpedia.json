@@ -7295,7 +7295,7 @@
         "hashNotes": "",
         "formattedHash": "_29346c33",
         "name": "TemplateKind",
-        "functionalityNotes": "",
+        "functionalityNotes": "\"3B_\" followed by where the river ",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": false
       },
