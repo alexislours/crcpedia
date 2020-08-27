@@ -14314,7 +14314,7 @@
     "name": "ItemRemakeCommonPattern",
     "namedColumns": "7/7",
     "documentedColumns": "7/7",
-    "description": "All patterns given to Sable.",
+    "description": "All patterns given by Sable.",
     "hashes": [
       {
         "hash": "90466afd",
