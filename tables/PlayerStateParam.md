@@ -3,6 +3,7 @@
 
 **Documented columns**: 1/42
 
+**Description**: Different state the player can be in
 ## BgCheckType
 
 **Name**: BgCheckType

@@ -20759,7 +20759,7 @@
     "name": "PlayerStateParam",
     "namedColumns": "26/42",
     "documentedColumns": "1/42",
-    "description": "",
+    "description": "Different state the player can be in",
     "hashes": [
       {
         "hash": "4045796c",
@@ -21229,7 +21229,7 @@
     "name": "RadioCM",
     "namedColumns": "7/7",
     "documentedColumns": "0/7",
-    "description": "",
+    "description": "Tracks for the radio",
     "hashes": [
       {
         "hash": "293ee089",
