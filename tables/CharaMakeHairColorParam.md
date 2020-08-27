@@ -4,7 +4,7 @@
 **Documented columns**: 3/9
 
 **Description**: Hair color
-## BaseColorB (Unused)
+## BaseColorB
 
 **Name**: BaseColorB
 
@@ -16,7 +16,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## BaseColorG (Unused)
+## BaseColorG
 
 **Name**: BaseColorG
 
@@ -28,7 +28,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## BaseColorR (Unused)
+## BaseColorR
 
 **Name**: BaseColorR
 
@@ -40,7 +40,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## HighlightColorB (Unused)
+## HighlightColorB
 
 **Name**: HighlightColorB
 
@@ -52,7 +52,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## HighlightColorG (Unused)
+## HighlightColorG
 
 **Name**: HighlightColorG
 
@@ -64,7 +64,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## HighlightColorR (Unused)
+## HighlightColorR
 
 **Name**: HighlightColorR
 

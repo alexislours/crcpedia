@@ -186,7 +186,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## SpecialELink (Unused)
+## SpecialELink
 
 **Name**: SpecialELink
 
@@ -196,7 +196,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## SpecialSLink (Unused)
+## SpecialSLink
 
 **Name**: SpecialSLink
 

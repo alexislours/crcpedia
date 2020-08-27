@@ -4,7 +4,7 @@
 **Documented columns**: 3/9
 
 **Description**: Amiibo settings, including villagers and Special NPCs
-## CharacterId (Unused)
+## CharacterId
 
 **Name**: CharacterId
 
@@ -76,7 +76,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## Reaction (Unused)
+## Reaction
 
 **Name**: Reaction
 
@@ -100,7 +100,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## Studio (Unused)
+## Studio
 
 **Name**: Studio
 

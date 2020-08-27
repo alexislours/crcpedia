@@ -4,7 +4,7 @@
 **Documented columns**: 7/20
 
 **Description**: Parameters for each PurposeTag (AITag) for villager clothing
-## ClothesFrequencyWear (Unused)
+## ClothesFrequencyWear
 
 **Name**: ClothesFrequencyWear
 
@@ -16,7 +16,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## ClothesPurposeLimit (Unused)
+## ClothesPurposeLimit
 
 **Name**: ClothesPurposeLimit
 
@@ -40,7 +40,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## PurposeScore (Unused)
+## PurposeScore
 
 **Name**: PurposeScore
 
@@ -74,7 +74,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## SeasonScore (Unused)
+## SeasonScore
 
 **Name**: SeasonScore
 
@@ -86,7 +86,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## TasteScore (Unused)
+## TasteScore
 
 **Name**: TasteScore
 
@@ -108,7 +108,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## CapFrequencyWear (Unused)
+## CapFrequencyWear
 
 **Name**: CapFrequencyWear
 
@@ -120,7 +120,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## CapPurposeLimit (Unused)
+## CapPurposeLimit
 
 **Name**: CapPurposeLimit
 
@@ -144,7 +144,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## GlassesFrequencyWear (Unused)
+## GlassesFrequencyWear
 
 **Name**: GlassesFrequencyWear
 
@@ -156,7 +156,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## GlassesPurposeLimit (Unused)
+## GlassesPurposeLimit
 
 **Name**: GlassesPurposeLimit
 
@@ -190,7 +190,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## MaskFrequencyWear (Unused)
+## MaskFrequencyWear
 
 **Name**: MaskFrequencyWear
 
@@ -202,7 +202,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## MaskPurposeLimit (Unused)
+## MaskPurposeLimit
 
 **Name**: MaskPurposeLimit
 
@@ -226,7 +226,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## Name (Unused)
+## Name
 
 **Name**: Name
 

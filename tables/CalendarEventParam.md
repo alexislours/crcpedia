@@ -4,7 +4,7 @@
 **Documented columns**: 152/162
 
 **Description**: Dates and settings for calendar events and Nook Shopping seasonal events
-## EventType (Unused)
+## EventType
 
 **Name**: EventType
 
@@ -1756,7 +1756,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## OpenAllYear (Unused)
+## OpenAllYear
 
 **Name**: OpenAllYear
 
@@ -1768,7 +1768,7 @@
 
 **Versions**: 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## Output (Unused)
+## Output
 
 **Name**: Output
 

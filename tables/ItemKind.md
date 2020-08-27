@@ -4,7 +4,7 @@
 **Documented columns**: 20/28
 
 **Description**: Defines what actions can be done to items from inventory and other params
-## FtrIconCaptureType (Unused)
+## FtrIconCaptureType
 
 **Name**: FtrIconCaptureType
 
@@ -16,7 +16,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## ItemKindUIType (Unused)
+## ItemKindUIType
 
 **Name**: ItemKindUIType
 
