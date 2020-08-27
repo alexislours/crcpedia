@@ -3,6 +3,7 @@
 
 **Documented columns**: 0/2
 
+**Description**: Params for the river generation of mystery islands
 ## MysteryTourFieldOutside
 
 **Name**: MysteryTourFieldOutside

@@ -17115,7 +17115,7 @@
     "name": "MysteryTourFieldParam",
     "namedColumns": "2/2",
     "documentedColumns": "0/2",
-    "description": "",
+    "description": "Params for the river generation of mystery islands",
     "hashes": [
       {
         "hash": "e8fa8b93",
@@ -17145,7 +17145,7 @@
     "name": "MysteryTourFishParam",
     "namedColumns": "2/2",
     "documentedColumns": "0/2",
-    "description": "",
+    "description": "Params for fish spawn on mystery islands",
     "hashes": [
       {
         "hash": "54706054",
@@ -17175,7 +17175,7 @@
     "name": "MysteryTourInsectParam",
     "namedColumns": "2/2",
     "documentedColumns": "0/2",
-    "description": "",
+    "description": "Params for insect spawn on mystery islands",
     "hashes": [
       {
         "hash": "54706054",
@@ -17205,7 +17205,7 @@
     "name": "MysteryTourItemParam",
     "namedColumns": "1/1",
     "documentedColumns": "0/1",
-    "description": "",
+    "description": "Params special terrain generation on mystery islands",
     "hashes": [
       {
         "hash": "54706054",

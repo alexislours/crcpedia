@@ -3,6 +3,7 @@
 
 **Documented columns**: 0/1
 
+**Description**: Params special terrain generation on mystery islands
 ## UniqueID
 
 **Name**: UniqueID

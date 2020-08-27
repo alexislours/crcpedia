@@ -3,6 +3,7 @@
 
 **Documented columns**: 0/2
 
+**Description**: Params for fish spawn on mystery islands
 ## UniqueID
 
 **Name**: UniqueID

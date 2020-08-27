@@ -3,6 +3,7 @@
 
 **Documented columns**: 0/2
 
+**Description**: Params for insect spawn on mystery islands
 ## UniqueID
 
 **Name**: UniqueID
