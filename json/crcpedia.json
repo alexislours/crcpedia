@@ -21761,7 +21761,7 @@
     "name": "RoomCurtainParam",
     "namedColumns": "3/3",
     "documentedColumns": "3/3",
-    "description": "Textures for the Arch?",
+    "description": "Different types of curtains",
     "hashes": [
       {
         "hash": "54706054",
@@ -21802,7 +21802,7 @@
     "name": "RoomCurtainTexParam",
     "namedColumns": "3/3",
     "documentedColumns": "3/3",
-    "description": "Textures for the Arch?",
+    "description": "Textures for the curtains",
     "hashes": [
       {
         "hash": "54706054",
@@ -21843,7 +21843,7 @@
     "name": "RoomFloorParam",
     "namedColumns": "14/14",
     "documentedColumns": "8/14",
-    "description": "",
+    "description": "Floor params",
     "hashes": [
       {
         "hash": "f74f3d2c",
@@ -22005,7 +22005,7 @@
     "name": "RoomLandingParam",
     "namedColumns": "5/5",
     "documentedColumns": "0/5",
-    "description": "",
+    "description": "Stairs textures",
     "hashes": [
       {
         "hash": "ab771eae",
@@ -22068,7 +22068,7 @@
     "name": "RoomWallParam",
     "namedColumns": "15/15",
     "documentedColumns": "10/15",
-    "description": "",
+    "description": "Wall params",
     "hashes": [
       {
         "hash": "8a377042",

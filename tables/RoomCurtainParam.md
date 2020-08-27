@@ -3,7 +3,7 @@
 
 **Documented columns**: 3/3
 
-**Description**: Textures for the Arch?
+**Description**: Different types of curtains
 ## UniqueID
 
 **Name**: UniqueID

@@ -3,6 +3,7 @@
 
 **Documented columns**: 0/5
 
+**Description**: Stairs textures
 ## Floorboards
 
 **Name**: Floorboards
