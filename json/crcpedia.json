@@ -20059,7 +20059,7 @@
     "name": "NpcSpClothSetParam",
     "namedColumns": "10/10",
     "documentedColumns": "10/10",
-    "description": "",
+    "description": "Clothes param for Special NPCs",
     "hashes": [
       {
         "hash": "2b57b24a",
@@ -20177,7 +20177,7 @@
     "name": "NpcSpModelScale",
     "namedColumns": "19/19",
     "documentedColumns": "0/19",
-    "description": "",
+    "description": "Params for cloth scaling for Special NPCs",
     "hashes": [
       {
         "hash": "c7a5b572",

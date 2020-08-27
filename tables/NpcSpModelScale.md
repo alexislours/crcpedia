@@ -3,6 +3,7 @@
 
 **Documented columns**: 0/19
 
+**Description**: Params for cloth scaling for Special NPCs
 ## NormalScaleBottomsA
 
 **Name**: NormalScaleBottomsA

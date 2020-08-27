@@ -3,6 +3,7 @@
 
 **Documented columns**: 10/10
 
+**Description**: Clothes param for Special NPCs
 ## AcceEye
 
 **Name**: AcceEye
