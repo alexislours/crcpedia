@@ -1,7 +1,7 @@
 # EventFlagsHouseParam
 **Named columns**: 6/7
 
-**Documented columns**: 0/7
+**Documented columns**: 2/7
 
 **Description**: List of flags for house upgrades
 ## DefaultValue

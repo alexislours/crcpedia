@@ -3585,7 +3585,7 @@
   "EventFlagsAocParam": {
     "name": "EventFlagsAocParam",
     "namedColumns": "6/6",
-    "documentedColumns": "2/6",
+    "documentedColumns": "1/6",
     "description": "Table for NSO checks?",
     "hashes": [
       {
@@ -3597,7 +3597,7 @@
         "name": "DefaultValue",
         "functionalityNotes": "",
         "versions": ["1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": true
+        "knownFunctionality": false
       },
       {
         "hash": "110b14c",
@@ -3659,7 +3659,7 @@
   "EventFlagsBcatParam": {
     "name": "EventFlagsBcatParam",
     "namedColumns": "7/7",
-    "documentedColumns": "1/7",
+    "documentedColumns": "6/7",
     "description": "Table for the activation of the Easter event via BCAT?",
     "hashes": [
       {
@@ -3669,9 +3669,9 @@
         "hashNotes": "",
         "formattedHash": "_3fe43170",
         "name": "FlagLand",
-        "functionalityNotes": "",
+        "functionalityNotes": "UniqueID in EventFlagsLandParam, only used to unlock the easter event",
         "versions": ["1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "797f5754",
@@ -3682,7 +3682,7 @@
         "name": "DefaultValue",
         "functionalityNotes": "",
         "versions": ["1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "110b14c",
@@ -3693,7 +3693,7 @@
         "name": "MaxValue",
         "functionalityNotes": "",
         "versions": ["1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "54706054",
@@ -3704,7 +3704,7 @@
         "name": "UniqueID",
         "functionalityNotes": "",
         "versions": ["1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "fa93f14b",
@@ -3726,7 +3726,7 @@
         "name": "Key",
         "functionalityNotes": "",
         "versions": ["1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "85cf1615",
@@ -3744,7 +3744,7 @@
   "EventFlagsHouseParam": {
     "name": "EventFlagsHouseParam",
     "namedColumns": "6/7",
-    "documentedColumns": "0/7",
+    "documentedColumns": "2/7",
     "description": "List of flags for house upgrades",
     "hashes": [
       {
@@ -3756,7 +3756,7 @@
         "name": "DefaultValue",
         "functionalityNotes": "",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "344b17d7",
@@ -3767,7 +3767,7 @@
         "name": "MaxValue",
         "functionalityNotes": "",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "54706054",

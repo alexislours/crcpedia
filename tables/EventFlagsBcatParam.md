@@ -1,7 +1,7 @@
 # EventFlagsBcatParam
 **Named columns**: 7/7
 
-**Documented columns**: 1/7
+**Documented columns**: 6/7
 
 **Description**: Table for the activation of the Easter event via BCAT?
 ## FlagLand
@@ -11,6 +11,8 @@
 **Hash**: 0x3fe43170
 
 **Hashed string**: FlagLand s32
+
+**Notes**: UniqueID in EventFlagsLandParam, only used to unlock the easter event
 
 **Versions**: 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
