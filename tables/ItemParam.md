@@ -72,7 +72,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## Depth
+## Depth (Unused)
 
 **Name**: Depth
 
@@ -142,7 +142,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## ItemDailyCategory
+## ItemDailyCategory (Unused)
 
 **Name**: ItemDailyCategory
 
@@ -166,7 +166,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## ItemGender
+## ItemGender (Unused)
 
 **Name**: ItemGender
 
@@ -340,7 +340,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## ItemMessageCategory
+## ItemMessageCategory (Unused)
 
 **Name**: ItemMessageCategory
 
@@ -444,7 +444,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## ItemOrderSale
+## ItemOrderSale (Unused)
 
 **Name**: ItemOrderSale
 
@@ -456,7 +456,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## ItemOutfitInfo
+## ItemOutfitInfo (Unused)
 
 **Name**: ItemOutfitInfo
 
@@ -478,7 +478,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## ItemPriorityPlace
+## ItemPriorityPlace (Unused)
 
 **Name**: ItemPriorityPlace
 
@@ -572,7 +572,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## LocalWindType
+## LocalWindType (Unused)
 
 **Name**: LocalWindType
 
@@ -604,7 +604,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## NpcOutfit
+## NpcOutfit (Unused)
 
 **Name**: NpcOutfit
 
@@ -752,7 +752,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## ItemShareTextureUniqueID
+## ItemShareTextureUniqueID (Unused)
 
 **Name**: ItemShareTextureUniqueID
 
@@ -926,7 +926,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## CaptureGardeningIcon
+## CaptureGardeningIcon (Unused)
 
 **Name**: CaptureGardeningIcon
 
@@ -950,7 +950,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## DefaultSwitch
+## DefaultSwitch (Unused)
 
 **Name**: DefaultSwitch
 
@@ -974,7 +974,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## HasJmp
+## HasJmp (Unused)
 
 **Name**: HasJmp
 
@@ -1006,7 +1006,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## ItemHHADirection
+## ItemHHADirection (Unused)
 
 **Name**: ItemHHADirection
 
@@ -1018,7 +1018,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## ItemName
+## ItemName (Unused)
 
 **Name**: ItemName
 

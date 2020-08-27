@@ -4,7 +4,7 @@
 **Documented columns**: 152/162
 
 **Description**: Dates and settings for calendar events and Nook Shopping seasonal events
-## EventType
+## EventType (Unused)
 
 **Name**: EventType
 
@@ -1756,7 +1756,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## OpenAllYear
+## OpenAllYear (Unused)
 
 **Name**: OpenAllYear
 
@@ -1768,7 +1768,7 @@
 
 **Versions**: 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## Output
+## Output (Unused)
 
 **Name**: Output
 
@@ -1804,7 +1804,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## RegionAsia
+## RegionAsia (Unused)
 
 **Name**: RegionAsia
 
@@ -1816,7 +1816,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0
 
-## RegionEu
+## RegionEu (Unused)
 
 **Name**: RegionEu
 
@@ -1828,7 +1828,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0
 
-## RegionJp
+## RegionJp (Unused)
 
 **Name**: RegionJp
 
@@ -1840,7 +1840,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0
 
-## RegionUs
+## RegionUs (Unused)
 
 **Name**: RegionUs
 
@@ -1864,7 +1864,7 @@
 
 **Versions**: 1.4.0
 
-## TalkFlowName
+## TalkFlowName (Unused)
 
 **Name**: TalkFlowName
 
@@ -1900,7 +1900,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## WeatherPattern
+## WeatherPattern (Unused)
 
 **Name**: WeatherPattern
 

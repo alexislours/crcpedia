@@ -3,7 +3,7 @@
 
 **Documented columns**: 7/7
 
-## ItemPlacementKind
+## ItemPlacementKind (Unused)
 
 **Name**: ItemPlacementKind
 
@@ -15,7 +15,7 @@
 
 **Versions**: 1.0.0
 
-## FishPattern
+## FishPattern (Unused)
 
 **Name**: FishPattern
 
@@ -27,7 +27,7 @@
 
 **Versions**: 1.0.0
 
-## InsectPattern
+## InsectPattern (Unused)
 
 **Name**: InsectPattern
 
@@ -39,7 +39,7 @@
 
 **Versions**: 1.0.0
 
-## MysteryTourFieldUniqueID
+## MysteryTourFieldUniqueID (Unused)
 
 **Name**: MysteryTourFieldUniqueID
 
@@ -51,7 +51,7 @@
 
 **Versions**: 1.0.0
 
-## MysteryTourItemUniqueID
+## MysteryTourItemUniqueID (Unused)
 
 **Name**: MysteryTourItemUniqueID
 
@@ -63,7 +63,7 @@
 
 **Versions**: 1.0.0
 
-## SelectWeight
+## SelectWeight (Unused)
 
 **Name**: SelectWeight
 
@@ -75,7 +75,7 @@
 
 **Versions**: 1.0.0
 
-## UniqueID
+## UniqueID (Unused)
 
 **Name**: UniqueID
 

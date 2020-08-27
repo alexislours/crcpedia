@@ -4,7 +4,7 @@
 **Documented columns**: 22/39
 
 **Description**: Main params for villager NPCs
-## 0xa54f92fd
+## 0xa54f92fd (Unused)
 
 **Hash**: 0xa54f92fd
 
@@ -14,7 +14,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## 0xe2efe82d
+## 0xe2efe82d (Unused)
 
 **Hash**: 0xe2efe82d
 
@@ -76,7 +76,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## Social
+## Social (Unused)
 
 **Name**: Social
 
@@ -100,7 +100,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## VmRhythmType
+## VmRhythmType (Unused)
 
 **Name**: VmRhythmType
 
@@ -196,7 +196,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## SmartphoneRemakePattern
+## SmartphoneRemakePattern (Unused)
 
 **Name**: SmartphoneRemakePattern
 

@@ -3,7 +3,7 @@
 
 **Documented columns**: 2/2
 
-## MysteryTourFieldOutside
+## MysteryTourFieldOutside (Unused)
 
 **Name**: MysteryTourFieldOutside
 
@@ -15,7 +15,7 @@
 
 **Versions**: 1.0.0
 
-## UniqueID
+## UniqueID (Unused)
 
 **Name**: UniqueID
 

@@ -88,7 +88,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## MysteryTourItemUniqueID
+## MysteryTourItemUniqueID (Unused)
 
 **Name**: MysteryTourItemUniqueID
 
@@ -120,7 +120,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## 0x88bd09c2
+## 0x88bd09c2 (Unused)
 
 **Hash**: 0x88bd09c2
 
@@ -130,7 +130,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## 0x4e5cd9f3
+## 0x4e5cd9f3 (Unused)
 
 **Hash**: 0x4e5cd9f3
 

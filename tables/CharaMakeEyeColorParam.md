@@ -4,7 +4,7 @@
 **Documented columns**: 3/6
 
 **Description**: Color value for the eyes of the player
-## BaseColorB
+## BaseColorB (Unused)
 
 **Name**: BaseColorB
 
@@ -16,7 +16,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## BaseColorG
+## BaseColorG (Unused)
 
 **Name**: BaseColorG
 
@@ -28,7 +28,7 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## BaseColorR
+## BaseColorR (Unused)
 
 **Name**: BaseColorR
 

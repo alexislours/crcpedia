@@ -3,7 +3,7 @@
 
 **Documented columns**: 1/1
 
-## UniqueID
+## UniqueID (Unused)
 
 **Name**: UniqueID
 

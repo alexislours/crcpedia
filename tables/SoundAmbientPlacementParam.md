@@ -4,7 +4,7 @@
 **Documented columns**: 2/2
 
 **Description**: Empty
-## UniqueID
+## UniqueID (Unused)
 
 **Name**: UniqueID
 
@@ -16,7 +16,7 @@
 
 **Versions**: 1.1.0, 1.2.0
 
-## Name
+## Name (Unused)
 
 **Name**: Name
 
