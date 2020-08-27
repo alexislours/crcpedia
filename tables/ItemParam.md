@@ -1,7 +1,7 @@
 # ItemParam
 **Named columns**: 91/98
 
-**Documented columns**: 58/98
+**Documented columns**: 63/98
 
 **Description**: The big table everyone loves. Params for every item in the game
 ## AudioPreset

@@ -12035,7 +12035,7 @@
   "ItemParam": {
     "name": "ItemParam",
     "namedColumns": "91/98",
-    "documentedColumns": "58/98",
+    "documentedColumns": "63/98",
     "description": "The big table everyone loves. Params for every item in the game",
     "hashes": [
       {
@@ -12882,7 +12882,7 @@
         "formattedHash": "_e4697080",
         "name": "CaptureClosetIcon",
         "functionalityNotes": "Used for generating wardrobe icons. No effect on gameplay",
-        "knownFunctionality": false,
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -12893,7 +12893,7 @@
         "formattedHash": "_e24d9b0e",
         "name": "CaptureDiyIcon",
         "functionalityNotes": "Used for generating recipe icons. No effect on gameplay",
-        "knownFunctionality": false,
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -12904,7 +12904,7 @@
         "formattedHash": "_f179f796",
         "name": "",
         "functionalityNotes": "Used for determining interaction state when generating icons. No effect on gameplay",
-        "knownFunctionality": false,
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -12915,7 +12915,7 @@
         "formattedHash": "_e65df243",
         "name": "CaptureFtrIcon",
         "functionalityNotes": "Used for generating storage icons. No effect on gameplay",
-        "knownFunctionality": false,
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -12937,7 +12937,7 @@
         "formattedHash": "_fc275e86",
         "name": "CapturePreset",
         "functionalityNotes": "Used for generating icons. No effect on gameplay",
-        "knownFunctionality": false,
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
