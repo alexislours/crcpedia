@@ -1,7 +1,7 @@
 # MuseumWatchPoint
 **Named columns**: 13/14
 
-**Documented columns**: 7/14
+**Documented columns**: 10/14
 
 **Description**: Camera positions inside the museum
 ## SilhouetteID
@@ -12,7 +12,7 @@
 
 **Hashed string**: SilhouetteID u32
 
-**Notes**: The index for the silhouette in MuseumNPCSilhouette
+**Notes**: The index for the silhouette in MuseumNPCSilhouette if SilhouettePoint is 1, 0 otherwise.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -132,6 +132,8 @@
 
 **Hashed string**: BattlePoint u8
 
+**Notes**: 1 if this view point is used for insect battles, 0 otherwise.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## PointName
@@ -142,6 +144,8 @@
 
 **Hashed string**: PointName string65
 
+**Notes**: The view point's name in Japanese. Usually is the name of whatever's exposed.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## SilhouettePoint
@@ -151,6 +155,8 @@
 **Hash**: 0xf58109f5
 
 **Hashed string**: SilhouettePoint u8
+
+**Notes**: 1 if this view point is for a silhouette (in the third fossil room), 0 otherwise.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
