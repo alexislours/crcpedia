@@ -15296,7 +15296,7 @@
     "name": "MannequinCoodinate",
     "namedColumns": "10/10",
     "documentedColumns": "10/10",
-    "description": "",
+    "description": "Params for the mannequin inside Able's",
     "hashes": [
       {
         "hash": "1c73934d",

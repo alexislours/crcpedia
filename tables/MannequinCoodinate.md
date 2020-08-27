@@ -3,6 +3,7 @@
 
 **Documented columns**: 10/10
 
+**Description**: Params for the mannequin inside Able's
 ## MannequinPose
 
 **Name**: MannequinPose
