@@ -36,7 +36,7 @@
 
 **Hashed string**: FlagLand2 s32
 
-**Notes**: Unused, probably the same as FlagLand1, perhaps for another island or for Harv's?
+**Notes**: Unused, probably the same as FlagLand1 for a second flag
 
 **Versions**: 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

@@ -427,7 +427,7 @@
         "hashNotes": "",
         "formattedHash": "_e0f6f32f",
         "name": "FlagLand2",
-        "functionalityNotes": "Unused, probably the same as FlagLand1, perhaps for another island or for Harv's?",
+        "functionalityNotes": "Unused, probably the same as FlagLand1 for a second flag",
         "versions": ["1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
