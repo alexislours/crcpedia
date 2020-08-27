@@ -3,6 +3,7 @@
 
 **Documented columns**: 0/5
 
+**Description**: Camera params for fossils donated to the museum
 ## StageName
 
 **Name**: StageName

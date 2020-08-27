@@ -16303,7 +16303,7 @@
     "name": "MuseumArtDonateInfo",
     "namedColumns": "5/5",
     "documentedColumns": "0/5",
-    "description": "",
+    "description": "Camera params for fossils donated to the museum",
     "hashes": [
       {
         "hash": "be776e71",
@@ -16366,7 +16366,7 @@
     "name": "MuseumFossilDonateInfo",
     "namedColumns": "5/5",
     "documentedColumns": "0/5",
-    "description": "",
+    "description": "Camera params for fossils donated to the museum",
     "hashes": [
       {
         "hash": "be776e71",
