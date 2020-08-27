@@ -3,6 +3,7 @@
 
 **Documented columns**: 0/11
 
+**Description**: Params for the scaling of tops on the player
 ## NormalScaleMaskA
 
 **Name**: NormalScaleMaskA
