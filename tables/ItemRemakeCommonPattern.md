@@ -1,7 +1,7 @@
 # ItemRemakeCommonPattern
 **Named columns**: 7/7
 
-**Documented columns**: 6/7
+**Documented columns**: 7/7
 
 ## Category
 
