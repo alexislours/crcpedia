@@ -1,8 +1,9 @@
 # SoundAudioMusic
 **Named columns**: 4/5
 
-**Documented columns**: 0/5
+**Documented columns**: 1/5
 
+**Description**: Param for the K.K. Songs
 ## AudioMusicID
 
 **Name**: AudioMusicID
@@ -20,6 +21,8 @@
 **Hash**: 0x3637ebb9
 
 **Hashed string**: RefItemUniqueID u16
+
+**Notes**: Item ID for the music
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
