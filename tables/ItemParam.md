@@ -1002,7 +1002,7 @@
 
 **Hashed string**: IsSwingFtr u8
 
-**Notes**: If the items have wind animations
+**Notes**: If when placed this furniture has a slight swing animation when the player holds onto it
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
