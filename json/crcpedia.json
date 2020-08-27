@@ -8341,7 +8341,7 @@
         "hashNotes": "",
         "formattedHash": "_b7c9dd05",
         "name": "EscapeScale",
-        "functionalityNotes": "",
+        "functionalityNotes": "doesn't appear to be used in the main binary",
         "knownFunctionality": false,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
