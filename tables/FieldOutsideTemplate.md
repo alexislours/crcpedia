@@ -1,7 +1,7 @@
 # FieldOutsideTemplate
 **Named columns**: 27/27
 
-**Documented columns**: 18/27
+**Documented columns**: 23/27
 
 **Description**: Island beach templates
 ## E0Parts
@@ -252,7 +252,7 @@
 
 **Hashed string**: W0Parts.hshCstringRef
 
-**Notes**: The island part for acre B7. Matches PartsKind in FieldOutsideParts.
+**Notes**: The island part for acre B1. Matches PartsKind in FieldOutsideParts.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -264,7 +264,7 @@
 
 **Hashed string**: W1Parts.hshCstringRef
 
-**Notes**: The island part for acre C7. Matches PartsKind in FieldOutsideParts.
+**Notes**: The island part for acre C1. Matches PartsKind in FieldOutsideParts.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -276,7 +276,7 @@
 
 **Hashed string**: W2Parts.hshCstringRef
 
-**Notes**: The island part for acre D7. Matches PartsKind in FieldOutsideParts.
+**Notes**: The island part for acre D1. Matches PartsKind in FieldOutsideParts.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -288,7 +288,7 @@
 
 **Hashed string**: W3Parts.hshCstringRef
 
-**Notes**: The island part for acre E7. Matches PartsKind in FieldOutsideParts.
+**Notes**: The island part for acre E1. Matches PartsKind in FieldOutsideParts.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -299,6 +299,8 @@
 **Hash**: 0x6971370a
 
 **Hashed string**: WindDirection.hshCstringRef
+
+**Notes**: The direction the wind blows from on each island template?
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
