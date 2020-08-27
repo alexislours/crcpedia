@@ -16330,7 +16330,7 @@
   "MuseumFossilDonateInfo": {
     "name": "MuseumFossilDonateInfo",
     "namedColumns": "5/5",
-    "documentedColumns": "0/5",
+    "documentedColumns": "5/5",
     "description": "Camera params for fossils donated to the museum",
     "hashes": [
       {
@@ -16342,7 +16342,7 @@
         "name": "StageName",
         "functionalityNotes": "The room in which the fossil is displayed. Matches with StageName in MuseumNPCSpotTalk.",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "fdeed09c",
@@ -16351,9 +16351,9 @@
         "hashNotes": "",
         "formattedHash": "_fdeed09c",
         "name": "ModelID",
-        "functionalityNotes": "",
+        "functionalityNotes": "The ID for this fossil piece's resource.",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "54706054",
@@ -16364,7 +16364,7 @@
         "name": "UniqueID",
         "functionalityNotes": "",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "b76b7d37",
@@ -16373,9 +16373,9 @@
         "hashNotes": "",
         "formattedHash": "_b76b7d37",
         "name": "WatchItem",
-        "functionalityNotes": "",
+        "functionalityNotes": "The fossil item corresponding to this fossil part. Matches with UniqueID in ItemParam.",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "b16c3035",
@@ -16386,7 +16386,7 @@
         "name": "CameraParamName",
         "functionalityNotes": "",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       }
     ]
   },

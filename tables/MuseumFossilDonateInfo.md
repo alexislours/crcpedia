@@ -1,7 +1,7 @@
 # MuseumFossilDonateInfo
 **Named columns**: 5/5
 
-**Documented columns**: 0/5
+**Documented columns**: 5/5
 
 **Description**: Camera params for fossils donated to the museum
 ## StageName
@@ -24,6 +24,8 @@
 
 **Hashed string**: ModelID u16
 
+**Notes**: The ID for this fossil piece's resource.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## UniqueID
@@ -43,6 +45,8 @@
 **Hash**: 0xb76b7d37
 
 **Hashed string**: WatchItem u16
+
+**Notes**: The fossil item corresponding to this fossil part. Matches with UniqueID in ItemParam.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
