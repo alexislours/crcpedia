@@ -60,6 +60,8 @@
 
 **Hashed string**: N0Parts.hshCstringRef
 
+**Notes**: The island part for acre A2. Matches PartsKind in FieldOutsideParts.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## N1Parts
@@ -69,6 +71,8 @@
 **Hash**: 0x7bb31852
 
 **Hashed string**: N1Parts.hshCstringRef
+
+**Notes**: The island part for acre A3. Matches PartsKind in FieldOutsideParts.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -80,6 +84,8 @@
 
 **Hashed string**: N2Parts.hshCstringRef
 
+**Notes**: The island part for acre A4. Matches PartsKind in FieldOutsideParts.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## N3Parts
@@ -89,6 +95,8 @@
 **Hash**: 0xb17d6ede
 
 **Hashed string**: N3Parts.hshCstringRef
+
+**Notes**: The island part for acre A5. Matches PartsKind in FieldOutsideParts.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -100,6 +108,8 @@
 
 **Hashed string**: N4Parts.hshCstringRef
 
+**Notes**: The island part for acre A6. Matches PartsKind in FieldOutsideParts.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## NEParts
@@ -110,6 +120,8 @@
 
 **Hashed string**: NEParts.hshCstringRef
 
+**Notes**: The island part for acre A7. Matches PartsKind in FieldOutsideParts.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## NWParts
@@ -119,6 +131,8 @@
 **Hash**: 0xd094759a
 
 **Hashed string**: NWParts.hshCstringRef
+
+**Notes**: The island part for acre A1. Matches PartsKind in FieldOutsideParts.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
