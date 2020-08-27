@@ -3,6 +3,7 @@
 
 **Documented columns**: 0/14
 
+**Description**: Camera positions inside the museum
 ## SilhouetteID
 
 **Name**: SilhouetteID
