@@ -144,6 +144,8 @@
 
 **Hashed string**: S0Parts.hshCstringRef
 
+**Notes**: The island part for acre F2. Matches PartsKind in FieldOutsideParts.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## S1Parts
@@ -153,6 +155,8 @@
 **Hash**: 0x988684ed
 
 **Hashed string**: S1Parts.hshCstringRef
+
+**Notes**: The island part for acre F3. Matches PartsKind in FieldOutsideParts.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -164,6 +168,8 @@
 
 **Hashed string**: S2Parts.hshCstringRef
 
+**Notes**: The island part for acre F4. Matches PartsKind in FieldOutsideParts.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## S3Parts
@@ -173,6 +179,8 @@
 **Hash**: 0x5248f261
 
 **Hashed string**: S3Parts.hshCstringRef
+
+**Notes**: The island part for acre F5. Matches PartsKind in FieldOutsideParts.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -184,6 +192,8 @@
 
 **Hashed string**: S4Parts.hshCstringRef
 
+**Notes**: The island part for acre F6. Matches PartsKind in FieldOutsideParts.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## SEParts
@@ -193,6 +203,8 @@
 **Hash**: 0x19a9348c
 
 **Hashed string**: SEParts.hshCstringRef
+
+**Notes**: The island part for acre F7. Matches PartsKind in FieldOutsideParts.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -204,6 +216,8 @@
 
 **Hashed string**: SWParts.hshCstringRef
 
+**Notes**: The island part for acre F1. Matches PartsKind in FieldOutsideParts.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## SeaType
@@ -213,6 +227,8 @@
 **Hash**: 0x714d3f2e
 
 **Hashed string**: SeaType.hshCstringRef
+
+**Notes**: Always 3B
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
