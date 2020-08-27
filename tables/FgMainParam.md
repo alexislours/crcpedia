@@ -1,7 +1,7 @@
 # FgMainParam
 **Named columns**: 22/23
 
-**Documented columns**: 12/23
+**Documented columns**: 17/23
 
 **Description**: Parameters for outdoor objects, such as trees
 ## CollisionHeight
@@ -144,6 +144,8 @@
 
 **Hashed string**: NutItem u16
 
+**Notes**: Fruit falling from the object
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## PicItem
@@ -154,6 +156,8 @@
 
 **Hashed string**: PicItem u16
 
+**Notes**: Item returned when picking up
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## SoundAttribute
@@ -163,6 +167,8 @@
 **Hash**: 0x2e17a0a7
 
 **Hashed string**: SoundAttribute u16
+
+**Notes**: Always 0
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -225,6 +231,8 @@
 **Hash**: 0x39b5a93d
 
 **Hashed string**: ModelName string32
+
+**Notes**: 3D model file name
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

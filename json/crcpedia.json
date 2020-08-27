@@ -5712,7 +5712,7 @@
   "FgMainParam": {
     "name": "FgMainParam",
     "namedColumns": "22/23",
-    "documentedColumns": "12/23",
+    "documentedColumns": "17/23",
     "description": "Parameters for outdoor objects, such as trees",
     "hashes": [
       {
@@ -5843,9 +5843,9 @@
         "hashNotes": "",
         "formattedHash": "_be17c845",
         "name": "NutItem",
-        "functionalityNotes": "",
+        "functionalityNotes": "Fruit falling from the object",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "b7a46956",
@@ -5854,9 +5854,9 @@
         "hashNotes": "",
         "formattedHash": "_b7a46956",
         "name": "PicItem",
-        "functionalityNotes": "",
+        "functionalityNotes": "Item returned when picking up",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "2e17a0a7",
@@ -5865,7 +5865,7 @@
         "hashNotes": "",
         "formattedHash": "_2e17a0a7",
         "name": "SoundAttribute",
-        "functionalityNotes": "",
+        "functionalityNotes": "Always 0",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": false
       },
@@ -5922,7 +5922,7 @@
         "name": "Label",
         "functionalityNotes": "",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "39b5a93d",
@@ -5931,9 +5931,9 @@
         "hashNotes": "",
         "formattedHash": "_39b5a93d",
         "name": "ModelName",
-        "functionalityNotes": "",
+        "functionalityNotes": "3D model file name",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "623dc307",
@@ -5966,14 +5966,14 @@
         "name": "ResName",
         "functionalityNotes": "",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       }
     ]
   },
   "FieldCreateParam": {
     "name": "FieldCreateParam",
     "namedColumns": "6/6",
-    "documentedColumns": "0/6",
+    "documentedColumns": "4/6",
     "description": "Params for the creation of buildings",
     "hashes": [
       {
@@ -5983,9 +5983,9 @@
         "hashNotes": "",
         "formattedHash": "_6654378d",
         "name": "FactoryType",
-        "functionalityNotes": "",
+        "functionalityNotes": "Type of building, either \"Default\", \"MainField\", \"PlayerHouse\", \"MysteryTourIsland\" or \"PhotoStudioHouse\"",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "65d009e1",
@@ -5994,9 +5994,9 @@
         "hashNotes": "",
         "formattedHash": "_65d009e1",
         "name": "PhotoStudioRoomNo",
-        "functionalityNotes": "",
+        "functionalityNotes": "Room ID for the photo studio",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "897261e3",
@@ -6005,9 +6005,9 @@
         "hashNotes": "",
         "formattedHash": "_897261e3",
         "name": "RoomType",
-        "functionalityNotes": "",
+        "functionalityNotes": "Room ID for player house",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "af3beca5",
@@ -6027,9 +6027,9 @@
         "hashNotes": "",
         "formattedHash": "_d069f90c",
         "name": "StageName",
-        "functionalityNotes": "",
+        "functionalityNotes": "Name of current stage",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "46e8c73e",
@@ -6068,7 +6068,7 @@
         "hashNotes": "",
         "formattedHash": "_dcfb52e8",
         "name": "ResName",
-        "functionalityNotes": "",
+        "functionalityNotes": "Ressource file name",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": true
       }

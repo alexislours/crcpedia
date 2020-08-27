@@ -1,7 +1,7 @@
 # FieldCreateParam
 **Named columns**: 6/6
 
-**Documented columns**: 0/6
+**Documented columns**: 4/6
 
 **Description**: Params for the creation of buildings
 ## FactoryType
@@ -11,6 +11,8 @@
 **Hash**: 0x6654378d
 
 **Hashed string**: FactoryType.hshCstringRef
+
+**Notes**: Type of building, either "Default", "MainField", "PlayerHouse", "MysteryTourIsland" or "PhotoStudioHouse"
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -22,6 +24,8 @@
 
 **Hashed string**: PhotoStudioRoomNo.hshCstringRef
 
+**Notes**: Room ID for the photo studio
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## RoomType
@@ -31,6 +35,8 @@
 **Hash**: 0x897261e3
 
 **Hashed string**: RoomType.hshCstringRef
+
+**Notes**: Room ID for player house
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -51,6 +57,8 @@
 **Hash**: 0xd069f90c
 
 **Hashed string**: StageName string32
+
+**Notes**: Name of current stage
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
