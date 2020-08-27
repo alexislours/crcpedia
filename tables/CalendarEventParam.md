@@ -1,7 +1,7 @@
 # CalendarEventParam
 **Named columns**: 162/162
 
-**Documented columns**: 155/162
+**Documented columns**: 156/162
 
 **Description**: Dates and settings for calendar events and Nook Shopping seasonal events
 ## EventType
@@ -1713,6 +1713,8 @@
 **Hash**: 0xa425d8a5
 
 **Hashed string**: MsgFile string64
+
+**Notes**: Key for villager dialogs, either {}
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

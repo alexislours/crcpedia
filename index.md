@@ -9,9 +9,9 @@ The list of BCSV tables and the documentation on their hashes can be found [**he
 | Hashes | Header Documentation | Table Documentation |
 | --- | --- | --- |
 | 1594 hashes | 2226 headers | 181 tables |
-| 1492 names | 1305 documented headers | 173 documented tables |
-| 102 missing names | 921 undocumented headers | 8 undocumented tables |
-| 93.6% complete | 58.6% documented | 95.6% documented |
+| 1492 names | 1306 documented headers | 173 documented tables |
+| 102 missing names | 920 undocumented headers | 8 undocumented tables |
+| 93.6% complete | 58.7% documented | 95.6% documented |
 
 This [repository](https://github.com/alexislours/crcpedia) is generated using the following [sheet](https://docs.google.com/spreadsheets/d/13JwdQs7uvg4gMqll0OpoaiQUlWV2lO9iSbPlymMSNSQ).
 
