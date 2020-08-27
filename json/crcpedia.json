@@ -16177,7 +16177,7 @@
     "name": "MessageCardSelectPresent",
     "namedColumns": "3/5",
     "documentedColumns": "0/5",
-    "description": "Par",
+    "description": "Present sent by villagers",
     "hashes": [
       {
         "hash": "368210c4",
@@ -16240,7 +16240,7 @@
     "name": "MessageCardSelectPresentSp",
     "namedColumns": "3/5",
     "documentedColumns": "0/5",
-    "description": "",
+    "description": "Present sent by Special NPCs",
     "hashes": [
       {
         "hash": "368210c4",

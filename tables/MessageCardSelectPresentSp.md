@@ -3,6 +3,7 @@
 
 **Documented columns**: 0/5
 
+**Description**: Present sent by Special NPCs
 ## ItemCategory
 
 **Name**: ItemCategory

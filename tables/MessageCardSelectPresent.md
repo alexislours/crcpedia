@@ -3,7 +3,7 @@
 
 **Documented columns**: 0/5
 
-**Description**: Par
+**Description**: Present sent by villagers
 ## ItemCategory
 
 **Name**: ItemCategory
