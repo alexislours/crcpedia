@@ -1,7 +1,7 @@
 # FieldLandMakingRoadKindParam
 **Named columns**: 3/3
 
-**Documented columns**: 1/3
+**Documented columns**: 2/3
 
 **Description**: Param for path and their MSBT label
 ## GroundAttributeUniqueID
@@ -11,6 +11,8 @@
 **Hash**: 0x2df085cc
 
 **Hashed string**: GroundAttributeUniqueID u16
+
+**Notes**: UniqueID in ColGroundAttributeParam
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

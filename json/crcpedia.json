@@ -6302,7 +6302,7 @@
   "FieldLandMakingRoadKindParam": {
     "name": "FieldLandMakingRoadKindParam",
     "namedColumns": "3/3",
-    "documentedColumns": "1/3",
+    "documentedColumns": "2/3",
     "description": "Param for path and their MSBT label",
     "hashes": [
       {
@@ -6312,9 +6312,9 @@
         "hashNotes": "",
         "formattedHash": "_2df085cc",
         "name": "GroundAttributeUniqueID",
-        "functionalityNotes": "",
+        "functionalityNotes": "UniqueID in ColGroundAttributeParam",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "af88956b",
