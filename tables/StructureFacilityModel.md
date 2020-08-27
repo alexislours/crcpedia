@@ -3,6 +3,7 @@
 
 **Documented columns**: 0/19
 
+**Description**: Exterior model params for buildings
 ## Door0Angle
 
 **Name**: Door0Angle

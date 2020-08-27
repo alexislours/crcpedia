@@ -24170,7 +24170,7 @@
     "name": "StructureFacilityModel",
     "namedColumns": "17/19",
     "documentedColumns": "0/19",
-    "description": "",
+    "description": "Exterior model params for buildings",
     "hashes": [
       {
         "hash": "88ff5893",
@@ -24387,7 +24387,7 @@
     "name": "StructureHouseDoorParam",
     "namedColumns": "10/11",
     "documentedColumns": "0/11",
-    "description": "",
+    "description": "Different doors for houses",
     "hashes": [
       {
         "hash": "b619ba5c",
@@ -24516,7 +24516,7 @@
     "name": "StructureHouseRoofParam",
     "namedColumns": "7/7",
     "documentedColumns": "0/7",
-    "description": "",
+    "description": "Different doors for houses",
     "hashes": [
       {
         "hash": "a9424a50",
@@ -24601,7 +24601,7 @@
     "name": "StructureHouseShapeParam",
     "namedColumns": "9/9",
     "documentedColumns": "0/9",
-    "description": "",
+    "description": "Different doors for houses",
     "hashes": [
       {
         "hash": "10dbd8bb",

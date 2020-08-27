@@ -3,6 +3,7 @@
 
 **Documented columns**: 0/11
 
+**Description**: Different doors for houses
 ## 0xb619ba5c
 
 **Hash**: 0xb619ba5c
