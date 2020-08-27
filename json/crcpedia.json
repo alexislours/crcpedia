@@ -7305,7 +7305,7 @@
         "hashNotes": "",
         "formattedHash": "_ef18bb10",
         "name": "W0Parts",
-        "functionalityNotes": "",
+        "functionalityNotes": "The island part for acre B7. Matches PartsKind in FieldOutsideParts.",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": false
       },
@@ -7316,7 +7316,7 @@
         "hashNotes": "",
         "formattedHash": "_8a7f8056",
         "name": "W1Parts",
-        "functionalityNotes": "",
+        "functionalityNotes": "The island part for acre C7. Matches PartsKind in FieldOutsideParts.",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": false
       },
@@ -7327,7 +7327,7 @@
         "hashNotes": "",
         "formattedHash": "_25d6cd9c",
         "name": "W2Parts",
-        "functionalityNotes": "",
+        "functionalityNotes": "The island part for acre D7. Matches PartsKind in FieldOutsideParts.",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": false
       },
@@ -7338,7 +7338,7 @@
         "hashNotes": "",
         "formattedHash": "_40b1f6da",
         "name": "W3Parts",
-        "functionalityNotes": "",
+        "functionalityNotes": "The island part for acre E7. Matches PartsKind in FieldOutsideParts.",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": false
       },

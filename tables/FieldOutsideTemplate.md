@@ -252,6 +252,8 @@
 
 **Hashed string**: W0Parts.hshCstringRef
 
+**Notes**: The island part for acre B7. Matches PartsKind in FieldOutsideParts.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## W1Parts
@@ -261,6 +263,8 @@
 **Hash**: 0x8a7f8056
 
 **Hashed string**: W1Parts.hshCstringRef
+
+**Notes**: The island part for acre C7. Matches PartsKind in FieldOutsideParts.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -272,6 +276,8 @@
 
 **Hashed string**: W2Parts.hshCstringRef
 
+**Notes**: The island part for acre D7. Matches PartsKind in FieldOutsideParts.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## W3Parts
@@ -281,6 +287,8 @@
 **Hash**: 0x40b1f6da
 
 **Hashed string**: W3Parts.hshCstringRef
+
+**Notes**: The island part for acre E7. Matches PartsKind in FieldOutsideParts.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
