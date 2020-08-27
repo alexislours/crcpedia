@@ -3,7 +3,7 @@
 
 **Documented columns**: 5/5
 
-**Description**: Various wallapaper-rug-flooring combinations for each wedding event theme
+**Description**: Various wallapaper-rug-flooring combinations for each wedding event theme that can be used by default when the room is generated.
 ## Theme
 
 **Name**: Theme
