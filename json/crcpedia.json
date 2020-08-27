@@ -399,7 +399,7 @@
   "CalendarEventParam": {
     "name": "CalendarEventParam",
     "namedColumns": "162/162",
-    "documentedColumns": "152/162",
+    "documentedColumns": "146/162",
     "description": "Dates and settings for calendar events and Nook Shopping seasonal events",
     "hashes": [
       {
@@ -2071,7 +2071,7 @@
         "formattedHash": "_fe807868",
         "name": "RegionAsia",
         "functionalityNotes": "Removed in 1.3.0",
-        "knownFunctionality": true,
+        "knownFunctionality": false,
         "versions": ["1.0.0", "1.1.0", "1.2.0"]
       },
       {
@@ -2082,7 +2082,7 @@
         "formattedHash": "_4ac8ebbc",
         "name": "RegionEu",
         "functionalityNotes": "Removed in 1.3.0",
-        "knownFunctionality": true,
+        "knownFunctionality": false,
         "versions": ["1.0.0", "1.1.0", "1.2.0"]
       },
       {
@@ -2093,7 +2093,7 @@
         "formattedHash": "_ff468c5f",
         "name": "RegionJp",
         "functionalityNotes": "Removed in 1.3.0",
-        "knownFunctionality": true,
+        "knownFunctionality": false,
         "versions": ["1.0.0", "1.1.0", "1.2.0"]
       },
       {
@@ -2104,7 +2104,7 @@
         "formattedHash": "_0f4323e2",
         "name": "RegionUs",
         "functionalityNotes": "Removed in 1.3.0",
-        "knownFunctionality": true,
+        "knownFunctionality": false,
         "versions": ["1.0.0", "1.1.0", "1.2.0"]
       },
       {
@@ -2126,7 +2126,7 @@
         "formattedHash": "_c6ddbf67",
         "name": "TalkFlowName",
         "functionalityNotes": "Removed in 1.3.0",
-        "knownFunctionality": true,
+        "knownFunctionality": false,
         "versions": ["1.0.0", "1.1.0", "1.2.0"]
       },
       {
@@ -2159,7 +2159,7 @@
         "formattedHash": "_062ec6cf",
         "name": "WeatherPattern",
         "functionalityNotes": "Removed in 1.3.0",
-        "knownFunctionality": true,
+        "knownFunctionality": false,
         "versions": ["1.0.0", "1.1.0", "1.2.0"]
       },
       {
