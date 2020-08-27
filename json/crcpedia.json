@@ -21229,7 +21229,7 @@
     "name": "RadioCM",
     "namedColumns": "7/7",
     "documentedColumns": "0/7",
-    "description": "Tracks for the radio",
+    "description": "Tracks before events and commercials for the radio",
     "hashes": [
       {
         "hash": "293ee089",
@@ -21314,7 +21314,7 @@
     "name": "RadioJingle",
     "namedColumns": "7/7",
     "documentedColumns": "0/7",
-    "description": "",
+    "description": "Daily tracks for the radio",
     "hashes": [
       {
         "hash": "293ee089",

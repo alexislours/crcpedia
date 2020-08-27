@@ -3,7 +3,7 @@
 
 **Documented columns**: 0/7
 
-**Description**: Tracks for the radio
+**Description**: Tracks before events and commercials for the radio
 ## SelectRate
 
 **Name**: SelectRate

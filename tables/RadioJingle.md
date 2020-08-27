@@ -3,6 +3,7 @@
 
 **Documented columns**: 0/7
 
+**Description**: Daily tracks for the radio
 ## SelectRate
 
 **Name**: SelectRate
