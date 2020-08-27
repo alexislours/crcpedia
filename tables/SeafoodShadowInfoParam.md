@@ -1,7 +1,7 @@
 # SeafoodShadowInfoParam
 **Named columns**: 3/3
 
-**Documented columns**: 2/3
+**Documented columns**: 3/3
 
 **Description**: Shadow size params for sea creatures
 ## ModelScale

@@ -22759,7 +22759,7 @@
   "SeafoodShadowInfoParam": {
     "name": "SeafoodShadowInfoParam",
     "namedColumns": "3/3",
-    "documentedColumns": "2/3",
+    "documentedColumns": "3/3",
     "description": "Shadow size params for sea creatures",
     "hashes": [
       {
@@ -22770,7 +22770,7 @@
         "formattedHash": "_093dfe4f",
         "name": "ModelScale",
         "functionalityNotes": "This table suggests that all sea creature shadows use the same model, and this controls their relative size",
-        "knownFunctionality": false,
+        "knownFunctionality": true,
         "versions": ["1.3.0", "1.4.0"]
       },
       {
