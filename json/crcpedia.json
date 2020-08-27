@@ -22241,7 +22241,7 @@
     "name": "RoomWindowParam",
     "namedColumns": "5/5",
     "documentedColumns": "0/5",
-    "description": "",
+    "description": "Window params based on wall type",
     "hashes": [
       {
         "hash": "c90ab4c4",
@@ -22304,7 +22304,7 @@
     "name": "SceneChangeFadeOutDuckingParam",
     "namedColumns": "2/2",
     "documentedColumns": "0/2",
-    "description": "",
+    "description": "Transition between scenes",
     "hashes": [
       {
         "hash": "54706054",
@@ -23158,7 +23158,7 @@
     "name": "ShopItemRouteFlags",
     "namedColumns": "5/5",
     "documentedColumns": "5/5",
-    "description": "",
+    "description": "Flags for shops",
     "hashes": [
       {
         "hash": "3fe43170",

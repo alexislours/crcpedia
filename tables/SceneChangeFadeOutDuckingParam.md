@@ -3,6 +3,7 @@
 
 **Documented columns**: 0/2
 
+**Description**: Transition between scenes
 ## UniqueID
 
 **Name**: UniqueID

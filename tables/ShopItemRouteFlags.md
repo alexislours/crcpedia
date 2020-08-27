@@ -3,6 +3,7 @@
 
 **Documented columns**: 5/5
 
+**Description**: Flags for shops
 ## FlagLand
 
 **Name**: FlagLand

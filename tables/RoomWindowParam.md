@@ -3,6 +3,7 @@
 
 **Documented columns**: 0/5
 
+**Description**: Window params based on wall type
 ## RoomWindowModelType
 
 **Name**: RoomWindowModelType
