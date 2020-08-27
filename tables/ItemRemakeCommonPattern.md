@@ -1,7 +1,7 @@
 # ItemRemakeCommonPattern
 **Named columns**: 7/7
 
-**Documented columns**: 0/7
+**Documented columns**: 6/7
 
 ## Category
 
@@ -69,6 +69,8 @@
 
 **Hashed string**: Label string32
 
+**Notes**: String with the value of UniqueID.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## TextureResName
@@ -78,6 +80,8 @@
 **Hash**: 0x5aebbfb5
 
 **Hashed string**: TextureResName string64
+
+**Notes**: The resource name for this pattern.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
