@@ -158,7 +158,7 @@
   "BgmPropertyControlParam": {
     "name": "BgmPropertyControlParam",
     "namedColumns": "4/4",
-    "documentedColumns": "0/4",
+    "documentedColumns": "1/4",
     "description": "Params for the sound effects",
     "hashes": [
       {
@@ -203,7 +203,7 @@
         "name": "Name",
         "functionalityNotes": "",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       }
     ]
   },

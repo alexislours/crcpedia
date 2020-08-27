@@ -1,7 +1,7 @@
 # BgmPropertyControlParam
 **Named columns**: 4/4
 
-**Documented columns**: 0/4
+**Documented columns**: 1/4
 
 **Description**: Params for the sound effects
 ## PropertyID
