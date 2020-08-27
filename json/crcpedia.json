@@ -14577,7 +14577,7 @@
     "name": "ItemSize",
     "namedColumns": "8/8",
     "documentedColumns": "0/8",
-    "description": "",
+    "description": "Size of different furniture, also includes a polygon limit for rendering",
     "hashes": [
       {
         "hash": "801351e6",

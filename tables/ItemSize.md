@@ -3,6 +3,7 @@
 
 **Documented columns**: 0/8
 
+**Description**: Size of different furniture, also includes a polygon limit for rendering
 ## ResSizeLimit
 
 **Name**: ResSizeLimit
