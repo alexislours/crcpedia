@@ -1,7 +1,7 @@
 # LocalizeNameConvertParam
 **Named columns**: 19/19
 
-**Documented columns**: 0/19
+**Documented columns**: 19/19
 
 **Description**: Localization texture
 ## UniqueID
@@ -178,6 +178,8 @@
 
 **Hashed string**: LocalizeTexture u8
 
+**Notes**: If the texture is localized
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## TWzh
@@ -187,6 +189,8 @@
 **Hash**: 0x548a7eda
 
 **Hashed string**: TWzh u8
+
+**Notes**: Traditional Chinese
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -198,6 +202,8 @@
 
 **Hashed string**: USen u8
 
+**Notes**: English US
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## USes
@@ -208,6 +214,8 @@
 
 **Hashed string**: USes u8
 
+**Notes**: Spanish US
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## USfr
@@ -217,6 +225,8 @@
 **Hash**: 0xf3d8fa00
 
 **Hashed string**: USfr u8
+
+**Notes**: French US
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

@@ -15078,7 +15078,7 @@
   "LocalizeNameConvertParam": {
     "name": "LocalizeNameConvertParam",
     "namedColumns": "19/19",
-    "documentedColumns": "0/19",
+    "documentedColumns": "19/19",
     "description": "Localization texture",
     "hashes": [
       {
@@ -15089,7 +15089,7 @@
         "formattedHash": "_54706054",
         "name": "UniqueID",
         "functionalityNotes": "",
-        "knownFunctionality": false,
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -15100,7 +15100,7 @@
         "formattedHash": "_50edd045",
         "name": "BaseName",
         "functionalityNotes": "Ressource for the Texture",
-        "knownFunctionality": false,
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -15111,7 +15111,7 @@
         "formattedHash": "_d22a8fc9",
         "name": "CNzh",
         "functionalityNotes": "Simplified Chinese",
-        "knownFunctionality": false,
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -15122,7 +15122,7 @@
         "formattedHash": "_f551b995",
         "name": "EUde",
         "functionalityNotes": "German",
-        "knownFunctionality": false,
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -15133,7 +15133,7 @@
         "formattedHash": "_1f301724",
         "name": "EUen",
         "functionalityNotes": "English",
-        "knownFunctionality": false,
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -15144,7 +15144,7 @@
         "formattedHash": "_bd439866",
         "name": "EUes",
         "functionalityNotes": "Spanish",
-        "knownFunctionality": false,
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -15155,7 +15155,7 @@
         "formattedHash": "_425f85d3",
         "name": "EUfr",
         "functionalityNotes": "French",
-        "knownFunctionality": false,
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -15166,7 +15166,7 @@
         "formattedHash": "_e5644dde",
         "name": "EUit",
         "functionalityNotes": "Italian",
-        "knownFunctionality": false,
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -15177,7 +15177,7 @@
         "formattedHash": "_c2e9eebe",
         "name": "EUnl",
         "functionalityNotes": "Dutch",
-        "knownFunctionality": false,
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -15188,7 +15188,7 @@
         "formattedHash": "_4ae88c28",
         "name": "EUru",
         "functionalityNotes": "Russian",
-        "knownFunctionality": false,
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -15199,7 +15199,7 @@
         "formattedHash": "_638671f9",
         "name": "JPja",
         "functionalityNotes": "Japanese",
-        "knownFunctionality": false,
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -15210,7 +15210,7 @@
         "formattedHash": "_558685c5",
         "name": "KRko",
         "functionalityNotes": "Korean",
-        "knownFunctionality": false,
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -15221,7 +15221,7 @@
         "formattedHash": "_c70be94f",
         "name": "LocalizeAnim",
         "functionalityNotes": "If the animation is localized, only used for countdown and TVProgram",
-        "knownFunctionality": false,
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -15232,7 +15232,7 @@
         "formattedHash": "_9ff07c89",
         "name": "LocalizeModel",
         "functionalityNotes": "If the model is localized, always false",
-        "knownFunctionality": false,
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -15242,8 +15242,8 @@
         "hashNotes": "",
         "formattedHash": "_086f5f3a",
         "name": "LocalizeTexture",
-        "functionalityNotes": "",
-        "knownFunctionality": false,
+        "functionalityNotes": "If the texture is localized",
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -15253,8 +15253,8 @@
         "hashNotes": "",
         "formattedHash": "_548a7eda",
         "name": "TWzh",
-        "functionalityNotes": "",
-        "knownFunctionality": false,
+        "functionalityNotes": "Traditional Chinese",
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -15264,8 +15264,8 @@
         "hashNotes": "",
         "formattedHash": "_aeb768f7",
         "name": "USen",
-        "functionalityNotes": "",
-        "knownFunctionality": false,
+        "functionalityNotes": "English US",
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -15275,8 +15275,8 @@
         "hashNotes": "",
         "formattedHash": "_0cc4e7b5",
         "name": "USes",
-        "functionalityNotes": "",
-        "knownFunctionality": false,
+        "functionalityNotes": "Spanish US",
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -15286,8 +15286,8 @@
         "hashNotes": "",
         "formattedHash": "_f3d8fa00",
         "name": "USfr",
-        "functionalityNotes": "",
-        "knownFunctionality": false,
+        "functionalityNotes": "French US",
+        "knownFunctionality": true,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       }
     ]
