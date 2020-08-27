@@ -3,6 +3,7 @@
 
 **Documented columns**: 7/7
 
+**Description**: All patterns given to Sable.
 ## Category
 
 **Name**: Category
