@@ -7086,7 +7086,7 @@
         "hashNotes": "",
         "formattedHash": "_4038a881",
         "name": "E0Parts",
-        "functionalityNotes": "The island part for the tile at B7.",
+        "functionalityNotes": "The island part for acre B7. Matches PartsKind in FieldOutsideParts.",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": false
       },
@@ -7097,7 +7097,7 @@
         "hashNotes": "",
         "formattedHash": "_255f93c7",
         "name": "E1Parts",
-        "functionalityNotes": "The island part for the tile at C7.",
+        "functionalityNotes": "The island part for acre C7. Matches PartsKind in FieldOutsideParts.",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": false
       },
@@ -7108,7 +7108,7 @@
         "hashNotes": "",
         "formattedHash": "_8af6de0d",
         "name": "E2Parts",
-        "functionalityNotes": "The island part for the ",
+        "functionalityNotes": "The island part for acre D7. Matches PartsKind in FieldOutsideParts.",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": false
       },
@@ -7119,7 +7119,7 @@
         "hashNotes": "",
         "formattedHash": "_ef91e54b",
         "name": "E3Parts",
-        "functionalityNotes": "",
+        "functionalityNotes": "The island part for acre E7. Matches PartsKind in FieldOutsideParts.",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": false
       },

@@ -12,7 +12,7 @@
 
 **Hashed string**: E0Parts.hshCstringRef
 
-**Notes**: The island part for the tile at B7.
+**Notes**: The island part for acre B7. Matches PartsKind in FieldOutsideParts.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -24,7 +24,7 @@
 
 **Hashed string**: E1Parts.hshCstringRef
 
-**Notes**: The island part for the tile at C7.
+**Notes**: The island part for acre C7. Matches PartsKind in FieldOutsideParts.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -36,7 +36,7 @@
 
 **Hashed string**: E2Parts.hshCstringRef
 
-**Notes**: The island part for the 
+**Notes**: The island part for acre D7. Matches PartsKind in FieldOutsideParts.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -47,6 +47,8 @@
 **Hash**: 0xef91e54b
 
 **Hashed string**: E3Parts.hshCstringRef
+
+**Notes**: The island part for acre E7. Matches PartsKind in FieldOutsideParts.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
