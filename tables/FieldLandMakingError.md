@@ -1,7 +1,7 @@
 # FieldLandMakingError
 **Named columns**: 6/7
 
-**Documented columns**: 0/7
+**Documented columns**: 5/7
 
 **Description**: Error handling param for field modification
 ## UniqueID
@@ -32,6 +32,8 @@
 
 **Hashed string**: CliffCreate u8
 
+**Notes**: 1 if its an error during the creation of a cliff
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0x0b3be609
@@ -39,6 +41,8 @@
 **Hash**: 0x0b3be609
 
 **Type**: u8/s8
+
+**Notes**: Always 0
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -49,6 +53,8 @@
 **Hash**: 0xb92c3183
 
 **Hashed string**: EventFlowEntryName string40
+
+**Notes**: Entry in the eventflows to handle error
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

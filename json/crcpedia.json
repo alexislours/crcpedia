@@ -6077,7 +6077,7 @@
   "FieldLandMakingActionParam": {
     "name": "FieldLandMakingActionParam",
     "namedColumns": "9/12",
-    "documentedColumns": "0/12",
+    "documentedColumns": "1/12",
     "description": "Params for field modification like cliff and rivers",
     "hashes": [
       {
@@ -6164,9 +6164,9 @@
         "hashNotes": "",
         "formattedHash": "_4932f93e",
         "name": "SuccessResult",
-        "functionalityNotes": "",
+        "functionalityNotes": "End result while editing, either Create or Break",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "7c8e7f81",
@@ -6217,7 +6217,7 @@
   "FieldLandMakingError": {
     "name": "FieldLandMakingError",
     "namedColumns": "6/7",
-    "documentedColumns": "0/7",
+    "documentedColumns": "5/7",
     "description": "Error handling param for field modification",
     "hashes": [
       {
@@ -6229,7 +6229,7 @@
         "name": "UniqueID",
         "functionalityNotes": "",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "7703d2dd",
@@ -6249,9 +6249,9 @@
         "hashNotes": "",
         "formattedHash": "_f8a892fc",
         "name": "CliffCreate",
-        "functionalityNotes": "",
+        "functionalityNotes": "1 if its an error during the creation of a cliff",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "b3be609",
@@ -6260,7 +6260,7 @@
         "hashNotes": "",
         "formattedHash": "_0b3be609",
         "name": "",
-        "functionalityNotes": "",
+        "functionalityNotes": "Always 0",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": false
       },
@@ -6271,9 +6271,9 @@
         "hashNotes": "",
         "formattedHash": "_b92c3183",
         "name": "EventFlowEntryName",
-        "functionalityNotes": "",
+        "functionalityNotes": "Entry in the eventflows to handle error",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "69b161c4",
@@ -6284,7 +6284,7 @@
         "name": "Label",
         "functionalityNotes": "",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "4034aa7",
@@ -6295,14 +6295,14 @@
         "name": "Name",
         "functionalityNotes": "",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       }
     ]
   },
   "FieldLandMakingRoadKindParam": {
     "name": "FieldLandMakingRoadKindParam",
     "namedColumns": "3/3",
-    "documentedColumns": "0/3",
+    "documentedColumns": "1/3",
     "description": "Param for path and their MSBT label",
     "hashes": [
       {
@@ -6334,9 +6334,9 @@
         "hashNotes": "",
         "formattedHash": "_f68a2366",
         "name": "MessageLabel",
-        "functionalityNotes": "",
+        "functionalityNotes": "Label in String/STR_GroundMaker.msbt",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       }
     ]
   },

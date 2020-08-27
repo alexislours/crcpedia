@@ -1,7 +1,7 @@
 # FieldLandMakingActionParam
 **Named columns**: 9/12
 
-**Documented columns**: 0/12
+**Documented columns**: 1/12
 
 **Description**: Params for field modification like cliff and rivers
 ## ActionRange
@@ -77,6 +77,8 @@
 **Hash**: 0x4932f93e
 
 **Hashed string**: SuccessResult.hshCstringRef
+
+**Notes**: End result while editing, either Create or Break
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
