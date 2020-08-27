@@ -3,6 +3,7 @@
 
 **Documented columns**: 0/5
 
+**Description**: Params for clothes placed on walls
 ## ItemLayout
 
 **Name**: ItemLayout

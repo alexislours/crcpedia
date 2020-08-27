@@ -11778,7 +11778,7 @@
     "name": "ItemOutfitHangerInfo",
     "namedColumns": "5/5",
     "documentedColumns": "0/5",
-    "description": "",
+    "description": "Params for clothes placed on walls",
     "hashes": [
       {
         "hash": "9dcea17e",
