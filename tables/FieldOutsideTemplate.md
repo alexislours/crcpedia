@@ -12,6 +12,8 @@
 
 **Hashed string**: E0Parts.hshCstringRef
 
+**Notes**: The island part for the tile at B7.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## E1Parts
@@ -22,6 +24,8 @@
 
 **Hashed string**: E1Parts.hshCstringRef
 
+**Notes**: The island part for the tile at C7.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## E2Parts
@@ -31,6 +35,8 @@
 **Hash**: 0x8af6de0d
 
 **Hashed string**: E2Parts.hshCstringRef
+
+**Notes**: The island part for the 
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
