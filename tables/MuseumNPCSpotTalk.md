@@ -3,6 +3,7 @@
 
 **Documented columns**: 0/5
 
+**Description**: NPC dialogue when seeing the player inside the museum
 ## StageName
 
 **Name**: StageName

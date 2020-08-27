@@ -16588,7 +16588,7 @@
     "name": "MuseumNPCSpotTalk",
     "namedColumns": "5/5",
     "documentedColumns": "0/5",
-    "description": "",
+    "description": "NPC dialogue when seeing the player inside the museum",
     "hashes": [
       {
         "hash": "be776e71",
