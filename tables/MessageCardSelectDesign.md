@@ -3,6 +3,7 @@
 
 **Documented columns**: 0/13
 
+**Description**: Design IDs for the different kinds of mails sent by villagers
 ## 0x37571146
 
 **Hash**: 0x37571146

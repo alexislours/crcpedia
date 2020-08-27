@@ -15875,7 +15875,7 @@
     "name": "MessageCardSelectDesign",
     "namedColumns": "12/13",
     "documentedColumns": "0/13",
-    "description": "",
+    "description": "Design IDs for the different kinds of mails sent by villagers",
     "hashes": [
       {
         "hash": "37571146",
