@@ -14334,7 +14334,7 @@
         "hashNotes": "",
         "formattedHash": "_a6b1a7fd",
         "name": "Color1",
-        "functionalityNotes": "",
+        "functionalityNotes": "Color 1 of this pattern. Matches with Label in ItemColor.",
         "knownFunctionality": false,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
@@ -14345,7 +14345,7 @@
         "hashNotes": "",
         "formattedHash": "_b7cccd84",
         "name": "Color2",
-        "functionalityNotes": "",
+        "functionalityNotes": "Color 2 of this pattern. Matches with Label in ItemColor.",
         "knownFunctionality": false,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
@@ -14356,7 +14356,7 @@
         "hashNotes": "",
         "formattedHash": "_8fb1ed85",
         "name": "SortID",
-        "functionalityNotes": "",
+        "functionalityNotes": "Sort ID for common patterns.",
         "knownFunctionality": false,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },

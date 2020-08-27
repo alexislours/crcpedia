@@ -23,6 +23,8 @@
 
 **Hashed string**: Color1.hshCstringRef
 
+**Notes**: Color 1 of this pattern. Matches with Label in ItemColor.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Color2
@@ -33,6 +35,8 @@
 
 **Hashed string**: Color2.hshCstringRef
 
+**Notes**: Color 2 of this pattern. Matches with Label in ItemColor.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## SortID
@@ -42,6 +46,8 @@
 **Hash**: 0x8fb1ed85
 
 **Hashed string**: SortID u32
+
+**Notes**: Sort ID for common patterns.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
