@@ -15220,7 +15220,7 @@
         "hashNotes": "",
         "formattedHash": "_c70be94f",
         "name": "LocalizeAnim",
-        "functionalityNotes": "",
+        "functionalityNotes": "If the animation is localized, only used for countdown and TVProgram",
         "knownFunctionality": false,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
@@ -15231,7 +15231,7 @@
         "hashNotes": "",
         "formattedHash": "_9ff07c89",
         "name": "LocalizeModel",
-        "functionalityNotes": "",
+        "functionalityNotes": "If the model is localized, always false",
         "knownFunctionality": false,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },

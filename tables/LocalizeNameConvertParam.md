@@ -154,6 +154,8 @@
 
 **Hashed string**: LocalizeAnim u8
 
+**Notes**: If the animation is localized, only used for countdown and TVProgram
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## LocalizeModel
@@ -163,6 +165,8 @@
 **Hash**: 0x9ff07c89
 
 **Hashed string**: LocalizeModel u8
+
+**Notes**: If the model is localized, always false
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
