@@ -24516,7 +24516,7 @@
     "name": "StructureHouseRoofParam",
     "namedColumns": "7/7",
     "documentedColumns": "0/7",
-    "description": "Different doors for houses",
+    "description": "Different roof for houses",
     "hashes": [
       {
         "hash": "a9424a50",
@@ -24601,7 +24601,7 @@
     "name": "StructureHouseShapeParam",
     "namedColumns": "9/9",
     "documentedColumns": "0/9",
-    "description": "Different doors for houses",
+    "description": "Different shapes for houses",
     "hashes": [
       {
         "hash": "10dbd8bb",
@@ -24708,7 +24708,7 @@
     "name": "StructureHouseWallParam",
     "namedColumns": "8/9",
     "documentedColumns": "0/9",
-    "description": "",
+    "description": "Different wall color for houses",
     "hashes": [
       {
         "hash": "60680c93",

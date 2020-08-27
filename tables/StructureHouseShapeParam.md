@@ -3,7 +3,7 @@
 
 **Documented columns**: 0/9
 
-**Description**: Different doors for houses
+**Description**: Different shapes for houses
 ## AppearanceLevel
 
 **Name**: AppearanceLevel

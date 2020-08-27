@@ -3,6 +3,7 @@
 
 **Documented columns**: 0/9
 
+**Description**: Different wall color for houses
 ## HouseDoorStep
 
 **Name**: HouseDoorStep

@@ -3,7 +3,7 @@
 
 **Documented columns**: 0/7
 
-**Description**: Different doors for houses
+**Description**: Different roof for houses
 ## HouseColor
 
 **Name**: HouseColor
