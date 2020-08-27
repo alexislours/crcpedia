@@ -8,7 +8,7 @@
 
 **Hash**: 0x58102055
 
-**Type**: u32/s32
+**Type**: hshCstringRef
 
 **Versions**: 1.4.0
 

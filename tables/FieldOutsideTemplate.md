@@ -1,7 +1,7 @@
 # FieldOutsideTemplate
 **Named columns**: 27/27
 
-**Documented columns**: 0/27
+**Documented columns**: 18/27
 
 **Description**: Island beach templates
 ## E0Parts
