@@ -4075,7 +4075,7 @@
         "hashNotes": "",
         "formattedHash": "_3fe43170",
         "name": "FlagLand",
-        "functionalityNotes": "",
+        "functionalityNotes": "UniqueID of EventFlagsLandParam",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
@@ -4085,7 +4085,7 @@
         "hashNotes": "",
         "formattedHash": "_4171a41d",
         "name": "FlagPlayer",
-        "functionalityNotes": "",
+        "functionalityNotes": "UniqueID of EventFlagsPlayerParam",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },
       {
