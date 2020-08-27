@@ -3,6 +3,7 @@
 
 **Documented columns**: 0/5
 
+**Description**: Instruments furniture
 ## InstrumentsType
 
 **Name**: InstrumentsType
