@@ -3,6 +3,7 @@
 
 **Documented columns**: 0/11
 
+**Description**: How NPC can act during various situation
 ## ApplyNeedActivity
 
 **Name**: ApplyNeedActivity
