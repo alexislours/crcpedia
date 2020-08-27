@@ -1,7 +1,7 @@
 # ItemPlayerInitialOutfitGirlAWParam
 **Named columns**: 9/9
 
-**Documented columns**: 8/9
+**Documented columns**: 9/9
 
 **Description**: All possible initial outfits for new girl players starting in Autumn or Winter.
 ## AcceEye

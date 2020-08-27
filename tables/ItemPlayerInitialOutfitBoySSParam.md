@@ -1,7 +1,7 @@
 # ItemPlayerInitialOutfitBoySSParam
 **Named columns**: 9/9
 
-**Documented columns**: 8/9
+**Documented columns**: 9/9
 
 **Description**: All possible initial outfits for new boy players starting in Spring or Summer.
 ## AcceEye
