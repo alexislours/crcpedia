@@ -5032,7 +5032,7 @@
   "EventFlagsPlayerTempParam": {
     "name": "EventFlagsPlayerTempParam",
     "namedColumns": "6/8",
-    "documentedColumns": "3/8",
+    "documentedColumns": "5/8",
     "description": "Temporary flags for the player",
     "hashes": [
       {
@@ -5044,7 +5044,7 @@
         "name": "DefaultValue",
         "functionalityNotes": "",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "110b14c",
@@ -5055,7 +5055,7 @@
         "name": "MaxValue",
         "functionalityNotes": "",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "54706054",
@@ -5128,7 +5128,7 @@
   "EventFlagsPlayerVisitParam": {
     "name": "EventFlagsPlayerVisitParam",
     "namedColumns": "6/6",
-    "documentedColumns": "3/6",
+    "documentedColumns": "5/6",
     "description": "Flags for when the player visits other islands",
     "hashes": [
       {
@@ -5140,7 +5140,7 @@
         "name": "DefaultValue",
         "functionalityNotes": "",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "110b14c",
@@ -5151,7 +5151,7 @@
         "name": "MaxValue",
         "functionalityNotes": "",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "54706054",

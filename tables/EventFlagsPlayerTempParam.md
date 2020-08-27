@@ -1,7 +1,7 @@
 # EventFlagsPlayerTempParam
 **Named columns**: 6/8
 
-**Documented columns**: 3/8
+**Documented columns**: 5/8
 
 **Description**: Temporary flags for the player
 ## DefaultValue

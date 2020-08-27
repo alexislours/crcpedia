@@ -1,7 +1,7 @@
 # EventFlagsPlayerVisitParam
 **Named columns**: 6/6
 
-**Documented columns**: 3/6
+**Documented columns**: 5/6
 
 **Description**: Flags for when the player visits other islands
 ## DefaultValue
