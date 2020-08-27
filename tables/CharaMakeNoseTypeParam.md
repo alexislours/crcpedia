@@ -32,7 +32,7 @@
 
 **Hashed string**: Name string32
 
-**Notes**: Either "▲", "●" or "■"
+**Notes**: Either "▲", "●" or "■", represent nose shape
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

@@ -3141,7 +3141,7 @@
         "hashNotes": "",
         "formattedHash": "_977adfce",
         "name": "Name",
-        "functionalityNotes": "Either \"▲\", \"●\" or \"■\"",
+        "functionalityNotes": "Either \"▲\", \"●\" or \"■\", represent nose shape",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": true
       },
