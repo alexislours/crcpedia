@@ -11267,7 +11267,7 @@
     "name": "ItemNpcTopsForm",
     "namedColumns": "31/31",
     "documentedColumns": "0/31",
-    "description": "",
+    "description": "Params for the scaling of tops for the NPCs",
     "hashes": [
       {
         "hash": "afa7b084",
@@ -15036,7 +15036,7 @@
         "hashNotes": "",
         "formattedHash": "_4e718582",
         "name": "FloorItemId",
-        "functionalityNotes": "The floor used for this combination. Matches with UniqueID in ItemParam.",
+        "functionalityNotes": "A floor used by default for this combination. Matches with UniqueID in ItemParam.",
         "knownFunctionality": true,
         "versions": ["1.2.0", "1.3.0", "1.4.0"]
       },
@@ -15047,7 +15047,7 @@
         "hashNotes": "",
         "formattedHash": "_a1249129",
         "name": "RugItemId",
-        "functionalityNotes": "The rug used for this combination. Equals -2 if no rug. Matches with UniqueID in ItemParam.",
+        "functionalityNotes": "A rug used by default for this combination. Equals -2 if no rug. Matches with UniqueID in ItemParam.",
         "knownFunctionality": true,
         "versions": ["1.2.0", "1.3.0", "1.4.0"]
       },
@@ -15069,7 +15069,7 @@
         "hashNotes": "",
         "formattedHash": "_350e1ef9",
         "name": "WallItemId",
-        "functionalityNotes": "The wallpaper used for this combination. Matches with UniqueID in ItemParam.",
+        "functionalityNotes": "A wallpaper used by default for this combination. Matches with UniqueID in ItemParam.",
         "knownFunctionality": true,
         "versions": ["1.2.0", "1.3.0", "1.4.0"]
       }

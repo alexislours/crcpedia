@@ -24,7 +24,7 @@
 
 **Hashed string**: FloorItemId u16
 
-**Notes**: The floor used for this combination. Matches with UniqueID in ItemParam.
+**Notes**: A floor used by default for this combination. Matches with UniqueID in ItemParam.
 
 **Versions**: 1.2.0, 1.3.0, 1.4.0
 
@@ -36,7 +36,7 @@
 
 **Hashed string**: RugItemId u16
 
-**Notes**: The rug used for this combination. Equals -2 if no rug. Matches with UniqueID in ItemParam.
+**Notes**: A rug used by default for this combination. Equals -2 if no rug. Matches with UniqueID in ItemParam.
 
 **Versions**: 1.2.0, 1.3.0, 1.4.0
 
@@ -58,7 +58,7 @@
 
 **Hashed string**: WallItemId u16
 
-**Notes**: The wallpaper used for this combination. Matches with UniqueID in ItemParam.
+**Notes**: A wallpaper used by default for this combination. Matches with UniqueID in ItemParam.
 
 **Versions**: 1.2.0, 1.3.0, 1.4.0
 
