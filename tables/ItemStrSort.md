@@ -3,6 +3,7 @@
 
 **Documented columns**: 0/15
 
+**Description**: Sorting for strings based on language
 ## StrSortIdCNzh
 
 **Name**: StrSortIdCNzh

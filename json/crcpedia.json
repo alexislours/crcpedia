@@ -14673,7 +14673,7 @@
     "name": "ItemStrSort",
     "namedColumns": "15/15",
     "documentedColumns": "0/15",
-    "description": "",
+    "description": "Sorting for strings based on language",
     "hashes": [
       {
         "hash": "a99eaf49",
