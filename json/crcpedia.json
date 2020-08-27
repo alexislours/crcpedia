@@ -12760,7 +12760,7 @@
         "hashNotes": "",
         "formattedHash": "_9bd046a2",
         "name": "ItemShareTextureUniqueID",
-        "functionalityNotes": "Used for insects and their toy versions",
+        "functionalityNotes": "Used for insects and their toy versions, presumably as a common identifier to reference shared textures",
         "knownFunctionality": false,
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"]
       },

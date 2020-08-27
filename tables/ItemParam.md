@@ -760,7 +760,7 @@
 
 **Hashed string**: ItemShareTextureUniqueID u16
 
-**Notes**: Used for insects and their toy versions
+**Notes**: Used for insects and their toy versions, presumably as a common identifier to reference shared textures
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
