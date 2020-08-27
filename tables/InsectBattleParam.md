@@ -3,7 +3,7 @@
 
 **Documented columns**: 0/3
 
-**Description**: Params for insect that "attack" the player
+**Description**: Params for museum beetle fights, most likely
 ## Level
 
 **Name**: Level

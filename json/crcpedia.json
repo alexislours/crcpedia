@@ -9722,7 +9722,7 @@
     "name": "InsectBattleParam",
     "namedColumns": "3/3",
     "documentedColumns": "0/3",
-    "description": "Params for insect that \"attack\" the player",
+    "description": "Params for museum beetle fights, most likely",
     "hashes": [
       {
         "hash": "36083c78",
