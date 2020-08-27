@@ -4530,7 +4530,7 @@
   "EventFlagsNpcMemoryParam": {
     "name": "EventFlagsNpcMemoryParam",
     "namedColumns": "6/9",
-    "documentedColumns": "4/9",
+    "documentedColumns": "5/9",
     "description": "Flags that villagers remember, mostly dialogs",
     "hashes": [
       {
@@ -4584,9 +4584,9 @@
         "hashNotes": "",
         "formattedHash": "_d55938bd",
         "name": "DefaultValue",
-        "functionalityNotes": "",
+        "functionalityNotes": "Always 0",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "fa93f14b",
@@ -4818,7 +4818,7 @@
   "EventFlagsPlayerActivityParam": {
     "name": "EventFlagsPlayerActivityParam",
     "namedColumns": "8/8",
-    "documentedColumns": "1/8",
+    "documentedColumns": "3/8",
     "description": "Flags for the player interactions",
     "hashes": [
       {
@@ -4896,7 +4896,7 @@
         "name": "Key",
         "functionalityNotes": "",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "85cf1615",
@@ -4907,7 +4907,7 @@
         "name": "Name",
         "functionalityNotes": "",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       }
     ]
   },

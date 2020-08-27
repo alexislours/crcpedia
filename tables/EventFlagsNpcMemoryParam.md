@@ -1,7 +1,7 @@
 # EventFlagsNpcMemoryParam
 **Named columns**: 6/9
 
-**Documented columns**: 4/9
+**Documented columns**: 5/9
 
 **Description**: Flags that villagers remember, mostly dialogs
 ## UniqueID
@@ -45,6 +45,8 @@
 **Hash**: 0xd55938bd
 
 **Hashed string**: DefaultValue u8
+
+**Notes**: Always 0
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
