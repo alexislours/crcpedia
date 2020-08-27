@@ -24815,7 +24815,7 @@
     "name": "StructureInfoParam",
     "namedColumns": "6/7",
     "documentedColumns": "0/7",
-    "description": "",
+    "description": "Additional params for buildings",
     "hashes": [
       {
         "hash": "1ff4093d",

@@ -3,6 +3,7 @@
 
 **Documented columns**: 0/7
 
+**Description**: Additional params for buildings
 ## HousePartsType
 
 **Name**: HousePartsType
