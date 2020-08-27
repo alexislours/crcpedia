@@ -21701,7 +21701,7 @@
     "name": "RoomArchParam",
     "namedColumns": "2/2",
     "documentedColumns": "2/2",
-    "description": "",
+    "description": "Textures for the Arch?",
     "hashes": [
       {
         "hash": "54706054",
@@ -21731,7 +21731,7 @@
     "name": "RoomCeilingParam",
     "namedColumns": "2/2",
     "documentedColumns": "2/2",
-    "description": "",
+    "description": "Textures for the ceiling",
     "hashes": [
       {
         "hash": "54706054",
@@ -21761,7 +21761,7 @@
     "name": "RoomCurtainParam",
     "namedColumns": "3/3",
     "documentedColumns": "3/3",
-    "description": "",
+    "description": "Textures for the Arch?",
     "hashes": [
       {
         "hash": "54706054",
@@ -21802,7 +21802,7 @@
     "name": "RoomCurtainTexParam",
     "namedColumns": "3/3",
     "documentedColumns": "3/3",
-    "description": "",
+    "description": "Textures for the Arch?",
     "hashes": [
       {
         "hash": "54706054",

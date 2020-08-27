@@ -3,6 +3,7 @@
 
 **Documented columns**: 2/2
 
+**Description**: Textures for the ceiling
 ## UniqueID
 
 **Name**: UniqueID
