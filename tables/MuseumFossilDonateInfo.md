@@ -46,7 +46,7 @@
 
 **Hashed string**: WatchItem u16
 
-**Notes**: The fossil item corresponding to this fossil part. Matches with UniqueID in ItemParam.
+**Notes**: The item corresponding to this fossil part. Matches with UniqueID in ItemParam.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
