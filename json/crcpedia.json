@@ -396,7 +396,7 @@
   "CalendarEventParam": {
     "name": "CalendarEventParam",
     "namedColumns": "162/162",
-    "documentedColumns": "153/162",
+    "documentedColumns": "155/162",
     "description": "Dates and settings for calendar events and Nook Shopping seasonal events",
     "hashes": [
       {
@@ -1979,7 +1979,7 @@
         "name": "NameLong",
         "functionalityNotes": "",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "3c835e2c",
@@ -1990,7 +1990,7 @@
         "name": "NameShort",
         "functionalityNotes": "",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "d605c40d",
