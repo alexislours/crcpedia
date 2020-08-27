@@ -3,6 +3,7 @@
 
 **Documented columns**: 0/2
 
+**Description**: Texture shared accross multiple items, only used for insect cages (?) at the moment
 ## UniqueID
 
 **Name**: UniqueID

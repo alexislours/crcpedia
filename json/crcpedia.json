@@ -14547,7 +14547,7 @@
     "name": "ItemShareTexture",
     "namedColumns": "2/2",
     "documentedColumns": "0/2",
-    "description": "",
+    "description": "Texture shared accross multiple items, only used for insect cages (?) at the moment",
     "hashes": [
       {
         "hash": "54706054",
