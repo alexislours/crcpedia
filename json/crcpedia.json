@@ -16026,7 +16026,7 @@
     "name": "MessageCardSelectDesignSp",
     "namedColumns": "12/13",
     "documentedColumns": "0/13",
-    "description": "",
+    "description": "Designs param for Special NPC mail",
     "hashes": [
       {
         "hash": "37571146",
@@ -16177,7 +16177,7 @@
     "name": "MessageCardSelectPresent",
     "namedColumns": "3/5",
     "documentedColumns": "0/5",
-    "description": "",
+    "description": "Par",
     "hashes": [
       {
         "hash": "368210c4",

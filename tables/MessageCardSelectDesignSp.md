@@ -3,6 +3,7 @@
 
 **Documented columns**: 0/13
 
+**Description**: Designs param for Special NPC mail
 ## 0x37571146
 
 **Hash**: 0x37571146
