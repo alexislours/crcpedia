@@ -3,6 +3,7 @@
 
 **Documented columns**: 1/1
 
+**Description**: Seem to be unused development leftovers
 ## UniqueID (Unused)
 
 **Name**: UniqueID

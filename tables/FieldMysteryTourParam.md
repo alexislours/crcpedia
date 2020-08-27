@@ -3,6 +3,7 @@
 
 **Documented columns**: 7/7
 
+**Description**: Seem to be unused development leftovers
 ## ItemPlacementKind (Unused)
 
 **Name**: ItemPlacementKind

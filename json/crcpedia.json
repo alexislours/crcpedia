@@ -6891,6 +6891,7 @@
     "name": "FieldMysteryTourFieldParam",
     "namedColumns": "2/2",
     "documentedColumns": "2/2",
+    "description": "Seem to be unused development leftovers",
     "hashes": [
       {
         "hash": "e8fa8b93",
@@ -6920,6 +6921,7 @@
     "name": "FieldMysteryTourItemParam",
     "namedColumns": "1/1",
     "documentedColumns": "1/1",
+    "description": "Seem to be unused development leftovers",
     "hashes": [
       {
         "hash": "54706054",
@@ -6938,6 +6940,7 @@
     "name": "FieldMysteryTourParam",
     "namedColumns": "7/7",
     "documentedColumns": "7/7",
+    "description": "Seem to be unused development leftovers",
     "hashes": [
       {
         "hash": "dd59b554",

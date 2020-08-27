@@ -3,6 +3,7 @@
 
 **Documented columns**: 2/2
 
+**Description**: Seem to be unused development leftovers
 ## MysteryTourFieldOutside (Unused)
 
 **Name**: MysteryTourFieldOutside
