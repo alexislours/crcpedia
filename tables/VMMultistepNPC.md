@@ -3,6 +3,7 @@
 
 **Documented columns**: 0/2
 
+**Description**: Most likely unused
 ## UniqueID
 
 **Name**: UniqueID
