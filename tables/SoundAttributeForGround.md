@@ -3,6 +3,7 @@
 
 **Documented columns**: 2/2
 
+**Description**: Sounds param definitions
 ## RefSoundAttributeID
 
 **Name**: RefSoundAttributeID

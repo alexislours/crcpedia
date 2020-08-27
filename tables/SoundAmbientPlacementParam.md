@@ -3,6 +3,7 @@
 
 **Documented columns**: 2/2
 
+**Description**: Empty
 ## UniqueID
 
 **Name**: UniqueID

@@ -23158,7 +23158,7 @@
     "name": "ShopItemRouteFlags",
     "namedColumns": "5/5",
     "documentedColumns": "5/5",
-    "description": "Flags for shops",
+    "description": "Flags for shop items",
     "hashes": [
       {
         "hash": "3fe43170",
@@ -23221,7 +23221,7 @@
     "name": "SoundAmbientPlacementParam",
     "namedColumns": "2/2",
     "documentedColumns": "2/2",
-    "description": "",
+    "description": "Empty",
     "hashes": [
       {
         "hash": "54706054",
@@ -23251,7 +23251,7 @@
     "name": "SoundAttributeForGround",
     "namedColumns": "2/2",
     "documentedColumns": "2/2",
-    "description": "",
+    "description": "Sounds param definitions",
     "hashes": [
       {
         "hash": "5e7a33b5",
@@ -23281,7 +23281,7 @@
     "name": "SoundAttributeForPlacement",
     "namedColumns": "2/2",
     "documentedColumns": "2/2",
-    "description": "",
+    "description": "Sounds param definitions",
     "hashes": [
       {
         "hash": "5e7a33b5",
