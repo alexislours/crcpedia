@@ -1,7 +1,7 @@
 # FieldOutsideParts
 **Named columns**: 4/4
 
-**Documented columns**: 0/4
+**Documented columns**: 3/4
 
 **Description**: Island beach parts
 ## PartsKind
@@ -43,6 +43,8 @@
 **Hash**: 0x39b5a93d
 
 **Hashed string**: ModelName string32
+
+**Notes**: The resource name for this island part.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
