@@ -3,6 +3,7 @@
 
 **Documented columns**: 0/19
 
+**Description**: Localization texture
 ## UniqueID
 
 **Name**: UniqueID
