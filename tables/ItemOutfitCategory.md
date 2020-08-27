@@ -3,6 +3,7 @@
 
 **Documented columns**: 0/14
 
+**Description**: Category params for outfits and tools
 ## UniqueID
 
 **Name**: UniqueID

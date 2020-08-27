@@ -11616,7 +11616,7 @@
     "name": "ItemOutfitCategory",
     "namedColumns": "13/14",
     "documentedColumns": "0/14",
-    "description": "",
+    "description": "Category params for outfits and tools",
     "hashes": [
       {
         "hash": "54706054",
