@@ -3947,7 +3947,7 @@
   "EventFlagsLandTempParam": {
     "name": "EventFlagsLandTempParam",
     "namedColumns": "7/10",
-    "documentedColumns": "0/10",
+    "documentedColumns": "2/10",
     "description": "List of temporary flags (that will/can reset) related to the island",
     "hashes": [
       {
@@ -4047,7 +4047,7 @@
         "name": "Key",
         "functionalityNotes": "",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "85cf1615",
@@ -4058,7 +4058,7 @@
         "name": "Name",
         "functionalityNotes": "",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       }
     ]
   },

@@ -1,7 +1,7 @@
 # EventFlagsLandTempParam
 **Named columns**: 7/10
 
-**Documented columns**: 0/10
+**Documented columns**: 2/10
 
 **Description**: List of temporary flags (that will/can reset) related to the island
 ## DefaultValue
