@@ -1,7 +1,7 @@
 # EventPlazaObjModelParam
 **Named columns**: 7/8
 
-**Documented columns**: 4/8
+**Documented columns**: 5/8
 
 **Description**: Objects to be places in the plaza
 ## DemoDistance

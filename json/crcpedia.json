@@ -5295,7 +5295,7 @@
   "EventPlazaObjModelParam": {
     "name": "EventPlazaObjModelParam",
     "namedColumns": "7/8",
-    "documentedColumns": "4/8",
+    "documentedColumns": "5/8",
     "description": "Objects to be places in the plaza",
     "hashes": [
       {
@@ -5318,7 +5318,7 @@
         "name": "",
         "functionalityNotes": "",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "83b54e59",
