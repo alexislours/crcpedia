@@ -3,6 +3,7 @@
 
 **Documented columns**: 0/4
 
+**Description**: Labels for NpcCastScheduleData
 ## AIFlowEntryName
 
 **Name**: AIFlowEntryName

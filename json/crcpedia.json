@@ -18018,7 +18018,7 @@
     "name": "NpcCastLabelData",
     "namedColumns": "4/4",
     "documentedColumns": "0/4",
-    "description": "",
+    "description": "Labels for NpcCastScheduleData",
     "hashes": [
       {
         "hash": "2c2ac67",
