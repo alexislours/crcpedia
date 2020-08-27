@@ -1,7 +1,7 @@
 # EventFlagsLandParam
 **Named columns**: 9/10
 
-**Documented columns**: 0/10
+**Documented columns**: 2/10
 
 **Description**: List of flags related to the island 
 ## 0xfdb1f290
