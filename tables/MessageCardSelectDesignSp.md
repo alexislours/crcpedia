@@ -1,7 +1,7 @@
 # MessageCardSelectDesignSp
 **Named columns**: 12/13
 
-**Documented columns**: 1/13
+**Documented columns**: 12/13
 
 **Description**: Designs param for Special NPC mail
 ## 0x37571146
