@@ -15775,7 +15775,7 @@
         "hashNotes": "",
         "formattedHash": "_84818e10",
         "name": "",
-        "functionalityNotes": "",
+        "functionalityNotes": "Always -1",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": false
       },
@@ -16195,7 +16195,7 @@
         "hashNotes": "",
         "formattedHash": "_c233727b",
         "name": "ItemRemakeType",
-        "functionalityNotes": "",
+        "functionalityNotes": "Always 0.",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": false
       }
