@@ -15990,7 +15990,7 @@
   "MessageCardSelectDesignSp": {
     "name": "MessageCardSelectDesignSp",
     "namedColumns": "12/13",
-    "documentedColumns": "0/13",
+    "documentedColumns": "1/13",
     "description": "Designs param for Special NPC mail",
     "hashes": [
       {
@@ -16013,7 +16013,7 @@
         "name": "DesignAlways1",
         "functionalityNotes": "The card design for this message. Matches UniqueID in MessageCardDesignParam.",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "a326fa8c",
