@@ -3,7 +3,7 @@
 
 **Documented columns**: 0/2
 
-**Description**: Most likely unused
+**Description**: Seems to be used for villagers with 2 different sets of notes
 ## UniqueID
 
 **Name**: UniqueID
