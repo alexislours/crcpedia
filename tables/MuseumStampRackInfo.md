@@ -1,7 +1,7 @@
 # MuseumStampRackInfo
 **Named columns**: 11/13
 
-**Documented columns**: 4/13
+**Documented columns**: 8/13
 
 **Description**: Params for stamp racks during International Museum Day
 ## StageName
@@ -11,6 +11,8 @@
 **Hash**: 0xbe776e71
 
 **Hashed string**: StageName.hshCstringRef
+
+**Notes**: The room in which the stamp rack is. Matches with MuseumNPCSpotTalk.
 
 **Versions**: 1.2.0, 1.3.0, 1.4.0
 
@@ -22,6 +24,8 @@
 
 **Hashed string**: StampRackPutUnitX s32
 
+**Notes**: The x coordinate for where the stamp rack is placed.
+
 **Versions**: 1.2.0, 1.3.0, 1.4.0
 
 ## StampRackPutUnitZ
@@ -31,6 +35,8 @@
 **Hash**: 0xe23f2c58
 
 **Hashed string**: StampRackPutUnitZ s32
+
+**Notes**: The z coordinate for where the stamp rack is placed.
 
 **Versions**: 1.2.0, 1.3.0, 1.4.0
 
@@ -71,6 +77,8 @@
 **Hash**: 0xd4f5b3e6
 
 **Hashed string**: StampRackSetDirection s16
+
+**Notes**: The stamp rack's orientation.
 
 **Versions**: 1.2.0, 1.3.0, 1.4.0
 

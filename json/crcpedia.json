@@ -16151,7 +16151,7 @@
         "hashNotes": "",
         "formattedHash": "_368210c4",
         "name": "ItemCategory",
-        "functionalityNotes": "",
+        "functionalityNotes": "Seems to match with some UniqueID",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": false
       },
@@ -16184,7 +16184,7 @@
         "hashNotes": "",
         "formattedHash": "_e060d3cd",
         "name": "",
-        "functionalityNotes": "",
+        "functionalityNotes": "Value between 0 and 18, might match some UniqueID.",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": false
       },
@@ -16214,7 +16214,7 @@
         "hashNotes": "",
         "formattedHash": "_368210c4",
         "name": "ItemCategory",
-        "functionalityNotes": "Seems to match with some UniqueID",
+        "functionalityNotes": "Seems to match with some UniqueID.",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": false
       },
@@ -16225,7 +16225,7 @@
         "hashNotes": "",
         "formattedHash": "_128a3d9b",
         "name": "ItemCategoryGroup",
-        "functionalityNotes": "Either 0 or 1",
+        "functionalityNotes": "Either 0 or 1.",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": false
       },
@@ -16247,7 +16247,7 @@
         "hashNotes": "",
         "formattedHash": "_e060d3cd",
         "name": "",
-        "functionalityNotes": "",
+        "functionalityNotes": "Either 0 or 3.",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": false
       },
@@ -16258,7 +16258,7 @@
         "hashNotes": "",
         "formattedHash": "_c233727b",
         "name": "ItemRemakeType",
-        "functionalityNotes": "",
+        "functionalityNotes": "Either 0 or 1.",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": false
       }
@@ -16764,7 +16764,7 @@
   "MuseumStampRackInfo": {
     "name": "MuseumStampRackInfo",
     "namedColumns": "11/13",
-    "documentedColumns": "4/13",
+    "documentedColumns": "8/13",
     "description": "Params for stamp racks during International Museum Day",
     "hashes": [
       {
@@ -16774,9 +16774,9 @@
         "hashNotes": "",
         "formattedHash": "_be776e71",
         "name": "StageName",
-        "functionalityNotes": "",
+        "functionalityNotes": "The room in which the stamp rack is. Matches with MuseumNPCSpotTalk.",
         "versions": ["1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "98ff7f38",
@@ -16785,9 +16785,9 @@
         "hashNotes": "",
         "formattedHash": "_98ff7f38",
         "name": "StampRackPutUnitX",
-        "functionalityNotes": "",
+        "functionalityNotes": "The x coordinate for where the stamp rack is placed.",
         "versions": ["1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "e23f2c58",
@@ -16796,9 +16796,9 @@
         "hashNotes": "",
         "formattedHash": "_e23f2c58",
         "name": "StampRackPutUnitZ",
-        "functionalityNotes": "",
+        "functionalityNotes": "The z coordinate for where the stamp rack is placed.",
         "versions": ["1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "b02f0c17",
@@ -16840,9 +16840,9 @@
         "hashNotes": "",
         "formattedHash": "_d4f5b3e6",
         "name": "StampRackSetDirection",
-        "functionalityNotes": "",
+        "functionalityNotes": "The stamp rack's orientation.",
         "versions": ["1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "54706054",

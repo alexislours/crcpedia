@@ -12,7 +12,7 @@
 
 **Hashed string**: ItemCategory u32
 
-**Notes**: Seems to match with some UniqueID
+**Notes**: Seems to match with some UniqueID.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -24,7 +24,7 @@
 
 **Hashed string**: ItemCategoryGroup u32
 
-**Notes**: Either 0 or 1
+**Notes**: Either 0 or 1.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -42,6 +42,8 @@
 
 **Type**: u16/s16
 
+**Notes**: Either 0 or 3.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemRemakeType
@@ -51,6 +53,8 @@
 **Hash**: 0xc233727b
 
 **Hashed string**: ItemRemakeType u8
+
+**Notes**: Either 0 or 1.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

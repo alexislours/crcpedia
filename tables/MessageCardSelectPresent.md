@@ -12,6 +12,8 @@
 
 **Hashed string**: ItemCategory u32
 
+**Notes**: Seems to match with some UniqueID
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemCategoryGroup
@@ -39,6 +41,8 @@
 **Hash**: 0xe060d3cd
 
 **Type**: u16/s16
+
+**Notes**: Value between 0 and 18, might match some UniqueID.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
