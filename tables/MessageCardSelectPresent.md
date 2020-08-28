@@ -22,6 +22,8 @@
 
 **Hashed string**: ItemCategoryGroup u32
 
+**Notes**: Either 0 or 2.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0x37571146

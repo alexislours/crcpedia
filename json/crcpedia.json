@@ -16162,7 +16162,7 @@
         "hashNotes": "",
         "formattedHash": "_128a3d9b",
         "name": "ItemCategoryGroup",
-        "functionalityNotes": "",
+        "functionalityNotes": "Either 0 or 2.",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": false
       },
@@ -16214,7 +16214,7 @@
         "hashNotes": "",
         "formattedHash": "_368210c4",
         "name": "ItemCategory",
-        "functionalityNotes": "",
+        "functionalityNotes": "Seems to match with some UniqueID",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": false
       },
@@ -16225,7 +16225,7 @@
         "hashNotes": "",
         "formattedHash": "_128a3d9b",
         "name": "ItemCategoryGroup",
-        "functionalityNotes": "",
+        "functionalityNotes": "Either 0 or 1",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": false
       },
