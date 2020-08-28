@@ -15419,7 +15419,7 @@
   "MessageCardBoardDesignParam": {
     "name": "MessageCardBoardDesignParam",
     "namedColumns": "12/13",
-    "documentedColumns": "11/13",
+    "documentedColumns": "12/13",
     "description": "Params for bulletin board card designs",
     "hashes": [
       {
@@ -15528,9 +15528,9 @@
         "hashNotes": "",
         "formattedHash": "_5f384120",
         "name": "TextLotId",
-        "functionalityNotes": "",
+        "functionalityNotes": "The resource name for this board message",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "84818e10",

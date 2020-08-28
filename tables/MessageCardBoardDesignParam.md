@@ -1,7 +1,7 @@
 # MessageCardBoardDesignParam
 **Named columns**: 12/13
 
-**Documented columns**: 11/13
+**Documented columns**: 12/13
 
 **Description**: Params for bulletin board card designs
 ## BackColor
@@ -119,6 +119,8 @@
 **Hash**: 0x5f384120
 
 **Hashed string**: TextLotId s16
+
+**Notes**: The resource name for this board message
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
