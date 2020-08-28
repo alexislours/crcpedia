@@ -15860,7 +15860,7 @@
         "hashNotes": "",
         "formattedHash": "_e486805c",
         "name": "DesignAlways1",
-        "functionalityNotes": "",
+        "functionalityNotes": "The card design for this message. Matches UniqueID in MessageCardDesignParam.",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": false
       },
@@ -15871,7 +15871,7 @@
         "hashNotes": "",
         "formattedHash": "_a326fa8c",
         "name": "DesignAlways2",
-        "functionalityNotes": "",
+        "functionalityNotes": "The card design for this message. Matches UniqueID in MessageCardDesignParam.",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": false
       },
@@ -15882,7 +15882,7 @@
         "hashNotes": "",
         "formattedHash": "_9e46d33c",
         "name": "DesignAlways3",
-        "functionalityNotes": "",
+        "functionalityNotes": "The card design for this message. Matches UniqueID in MessageCardDesignParam.",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": false
       },

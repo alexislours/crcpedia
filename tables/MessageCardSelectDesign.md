@@ -20,6 +20,8 @@
 
 **Hashed string**: DesignAlways1 u16
 
+**Notes**: The card design for this message. Matches UniqueID in MessageCardDesignParam.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## DesignAlways2
@@ -30,6 +32,8 @@
 
 **Hashed string**: DesignAlways2 u16
 
+**Notes**: The card design for this message. Matches UniqueID in MessageCardDesignParam.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## DesignAlways3
@@ -39,6 +43,8 @@
 **Hash**: 0x9e46d33c
 
 **Hashed string**: DesignAlways3 u16
+
+**Notes**: The card design for this message. Matches UniqueID in MessageCardDesignParam.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
