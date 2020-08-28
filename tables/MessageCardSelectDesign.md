@@ -1,7 +1,7 @@
 # MessageCardSelectDesign
 **Named columns**: 12/13
 
-**Documented columns**: 0/13
+**Documented columns**: 12/13
 
 **Description**: Design IDs for the different kinds of mails sent by villagers
 ## 0x37571146
@@ -9,6 +9,8 @@
 **Hash**: 0x37571146
 
 **Type**: u32/s32
+
+**Notes**: Maybe some kind of ID to match with the message's content?
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -32,7 +34,7 @@
 
 **Hashed string**: DesignAlways2 u16
 
-**Notes**: The card design for this message. Matches UniqueID in MessageCardDesignParam.
+**Notes**: An extra possible card design for this message. -1 if none. Matches UniqueID in MessageCardDesignParam.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -44,7 +46,7 @@
 
 **Hashed string**: DesignAlways3 u16
 
-**Notes**: The card design for this message. Matches UniqueID in MessageCardDesignParam.
+**Notes**: Same as above
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -56,6 +58,8 @@
 
 **Hashed string**: DesignAlways4 u16
 
+**Notes**: Same as above
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## DesignAutumn1
@@ -65,6 +69,8 @@
 **Hash**: 0xd29880f2
 
 **Hashed string**: DesignAutumn1 u16
+
+**Notes**: An extra possible card design for this message if it's written during Autumn. -1 if none. Matches UniqueID in MessageCardDesignParam.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -76,6 +82,8 @@
 
 **Hashed string**: DesignAutumn2 u16
 
+**Notes**: Same as above
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## DesignSpring1
@@ -85,6 +93,8 @@
 **Hash**: 0x8cc22007
 
 **Hashed string**: DesignSpring1 u16
+
+**Notes**: An extra possible card design for this message if it's written during Spring. -1 if none. Matches UniqueID in MessageCardDesignParam.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -96,6 +106,8 @@
 
 **Hashed string**: DesignSpring2 u16
 
+**Notes**: Same as above
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## DesignSummer1
@@ -105,6 +117,8 @@
 **Hash**: 0xccc4afcb
 
 **Hashed string**: DesignSummer1 u16
+
+**Notes**: An extra possible card design for this message if it's written during Summer. -1 if none. Matches UniqueID in MessageCardDesignParam.
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -116,6 +130,8 @@
 
 **Hashed string**: DesignSummer2 u16
 
+**Notes**: Same as above
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## DesignWinter1
@@ -126,6 +142,8 @@
 
 **Hashed string**: DesignWinter1 u16
 
+**Notes**: An extra possible card design for this message if it's written during Winter. -1 if none. Matches UniqueID in MessageCardDesignParam.
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## DesignWinter2
@@ -135,6 +153,8 @@
 **Hash**: 0x5c56d13a
 
 **Hashed string**: DesignWinter2 u16
+
+**Notes**: Same as above
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

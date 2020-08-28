@@ -15839,7 +15839,7 @@
   "MessageCardSelectDesign": {
     "name": "MessageCardSelectDesign",
     "namedColumns": "12/13",
-    "documentedColumns": "0/13",
+    "documentedColumns": "12/13",
     "description": "Design IDs for the different kinds of mails sent by villagers",
     "hashes": [
       {
@@ -15849,7 +15849,7 @@
         "hashNotes": "",
         "formattedHash": "_37571146",
         "name": "",
-        "functionalityNotes": "",
+        "functionalityNotes": "Maybe some kind of ID to match with the message's content?",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": false
       },
@@ -15862,7 +15862,7 @@
         "name": "DesignAlways1",
         "functionalityNotes": "The card design for this message. Matches UniqueID in MessageCardDesignParam.",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "a326fa8c",
@@ -15871,9 +15871,9 @@
         "hashNotes": "",
         "formattedHash": "_a326fa8c",
         "name": "DesignAlways2",
-        "functionalityNotes": "The card design for this message. Matches UniqueID in MessageCardDesignParam.",
+        "functionalityNotes": "An extra possible card design for this message. -1 if none. Matches UniqueID in MessageCardDesignParam.",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "9e46d33c",
@@ -15882,9 +15882,9 @@
         "hashNotes": "",
         "formattedHash": "_9e46d33c",
         "name": "DesignAlways3",
-        "functionalityNotes": "The card design for this message. Matches UniqueID in MessageCardDesignParam.",
+        "functionalityNotes": "Same as above",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "2c660f2c",
@@ -15893,9 +15893,9 @@
         "hashNotes": "",
         "formattedHash": "_2c660f2c",
         "name": "DesignAlways4",
-        "functionalityNotes": "",
+        "functionalityNotes": "Same as above",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "d29880f2",
@@ -15904,9 +15904,9 @@
         "hashNotes": "",
         "formattedHash": "_d29880f2",
         "name": "DesignAutumn1",
-        "functionalityNotes": "",
+        "functionalityNotes": "An extra possible card design for this message if it's written during Autumn. -1 if none. Matches UniqueID in MessageCardDesignParam.",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "9538fa22",
@@ -15915,9 +15915,9 @@
         "hashNotes": "",
         "formattedHash": "_9538fa22",
         "name": "DesignAutumn2",
-        "functionalityNotes": "",
+        "functionalityNotes": "Same as above",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "8cc22007",
@@ -15926,9 +15926,9 @@
         "hashNotes": "",
         "formattedHash": "_8cc22007",
         "name": "DesignSpring1",
-        "functionalityNotes": "",
+        "functionalityNotes": "An extra possible card design for this message if it's written during Spring. -1 if none. Matches UniqueID in MessageCardDesignParam.",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "cb625ad7",
@@ -15937,9 +15937,9 @@
         "hashNotes": "",
         "formattedHash": "_cb625ad7",
         "name": "DesignSpring2",
-        "functionalityNotes": "",
+        "functionalityNotes": "Same as above",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "ccc4afcb",
@@ -15948,9 +15948,9 @@
         "hashNotes": "",
         "formattedHash": "_ccc4afcb",
         "name": "DesignSummer1",
-        "functionalityNotes": "",
+        "functionalityNotes": "An extra possible card design for this message if it's written during Summer. -1 if none. Matches UniqueID in MessageCardDesignParam.",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "8b64d51b",
@@ -15959,9 +15959,9 @@
         "hashNotes": "",
         "formattedHash": "_8b64d51b",
         "name": "DesignSummer2",
-        "functionalityNotes": "",
+        "functionalityNotes": "Same as above",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "1bf6abea",
@@ -15970,9 +15970,9 @@
         "hashNotes": "",
         "formattedHash": "_1bf6abea",
         "name": "DesignWinter1",
-        "functionalityNotes": "",
+        "functionalityNotes": "An extra possible card design for this message if it's written during Winter. -1 if none. Matches UniqueID in MessageCardDesignParam.",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "5c56d13a",
@@ -15981,9 +15981,9 @@
         "hashNotes": "",
         "formattedHash": "_5c56d13a",
         "name": "DesignWinter2",
-        "functionalityNotes": "",
+        "functionalityNotes": "Same as above",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       }
     ]
   },
@@ -16000,7 +16000,7 @@
         "hashNotes": "",
         "formattedHash": "_37571146",
         "name": "",
-        "functionalityNotes": "",
+        "functionalityNotes": "Maybe some kind of ID to match with the message's content?",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": false
       },
@@ -16011,7 +16011,7 @@
         "hashNotes": "",
         "formattedHash": "_e486805c",
         "name": "DesignAlways1",
-        "functionalityNotes": "",
+        "functionalityNotes": "The card design for this message. Matches UniqueID in MessageCardDesignParam.",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": false
       },
@@ -16022,7 +16022,7 @@
         "hashNotes": "",
         "formattedHash": "_a326fa8c",
         "name": "DesignAlways2",
-        "functionalityNotes": "",
+        "functionalityNotes": "An extra possible card design for this message. -1 if none. Matches UniqueID in MessageCardDesignParam.",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": false
       },
@@ -16033,7 +16033,7 @@
         "hashNotes": "",
         "formattedHash": "_9e46d33c",
         "name": "DesignAlways3",
-        "functionalityNotes": "",
+        "functionalityNotes": "Same as above",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": false
       },
@@ -16044,7 +16044,7 @@
         "hashNotes": "",
         "formattedHash": "_2c660f2c",
         "name": "DesignAlways4",
-        "functionalityNotes": "",
+        "functionalityNotes": "Same as above",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": false
       },
@@ -16055,7 +16055,7 @@
         "hashNotes": "",
         "formattedHash": "_d29880f2",
         "name": "DesignAutumn1",
-        "functionalityNotes": "",
+        "functionalityNotes": "An extra possible card design for this message if it's written during Autumn. -1 if none. Matches UniqueID in MessageCardDesignParam.",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": false
       },
@@ -16066,7 +16066,7 @@
         "hashNotes": "",
         "formattedHash": "_9538fa22",
         "name": "DesignAutumn2",
-        "functionalityNotes": "",
+        "functionalityNotes": "Same as above",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": false
       },
@@ -16077,7 +16077,7 @@
         "hashNotes": "",
         "formattedHash": "_8cc22007",
         "name": "DesignSpring1",
-        "functionalityNotes": "",
+        "functionalityNotes": "An extra possible card design for this message if it's written during Spring. -1 if none. Matches UniqueID in MessageCardDesignParam.",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": false
       },
@@ -16088,7 +16088,7 @@
         "hashNotes": "",
         "formattedHash": "_cb625ad7",
         "name": "DesignSpring2",
-        "functionalityNotes": "",
+        "functionalityNotes": "Same as above",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": false
       },
@@ -16099,7 +16099,7 @@
         "hashNotes": "",
         "formattedHash": "_ccc4afcb",
         "name": "DesignSummer1",
-        "functionalityNotes": "",
+        "functionalityNotes": "An extra possible card design for this message if it's written during Summer. -1 if none. Matches UniqueID in MessageCardDesignParam.",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": false
       },
@@ -16110,7 +16110,7 @@
         "hashNotes": "",
         "formattedHash": "_8b64d51b",
         "name": "DesignSummer2",
-        "functionalityNotes": "",
+        "functionalityNotes": "Same as above",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": false
       },
@@ -16121,7 +16121,7 @@
         "hashNotes": "",
         "formattedHash": "_1bf6abea",
         "name": "DesignWinter1",
-        "functionalityNotes": "",
+        "functionalityNotes": "An extra possible card design for this message if it's written during Winter. -1 if none. Matches UniqueID in MessageCardDesignParam.",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": false
       },
@@ -16132,7 +16132,7 @@
         "hashNotes": "",
         "formattedHash": "_5c56d13a",
         "name": "DesignWinter2",
-        "functionalityNotes": "",
+        "functionalityNotes": "Same as above",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": false
       }
