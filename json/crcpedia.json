@@ -15764,7 +15764,7 @@
         "hashNotes": "",
         "formattedHash": "_5f384120",
         "name": "TextLotId",
-        "functionalityNotes": "",
+        "functionalityNotes": "Always -1",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": false
       },
@@ -15797,7 +15797,7 @@
         "hashNotes": "",
         "formattedHash": "_24da7ada",
         "name": "Kind",
-        "functionalityNotes": "",
+        "functionalityNotes": "Always 0",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": false
       },

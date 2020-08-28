@@ -178,6 +178,8 @@
 
 **Hashed string**: TextLotId s16
 
+**Notes**: Always -1
+
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0x84818e10
@@ -205,6 +207,8 @@
 **Hash**: 0x24da7ada
 
 **Hashed string**: Kind u8
+
+**Notes**: Always 0
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
