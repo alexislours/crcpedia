@@ -1,7 +1,7 @@
 # ItemPlayerTopsForm
 **Named columns**: 11/11
 
-**Documented columns**: 0/11
+**Documented columns**: 1/11
 
 **Description**: Params for the scaling of tops on the player
 ## NormalScaleMaskA

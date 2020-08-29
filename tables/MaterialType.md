@@ -1,7 +1,7 @@
 # MaterialType
 **Named columns**: 3/3
 
-**Documented columns**: 0/3
+**Documented columns**: 1/3
 
 **Description**: Params for the sound doors make
 ## SoundAttribute

@@ -9929,7 +9929,7 @@
   "ItemAct": {
     "name": "ItemAct",
     "namedColumns": "8/9",
-    "documentedColumns": "0/9",
+    "documentedColumns": "1/9",
     "description": "Item interaction parameters",
     "hashes": [
       {
@@ -10018,7 +10018,7 @@
         "name": "Name",
         "functionalityNotes": "",
         "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "e387a24",
@@ -10866,7 +10866,7 @@
   "ItemMailAttachCategoryGroup": {
     "name": "ItemMailAttachCategoryGroup",
     "namedColumns": "3/4",
-    "documentedColumns": "0/4",
+    "documentedColumns": "1/4",
     "description": "",
     "hashes": [
       {
@@ -10911,7 +10911,7 @@
         "name": "Name",
         "functionalityNotes": "",
         "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       }
     ]
   },
@@ -11821,7 +11821,7 @@
   "ItemOutfitInfo": {
     "name": "ItemOutfitInfo",
     "namedColumns": "17/17",
-    "documentedColumns": "0/17",
+    "documentedColumns": "1/17",
     "description": "",
     "hashes": [
       {
@@ -11976,7 +11976,7 @@
         "name": "Name",
         "functionalityNotes": "",
         "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "4ac1bea",
@@ -12016,7 +12016,7 @@
   "ItemParam": {
     "name": "ItemParam",
     "namedColumns": "91/98",
-    "documentedColumns": "63/98",
+    "documentedColumns": "65/98",
     "description": "The big table everyone loves. Params for every item in the game",
     "hashes": [
       {
@@ -12092,7 +12092,7 @@
         "hashNotes": "",
         "formattedHash": "_f8316716",
         "name": "Depth",
-        "functionalityNotes": "I can't find the hash in code at all (0xf831, 0x6716, and 0xf8316716), so either I'm doing something wrong or it's just unused",
+        "functionalityNotes": "",
         "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"]
       },
       {
@@ -12896,8 +12896,9 @@
         "hashNotes": "",
         "formattedHash": "_116f007f",
         "name": "CaptureGardeningIcon",
-        "functionalityNotes": "Used for generating gardening??? icons. Maybe Leif shop icons. No effect on gameplay",
-        "versions": ["No", "No", "No", "Yes*", "Yes*"]
+        "functionalityNotes": "Used for generating gardening icons, which are most likely Leif shop icons. No effect on gameplay",
+        "versions": ["No", "No", "No", "Yes*", "Yes*"],
+        "knownFunctionality": true
       },
       {
         "hash": "fc275e86",
@@ -12981,7 +12982,8 @@
         "formattedHash": "_b8cc232c",
         "name": "ItemName",
         "functionalityNotes": "Japanese item name?",
-        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"]
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
+        "knownFunctionality": true
       },
       {
         "hash": "805cdabb",
@@ -13515,7 +13517,7 @@
   "ItemPlayerTopsForm": {
     "name": "ItemPlayerTopsForm",
     "namedColumns": "11/11",
-    "documentedColumns": "0/11",
+    "documentedColumns": "1/11",
     "description": "Params for the scaling of tops on the player",
     "hashes": [
       {
@@ -13593,7 +13595,7 @@
         "name": "Name",
         "functionalityNotes": "",
         "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "4e3ee3de",
@@ -14811,7 +14813,7 @@
   "ItemUIContextMenu": {
     "name": "ItemUIContextMenu",
     "namedColumns": "6/6",
-    "documentedColumns": "0/6",
+    "documentedColumns": "1/6",
     "description": "UI created by interacting with items?",
     "hashes": [
       {
@@ -14878,14 +14880,14 @@
         "name": "Name",
         "functionalityNotes": "",
         "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       }
     ]
   },
   "ItemUnitIcon": {
     "name": "ItemUnitIcon",
     "namedColumns": "8/8",
-    "documentedColumns": "0/8",
+    "documentedColumns": "1/8",
     "description": "Params for items dropped on the ground",
     "hashes": [
       {
@@ -14963,7 +14965,7 @@
         "name": "Name",
         "functionalityNotes": "",
         "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "48ef0398",
@@ -15379,7 +15381,7 @@
   "MaterialType": {
     "name": "MaterialType",
     "namedColumns": "3/3",
-    "documentedColumns": "0/3",
+    "documentedColumns": "1/3",
     "description": "Params for the sound doors make",
     "hashes": [
       {
@@ -15413,7 +15415,7 @@
         "name": "DebugName",
         "functionalityNotes": "",
         "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       }
     ]
   },
@@ -18154,7 +18156,7 @@
   "NpcEquipRule": {
     "name": "NpcEquipRule",
     "namedColumns": "20/20",
-    "documentedColumns": "7/20",
+    "documentedColumns": "8/20",
     "description": "Parameters for each PurposeTag (AITag) for villager clothing",
     "hashes": [
       {
@@ -18362,8 +18364,9 @@
         "hashNotes": "",
         "formattedHash": "_036e8ebe",
         "name": "Name",
-        "functionalityNotes": "Japanese name?",
-        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"]
+        "functionalityNotes": "Japanese name",
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
+        "knownFunctionality": true
       }
     ]
   },

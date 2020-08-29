@@ -1,7 +1,7 @@
 # ItemMailAttachCategoryGroup
 **Named columns**: 3/4
 
-**Documented columns**: 0/4
+**Documented columns**: 1/4
 
 ## UniqueID
 

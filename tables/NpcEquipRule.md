@@ -1,7 +1,7 @@
 # NpcEquipRule
 **Named columns**: 20/20
 
-**Documented columns**: 7/20
+**Documented columns**: 8/20
 
 **Description**: Parameters for each PurposeTag (AITag) for villager clothing
 ## ClothesFrequencyWear
@@ -332,7 +332,7 @@
 
 **Hashed string**: Name string64
 
-**Notes**: Japanese name?
+**Notes**: Japanese name
 
 **Versions**: 
 

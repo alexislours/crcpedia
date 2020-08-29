@@ -1,7 +1,7 @@
 # ItemParam
 **Named columns**: 91/98
 
-**Documented columns**: 63/98
+**Documented columns**: 65/98
 
 **Description**: The big table everyone loves. Params for every item in the game
 ## AudioPreset
@@ -109,8 +109,6 @@
 **Hash**: 0xf8316716
 
 **Hashed string**: Depth f32
-
-**Notes**: I can't find the hash in code at all (0xf831, 0x6716, and 0xf8316716), so either I'm doing something wrong or it's just unused
 
 **Versions**: 
 
@@ -1344,7 +1342,7 @@
 
 **Hashed string**: CaptureGardeningIcon u8
 
-**Notes**: Used for generating gardening??? icons. Maybe Leif shop icons. No effect on gameplay
+**Notes**: Used for generating gardening icons, which are most likely Leif shop icons. No effect on gameplay
 
 **Versions**: 
 

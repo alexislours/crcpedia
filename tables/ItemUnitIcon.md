@@ -1,7 +1,7 @@
 # ItemUnitIcon
 **Named columns**: 8/8
 
-**Documented columns**: 0/8
+**Documented columns**: 1/8
 
 **Description**: Params for items dropped on the ground
 ## ScaleOffset

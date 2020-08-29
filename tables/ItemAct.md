@@ -1,7 +1,7 @@
 # ItemAct
 **Named columns**: 8/9
 
-**Documented columns**: 0/9
+**Documented columns**: 1/9
 
 **Description**: Item interaction parameters
 ## AsName

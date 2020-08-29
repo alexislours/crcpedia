@@ -1,7 +1,7 @@
 # ItemUIContextMenu
 **Named columns**: 6/6
 
-**Documented columns**: 0/6
+**Documented columns**: 1/6
 
 **Description**: UI created by interacting with items?
 ## Priority
