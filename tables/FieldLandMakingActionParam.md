@@ -12,7 +12,7 @@
 
 **Hashed string**: ActionRange.hshCstringRef
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## 0x75fee4b0
 
@@ -20,7 +20,7 @@
 
 **Type**: hshCstringRef
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## MeshEdgeDirType
 
@@ -30,7 +30,7 @@
 
 **Hashed string**: MeshEdgeDirType.hshCstringRef
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## FallActionType
 
@@ -40,7 +40,7 @@
 
 **Hashed string**: FallActionType.hshCstringRef
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Layer
 
@@ -50,7 +50,7 @@
 
 **Hashed string**: Layer.hshCstringRef
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## PlaneChangeType
 
@@ -60,7 +60,7 @@
 
 **Hashed string**: PlaneChangeType.hshCstringRef
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## 0x7674c4d6
 
@@ -68,7 +68,7 @@
 
 **Type**: hshCstringRef
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## SuccessResult
 
@@ -80,7 +80,7 @@
 
 **Notes**: End result while editing, either Create or Break
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## ActionLockRange
 
@@ -90,7 +90,7 @@
 
 **Hashed string**: ActionLockRange u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## FallToRiver
 
@@ -100,7 +100,7 @@
 
 **Hashed string**: FallToRiver u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## MainType
 
@@ -110,7 +110,7 @@
 
 **Hashed string**: MainType u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## UpdateParts
 
@@ -120,5 +120,5 @@
 
 **Hashed string**: UpdateParts u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 

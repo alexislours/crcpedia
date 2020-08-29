@@ -11,7 +11,7 @@
 
 **Hashed string**: RoomType u32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Direction
 
@@ -21,7 +21,7 @@
 
 **Hashed string**: Direction s8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## GroupIndex
 
@@ -31,7 +31,7 @@
 
 **Hashed string**: GroupIndex s8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Size
 
@@ -41,7 +41,7 @@
 
 **Hashed string**: Size s8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## XUnitIndex
 
@@ -51,7 +51,7 @@
 
 **Hashed string**: XUnitIndex s8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## ZUnitIndex
 
@@ -61,5 +61,5 @@
 
 **Hashed string**: ZUnitIndex s8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 

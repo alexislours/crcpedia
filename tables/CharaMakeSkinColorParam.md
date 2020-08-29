@@ -14,7 +14,7 @@
 
 **Notes**: Blue float value for orange cheek color
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## CheekOrangeColorG
 
@@ -26,7 +26,7 @@
 
 **Notes**: Green float value for orange cheek color
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## CheekOrangeColorR
 
@@ -38,7 +38,7 @@
 
 **Notes**: Red float value for orange cheek color
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## CheekPinkColorB
 
@@ -50,7 +50,7 @@
 
 **Notes**: Blue float value for pink cheek color
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## CheekPinkColorG
 
@@ -62,7 +62,7 @@
 
 **Notes**: Green float value for pink cheek color
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## CheekPinkColorR
 
@@ -74,7 +74,7 @@
 
 **Notes**: Red float value for pink cheek color
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## SkinBaseColorB
 
@@ -86,7 +86,7 @@
 
 **Notes**: Blue float value for skin color
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## SkinBaseColorG
 
@@ -98,7 +98,7 @@
 
 **Notes**: Green float value for skin color
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## SkinBaseColorR
 
@@ -110,7 +110,7 @@
 
 **Notes**: Red float value for skin color
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## SkinEdgeColorB
 
@@ -122,7 +122,7 @@
 
 **Notes**: Blue float value for skin edge color
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## SkinEdgeColorG
 
@@ -134,7 +134,7 @@
 
 **Notes**: Green float value for skin edge color
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## SkinEdgeColorR
 
@@ -146,7 +146,7 @@
 
 **Notes**: Red float value for skin edge color
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## UniqueID
 
@@ -156,7 +156,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Label
 
@@ -166,7 +166,7 @@
 
 **Hashed string**: Label string32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Name
 
@@ -176,5 +176,5 @@
 
 **Hashed string**: Name string32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 

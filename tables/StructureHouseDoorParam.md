@@ -10,7 +10,7 @@
 
 **Type**: u32/s32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## HouseDoorAnim
 
@@ -20,7 +20,7 @@
 
 **Hashed string**: HouseDoorAnim.hshCstringRef
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## HouseDoorShape
 
@@ -30,7 +30,7 @@
 
 **Hashed string**: HouseDoorShape.hshCstringRef
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## CustomizeSortID
 
@@ -40,7 +40,7 @@
 
 **Hashed string**: CustomizeSortID u16
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Material
 
@@ -50,7 +50,7 @@
 
 **Hashed string**: Material u16
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## UniqueID
 
@@ -60,7 +60,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## DecoForbidden
 
@@ -70,7 +70,7 @@
 
 **Hashed string**: DecoForbidden u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Dummy
 
@@ -80,7 +80,7 @@
 
 **Hashed string**: Dummy u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## HasDoorWindow
 
@@ -90,7 +90,7 @@
 
 **Hashed string**: HasDoorWindow u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## LatchBolt
 
@@ -100,7 +100,7 @@
 
 **Hashed string**: LatchBolt u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## ModelName
 
@@ -110,5 +110,5 @@
 
 **Hashed string**: ModelName string32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 

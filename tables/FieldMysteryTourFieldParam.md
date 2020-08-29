@@ -14,7 +14,7 @@
 
 **Notes**: Removed in 1.1.0
 
-**Versions**: 1.0.0
+**Versions**: 
 
 ## UniqueID (Unused)
 
@@ -26,5 +26,5 @@
 
 **Notes**: Removed in 1.1.0
 
-**Versions**: 1.0.0
+**Versions**: 
 

@@ -12,7 +12,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## CanHasSit
 
@@ -22,7 +22,7 @@
 
 **Hashed string**: CanHasSit u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## EquipOnlyOutdoor
 
@@ -32,7 +32,7 @@
 
 **Hashed string**: EquipOnlyOutdoor u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## HandToolAsLabel
 
@@ -42,7 +42,7 @@
 
 **Hashed string**: HandToolAsLabel string32
 
-**Versions**: 1.4.0
+**Versions**: 
 
 ## HandToolAsName
 
@@ -52,7 +52,7 @@
 
 **Hashed string**: HandToolAsName string32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Label
 
@@ -62,7 +62,7 @@
 
 **Hashed string**: Label string32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Misc
 
@@ -74,7 +74,7 @@
 
 **Notes**: bitfield
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Name
 
@@ -84,7 +84,7 @@
 
 **Hashed string**: Name string32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## ToolEnterAsName
 
@@ -94,7 +94,7 @@
 
 **Hashed string**: ToolEnterAsName string32
 
-**Versions**: 1.2.0, 1.3.0, 1.4.0
+**Versions**: , 
 
 ## ToolLeftModelName
 
@@ -104,7 +104,7 @@
 
 **Hashed string**: ToolLeftModelName string20
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## ToolRightModelName
 
@@ -114,7 +114,7 @@
 
 **Hashed string**: ToolRightModelName string20
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## ToolSetupAsName
 
@@ -124,7 +124,7 @@
 
 **Hashed string**: ToolSetupAsName string32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## ToolSetupPutawayAsName
 
@@ -134,7 +134,7 @@
 
 **Hashed string**: ToolSetupPutawayAsName string32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## UseToolLeft
 
@@ -144,5 +144,5 @@
 
 **Hashed string**: UseToolLeft u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 

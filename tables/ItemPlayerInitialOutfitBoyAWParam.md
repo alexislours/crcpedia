@@ -14,7 +14,7 @@
 
 **Notes**: The initial eye accessory. Matches ItemParam's UniqueID. Equals -2 if none.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## AcceMouth
 
@@ -26,7 +26,7 @@
 
 **Notes**: The initial mouth accessory. Matches ItemParam's UniqueID. Equals -2 if none.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Bottoms
 
@@ -38,7 +38,7 @@
 
 **Notes**: The initial bottoms. Matches ItemParam's UniqueID. Equals -2 if none.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Cap
 
@@ -50,7 +50,7 @@
 
 **Notes**: The initial headwear. Matches ItemParam's UniqueID. Equals -2 if none.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Shoes
 
@@ -62,7 +62,7 @@
 
 **Notes**: The initial shoes. Matches ItemParam's UniqueID. Equals -2 if none.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Socks
 
@@ -74,7 +74,7 @@
 
 **Notes**: The initial socks. Matches ItemParam's UniqueID. Equals -2 if none.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Tops
 
@@ -86,7 +86,7 @@
 
 **Notes**: The initial top. Matches ItemParam's UniqueID. Equals -2 if none.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## UniqueID
 
@@ -96,7 +96,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Label
 
@@ -106,5 +106,5 @@
 
 **Hashed string**: Label string32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 

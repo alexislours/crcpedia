@@ -14,7 +14,7 @@
 
 **Notes**: UniqueID of EventFlagsLandParam
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## FlagPlayer
 
@@ -26,7 +26,7 @@
 
 **Notes**: UniqueID of EventFlagsPlayerParam
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## LifeSupportStamp
 
@@ -38,7 +38,7 @@
 
 **Notes**: Type of stamp used on completion
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## MaxValue1
 
@@ -50,7 +50,7 @@
 
 **Notes**: Value required for first stamp
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## MaxValue2
 
@@ -62,7 +62,7 @@
 
 **Notes**: Value required for second stamp
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## MaxValue3
 
@@ -74,7 +74,7 @@
 
 **Notes**: Value required for third stamp
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## MaxValue4
 
@@ -86,7 +86,7 @@
 
 **Notes**: Value required for fourth stamp
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## MaxValue5
 
@@ -98,7 +98,7 @@
 
 **Notes**: Value required for fifth stamp
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Reward1
 
@@ -110,7 +110,7 @@
 
 **Notes**: Reward in Nook Miles for first stamp
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Reward2
 
@@ -122,7 +122,7 @@
 
 **Notes**: Reward in Nook Miles for second stamp
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Reward3
 
@@ -134,7 +134,7 @@
 
 **Notes**: Reward in Nook Miles for third stamp
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Reward4
 
@@ -146,7 +146,7 @@
 
 **Notes**: Reward in Nook Miles for fourth stamp
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Reward5
 
@@ -158,7 +158,7 @@
 
 **Notes**: Reward in Nook Miles for fifth stamp
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Reward6
 
@@ -170,7 +170,7 @@
 
 **Notes**: Reward in Nook Miles for sixth stamp
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## WaitFrame
 
@@ -180,7 +180,7 @@
 
 **Hashed string**: WaitFrame u32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## UniqueID
 
@@ -190,7 +190,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## 0xbed25a86
 
@@ -198,7 +198,7 @@
 
 **Type**: u8/s8
 
-**Versions**: 1.4.0
+**Versions**: 
 
 ## IsSpecial
 
@@ -210,7 +210,7 @@
 
 **Notes**: 1 if the achievement doesn't work on a rank basis (eg plant fruits)
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Key
 
@@ -220,7 +220,7 @@
 
 **Hashed string**: Key string64
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## MaxLevel
 
@@ -232,7 +232,7 @@
 
 **Notes**: Number of stamps
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Name
 
@@ -242,5 +242,5 @@
 
 **Hashed string**: Name string128
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 

@@ -14,7 +14,7 @@
 
 **Notes**: Gender of the SpNpc in Asia
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## GenderUsEu
 
@@ -26,7 +26,7 @@
 
 **Notes**: Gender of the SpNpc in elsewhere
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## PacketId
 
@@ -36,7 +36,7 @@
 
 **Hashed string**: PacketId s32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Social
 
@@ -46,7 +46,7 @@
 
 **Hashed string**: Social u32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## NpcSpClothSet
 
@@ -58,7 +58,7 @@
 
 **Notes**: UniqueID of the NpcSpClothSetParam
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## PosterItemID
 
@@ -70,7 +70,7 @@
 
 **Notes**: ID of the poster for the Special NPC
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Smartphone
 
@@ -82,7 +82,7 @@
 
 **Notes**: ID of the phonecase of the Special NPC
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Umbrella
 
@@ -94,7 +94,7 @@
 
 **Notes**: ID of the umbrella of the Special NPC
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## UniqueID
 
@@ -104,7 +104,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## BirthMDay
 
@@ -116,7 +116,7 @@
 
 **Notes**: Birthday day
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## BirthMonth
 
@@ -128,7 +128,7 @@
 
 **Notes**: Birthday month
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## HavokResName
 
@@ -140,7 +140,7 @@
 
 **Notes**: Name of the Havok file for animations
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Label
 
@@ -150,7 +150,7 @@
 
 **Hashed string**: Label string8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## NameWithTitle
 
@@ -160,7 +160,7 @@
 
 **Hashed string**: NameWithTitle u8
 
-**Versions**: 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , 
 
 ## NpcColor
 
@@ -172,7 +172,7 @@
 
 **Notes**: Determines the color of the bubble and text surrounding their name while you talk to them. The value is the index of the array in the NpcColor BYML in the Pack folder (stored as an rgb float array).
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## ResName
 
@@ -184,7 +184,7 @@
 
 **Notes**: File name of the model
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## SpecialELink
 
@@ -194,7 +194,7 @@
 
 **Hashed string**: SpecialELink u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## SpecialSLink
 
@@ -204,7 +204,7 @@
 
 **Hashed string**: SpecialSLink u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## 0x21c5bbd6
 
@@ -212,7 +212,7 @@
 
 **Type**: u8/s8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## 0xe52f0037
 
@@ -220,7 +220,7 @@
 
 **Type**: u8/s8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## 0x42f255d5
 
@@ -228,7 +228,7 @@
 
 **Type**: u8/s8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## VmPauseType
 
@@ -238,7 +238,7 @@
 
 **Hashed string**: VmPauseType u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## VmRhythmType
 
@@ -248,5 +248,5 @@
 
 **Hashed string**: VmRhythmType u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 

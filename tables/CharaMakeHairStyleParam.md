@@ -12,7 +12,7 @@
 
 **Hashed string**: BackRotateOffsetX f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## BackRotateOffsetY
 
@@ -22,7 +22,7 @@
 
 **Hashed string**: BackRotateOffsetY f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## BackRotateOffsetZ
 
@@ -32,7 +32,7 @@
 
 **Hashed string**: BackRotateOffsetZ f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## BackTransOffsetX
 
@@ -42,7 +42,7 @@
 
 **Hashed string**: BackTransOffsetX f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## BackTransOffsetY
 
@@ -52,7 +52,7 @@
 
 **Hashed string**: BackTransOffsetY f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## BackTransOffsetZ
 
@@ -62,7 +62,7 @@
 
 **Hashed string**: BackTransOffsetZ f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## FrontRotateOffsetX
 
@@ -72,7 +72,7 @@
 
 **Hashed string**: FrontRotateOffsetX f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## FrontRotateOffsetY
 
@@ -82,7 +82,7 @@
 
 **Hashed string**: FrontRotateOffsetY f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## FrontRotateOffsetZ
 
@@ -92,7 +92,7 @@
 
 **Hashed string**: FrontRotateOffsetZ f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## FrontTransOffsetX
 
@@ -102,7 +102,7 @@
 
 **Hashed string**: FrontTransOffsetX f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## FrontTransOffsetY
 
@@ -112,7 +112,7 @@
 
 **Hashed string**: FrontTransOffsetY f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## FrontTransOffsetZ
 
@@ -122,7 +122,7 @@
 
 **Hashed string**: FrontTransOffsetZ f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## LeftRotateOffsetX
 
@@ -132,7 +132,7 @@
 
 **Hashed string**: LeftRotateOffsetX f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## LeftRotateOffsetY
 
@@ -142,7 +142,7 @@
 
 **Hashed string**: LeftRotateOffsetY f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## LeftRotateOffsetZ
 
@@ -152,7 +152,7 @@
 
 **Hashed string**: LeftRotateOffsetZ f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## LeftTransOffsetX
 
@@ -162,7 +162,7 @@
 
 **Hashed string**: LeftTransOffsetX f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## LeftTransOffsetY
 
@@ -172,7 +172,7 @@
 
 **Hashed string**: LeftTransOffsetY f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## LeftTransOffsetZ
 
@@ -182,7 +182,7 @@
 
 **Hashed string**: LeftTransOffsetZ f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## PeakRotateOffsetX
 
@@ -192,7 +192,7 @@
 
 **Hashed string**: PeakRotateOffsetX f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## PeakRotateOffsetY
 
@@ -202,7 +202,7 @@
 
 **Hashed string**: PeakRotateOffsetY f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## PeakRotateOffsetZ
 
@@ -212,7 +212,7 @@
 
 **Hashed string**: PeakRotateOffsetZ f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## PeakTransOffsetX
 
@@ -222,7 +222,7 @@
 
 **Hashed string**: PeakTransOffsetX f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## PeakTransOffsetY
 
@@ -232,7 +232,7 @@
 
 **Hashed string**: PeakTransOffsetY f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## PeakTransOffsetZ
 
@@ -242,7 +242,7 @@
 
 **Hashed string**: PeakTransOffsetZ f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## RightRotateOffsetX
 
@@ -252,7 +252,7 @@
 
 **Hashed string**: RightRotateOffsetX f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## RightRotateOffsetY
 
@@ -262,7 +262,7 @@
 
 **Hashed string**: RightRotateOffsetY f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## RightRotateOffsetZ
 
@@ -272,7 +272,7 @@
 
 **Hashed string**: RightRotateOffsetZ f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## RightTransOffsetX
 
@@ -282,7 +282,7 @@
 
 **Hashed string**: RightTransOffsetX f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## RightTransOffsetY
 
@@ -292,7 +292,7 @@
 
 **Hashed string**: RightTransOffsetY f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## RightTransOffsetZ
 
@@ -302,7 +302,7 @@
 
 **Hashed string**: RightTransOffsetZ f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## TopRotateOffsetX
 
@@ -312,7 +312,7 @@
 
 **Hashed string**: TopRotateOffsetX f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## TopRotateOffsetY
 
@@ -322,7 +322,7 @@
 
 **Hashed string**: TopRotateOffsetY f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## TopRotateOffsetZ
 
@@ -332,7 +332,7 @@
 
 **Hashed string**: TopRotateOffsetZ f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## TopTransOffsetX
 
@@ -342,7 +342,7 @@
 
 **Hashed string**: TopTransOffsetX f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## TopTransOffsetY
 
@@ -352,7 +352,7 @@
 
 **Hashed string**: TopTransOffsetY f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## TopTransOffsetZ
 
@@ -362,7 +362,7 @@
 
 **Hashed string**: TopTransOffsetZ f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## UniqueID
 
@@ -372,7 +372,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## CapResName
 
@@ -382,7 +382,7 @@
 
 **Hashed string**: CapResName string32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## InvisibleEarL
 
@@ -392,7 +392,7 @@
 
 **Hashed string**: InvisibleEarL u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## InvisibleEarR
 
@@ -402,7 +402,7 @@
 
 **Hashed string**: InvisibleEarR u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Label
 
@@ -412,7 +412,7 @@
 
 **Hashed string**: Label string32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Name
 
@@ -422,7 +422,7 @@
 
 **Hashed string**: Name string32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## ResName
 
@@ -432,5 +432,5 @@
 
 **Hashed string**: ResName string32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 

@@ -14,7 +14,7 @@
 
 **Notes**: Season end day of month (Northern hemisphere)
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## EndDaySouth
 
@@ -26,7 +26,7 @@
 
 **Notes**: Season end day of month (Southern hemisphere)
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## EndMonthNorth
 
@@ -38,7 +38,7 @@
 
 **Notes**: Season end month (NH)
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## EndMonthSouth
 
@@ -50,7 +50,7 @@
 
 **Notes**: Season end month (SH)
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## StartDayNorth
 
@@ -62,7 +62,7 @@
 
 **Notes**: Season start day (NH)
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## StartDaySouth
 
@@ -74,7 +74,7 @@
 
 **Notes**: Season start day (SH)
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## StartMonthNorth
 
@@ -86,7 +86,7 @@
 
 **Notes**: Season start month (NH)
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## StartMonthSouth
 
@@ -98,7 +98,7 @@
 
 **Notes**: Season start month (SH)
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## UniqueID
 
@@ -110,5 +110,5 @@
 
 **Notes**: This table determines seasonal availability periods for items in shops. 0=AllYear, 1=Spring, 2=Summer, 3=Fall, 4=Winter
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 

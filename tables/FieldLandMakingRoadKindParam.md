@@ -14,7 +14,7 @@
 
 **Notes**: UniqueID in ColGroundAttributeParam
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## InnerType
 
@@ -24,7 +24,7 @@
 
 **Hashed string**: InnerType u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## MessageLabel
 
@@ -36,5 +36,5 @@
 
 **Notes**: Label in String/STR_GroundMaker.msbt
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 

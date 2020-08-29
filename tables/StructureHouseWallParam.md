@@ -12,7 +12,7 @@
 
 **Hashed string**: HouseDoorStep.hshCstringRef
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## CustomizeSortID
 
@@ -22,7 +22,7 @@
 
 **Hashed string**: CustomizeSortID u16
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## 0x9c2d6dc6
 
@@ -30,7 +30,7 @@
 
 **Type**: u16/s16
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## HouseShapeUniqueID
 
@@ -40,7 +40,7 @@
 
 **Hashed string**: HouseShapeUniqueID u16
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## UniqueID
 
@@ -50,7 +50,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## LightParamName
 
@@ -60,7 +60,7 @@
 
 **Hashed string**: LightParamName string32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## ModelName
 
@@ -70,7 +70,7 @@
 
 **Hashed string**: ModelName string32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## UseCurtain
 
@@ -80,7 +80,7 @@
 
 **Hashed string**: UseCurtain u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## UseExteriorLight
 
@@ -90,5 +90,5 @@
 
 **Hashed string**: UseExteriorLight u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 

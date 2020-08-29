@@ -14,7 +14,7 @@
 
 **Notes**: Region the event is associated with. Matches to strings in STR_RegionEventArea
 
-**Versions**: 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , 
 
 ## SortID
 
@@ -26,7 +26,7 @@
 
 **Notes**: Sort ID for the events
 
-**Versions**: 1.2.0, 1.3.0, 1.4.0
+**Versions**: , 
 
 ## RegionEventCountry2
 
@@ -38,7 +38,7 @@
 
 **Notes**: Additional regions for the event in case there's more than one. Defined as row indices in CalendarEventCountryParam
 
-**Versions**: 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , 
 
 ## RegionEventCountry3
 
@@ -50,7 +50,7 @@
 
 **Notes**: Same as above
 
-**Versions**: 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , 
 
 ## RegionEventCountry4
 
@@ -62,7 +62,7 @@
 
 **Notes**: Same as above
 
-**Versions**: 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , 
 
 ## RegionEventCountry5
 
@@ -74,7 +74,7 @@
 
 **Notes**: Same as above
 
-**Versions**: 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , 
 
 ## UniqueID
 
@@ -84,7 +84,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , 
 
 ## EventLabel
 
@@ -96,7 +96,7 @@
 
 **Notes**: Label of the event
 
-**Versions**: 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , 
 
 ## ItemFrom
 
@@ -108,5 +108,5 @@
 
 **Notes**: ItemFrom label associated to the event
 
-**Versions**: 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , 
 

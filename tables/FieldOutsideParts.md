@@ -14,7 +14,7 @@
 
 **Notes**: The name used for this island part. There are multiple entries with the same name, and the game will pick a random one when generating the island.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## ReefType
 
@@ -24,7 +24,7 @@
 
 **Hashed string**: ReefType.hshCstringRef
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## UniqueID
 
@@ -34,7 +34,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## ModelName
 
@@ -46,5 +46,5 @@
 
 **Notes**: The resource name for this island part.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 

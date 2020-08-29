@@ -14,7 +14,7 @@
 
 **Notes**: The category this pattern pertains to.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Color1
 
@@ -26,7 +26,7 @@
 
 **Notes**: Color 1 of this pattern. Matches with Label in ItemColor.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Color2
 
@@ -38,7 +38,7 @@
 
 **Notes**: Color 2 of this pattern. Matches with Label in ItemColor.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## SortID
 
@@ -50,7 +50,7 @@
 
 **Notes**: Sort ID for common patterns.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## UniqueID
 
@@ -60,7 +60,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Label
 
@@ -72,7 +72,7 @@
 
 **Notes**: String with the value of UniqueID.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## TextureResName
 
@@ -84,5 +84,5 @@
 
 **Notes**: The resource name for this pattern.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 

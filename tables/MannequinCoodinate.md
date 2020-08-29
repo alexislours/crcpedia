@@ -20,7 +20,7 @@ MannequinPause04 -> UiCloset_PoseNatural01
 MannequinPause05 -> UiCloset_PoseNatural02
 MannequinPause06 -> UiCloset_PoseNatural03
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Seasonality
 
@@ -32,7 +32,7 @@ MannequinPause06 -> UiCloset_PoseNatural03
 
 **Notes**: During which seasons the mannequin appears (0 for any season, 2 for summer, 4 for winter).
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## AccEye
 
@@ -44,7 +44,7 @@ MannequinPause06 -> UiCloset_PoseNatural03
 
 **Notes**: The ID of the accessory for the eyes. Matches ItemParam's UniqueID. Equals -2 if no accessory.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## AccMouth
 
@@ -56,7 +56,7 @@ MannequinPause06 -> UiCloset_PoseNatural03
 
 **Notes**: The ID of the accessory for the mouth. Matches ItemParam's UniqueID. Equals -2 if no accessory.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Bottoms
 
@@ -68,7 +68,7 @@ MannequinPause06 -> UiCloset_PoseNatural03
 
 **Notes**: The ID of the worn bottoms. Matches ItemParam's UniqueID. Equals -2 if no bottoms.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Cap
 
@@ -80,7 +80,7 @@ MannequinPause06 -> UiCloset_PoseNatural03
 
 **Notes**: The ID of the worn headwear. Matches ItemParam's UniqueID. Equals -2 if no headwear.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Shoes
 
@@ -92,7 +92,7 @@ MannequinPause06 -> UiCloset_PoseNatural03
 
 **Notes**: The ID of the worn shoes. Matches ItemParam's UniqueID. Equals -2 if no shoes.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Socks
 
@@ -104,7 +104,7 @@ MannequinPause06 -> UiCloset_PoseNatural03
 
 **Notes**: The ID of the worn socks. Matches ItemParam's UniqueID. Equals -2 if no socks.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Tops
 
@@ -116,7 +116,7 @@ MannequinPause06 -> UiCloset_PoseNatural03
 
 **Notes**: The ID of the worn tops. Matches ItemParam's UniqueID. Equals -2 if no tops.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## UniqueID
 
@@ -126,5 +126,5 @@ MannequinPause06 -> UiCloset_PoseNatural03
 
 **Hashed string**: UniqueID u16
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 

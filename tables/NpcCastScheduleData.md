@@ -12,7 +12,7 @@
 
 **Hashed string**: ApplyNeedActivity u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## CanDoze
 
@@ -22,7 +22,7 @@
 
 **Hashed string**: CanDoze u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## CastLabel
 
@@ -32,7 +32,7 @@
 
 **Hashed string**: CastLabel u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## 0xd507df3e
 
@@ -40,7 +40,7 @@
 
 **Type**: u8/s8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## EndHour
 
@@ -50,7 +50,7 @@
 
 **Hashed string**: EndHour u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## EndMinute
 
@@ -60,7 +60,7 @@
 
 **Hashed string**: EndMinute u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## EventName
 
@@ -70,7 +70,7 @@
 
 **Hashed string**: EventName string32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## NeglectSleep
 
@@ -80,7 +80,7 @@
 
 **Hashed string**: NeglectSleep u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## StartHour
 
@@ -90,7 +90,7 @@
 
 **Hashed string**: StartHour u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## StartMinute
 
@@ -100,7 +100,7 @@
 
 **Hashed string**: StartMinute u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## UseRainGoods
 
@@ -110,5 +110,5 @@
 
 **Hashed string**: UseRainGoods u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 

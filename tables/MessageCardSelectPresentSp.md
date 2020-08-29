@@ -14,7 +14,7 @@
 
 **Notes**: Seems to match with some UniqueID.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## ItemCategoryGroup
 
@@ -26,7 +26,7 @@
 
 **Notes**: Either 0 or 1.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## 0x37571146
 
@@ -34,7 +34,7 @@
 
 **Type**: u32/s32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## 0xe060d3cd
 
@@ -44,7 +44,7 @@
 
 **Notes**: Either 0 or 3.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## ItemRemakeType
 
@@ -56,5 +56,5 @@
 
 **Notes**: Either 0 or 1.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 

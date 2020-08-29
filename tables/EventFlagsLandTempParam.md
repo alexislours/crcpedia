@@ -12,7 +12,7 @@
 
 **Hashed string**: DefaultValue u16
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## MaxValue
 
@@ -22,7 +22,7 @@
 
 **Hashed string**: MaxValue u16
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## UniqueID
 
@@ -32,7 +32,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## 0x5140e4b4
 
@@ -40,7 +40,7 @@
 
 **Type**: u8/s8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## 0x3dad9135
 
@@ -48,7 +48,7 @@
 
 **Type**: u8/s8
 
-**Versions**: 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , 
 
 ## 0x3c7fb88f
 
@@ -56,7 +56,7 @@
 
 **Type**: u8/s8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## FlagsFlowAccess
 
@@ -66,7 +66,7 @@
 
 **Hashed string**: FlagsFlowAccess u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## FlagsNetAccess
 
@@ -76,7 +76,7 @@
 
 **Hashed string**: FlagsNetAccess u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Key
 
@@ -86,7 +86,7 @@
 
 **Hashed string**: Key string64
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Name
 
@@ -96,5 +96,5 @@
 
 **Hashed string**: Name string128
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 

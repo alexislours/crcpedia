@@ -12,7 +12,7 @@
 
 **Hashed string**: MaxValue u16
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## MessageLabel
 
@@ -22,7 +22,7 @@
 
 **Hashed string**: MessageLabel u16
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## TalkValueVillager
 
@@ -32,7 +32,7 @@
 
 **Hashed string**: TalkValueVillager u16
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## TalkValueVisitor
 
@@ -42,7 +42,7 @@
 
 **Hashed string**: TalkValueVisitor u16
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## UniqueID
 
@@ -52,7 +52,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## FlagsFlowAccess
 
@@ -62,7 +62,7 @@
 
 **Hashed string**: FlagsFlowAccess u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Key
 
@@ -72,7 +72,7 @@
 
 **Hashed string**: Key string64
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Name
 
@@ -82,5 +82,5 @@
 
 **Hashed string**: Name string128
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 

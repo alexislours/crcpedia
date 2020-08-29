@@ -14,7 +14,7 @@
 
 **Notes**: indices to MessageCardColorParam
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## BodyColor
 
@@ -26,7 +26,7 @@
 
 **Notes**: indices to MessageCardColorParam
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## 0x63a46970
 
@@ -36,7 +36,7 @@
 
 **Notes**: Never used by game code
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## FootColor
 
@@ -48,7 +48,7 @@
 
 **Notes**: indices to MessageCardColorParam
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## HeadColor
 
@@ -60,7 +60,7 @@
 
 **Notes**: indices to MessageCardColorParam
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## PenColor1
 
@@ -72,7 +72,7 @@
 
 **Notes**: indices to MessageCardColorParam
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## PenColor2
 
@@ -84,7 +84,7 @@
 
 **Notes**: indices to MessageCardColorParam
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## PenColor3
 
@@ -96,7 +96,7 @@
 
 **Notes**: indices to MessageCardColorParam
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## PenColor4
 
@@ -108,7 +108,7 @@
 
 **Notes**: indices to MessageCardColorParam
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## RuleColor
 
@@ -120,7 +120,7 @@
 
 **Notes**: indices to MessageCardColorParam
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## SelectableBeginDate1
 
@@ -132,7 +132,7 @@
 
 **Notes**: mail card design unlock date, stored as month * 100 + day. (e.g. 1120 = november 20th)
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## SelectableBeginDate2
 
@@ -144,7 +144,7 @@
 
 **Notes**: southern hemisphere override for previous date
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## SelectableEndDate1
 
@@ -156,7 +156,7 @@
 
 **Notes**: mail card design unlock end date
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## SelectableEndDate2
 
@@ -168,7 +168,7 @@
 
 **Notes**: southern hemisphere override for previous date
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## TextLotId
 
@@ -180,7 +180,7 @@
 
 **Notes**: Always -1
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## 0x84818e10
 
@@ -190,7 +190,7 @@
 
 **Notes**: Always -1
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## UniqueID
 
@@ -200,7 +200,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Kind
 
@@ -212,7 +212,7 @@
 
 **Notes**: Always 0
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## ResourceName
 
@@ -224,7 +224,7 @@
 
 **Notes**: MessageCard image in Layout
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## SelectableSeason
 
@@ -236,7 +236,7 @@
 
 **Notes**: Sets card seasonality. 1-4 are regular seasons; 5 uses SelectableBeginDate1 and SelectableEndDate1 for both hemispheres; 6 is the same as 5 but uses SelectableBeginDate2 and SelectableEndDate2 for southern hemisphere
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## UnlockTrigger
 
@@ -246,5 +246,5 @@
 
 **Hashed string**: UnlockTrigger u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 

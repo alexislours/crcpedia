@@ -10,7 +10,7 @@
 
 **Type**: hshCstringRef
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## DefaultValue
 
@@ -20,7 +20,7 @@
 
 **Hashed string**: DefaultValue u32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## FlagsFlowAccess
 
@@ -32,7 +32,7 @@
 
 **Notes**: DisableAccess, EnableReadOnly, and EnableReadWrite
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## FlagsNetAccess
 
@@ -44,7 +44,7 @@
 
 **Notes**: SpNpcOnly, ReadOnly, ManualSend, BitSend, NoCheck, HetHostOnly, and ReadMyVillageOnly
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## MaxValue
 
@@ -54,7 +54,7 @@
 
 **Hashed string**: MaxValue u32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## UniqueID
 
@@ -64,7 +64,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Key
 
@@ -74,7 +74,7 @@
 
 **Hashed string**: Key string64
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Name
 
@@ -84,7 +84,7 @@
 
 **Hashed string**: Name string128
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## SendPlayReport
 
@@ -94,7 +94,7 @@
 
 **Hashed string**: SendPlayReport u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## SyncNoCheck
 
@@ -104,5 +104,5 @@
 
 **Hashed string**: SyncNoCheck u8
 
-**Versions**: 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , 
 

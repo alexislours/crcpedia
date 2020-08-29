@@ -14,7 +14,7 @@
 
 **Notes**: The theme corresponding to this combination.
 
-**Versions**: 1.2.0, 1.3.0, 1.4.0
+**Versions**: , 
 
 ## FloorItemId
 
@@ -26,7 +26,7 @@
 
 **Notes**: A floor used by default for this combination. Matches with UniqueID in ItemParam.
 
-**Versions**: 1.2.0, 1.3.0, 1.4.0
+**Versions**: , 
 
 ## RugItemId
 
@@ -38,7 +38,7 @@
 
 **Notes**: A rug used by default for this combination. Equals -2 if no rug. Matches with UniqueID in ItemParam.
 
-**Versions**: 1.2.0, 1.3.0, 1.4.0
+**Versions**: , 
 
 ## UniqueID
 
@@ -48,7 +48,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: 1.2.0, 1.3.0, 1.4.0
+**Versions**: , 
 
 ## WallItemId
 
@@ -60,5 +60,5 @@
 
 **Notes**: A wallpaper used by default for this combination. Matches with UniqueID in ItemParam.
 
-**Versions**: 1.2.0, 1.3.0, 1.4.0
+**Versions**: , 
 

@@ -14,7 +14,7 @@
 
 **Notes**: Sets animation variation for holding bags
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## AnimeTypeBasket
 
@@ -26,7 +26,7 @@
 
 **Notes**: Sets animation variation for holding baskets
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## AnimeTypeBloom
 
@@ -38,7 +38,7 @@
 
 **Notes**: Sets animation variation for sweeping (bloom should be broom)
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## AnimeTypeBook
 
@@ -50,7 +50,7 @@
 
 **Notes**: Sets animation variation for reading books
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## AnimeTypeDrink
 
@@ -62,7 +62,7 @@
 
 **Notes**: Sets animation variation for drinking
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## AnimeTypeFirewood
 
@@ -74,7 +74,7 @@
 
 **Notes**: Sets animation variation holding firewood
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## AnimeTypeFishingRod
 
@@ -86,7 +86,7 @@
 
 **Notes**: Sets animation variation for fishing
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## AnimeTypeFood
 
@@ -98,7 +98,7 @@
 
 **Notes**: Sets animation variation for eating
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## AnimeTypeHandGlass
 
@@ -110,7 +110,7 @@
 
 **Notes**: Sets animation variation observing with a magnifying glass
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## AnimeTypeNet
 
@@ -122,7 +122,7 @@
 
 **Notes**: Sets animation variation holding nets
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## AnimeTypeSitDown
 
@@ -134,7 +134,7 @@
 
 **Notes**: Sets animation variation for sitting down
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## AnimeTypeSmartPhone
 
@@ -146,7 +146,7 @@
 
 **Notes**: Sets animation variation for holding smartphones
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## AnimeTypeUmbrella
 
@@ -158,7 +158,7 @@
 
 **Notes**: Sets animation variation for holding umbrellas
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## AnimeTypeWateringCan
 
@@ -170,7 +170,7 @@
 
 **Notes**: Sets animation variation for using watering cans
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Label
 
@@ -182,5 +182,5 @@
 
 **Notes**: Species 3-letter code
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 

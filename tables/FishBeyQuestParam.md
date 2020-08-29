@@ -12,7 +12,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## IsSelectQuestM
 
@@ -24,7 +24,7 @@
 
 **Notes**: determines what quests CJ can start in a given month
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## IsSelectQuestS
 
@@ -36,7 +36,7 @@
 
 **Notes**: determines what quests CJ can start in a given month
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## IsSelectQuestSS
 
@@ -48,5 +48,5 @@
 
 **Notes**: determines what quests CJ can start in a given month
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 

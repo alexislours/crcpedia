@@ -12,7 +12,7 @@
 
 **Hashed string**: UniqueID u32
 
-**Versions**: 1.2.0, 1.3.0, 1.4.0
+**Versions**: , 
 
 ## PriorityReward
 
@@ -24,7 +24,7 @@
 
 **Notes**: Default reward given
 
-**Versions**: 1.2.0, 1.3.0, 1.4.0
+**Versions**: , 
 
 ## SubordinateReward
 
@@ -36,7 +36,7 @@
 
 **Notes**: Alternate reward given
 
-**Versions**: 1.2.0, 1.3.0, 1.4.0
+**Versions**: , 
 
 ## JuneBrideProgress
 
@@ -48,5 +48,5 @@
 
 **Notes**: Number of photoshoot completed to get reward
 
-**Versions**: 1.2.0, 1.3.0, 1.4.0
+**Versions**: , 
 

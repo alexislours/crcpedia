@@ -14,7 +14,7 @@
 
 **Notes**: The resource name for this museum room's model.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## UniqueID
 
@@ -24,7 +24,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## SpotTalkKey
 
@@ -36,7 +36,7 @@
 
 **Notes**: The resource name for handling dialogue in this room.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## SpotTalkLabelKey
 
@@ -48,7 +48,7 @@
 
 **Notes**: Either "1", "2" or "3"
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## SpotTalkName
 
@@ -60,5 +60,5 @@
 
 **Notes**: The spot's name in Japanese.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 

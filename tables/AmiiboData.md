@@ -14,7 +14,7 @@
 
 **Notes**: An ID for the villager (and its outfit if it's a special character)
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## NumberingId
 
@@ -26,7 +26,7 @@
 
 **Notes**: A unique ID maybe?
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## SpNpcCloth
 
@@ -38,7 +38,7 @@
 
 **Notes**: always 0
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## NfpType
 
@@ -50,7 +50,7 @@
 
 **Notes**: 0 if it's a "regular" amiibo, 1 if it's an amiibo card
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## NpcLabel
 
@@ -62,7 +62,7 @@
 
 **Notes**: the character's id
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## NpcType
 
@@ -74,7 +74,7 @@
 
 **Notes**: 1 if special NPC, 0 if regular villager
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Reaction
 
@@ -86,7 +86,7 @@
 
 **Notes**: Same values as Studio. One or both of these determine whether an amiibo can be spawned at Photopia or the campsite (in conjunction with NpcType)
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## SeriesId
 
@@ -98,7 +98,7 @@
 
 **Notes**: always 5
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Studio
 
@@ -110,5 +110,5 @@
 
 **Notes**: Same values as Reaction. One or both of these determine whether an amiibo can be spawned at Photopia or the campsite (in conjunction with NpcType)
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 

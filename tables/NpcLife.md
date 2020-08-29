@@ -14,7 +14,7 @@
 
 **Notes**: All rows are -1
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## ItemUniqueID
 
@@ -26,7 +26,7 @@
 
 **Notes**: Equipped item during activity
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## SatisfyMinute
 
@@ -38,7 +38,7 @@
 
 **Notes**: All rows are 15
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## BehaviorType
 
@@ -50,7 +50,7 @@
 
 **Notes**: Behavior type ID?
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## EquipRule
 
@@ -62,7 +62,7 @@
 
 **Notes**: Clothes worn during activity as defined in NpcEquipRule
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## FlagType
 
@@ -72,7 +72,7 @@
 
 **Hashed string**: FlagType u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## GroupActivityPlacementType
 
@@ -82,7 +82,7 @@
 
 **Hashed string**: GroupActivityPlacementType u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## HobbyEducationLevel
 
@@ -94,7 +94,7 @@
 
 **Notes**: Activities for villagers with the education hobby
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## HobbyFashionLevel
 
@@ -106,7 +106,7 @@
 
 **Notes**: Activities for villagers with the fashion hobby
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## HobbyFitnessLevel
 
@@ -118,7 +118,7 @@
 
 **Notes**: Activities for villagers with the fitness hobby
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## HobbyMotif
 
@@ -130,7 +130,7 @@
 
 **Notes**: Determines what activities are modified by hobby
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## HobbyMusicLevel
 
@@ -142,7 +142,7 @@
 
 **Notes**: Activities for villagers with the music hobby
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## HobbyNatureLevel
 
@@ -154,7 +154,7 @@
 
 **Notes**: Activities for villagers with the nature hobby
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## HobbyPlayLevel
 
@@ -166,7 +166,7 @@
 
 **Notes**: Activities for villagers with the play hobby
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## LifeMotif
 
@@ -176,7 +176,7 @@
 
 **Hashed string**: LifeMotif u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## LiveMotif
 
@@ -186,7 +186,7 @@
 
 **Hashed string**: LiveMotif u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## LookAtType
 
@@ -196,7 +196,7 @@
 
 **Hashed string**: LookAtType u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## MoveASType
 
@@ -208,7 +208,7 @@
 
 **Notes**: Movement animation. Used for airplane run
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## NetPlay
 
@@ -218,7 +218,7 @@
 
 **Hashed string**: NetPlay u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## RainActive
 
@@ -228,7 +228,7 @@
 
 **Hashed string**: RainActive u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## RainEquipment
 
@@ -238,7 +238,7 @@
 
 **Hashed string**: RainEquipment u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## SeasonAutumnLevel
 
@@ -250,7 +250,7 @@
 
 **Notes**: Determines which seasons allow for each group activity. 0 = Available, 1 = Unavailable
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## SeasonSpringLevel
 
@@ -262,7 +262,7 @@
 
 **Notes**: Determines which seasons allow for each group activity. 0 = Available, 1 = Unavailable
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## SeasonSummerLevel
 
@@ -274,7 +274,7 @@
 
 **Notes**: Determines which seasons allow for each group activity. 0 = Available, 1 = Unavailable
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## SeasonWinterLevel
 
@@ -286,7 +286,7 @@
 
 **Notes**: Determines which seasons allow for each group activity. 0 = Available, 1 = Unavailable
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## SpotType
 
@@ -296,7 +296,7 @@
 
 **Hashed string**: SpotType u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## TimeZoneIndoorEarlyMorningLevel
 
@@ -308,7 +308,7 @@
 
 **Notes**: The time of day each activity can happen (Same between all Indoor levels)
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## TimeZoneIndoorEveningLevel
 
@@ -320,7 +320,7 @@
 
 **Notes**: The time of day each activity can happen (Same between all Indoor levels)
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## TimeZoneIndoorMidnightLevel
 
@@ -332,7 +332,7 @@
 
 **Notes**: The time of day each activity can happen (Same between all Indoor levels)
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## TimeZoneIndoorMorningLevel
 
@@ -344,7 +344,7 @@
 
 **Notes**: The time of day each activity can happen (Same between all Indoor levels)
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## TimeZoneIndoorNightLevel
 
@@ -356,7 +356,7 @@
 
 **Notes**: The time of day each activity can happen (Same between all Indoor levels)
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## TimeZoneIndoorNoonLevel
 
@@ -368,7 +368,7 @@
 
 **Notes**: The time of day each activity can happen (Same between all Indoor levels)
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## TimeZoneOutdoorEarlyMorningLevel
 
@@ -380,7 +380,7 @@
 
 **Notes**: The time of day each activity can happen. 0 = Available, 1 = Limited?, 2 = Unavailable. 5AM - 8AM
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## TimeZoneOutdoorEveningLevel
 
@@ -392,7 +392,7 @@
 
 **Notes**: The time of day each activity can happen. 0 = Available, 1 = Limited?, 2 = Unavailable. 4PM - 7PM
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## TimeZoneOutdoorMidnightLevel
 
@@ -404,7 +404,7 @@
 
 **Notes**: The time of day each activity can happen. 0 = Available, 1 = Limited?, 2 = Unavailable. 12AM - 5AM
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## TimeZoneOutdoorMorningLevel
 
@@ -416,7 +416,7 @@
 
 **Notes**: The time of day each activity can happen. 0 = Available, 1 = Limited?, 2 = Unavailable. 8AM - 12PM
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## TimeZoneOutdoorNightLevel
 
@@ -428,7 +428,7 @@
 
 **Notes**: The time of day each activity can happen. 0 = Available, 1 = Limited?, 2 = Unavailable. 7PM - 12AM
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## TimeZoneOutdoorNoonLevel
 
@@ -440,7 +440,7 @@
 
 **Notes**: The time of day each activity can happen. 0 = Available, 1 = Limited?, 2 = Unavailable. 12PM - 4PM
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## VillageDevelopmentLevel
 
@@ -452,7 +452,7 @@
 
 **Notes**: How developed the village must be before the activity can happen
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## WaitASType
 
@@ -464,5 +464,5 @@
 
 **Notes**: Animation while standing still
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 

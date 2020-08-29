@@ -14,7 +14,7 @@
 
 **Notes**: Removed in 1.3.0
 
-**Versions**: 1.1.0, 1.2.0
+**Versions**: 
 
 ## Name (Unused)
 
@@ -26,5 +26,5 @@
 
 **Notes**: Removed in 1.3.0
 
-**Versions**: 1.1.0, 1.2.0
+**Versions**: 
 

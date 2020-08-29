@@ -14,7 +14,7 @@
 
 **Notes**: The island part for acre B7. Matches PartsKind in FieldOutsideParts.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## E1Parts
 
@@ -26,7 +26,7 @@
 
 **Notes**: The island part for acre C7. Matches PartsKind in FieldOutsideParts.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## E2Parts
 
@@ -38,7 +38,7 @@
 
 **Notes**: The island part for acre D7. Matches PartsKind in FieldOutsideParts.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## E3Parts
 
@@ -50,7 +50,7 @@
 
 **Notes**: The island part for acre E7. Matches PartsKind in FieldOutsideParts.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## N0Parts
 
@@ -62,7 +62,7 @@
 
 **Notes**: The island part for acre A2. Matches PartsKind in FieldOutsideParts.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## N1Parts
 
@@ -74,7 +74,7 @@
 
 **Notes**: The island part for acre A3. Matches PartsKind in FieldOutsideParts.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## N2Parts
 
@@ -86,7 +86,7 @@
 
 **Notes**: The island part for acre A4. Matches PartsKind in FieldOutsideParts.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## N3Parts
 
@@ -98,7 +98,7 @@
 
 **Notes**: The island part for acre A5. Matches PartsKind in FieldOutsideParts.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## N4Parts
 
@@ -110,7 +110,7 @@
 
 **Notes**: The island part for acre A6. Matches PartsKind in FieldOutsideParts.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## NEParts
 
@@ -122,7 +122,7 @@
 
 **Notes**: The island part for acre A7. Matches PartsKind in FieldOutsideParts.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## NWParts
 
@@ -134,7 +134,7 @@
 
 **Notes**: The island part for acre A1. Matches PartsKind in FieldOutsideParts.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## S0Parts
 
@@ -146,7 +146,7 @@
 
 **Notes**: The island part for acre F2. Matches PartsKind in FieldOutsideParts.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## S1Parts
 
@@ -158,7 +158,7 @@
 
 **Notes**: The island part for acre F3. Matches PartsKind in FieldOutsideParts.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## S2Parts
 
@@ -170,7 +170,7 @@
 
 **Notes**: The island part for acre F4. Matches PartsKind in FieldOutsideParts.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## S3Parts
 
@@ -182,7 +182,7 @@
 
 **Notes**: The island part for acre F5. Matches PartsKind in FieldOutsideParts.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## S4Parts
 
@@ -194,7 +194,7 @@
 
 **Notes**: The island part for acre F6. Matches PartsKind in FieldOutsideParts.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## SEParts
 
@@ -206,7 +206,7 @@
 
 **Notes**: The island part for acre F7. Matches PartsKind in FieldOutsideParts.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## SWParts
 
@@ -218,7 +218,7 @@
 
 **Notes**: The island part for acre F1. Matches PartsKind in FieldOutsideParts.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## SeaType
 
@@ -230,7 +230,7 @@
 
 **Notes**: Always 3B
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## TemplateKind
 
@@ -242,7 +242,7 @@
 
 **Notes**: "3B_" followed by where the river mouths are: either "S2" if both mouths are south, "SW" if one is south and the other is west, and "SE" if one is south and the other is east.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## W0Parts
 
@@ -254,7 +254,7 @@
 
 **Notes**: The island part for acre B1. Matches PartsKind in FieldOutsideParts.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## W1Parts
 
@@ -266,7 +266,7 @@
 
 **Notes**: The island part for acre C1. Matches PartsKind in FieldOutsideParts.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## W2Parts
 
@@ -278,7 +278,7 @@
 
 **Notes**: The island part for acre D1. Matches PartsKind in FieldOutsideParts.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## W3Parts
 
@@ -290,7 +290,7 @@
 
 **Notes**: The island part for acre E1. Matches PartsKind in FieldOutsideParts.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## WindDirection
 
@@ -302,7 +302,7 @@
 
 **Notes**: The direction the wind blows from on each island template?
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## UniqueID
 
@@ -312,7 +312,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## EnglishName
 
@@ -324,5 +324,5 @@
 
 **Notes**: The template's name? Format is FldOutTemplate[A, B or C][number from 0 to 11]. If A, TemplateKind is 3B_S2, if B it's 3B_SW and if C it's 3B_SE.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 

@@ -14,7 +14,7 @@
 
 **Notes**: Possibly related to Ambient Occlusion? Values are "UseAO" and "None".
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Act
 
@@ -26,7 +26,7 @@
 
 **Notes**: Related to special effect wallpapers' styles. Values are "Random", "Synchro", "LightOff", and "None" - for example, the Skull Wallpaper has a glow-in-the-dark pattern & is set as "LightOff" in this field
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Light
 
@@ -38,7 +38,7 @@
 
 **Notes**: Possibly related to lighting color ... ? Values are "Orange" and "White"
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Price
 
@@ -50,7 +50,7 @@
 
 **Notes**: ??? Only value is "888"
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## ArchUniqueID
 
@@ -62,7 +62,7 @@
 
 **Notes**: Joins on the UniqueID field in RoomArchParam
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## CeilingUniqueID
 
@@ -74,7 +74,7 @@
 
 **Notes**: Joins on the UniqueID field in RoomCeilingParam
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## CurtainTexUniqueID
 
@@ -86,7 +86,7 @@
 
 **Notes**: Joins on the UniqueID field in RoomCurtainTexParam
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## CurtainUniqueID
 
@@ -98,7 +98,7 @@
 
 **Notes**: Joins on the UniqueID field in RoomCurtainParam
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## ItemTableId
 
@@ -110,7 +110,7 @@
 
 **Notes**: Haven't double-checked but I'm 90% sure this joins on the UniqueID in ItemParam
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## UniqueID
 
@@ -120,7 +120,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## WindowUniqueID
 
@@ -132,7 +132,7 @@
 
 **Notes**: Joins on the UniqueID field in RoomWindowParam
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## ItemName
 
@@ -144,7 +144,7 @@
 
 **Notes**: self-explanatory name; japanese string
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## ResourceName
 
@@ -156,7 +156,7 @@
 
 **Notes**: I believe this is the prefix / filename for the model in Romfs; for example, "RoomTexWallCommon00"
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Reverberation (Unused)
 
@@ -168,7 +168,7 @@
 
 **Notes**: Removed in 1.3.0
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0
+**Versions**: , , 
 
 ## TextureWindow
 
@@ -180,5 +180,5 @@
 
 **Notes**: Boolean, 1 or 0. Only about 8 or so walls are tagged 1 - unsure how they're related
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 

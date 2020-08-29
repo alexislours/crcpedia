@@ -14,7 +14,7 @@
 
 **Notes**: Movement style. "Stop" is stationary
 
-**Versions**: 1.3.0, 1.4.0
+**Versions**: 
 
 ## CaptureCategory
 
@@ -26,7 +26,7 @@
 
 **Notes**: Distinguishes plants from animals. Affects UI text: plants get "returned" instead of "released" when disposing of near water
 
-**Versions**: 1.3.0, 1.4.0
+**Versions**: 
 
 ## CaptureLevel
 
@@ -38,7 +38,7 @@
 
 **Notes**: Catch difficulty. Creatures with lower values are faster and harder to catch
 
-**Versions**: 1.3.0, 1.4.0
+**Versions**: 
 
 ## ShadowType
 
@@ -50,7 +50,7 @@
 
 **Notes**: Shadow size
 
-**Versions**: 1.3.0, 1.4.0
+**Versions**: 
 
 ## ItemID
 
@@ -62,7 +62,7 @@
 
 **Notes**: Matches ItemParam UniqueID and STR_ItemName ids
 
-**Versions**: 1.3.0, 1.4.0
+**Versions**: 
 
 ## OpenRecordNum
 
@@ -74,7 +74,7 @@
 
 **Notes**: Total lifetime sea creature catches required to unlock this one. Can be checked with the "Deep Dive" Nook Miles achievement
 
-**Versions**: 1.3.0, 1.4.0
+**Versions**: 
 
 ## UniqueID
 
@@ -84,7 +84,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: 1.3.0, 1.4.0
+**Versions**: 
 
 ## DebugName
 
@@ -94,7 +94,7 @@
 
 **Hashed string**: DebugName string32
 
-**Versions**: 1.3.0, 1.4.0
+**Versions**: 
 
 ## Label
 
@@ -104,7 +104,7 @@
 
 **Hashed string**: Label string32
 
-**Versions**: 1.3.0, 1.4.0
+**Versions**: 
 
 ## ResName
 
@@ -116,7 +116,7 @@
 
 **Notes**: Regular model
 
-**Versions**: 1.3.0, 1.4.0
+**Versions**: 
 
 ## ResNameMuseum
 
@@ -128,5 +128,5 @@
 
 **Notes**: Museum model
 
-**Versions**: 1.3.0, 1.4.0
+**Versions**: 
 

@@ -12,7 +12,7 @@
 
 **Notes**: Maybe some kind of ID to match with the message's content?
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## DesignAlways1
 
@@ -24,7 +24,7 @@
 
 **Notes**: The card design for this message. Matches UniqueID in MessageCardDesignParam.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## DesignAlways2
 
@@ -36,7 +36,7 @@
 
 **Notes**: An extra possible card design for this message. -1 if none. Matches UniqueID in MessageCardDesignParam.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## DesignAlways3
 
@@ -48,7 +48,7 @@
 
 **Notes**: Same as above
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## DesignAlways4
 
@@ -60,7 +60,7 @@
 
 **Notes**: Same as above
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## DesignAutumn1
 
@@ -72,7 +72,7 @@
 
 **Notes**: An extra possible card design for this message if it's written during Autumn. -1 if none. Matches UniqueID in MessageCardDesignParam.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## DesignAutumn2
 
@@ -84,7 +84,7 @@
 
 **Notes**: Same as above
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## DesignSpring1
 
@@ -96,7 +96,7 @@
 
 **Notes**: An extra possible card design for this message if it's written during Spring. -1 if none. Matches UniqueID in MessageCardDesignParam.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## DesignSpring2
 
@@ -108,7 +108,7 @@
 
 **Notes**: Same as above
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## DesignSummer1
 
@@ -120,7 +120,7 @@
 
 **Notes**: An extra possible card design for this message if it's written during Summer. -1 if none. Matches UniqueID in MessageCardDesignParam.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## DesignSummer2
 
@@ -132,7 +132,7 @@
 
 **Notes**: Same as above
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## DesignWinter1
 
@@ -144,7 +144,7 @@
 
 **Notes**: An extra possible card design for this message if it's written during Winter. -1 if none. Matches UniqueID in MessageCardDesignParam.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## DesignWinter2
 
@@ -156,5 +156,5 @@
 
 **Notes**: Same as above
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 

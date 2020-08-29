@@ -14,7 +14,7 @@
 
 **Notes**: Cooldown in seconds?
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## UniqueID
 
@@ -24,7 +24,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## ASCommand
 
@@ -36,7 +36,7 @@
 
 **Notes**: Animation used.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## EndHour
 
@@ -48,7 +48,7 @@
 
 **Notes**: End hour for use of said animation
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Label
 
@@ -60,7 +60,7 @@
 
 **Notes**: SpNpcParam label
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## SelectRate
 
@@ -72,7 +72,7 @@
 
 **Notes**: Probability of the animation being activated when the Npc is idle? Trying every SelectSecond?
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## StartHour
 
@@ -84,7 +84,7 @@
 
 **Notes**: Start hour for use of said animation
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Type
 
@@ -94,5 +94,5 @@
 
 **Hashed string**: Type u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 

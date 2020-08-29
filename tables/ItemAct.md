@@ -12,7 +12,7 @@
 
 **Hashed string**: AsName.hshCstringRef
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## CategoryName
 
@@ -22,7 +22,7 @@
 
 **Hashed string**: CategoryName.hshCstringRef
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## 0x8b1904b9
 
@@ -30,7 +30,7 @@
 
 **Type**: hshCstringRef
 
-**Versions**: 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , 
 
 ## UniqueID
 
@@ -40,7 +40,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Collision
 
@@ -50,7 +50,7 @@
 
 **Hashed string**: Collision u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## DemoType
 
@@ -60,7 +60,7 @@
 
 **Hashed string**: DemoType u8
 
-**Versions**: 1.3.0, 1.4.0
+**Versions**: 
 
 ## Label
 
@@ -70,7 +70,7 @@
 
 **Hashed string**: Label string32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Name
 
@@ -80,7 +80,7 @@
 
 **Hashed string**: Name string64
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## SwitchableOnWall
 
@@ -90,5 +90,5 @@
 
 **Hashed string**: SwitchableOnWall u8
 
-**Versions**: 1.3.0, 1.4.0
+**Versions**: 
 

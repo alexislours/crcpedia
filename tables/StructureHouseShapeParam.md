@@ -12,7 +12,7 @@
 
 **Hashed string**: AppearanceLevel.hshCstringRef
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## CustomizeSortID
 
@@ -22,7 +22,7 @@
 
 **Hashed string**: CustomizeSortID u16
 
-**Versions**: 1.4.0
+**Versions**: 
 
 ## DefaultDoorUniqueID
 
@@ -32,7 +32,7 @@
 
 **Hashed string**: DefaultDoorUniqueID u16
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## DefaultRoofUniqueID
 
@@ -42,7 +42,7 @@
 
 **Hashed string**: DefaultRoofUniqueID u16
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## DefaultWallUniqueID
 
@@ -52,7 +52,7 @@
 
 **Hashed string**: DefaultWallUniqueID u16
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## HousePartsType
 
@@ -62,7 +62,7 @@
 
 **Hashed string**: HousePartsType u16
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## UniqueID
 
@@ -72,7 +72,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## DoorBellName
 
@@ -82,7 +82,7 @@
 
 **Hashed string**: DoorBellName string32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Name
 
@@ -92,5 +92,5 @@
 
 **Hashed string**: Name string32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 

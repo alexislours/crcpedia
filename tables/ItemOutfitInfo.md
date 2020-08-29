@@ -11,7 +11,7 @@
 
 **Hashed string**: Category.hshCstringRef
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## FloorScale
 
@@ -21,7 +21,7 @@
 
 **Hashed string**: FloorScale f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## RotateOffsetX
 
@@ -31,7 +31,7 @@
 
 **Hashed string**: RotateOffsetX f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## RotateOffsetY
 
@@ -41,7 +41,7 @@
 
 **Hashed string**: RotateOffsetY f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## RotateOffsetZ
 
@@ -51,7 +51,7 @@
 
 **Hashed string**: RotateOffsetZ f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## TransOffsetX
 
@@ -61,7 +61,7 @@
 
 **Hashed string**: TransOffsetX f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## TransOffsetY
 
@@ -71,7 +71,7 @@
 
 **Hashed string**: TransOffsetY f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## TransOffsetZ
 
@@ -81,7 +81,7 @@
 
 **Hashed string**: TransOffsetZ f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## WallScale
 
@@ -91,7 +91,7 @@
 
 **Hashed string**: WallScale f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## BreakDamage
 
@@ -101,7 +101,7 @@
 
 **Hashed string**: BreakDamage u16
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## UniqueID
 
@@ -111,7 +111,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## HangerInfo
 
@@ -121,7 +121,7 @@
 
 **Hashed string**: HangerInfo u8
 
-**Versions**: 1.3.0, 1.4.0
+**Versions**: 
 
 ## Label
 
@@ -131,7 +131,7 @@
 
 **Hashed string**: Label string32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Name
 
@@ -141,7 +141,7 @@
 
 **Hashed string**: Name string64
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## SpecialELink
 
@@ -151,7 +151,7 @@
 
 **Hashed string**: SpecialELink u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## SpecialSLink
 
@@ -161,7 +161,7 @@
 
 **Hashed string**: SpecialSLink u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Storage
 
@@ -173,5 +173,5 @@
 
 **Notes**: bitfield
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 

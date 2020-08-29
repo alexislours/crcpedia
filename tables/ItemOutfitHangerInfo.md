@@ -12,7 +12,7 @@
 
 **Hashed string**: ItemLayout.hshCstringRef
 
-**Versions**: 1.3.0, 1.4.0
+**Versions**: 
 
 ## ItemSize
 
@@ -22,7 +22,7 @@
 
 **Hashed string**: ItemSize.hshCstringRef
 
-**Versions**: 1.3.0, 1.4.0
+**Versions**: 
 
 ## UniqueID
 
@@ -32,7 +32,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: 1.3.0, 1.4.0
+**Versions**: 
 
 ## Label
 
@@ -42,7 +42,7 @@
 
 **Hashed string**: Label string32
 
-**Versions**: 1.3.0, 1.4.0
+**Versions**: 
 
 ## ResName
 
@@ -52,5 +52,5 @@
 
 **Hashed string**: ResName string64
 
-**Versions**: 1.3.0, 1.4.0
+**Versions**: 
 

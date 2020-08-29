@@ -12,7 +12,7 @@
 
 **Hashed string**: Offset f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## ContinuousTime
 
@@ -24,7 +24,7 @@
 
 **Notes**: Time in frames the action is active?
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## ItemUniqueID
 
@@ -36,7 +36,7 @@
 
 **Notes**: Equipped item during activity. All -2 here
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## BehaviorType
 
@@ -48,7 +48,7 @@
 
 **Notes**: Behavior type ID?
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## ConditionType
 
@@ -58,7 +58,7 @@
 
 **Hashed string**: ConditionType u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## FlagType
 
@@ -68,7 +68,7 @@
 
 **Hashed string**: FlagType u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## InterestEndModeType
 
@@ -78,7 +78,7 @@
 
 **Hashed string**: InterestEndModeType u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## IntervalTime
 
@@ -88,7 +88,7 @@
 
 **Hashed string**: IntervalTime u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## LabelType
 
@@ -98,7 +98,7 @@
 
 **Hashed string**: LabelType u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## MoveASType
 
@@ -108,7 +108,7 @@
 
 **Hashed string**: MoveASType string32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## MoveConditionType
 
@@ -118,7 +118,7 @@
 
 **Hashed string**: MoveConditionType u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## NeedType
 
@@ -128,7 +128,7 @@
 
 **Hashed string**: NeedType u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## RainActive
 
@@ -138,7 +138,7 @@
 
 **Hashed string**: RainActive u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## TimeZoneIndoorEarlyMorningLevel
 
@@ -150,7 +150,7 @@
 
 **Notes**: The time of day each activity can happen (Same between all Indoor levels)
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## TimeZoneIndoorEveningLevel
 
@@ -162,7 +162,7 @@
 
 **Notes**: The time of day each activity can happen (Same between all Indoor levels)
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## TimeZoneIndoorMidnightLevel
 
@@ -174,7 +174,7 @@
 
 **Notes**: The time of day each activity can happen (Same between all Indoor levels)
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## TimeZoneIndoorMorningLevel
 
@@ -186,7 +186,7 @@
 
 **Notes**: The time of day each activity can happen (Same between all Indoor levels)
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## TimeZoneIndoorNightLevel
 
@@ -198,7 +198,7 @@
 
 **Notes**: The time of day each activity can happen (Same between all Indoor levels)
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## TimeZoneIndoorNoonLevel
 
@@ -210,7 +210,7 @@
 
 **Notes**: The time of day each activity can happen (Same between all Indoor levels)
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## TimeZoneOutdoorEarlyMorningLevel
 
@@ -222,7 +222,7 @@
 
 **Notes**: The time of day each activity can happen. 0 = Available, 1 = Limited?, 2 = Unavailable. 5AM - 8AM
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## TimeZoneOutdoorEveningLevel
 
@@ -234,7 +234,7 @@
 
 **Notes**: The time of day each activity can happen. 0 = Available, 1 = Limited?, 2 = Unavailable. 4PM - 7PM
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## TimeZoneOutdoorMidnightLevel
 
@@ -246,7 +246,7 @@
 
 **Notes**: The time of day each activity can happen. 0 = Available, 1 = Limited?, 2 = Unavailable. 12AM - 5AM
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## TimeZoneOutdoorMorningLevel
 
@@ -258,7 +258,7 @@
 
 **Notes**: The time of day each activity can happen. 0 = Available, 1 = Limited?, 2 = Unavailable. 8AM - 12PM
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## TimeZoneOutdoorNightLevel
 
@@ -270,7 +270,7 @@
 
 **Notes**: The time of day each activity can happen. 0 = Available, 1 = Limited?, 2 = Unavailable. 7PM - 12AM
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## TimeZoneOutdoorNoonLevel
 
@@ -282,7 +282,7 @@
 
 **Notes**: The time of day each activity can happen. 0 = Available, 1 = Limited?, 2 = Unavailable. 12PM - 4PM
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## VillageDevelopmentLevel
 
@@ -294,7 +294,7 @@
 
 **Notes**: How developed the village must be before the activity can happen
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## WaitASType
 
@@ -306,5 +306,5 @@
 
 **Notes**: Animation while standing still
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 

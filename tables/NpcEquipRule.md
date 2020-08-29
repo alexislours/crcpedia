@@ -14,7 +14,7 @@
 
 **Notes**: Likelyhood of wearing a top from the PurposeTag during this EquipRule?
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## ClothesPurposeLimit
 
@@ -26,7 +26,7 @@
 
 **Notes**: Limits tops to within the PurposeTag during this EquipRule?
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## ClothesTemporarilyCreate
 
@@ -38,7 +38,7 @@
 
 **Notes**: Determines whether villagers will use a TempCreate top if they don't own any tops in the PurposeTag
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## PurposeScore
 
@@ -50,7 +50,7 @@
 
 **Notes**: Likelyhood out of 10 that clothes are worn from the PurposeTag regardless of taste and season?
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## PurposeTag
 
@@ -62,7 +62,7 @@
 
 **Notes**: Numbers line up with row index (not UniqueID!) within AITag.bcsv
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## ScoreMultiplier
 
@@ -72,7 +72,7 @@
 
 **Hashed string**: ScoreMultiplier f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## SeasonScore
 
@@ -84,7 +84,7 @@
 
 **Notes**: Likelyhood out of 10 that clothes are worn from the PurposeTag based on season? Possibly uses the 'Season' AITagCategory instead of ItemParam's Seasonality
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## TasteScore
 
@@ -96,7 +96,7 @@
 
 **Notes**: Likelyhood out of 10 that clothes are worn from the PurposeTag based on the villager's tastes?
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## UniqueID
 
@@ -106,7 +106,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## CapFrequencyWear
 
@@ -118,7 +118,7 @@
 
 **Notes**: Likelyhood of wearing a cap from the PurposeTag during this EquipRule? Numbers should line up with ClothesFrequencyWear, but that has 3 different strings and this has 4 values.
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## CapPurposeLimit
 
@@ -130,7 +130,7 @@
 
 **Notes**: Limits caps to within the PurposeTag during this EquipRule?
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## CapTemporarilyCreate
 
@@ -142,7 +142,7 @@
 
 **Notes**: Determines whether villagers will use a TempCreate cap if they don't own any caps in the PurposeTag
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## GlassesFrequencyWear
 
@@ -154,7 +154,7 @@
 
 **Notes**: Likelyhood of wearing glasses from the PurposeTag during this EquipRule?
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## GlassesPurposeLimit
 
@@ -166,7 +166,7 @@
 
 **Notes**: Limits glasses to within the PurposeTag during this EquipRule?
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## GlassesTemporarilyCreate
 
@@ -178,7 +178,7 @@
 
 **Notes**: Determines whether villagers will use TempCreate glasses if they don't own any glasses in the PurposeTag
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Label
 
@@ -188,7 +188,7 @@
 
 **Hashed string**: Label string32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## MaskFrequencyWear
 
@@ -200,7 +200,7 @@
 
 **Notes**: Likelyhood of wearing a mask from the PurposeTag during this EquipRule? All 0s
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## MaskPurposeLimit
 
@@ -212,7 +212,7 @@
 
 **Notes**: Limits masks to within the PurposeTag during this EquipRule? All 0s
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## MaskTemporarilyCreate
 
@@ -224,7 +224,7 @@
 
 **Notes**: Determines whether villagers will use a TempCreate mask if they don't own any masks in the PurposeTag. All 0s
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 
 ## Name
 
@@ -236,5 +236,5 @@
 
 **Notes**: Japanese name?
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: , , , , 
 

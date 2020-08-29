@@ -14,7 +14,7 @@
 
 **Notes**: Price in heart crystals
 
-**Versions**: 1.2.0, 1.3.0, 1.4.0
+**Versions**: , 
 
 ## UniqueID
 
@@ -24,7 +24,7 @@
 
 **Hashed string**: UniqueID u32
 
-**Versions**: 1.2.0, 1.3.0, 1.4.0
+**Versions**: , 
 
 ## ExchangeItem
 
@@ -36,7 +36,7 @@
 
 **Notes**: ID of the furniture
 
-**Versions**: 1.2.0, 1.3.0, 1.4.0
+**Versions**: , 
 
 ## DispInteriorMode
 
@@ -46,7 +46,7 @@
 
 **Hashed string**: DispInteriorMode u8
 
-**Versions**: 1.2.0, 1.3.0, 1.4.0
+**Versions**: , 
 
 ## JuneBrideProgress
 
@@ -58,5 +58,5 @@
 
 **Notes**: Number of photoshoot done to be able to trade the furniture
 
-**Versions**: 1.2.0, 1.3.0, 1.4.0
+**Versions**: , 
 
