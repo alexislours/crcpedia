@@ -1,7 +1,7 @@
 # RoomLandingParam
 **Named columns**: 5/5
 
-**Documented columns**: 0/5
+**Documented columns**: 1/5
 
 **Description**: Stairs textures
 ## Floorboards

@@ -21947,7 +21947,7 @@
   "RoomLandingParam": {
     "name": "RoomLandingParam",
     "namedColumns": "5/5",
-    "documentedColumns": "0/5",
+    "documentedColumns": "1/5",
     "description": "Stairs textures",
     "hashes": [
       {
@@ -21992,7 +21992,7 @@
         "name": "LandingName",
         "functionalityNotes": "",
         "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "4b9c4229",
