@@ -12,7 +12,7 @@
 
 **Hashed string**: AppearArea.hshCstringRef
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## AppearWeather
 
@@ -24,7 +24,7 @@
 
 **Notes**: Controls appearance restrictions depending on weather
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## GetScale
 
@@ -36,7 +36,7 @@
 
 **Notes**: Might modify model scale when caught? Doesn't appear to be used in the main binary
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Kind
 
@@ -48,7 +48,7 @@
 
 **Notes**: Groups bugs based on spawn type
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## WaitScale
 
@@ -60,7 +60,7 @@
 
 **Notes**: Might modify model scale when in the wild?
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemID
 
@@ -72,7 +72,7 @@
 
 **Notes**: Matches ItemParam UniqueID and STR_ItemName ids
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## OpenAchievementCount
 
@@ -84,7 +84,7 @@
 
 **Notes**: Total lifetime insect catches required to unlock this one. Can be checked with the "You've Got the Bug" Nook Miles achievement
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ToyItemID
 
@@ -96,7 +96,7 @@
 
 **Notes**: ItemParam ID for the corresponding fish model object
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## UniqueID
 
@@ -106,7 +106,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## AppearFg
 
@@ -118,7 +118,7 @@
 
 **Notes**: bitfield; for insects whose spawn conditions relate to Fg objects ("nature" objects like flowers or rocks), sets those objects and specific restrictions, like type of tree or flower colors
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## DebugName
 
@@ -128,7 +128,7 @@
 
 **Hashed string**: DebugName string64
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Label
 
@@ -138,7 +138,7 @@
 
 **Hashed string**: Label string32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Property
 
@@ -148,7 +148,7 @@
 
 **Hashed string**: Property u8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ResNameField
 
@@ -160,7 +160,7 @@
 
 **Notes**: Regular model
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ResNameReplaceField
 
@@ -172,7 +172,7 @@
 
 **Notes**: Field model, if it differs
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ResNameReplaceMuseum
 
@@ -184,5 +184,5 @@
 
 **Notes**: Museum model, if it differs
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

@@ -12,7 +12,7 @@
 
 **Hashed string**: NameboardAngleY f32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## NameboardPosX
 
@@ -22,7 +22,7 @@
 
 **Hashed string**: NameboardPosX f32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## NameboardPosY
 
@@ -32,7 +32,7 @@
 
 **Hashed string**: NameboardPosY f32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## NameboardPosZ
 
@@ -42,7 +42,7 @@
 
 **Hashed string**: NameboardPosZ f32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StageName
 
@@ -52,7 +52,7 @@
 
 **Hashed string**: StageName.hshCstringRef
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## DonateItemFifth
 
@@ -62,7 +62,7 @@
 
 **Hashed string**: DonateItemFifth u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## DonateItemFirst
 
@@ -72,7 +72,7 @@
 
 **Hashed string**: DonateItemFirst u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## DonateItemFourth
 
@@ -82,7 +82,7 @@
 
 **Hashed string**: DonateItemFourth u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## DonateItemSecond
 
@@ -92,7 +92,7 @@
 
 **Hashed string**: DonateItemSecond u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## DonateItemThird
 
@@ -102,7 +102,7 @@
 
 **Hashed string**: DonateItemThird u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## UniqueID
 
@@ -112,7 +112,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ModelResName
 
@@ -122,7 +122,7 @@
 
 **Hashed string**: ModelResName string65
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## VisibleOff
 
@@ -132,5 +132,5 @@
 
 **Hashed string**: VisibleOff u8
 
-**Versions**: , , 
+**Versions**: 1.2.0, 1.3.0, 1.4.0
 

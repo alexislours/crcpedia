@@ -12,7 +12,7 @@
 
 **Hashed string**: AppearArea.hshCstringRef
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## AppearType
 
@@ -24,7 +24,7 @@
 
 **Notes**: "Anywhere", "BrackishWater" (river mouth), "Pond", "River", "RiverCliffTop", "Sea", "SeaBeachBridge" (pier)
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## BuoyLv
 
@@ -36,7 +36,7 @@
 
 **Notes**: Catch difficulty. Fish with lower values are harder to catch, with more erratic movements and narrower timing window
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EscapeScale
 
@@ -48,7 +48,7 @@
 
 **Notes**: doesn't appear to be used in the main binary
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## FishMuseumAction
 
@@ -60,7 +60,7 @@
 
 **Notes**: How fish behave in the museum
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0x4108715d
 
@@ -70,7 +70,7 @@
 
 **Notes**: Seems museum-related, some kind of angle
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## SearchRadius
 
@@ -82,7 +82,7 @@
 
 **Notes**: Vision cone. Fish with higher values will turn to face the bobber more easily
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ShadowType
 
@@ -94,7 +94,7 @@
 
 **Notes**: Yep, shadow type. Also determines strength and vibration level when reeling in. Interesting example: "J" shadows (sharks) look exactly the same as "K" shadows (suckerfish), but feel heavier
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemID
 
@@ -106,7 +106,7 @@
 
 **Notes**: Matches ItemParam UniqueID and STR_ItemName ids
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## OpenDonatedNum
 
@@ -118,7 +118,7 @@
 
 **Notes**: Total lifetime fish catches required to unlock this one. Can be checked with the "Angling for Perfection!" Nook Miles achievement
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ToyItemID
 
@@ -130,7 +130,7 @@
 
 **Notes**: ItemParam ID for the corresponding fish model object
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## UniqueID
 
@@ -140,7 +140,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## DebugName
 
@@ -150,7 +150,7 @@
 
 **Hashed string**: DebugName string32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## IsCreateBait
 
@@ -162,7 +162,7 @@
 
 **Notes**: Whether or not bait can be used to spawn this fish
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## IsSidewaysShow
 
@@ -174,7 +174,7 @@
 
 **Notes**: Denotes bigger fish that require a special "Show off" animation. Previously thought to be for rain/snow boost in spawn rates
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Label
 
@@ -184,7 +184,7 @@
 
 **Hashed string**: Label string32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0x1f875d3d
 
@@ -192,7 +192,7 @@
 
 **Type**: string32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ResName
 
@@ -202,7 +202,7 @@
 
 **Hashed string**: ResName string64
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ResNameMuseum
 
@@ -212,5 +212,5 @@
 
 **Hashed string**: ResNameMuseum string32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

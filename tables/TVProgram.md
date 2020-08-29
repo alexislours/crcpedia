@@ -14,7 +14,7 @@
 
 **Notes**: The TV program's name.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0x01481890
 
@@ -24,7 +24,7 @@
 
 **Notes**: amount of special programs
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EndDayN1
 
@@ -36,7 +36,7 @@
 
 **Notes**: The ending day for each special case in the northern hemisphere.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EndDayN2
 
@@ -48,7 +48,7 @@
 
 **Notes**: Same as above.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EndDayN3
 
@@ -60,7 +60,7 @@
 
 **Notes**: Same as above.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EndDayN4
 
@@ -72,7 +72,7 @@
 
 **Notes**: Same as above.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EndDayN5
 
@@ -84,7 +84,7 @@
 
 **Notes**: Same as above.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EndDayN6
 
@@ -96,7 +96,7 @@
 
 **Notes**: Same as above.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EndDayS1
 
@@ -108,7 +108,7 @@
 
 **Notes**: The ending day for each special case in the southern hemisphere.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EndDayS2
 
@@ -120,7 +120,7 @@
 
 **Notes**: Same as above.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EndDayS3
 
@@ -132,7 +132,7 @@
 
 **Notes**: Same as above.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EndDayS4
 
@@ -144,7 +144,7 @@
 
 **Notes**: Same as above.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EndDayS5
 
@@ -156,7 +156,7 @@
 
 **Notes**: Same as above.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EndDayS6
 
@@ -168,7 +168,7 @@
 
 **Notes**: Same as above.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EndMoN1
 
@@ -180,7 +180,7 @@
 
 **Notes**: The ending month for each special case in the northern hemisphere.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EndMoN2
 
@@ -192,7 +192,7 @@
 
 **Notes**: Same as above.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EndMoN3
 
@@ -204,7 +204,7 @@
 
 **Notes**: Same as above.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EndMoN4
 
@@ -216,7 +216,7 @@
 
 **Notes**: Same as above.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EndMoN5
 
@@ -228,7 +228,7 @@
 
 **Notes**: Same as above.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EndMoN6
 
@@ -240,7 +240,7 @@
 
 **Notes**: Same as above.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EndMoS1
 
@@ -252,7 +252,7 @@
 
 **Notes**: The ending month for each special case in the southern hemisphere.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EndMoS2
 
@@ -264,7 +264,7 @@
 
 **Notes**: Same as above.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EndMoS3
 
@@ -276,7 +276,7 @@
 
 **Notes**: Same as above.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EndMoS4
 
@@ -288,7 +288,7 @@
 
 **Notes**: Same as above.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EndMoS5
 
@@ -300,7 +300,7 @@
 
 **Notes**: Same as above.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EndMoS6
 
@@ -312,7 +312,7 @@
 
 **Notes**: Same as above.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ResourceName
 
@@ -324,7 +324,7 @@
 
 **Notes**: The default resource name used. For FtrTVProgramWeather, a file will be chosen depending on this day's weather pattern.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ResourceNameSp1
 
@@ -336,7 +336,7 @@
 
 **Notes**: The resource name used for each special case.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ResourceNameSp2
 
@@ -348,7 +348,7 @@
 
 **Notes**: Same as above.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ResourceNameSp3
 
@@ -360,7 +360,7 @@
 
 **Notes**: Same as above.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ResourceNameSp4
 
@@ -372,7 +372,7 @@
 
 **Notes**: Same as above.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ResourceNameSp5
 
@@ -384,7 +384,7 @@
 
 **Notes**: Same as above.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ResourceNameSp6
 
@@ -396,7 +396,7 @@
 
 **Notes**: Same as above.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StartDayN1
 
@@ -408,7 +408,7 @@
 
 **Notes**: The starting day for each special case in the northern hemisphere.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StartDayN2
 
@@ -420,7 +420,7 @@
 
 **Notes**: Same as above.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StartDayN3
 
@@ -432,7 +432,7 @@
 
 **Notes**: Same as above.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StartDayN4
 
@@ -444,7 +444,7 @@
 
 **Notes**: Same as above.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StartDayN5
 
@@ -456,7 +456,7 @@
 
 **Notes**: Same as above.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StartDayN6
 
@@ -468,7 +468,7 @@
 
 **Notes**: Same as above.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StartDayS1
 
@@ -480,7 +480,7 @@
 
 **Notes**: The starting day for each special case in the southern hemisphere.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StartDayS2
 
@@ -492,7 +492,7 @@
 
 **Notes**: Same as above.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StartDayS3
 
@@ -504,7 +504,7 @@
 
 **Notes**: Same as above.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StartDayS4
 
@@ -516,7 +516,7 @@
 
 **Notes**: Same as above.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StartDayS5
 
@@ -528,7 +528,7 @@
 
 **Notes**: Same as above.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StartDayS6
 
@@ -540,7 +540,7 @@
 
 **Notes**: Same as above.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StartMoN1
 
@@ -552,7 +552,7 @@
 
 **Notes**: The starting month for each special case in the northern hemisphere.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StartMoN2
 
@@ -564,7 +564,7 @@
 
 **Notes**: Same as above.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StartMoN3
 
@@ -576,7 +576,7 @@
 
 **Notes**: Same as above.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StartMoN4
 
@@ -588,7 +588,7 @@
 
 **Notes**: Same as above.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StartMoN5
 
@@ -600,7 +600,7 @@
 
 **Notes**: Same as above.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StartMoN6
 
@@ -612,7 +612,7 @@
 
 **Notes**: Same as above.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StartMoS1
 
@@ -624,7 +624,7 @@
 
 **Notes**: The starting month for each special case in the southern hemisphere.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StartMoS2
 
@@ -636,7 +636,7 @@
 
 **Notes**: Same as above.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StartMoS3
 
@@ -648,7 +648,7 @@
 
 **Notes**: Same as above.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StartMoS4
 
@@ -660,7 +660,7 @@
 
 **Notes**: Same as above.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StartMoS5
 
@@ -672,7 +672,7 @@
 
 **Notes**: Same as above.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StartMoS6
 
@@ -684,5 +684,5 @@
 
 **Notes**: Same as above.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

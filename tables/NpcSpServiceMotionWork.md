@@ -12,7 +12,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ASCommand1
 
@@ -24,7 +24,7 @@
 
 **Notes**: Animation, formatted as "AnimationType@ToolRessourceName"
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ASCommand2
 
@@ -36,7 +36,7 @@
 
 **Notes**: Same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ASCommand3
 
@@ -48,7 +48,7 @@
 
 **Notes**: Same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ASCommand4
 
@@ -60,7 +60,7 @@
 
 **Notes**: Same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ASCommand5
 
@@ -72,7 +72,7 @@
 
 **Notes**: Same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ASCommand6
 
@@ -84,7 +84,7 @@
 
 **Notes**: Same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ASCommand7
 
@@ -96,7 +96,7 @@
 
 **Notes**: Same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ASCommand8
 
@@ -108,7 +108,7 @@
 
 **Notes**: Same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Label
 
@@ -118,7 +118,7 @@
 
 **Hashed string**: Label string32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Rate1
 
@@ -130,7 +130,7 @@
 
 **Notes**: Percent chance of the animation happening while the SpNpc is "working".
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Rate2
 
@@ -142,7 +142,7 @@
 
 **Notes**: Same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Rate3
 
@@ -154,7 +154,7 @@
 
 **Notes**: Same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Rate4
 
@@ -166,7 +166,7 @@
 
 **Notes**: Same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Rate5
 
@@ -178,7 +178,7 @@
 
 **Notes**: Same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Rate6
 
@@ -190,7 +190,7 @@
 
 **Notes**: Same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Rate7
 
@@ -202,7 +202,7 @@
 
 **Notes**: Same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Rate8
 
@@ -214,5 +214,5 @@
 
 **Notes**: Same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

@@ -10,7 +10,7 @@
 
 **Type**: hshCstringRef
 
-**Versions**: 
+**Versions**: 1.4.0
 
 ## LowerSetting
 
@@ -20,7 +20,7 @@
 
 **Hashed string**: LowerSetting.hshCstringRef
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## UISortID
 
@@ -30,7 +30,7 @@
 
 **Hashed string**: UISortID s16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## UniqueID
 
@@ -40,7 +40,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0x9f5123d4
 
@@ -48,7 +48,7 @@
 
 **Type**: u8/s8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0xd5217761
 
@@ -56,7 +56,7 @@
 
 **Type**: u8/s8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## AsCommand
 
@@ -66,7 +66,7 @@
 
 **Hashed string**: AsCommand string65
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## CancelFootSE
 
@@ -76,7 +76,7 @@
 
 **Hashed string**: CancelFootSE u8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## CancelFootprint
 
@@ -86,7 +86,7 @@
 
 **Hashed string**: CancelFootprint u8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Comment
 
@@ -96,7 +96,7 @@
 
 **Hashed string**: Comment string64
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## DisableEmoticon
 
@@ -106,7 +106,7 @@
 
 **Hashed string**: DisableEmoticon u8
 
-**Versions**: 
+**Versions**: 1.4.0
 
 ## Misc
 
@@ -118,7 +118,7 @@
 
 **Notes**: bitfield
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## MoveAs
 
@@ -128,7 +128,7 @@
 
 **Hashed string**: MoveAs u8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ToolAsCommand
 
@@ -138,5 +138,5 @@
 
 **Hashed string**: ToolAsCommand string30
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

@@ -12,7 +12,7 @@
 
 **Notes**: row index (not UniqueID!) within AITag.bcsv
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0xe2efe82d
 
@@ -22,7 +22,7 @@
 
 **Notes**: row index (not UniqueID!) within AITag.bcsv
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0x5ef86f1f
 
@@ -32,7 +32,7 @@
 
 **Notes**: preferred style 1
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0x195815cf
 
@@ -42,7 +42,7 @@
 
 **Notes**: preferred style 2
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0xbea84522
 
@@ -52,7 +52,7 @@
 
 **Notes**: "Normal", "Prefer", and "Avoid"
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Hobby
 
@@ -62,7 +62,7 @@
 
 **Hashed string**: Hobby.hshCstringRef
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## NpcLooks
 
@@ -74,7 +74,7 @@
 
 **Notes**: Personality
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Social
 
@@ -86,7 +86,7 @@
 
 **Notes**: Affects wave type and ability to respond to reactions. Probably more that this does?
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## VmPauseType
 
@@ -98,7 +98,7 @@
 
 **Notes**: Related to pauses/length of the notes in villagers' melodies?
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## VmRhythmType
 
@@ -110,7 +110,7 @@
 
 **Notes**: If the villager's melody have a swing rhythm or not. (What does 'Random' do?)
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## AccentWall
 
@@ -122,7 +122,7 @@
 
 **Notes**: All 0s (My personal theory is that AccentWall is used for 1 wall that's different from the other 3 in the room. Unused by the game)
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## BromideItemID
 
@@ -134,7 +134,7 @@
 
 **Notes**: Villager's photo ID
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## FloorType
 
@@ -146,7 +146,7 @@
 
 **Notes**: Only 0 and 54
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## PosterItemID
 
@@ -158,7 +158,7 @@
 
 **Notes**: Villager's poster ID
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## RainHat
 
@@ -170,7 +170,7 @@
 
 **Notes**: Default hat worn in the rain
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## RainWare
 
@@ -182,7 +182,7 @@
 
 **Notes**: Default top worn in the rain
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## SmartphoneRemakeCommonPattern
 
@@ -194,7 +194,7 @@
 
 **Notes**: Which Sable pattern ID is used for their phone
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## SmartphoneRemakePattern
 
@@ -206,7 +206,7 @@
 
 **Notes**: Which phone remake pattern is used for their phone (only used when SmartphoneRemakeCommonPattern is -1?)
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Tops
 
@@ -218,7 +218,7 @@
 
 **Notes**: Default top
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Umbrella
 
@@ -230,7 +230,7 @@
 
 **Notes**: Default umbrella
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## UniqueID
 
@@ -240,7 +240,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## WallType
 
@@ -250,7 +250,7 @@
 
 **Hashed string**: WallType u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## BirthMDay
 
@@ -262,7 +262,7 @@
 
 **Notes**: Birthday date
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## BirthMonth
 
@@ -274,7 +274,7 @@
 
 **Notes**: Birthday month
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Color1
 
@@ -286,7 +286,7 @@
 
 **Notes**: Preferred color 1
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Color2
 
@@ -298,7 +298,7 @@
 
 **Notes**: Preferred color 2
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## HavokResName
 
@@ -310,7 +310,7 @@
 
 **Notes**: Ressource name for the havok file for clothes animations.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## HelperBoneResName
 
@@ -320,7 +320,7 @@
 
 **Hashed string**: HelperBoneResName string64
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## InitLive
 
@@ -330,7 +330,7 @@
 
 **Hashed string**: InitLive u8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## InitRemakeId
 
@@ -342,7 +342,7 @@
 
 **Notes**: Chooses the remake body of the furniture in the 2 starting villagers' houses
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Label
 
@@ -352,7 +352,7 @@
 
 **Hashed string**: Label string8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## NpcColor
 
@@ -364,7 +364,7 @@
 
 **Notes**: Determines the color of the bubble and text surrounding their name while you talk to them. The value is the index of the array in the NpcColor BYML in the Pack folder (stored as an rgb float array).
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## NpcTalkType
 
@@ -376,7 +376,7 @@
 
 **Notes**: Personality subtype. Used to choose between FreeA_AlwaysA and FreeA_AlwaysB dialogue
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ResName
 
@@ -388,7 +388,7 @@
 
 **Notes**: Villager model file name
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## SpecialELink
 
@@ -398,7 +398,7 @@
 
 **Hashed string**: SpecialELink u8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## SpecialSLink
 
@@ -408,7 +408,7 @@
 
 **Hashed string**: SpecialSLink u8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0x21c5bbd6
 
@@ -418,7 +418,7 @@
 
 **Notes**: 2 through 6
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0xe52f0037
 
@@ -428,7 +428,7 @@
 
 **Notes**: 1, 2, 3, 6, 8, 10, 12, 14, and 18
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0x42f255d5
 
@@ -438,5 +438,5 @@
 
 **Notes**: 1 through 6
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

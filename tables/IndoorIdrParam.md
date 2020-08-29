@@ -12,7 +12,7 @@
 
 **Hashed string**: ArtObjNum u16
 
-**Versions**: , , 
+**Versions**: 1.2.0, 1.3.0, 1.4.0
 
 ## DecorationObjNum
 
@@ -22,7 +22,7 @@
 
 **Hashed string**: DecorationObjNum u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## FossilObjNum
 
@@ -32,7 +32,7 @@
 
 **Hashed string**: FossilObjNum u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## UniqueID
 
@@ -42,7 +42,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ResourceName
 
@@ -52,5 +52,5 @@
 
 **Hashed string**: ResourceName string64
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

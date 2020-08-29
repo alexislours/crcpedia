@@ -12,7 +12,7 @@
 
 **Hashed string**: ItemKind1 u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemKind10
 
@@ -22,7 +22,7 @@
 
 **Hashed string**: ItemKind10 u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemKind11
 
@@ -32,7 +32,7 @@
 
 **Hashed string**: ItemKind11 u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemKind12
 
@@ -42,7 +42,7 @@
 
 **Hashed string**: ItemKind12 u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemKind13
 
@@ -52,7 +52,7 @@
 
 **Hashed string**: ItemKind13 u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemKind14
 
@@ -62,7 +62,7 @@
 
 **Hashed string**: ItemKind14 u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemKind15
 
@@ -72,7 +72,7 @@
 
 **Hashed string**: ItemKind15 u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemKind2
 
@@ -82,7 +82,7 @@
 
 **Hashed string**: ItemKind2 u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemKind3
 
@@ -92,7 +92,7 @@
 
 **Hashed string**: ItemKind3 u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemKind4
 
@@ -102,7 +102,7 @@
 
 **Hashed string**: ItemKind4 u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemKind5
 
@@ -112,7 +112,7 @@
 
 **Hashed string**: ItemKind5 u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemKind6
 
@@ -122,7 +122,7 @@
 
 **Hashed string**: ItemKind6 u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemKind7
 
@@ -132,7 +132,7 @@
 
 **Hashed string**: ItemKind7 u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemKind8
 
@@ -142,7 +142,7 @@
 
 **Hashed string**: ItemKind8 u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemKind9
 
@@ -152,7 +152,7 @@
 
 **Hashed string**: ItemKind9 u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## UniqueID
 
@@ -162,7 +162,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## CheckDonation
 
@@ -172,7 +172,7 @@
 
 **Hashed string**: CheckDonation u8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemNum
 
@@ -182,7 +182,7 @@
 
 **Hashed string**: ItemNum s8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Label
 
@@ -192,5 +192,5 @@
 
 **Hashed string**: Label string32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

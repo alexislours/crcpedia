@@ -10,7 +10,7 @@
 
 **Type**: u32/s32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemNameUniqueID
 
@@ -22,7 +22,7 @@
 
 **Notes**: The item corresponding to this bridge. Matches with UniqueID in ItemParam.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## UniqueID
 
@@ -32,7 +32,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## BridgeTypeName
 
@@ -44,7 +44,7 @@
 
 **Notes**: The resource name.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## BridgeTypeNameJp
 
@@ -56,5 +56,5 @@
 
 **Notes**: The name of the bridge in Japanese.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

@@ -14,7 +14,7 @@
 
 **Notes**: Type of flower (e.g. windflower, rose, etc.)
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Name
 
@@ -26,7 +26,7 @@
 
 **Notes**: Item ID of bud stage
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0x753336dd
 
@@ -36,7 +36,7 @@
 
 **Notes**: Item ID of sprouts stage if seed genes
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## DefaultHeredity
 
@@ -48,7 +48,7 @@
 
 **Notes**: 1 if seed, 0 otherwise
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## HeredityA
 
@@ -60,7 +60,7 @@
 
 **Notes**: Gene A
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## HeredityB
 
@@ -72,7 +72,7 @@
 
 **Notes**: Gene B
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## HeredityC
 
@@ -84,7 +84,7 @@
 
 **Notes**: Gene C
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## HeredityD
 
@@ -96,5 +96,5 @@
 
 **Notes**: Gene D
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

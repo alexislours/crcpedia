@@ -14,7 +14,7 @@
 
 **Notes**: Specificity of the mystery island environment, either "Normal", "StoneMaterial", "StoneCoin", "Bamboo", "TreeSisterFruit" or "StoneGold"
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## TourType
 
@@ -26,7 +26,7 @@
 
 **Notes**: Whether it's a "Normal" mystery island or the "MayDay" island
 
-**Versions**: , , , 
+**Versions**: 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## FishPattern
 
@@ -38,7 +38,7 @@
 
 **Notes**: UniqueID of MysteryTourFishParam for special fish spawn like on "Big Fish Island" or on "Fin Island"
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## InsectPattern
 
@@ -50,7 +50,7 @@
 
 **Notes**: UniqueID of MysteryTourInsectParam for special bug spawn.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## MustItem0
 
@@ -62,7 +62,7 @@
 
 **Notes**: Required Item to access the island, either -2 (no items required), the id of the vaulting pole or the id of the ladder.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## MustItem1
 
@@ -74,7 +74,7 @@
 
 **Notes**: Required Item to access the island, either -2 (no items required), the id of the vaulting pole or the id of the ladder.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## MysteryTourFieldUniqueID
 
@@ -86,7 +86,7 @@
 
 **Notes**: UniqueID of MysteryTourFieldParam for river generation.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## MysteryTourItemUniqueID
 
@@ -98,7 +98,7 @@
 
 **Notes**: UniqueID of MysteryTourItemParam.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## UniqueID
 
@@ -108,7 +108,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0x7215b154
 
@@ -118,7 +118,7 @@
 
 **Notes**: "BuiltTownOffice" if having the Resident Service built is required to access the island.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0x88bd09c2
 
@@ -128,7 +128,7 @@
 
 **Notes**: Flag for island that can only be accessed once a day, presumably one to check and one to change the value of the flag?
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0x4e5cd9f3
 
@@ -138,7 +138,7 @@
 
 **Notes**: Same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0x8f2f4bf9
 
@@ -148,7 +148,7 @@
 
 **Notes**: Only accessible if WiIlbur explained how mystery islands work.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0x0b3d1d54
 
@@ -158,7 +158,7 @@
 
 **Notes**: Checks if the EnableGotoRareMysteryTour flag has been activated.
 
-**Versions**: , , 
+**Versions**: 1.2.0, 1.3.0, 1.4.0
 
 ## SelectWeight
 
@@ -170,7 +170,7 @@
 
 **Notes**: Weight of the island selection when the game gets a random one. The games generate a number between 0 and 999. If said number is superior to the sum of all island weight available, it will pick randomly between the starter islands (UniqueID 0, 1, 2 and 4).
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StatusPattern
 
@@ -180,5 +180,5 @@
 
 **Hashed string**: StatusPattern u8
 
-**Versions**: , , 
+**Versions**: 1.2.0, 1.3.0, 1.4.0
 

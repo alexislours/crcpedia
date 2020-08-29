@@ -12,7 +12,7 @@
 
 **Hashed string**: StrSortIdCNzh u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StrSortIdEUde
 
@@ -22,7 +22,7 @@
 
 **Hashed string**: StrSortIdEUde u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StrSortIdEUen
 
@@ -32,7 +32,7 @@
 
 **Hashed string**: StrSortIdEUen u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StrSortIdEUes
 
@@ -42,7 +42,7 @@
 
 **Hashed string**: StrSortIdEUes u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StrSortIdEUfr
 
@@ -52,7 +52,7 @@
 
 **Hashed string**: StrSortIdEUfr u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StrSortIdEUit
 
@@ -62,7 +62,7 @@
 
 **Hashed string**: StrSortIdEUit u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StrSortIdEUnl
 
@@ -72,7 +72,7 @@
 
 **Hashed string**: StrSortIdEUnl u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StrSortIdEUru
 
@@ -82,7 +82,7 @@
 
 **Hashed string**: StrSortIdEUru u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StrSortIdJPja
 
@@ -92,7 +92,7 @@
 
 **Hashed string**: StrSortIdJPja u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StrSortIdKRko
 
@@ -102,7 +102,7 @@
 
 **Hashed string**: StrSortIdKRko u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StrSortIdTWzh
 
@@ -112,7 +112,7 @@
 
 **Hashed string**: StrSortIdTWzh u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StrSortIdUSen
 
@@ -122,7 +122,7 @@
 
 **Hashed string**: StrSortIdUSen u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StrSortIdUSes
 
@@ -132,7 +132,7 @@
 
 **Hashed string**: StrSortIdUSes u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StrSortIdUSfr
 
@@ -142,7 +142,7 @@
 
 **Hashed string**: StrSortIdUSfr u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## UniqueID
 
@@ -152,5 +152,5 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

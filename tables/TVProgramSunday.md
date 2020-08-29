@@ -14,7 +14,7 @@
 
 **Notes**: Matches ProgramName in TVProgram. Indicates the TV program shown.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StartHour
 
@@ -26,7 +26,7 @@
 
 **Notes**: The hour at which the program starts. Between 0 and 23.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StartMinute
 
@@ -38,5 +38,5 @@
 
 **Notes**: The minute at which the program starts. Between 0 and 59.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

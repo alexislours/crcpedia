@@ -14,7 +14,7 @@
 
 **Notes**: The index for the silhouette in MuseumNPCSilhouette if SilhouettePoint is 1, 0 otherwise.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StageName
 
@@ -26,7 +26,7 @@
 
 **Notes**: The room in which this watch point is. Matches with MuseumNPCSpotTalk.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0x35ac2c17
 
@@ -36,7 +36,7 @@
 
 **Notes**: Either Always, Daytime or Night. During what time period this watch point is visible.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## WalkWatchOffsetX
 
@@ -46,7 +46,7 @@
 
 **Hashed string**: WalkWatchOffsetX f32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## WalkWatchOffsetY
 
@@ -56,7 +56,7 @@
 
 **Hashed string**: WalkWatchOffsetY f32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## WalkWatchOffsetZ
 
@@ -66,7 +66,7 @@
 
 **Hashed string**: WalkWatchOffsetZ f32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## WatchAngleY
 
@@ -76,7 +76,7 @@
 
 **Hashed string**: WatchAngleY f32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## WatchPosX
 
@@ -88,7 +88,7 @@
 
 **Notes**: The x coordinate of the position from where this view point is seen.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## WatchPosY
 
@@ -100,7 +100,7 @@
 
 **Notes**: The y coordinate of the position from where this view point is seen.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## WatchPosZ
 
@@ -112,7 +112,7 @@
 
 **Notes**: The z coordinate of the position from where this view point is seen.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## UniqueID
 
@@ -122,7 +122,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## BattlePoint
 
@@ -134,7 +134,7 @@
 
 **Notes**: 1 if this view point is used for insect battles, 0 otherwise.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## PointName
 
@@ -146,7 +146,7 @@
 
 **Notes**: The view point's name in Japanese. Usually is the name of whatever's exposed.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## SilhouettePoint
 
@@ -158,5 +158,5 @@
 
 **Notes**: 1 if this view point is for a silhouette (in the third fossil room), 0 otherwise.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

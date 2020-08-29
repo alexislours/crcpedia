@@ -12,7 +12,7 @@
 
 **Hashed string**: NpcFtrActionHoldTime s32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## NpcFtrActionInterest
 
@@ -22,7 +22,7 @@
 
 **Hashed string**: NpcFtrActionInterest.hshCstringRef
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## NpcFtrActionWeather
 
@@ -32,7 +32,7 @@
 
 **Hashed string**: NpcFtrActionWeather.hshCstringRef
 
-**Versions**: , , , 
+**Versions**: 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## NpcFtrActionTool
 
@@ -42,7 +42,7 @@
 
 **Hashed string**: NpcFtrActionTool u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## UniqueID
 
@@ -52,7 +52,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Label
 
@@ -62,7 +62,7 @@
 
 **Hashed string**: Label string32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Name
 
@@ -72,7 +72,7 @@
 
 **Hashed string**: Name string32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## NpcFtrActionAsName
 
@@ -82,5 +82,5 @@
 
 **Hashed string**: NpcFtrActionAsName string64
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

@@ -14,7 +14,7 @@
 
 **Notes**: indices to MessageCardColorParam
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## BodyColor
 
@@ -26,7 +26,7 @@
 
 **Notes**: indices to MessageCardColorParam
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## FootColor
 
@@ -38,7 +38,7 @@
 
 **Notes**: indices to MessageCardColorParam
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## HeadColor
 
@@ -50,7 +50,7 @@
 
 **Notes**: indices to MessageCardColorParam
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## PenColor1
 
@@ -62,7 +62,7 @@
 
 **Notes**: indices to MessageCardColorParam
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## PenColor2
 
@@ -74,7 +74,7 @@
 
 **Notes**: indices to MessageCardColorParam
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## PenColor3
 
@@ -86,7 +86,7 @@
 
 **Notes**: indices to MessageCardColorParam
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## PenColor4
 
@@ -98,7 +98,7 @@
 
 **Notes**: indices to MessageCardColorParam
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## RuleColor
 
@@ -110,7 +110,7 @@
 
 **Notes**: indices to MessageCardColorParam
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## TextLotId
 
@@ -122,7 +122,7 @@
 
 **Notes**: The resource name for this board message
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0x84818e10
 
@@ -130,7 +130,7 @@
 
 **Type**: u16/s16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## UniqueID
 
@@ -140,7 +140,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ResourceName
 
@@ -152,5 +152,5 @@
 
 **Notes**: MessageCard image in Layout
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

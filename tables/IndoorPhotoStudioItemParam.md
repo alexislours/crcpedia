@@ -14,7 +14,7 @@
 
 **Notes**: the direction faced by the furniture (S by default for wallpaper and flooring)
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemID
 
@@ -26,7 +26,7 @@
 
 **Notes**: the item's ID, matching with ItemParam's UniqueID
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## PosX
 
@@ -38,7 +38,7 @@
 
 **Notes**: the X coordinate for the furniture's position in the room (0 by default for wallpaper and flooring)
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## PosZ
 
@@ -50,7 +50,7 @@
 
 **Notes**: the Z coordinate for the furniture's position in the room (0 by default for wallpaper and flooring)
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ReBody
 
@@ -62,7 +62,7 @@
 
 **Notes**: the item's variation
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ReFabric
 
@@ -74,7 +74,7 @@
 
 **Notes**: the item's fabric variation
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## RoomIndex
 
@@ -86,7 +86,7 @@
 
 **Notes**: the room in which the item is: 0 for the main room, 1 for the northern room, 2 for the western room, 3 for eastern room, 4 for attic, 5 for cellar
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## UniqueID
 
@@ -96,5 +96,5 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

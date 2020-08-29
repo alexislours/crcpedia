@@ -14,7 +14,7 @@
 
 **Notes**: Audio quality for music players
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## CarpetMaterial
 
@@ -26,7 +26,7 @@
 
 **Notes**: Determines footstep sound (and possibly effect)
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ClothGroup
 
@@ -38,7 +38,7 @@
 
 **Notes**: Groups clothing variants. Match to Labels in ItemClothGroup, and use UniqueIDs from that table to reference clothing name strings
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Color1
 
@@ -48,7 +48,7 @@
 
 **Hashed string**: Color1.hshCstringRef
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Color2
 
@@ -58,7 +58,7 @@
 
 **Hashed string**: Color2.hshCstringRef
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## DebugFtrSeries
 
@@ -70,7 +70,7 @@
 
 **Notes**: _UNK_00000000_ and 'None'
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Depth
 
@@ -82,7 +82,7 @@
 
 **Notes**: I can't find the hash in code at all (0xf831, 0x6716, and 0xf8316716), so either I'm doing something wrong or it's just unused
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## DragSE
 
@@ -94,7 +94,7 @@
 
 **Notes**: Drag sound effect
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## FossilSet
 
@@ -104,7 +104,7 @@
 
 **Hashed string**: FossilSet.hshCstringRef
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Height
 
@@ -116,7 +116,7 @@
 
 **Notes**: the height of the item, used in a bunch of places such as determining where rocks and fossils can appear
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemAct
 
@@ -128,7 +128,7 @@
 
 **Notes**: Interaction type (LoopAuto = passive animation)
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemCatalogType
 
@@ -140,7 +140,7 @@
 
 **Notes**: Determines if the item is on sale in the catalog, not for sale in the catalog, or doesn't even appear in the catalog
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemDailyCategory
 
@@ -152,7 +152,7 @@
 
 **Notes**: Possibly related to Nature Day Nook Miles+ achievements
 
-**Versions**: , , 
+**Versions**: 1.2.0, 1.3.0, 1.4.0
 
 ## ItemFrom
 
@@ -164,7 +164,7 @@
 
 **Notes**: Where the item is obtained. Used for HHA base points
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemGender
 
@@ -176,7 +176,7 @@
 
 **Notes**: Seems to prevent villagers from wearing non-matching gendered items? (What's NpcGender then?)
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemHHACategory
 
@@ -188,7 +188,7 @@
 
 **Notes**: Used for category bonus for HHA calculations
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemHHAPart
 
@@ -200,7 +200,7 @@
 
 **Notes**: Used for type bonus for HHA calculations
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemHHASeason
 
@@ -212,7 +212,7 @@
 
 **Notes**: Used for seasonal and lucky bonuses for HHA calculations ('All' = lucky)
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemHHASet
 
@@ -224,7 +224,7 @@
 
 **Notes**: Used for set bonus for HHA calculations
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemHHASituation1
 
@@ -236,7 +236,7 @@
 
 **Notes**: Used for situation bonus for HHA calculations
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemHHASituation2
 
@@ -248,7 +248,7 @@
 
 **Notes**: 2nd situation grouping
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemHHATheme
 
@@ -260,7 +260,7 @@
 
 **Notes**: Used for theme bonus for HHA calculations
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemHobbyType
 
@@ -272,7 +272,7 @@
 
 **Notes**: Could possibly be related to villagers' HobbyPoint values in their NpcRoom bymls?
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemKind
 
@@ -284,7 +284,7 @@
 
 **Notes**: Type of item
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemLayout
 
@@ -296,7 +296,7 @@
 
 **Notes**: Determines if the item can be placed on the floor, on top of another item (upper), or if another item can be placed on top of it (downer)
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemLightColor
 
@@ -306,7 +306,7 @@
 
 **Hashed string**: ItemLightColor.hshCstringRef
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0x7dcd5be1
 
@@ -316,7 +316,7 @@
 
 **Notes**: Low', 'High', 'Normal' and 'None'. Similar to ItemHobbyType. Could have a name similar to ItemLifeType?
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemMailAttachCategory
 
@@ -326,7 +326,7 @@
 
 **Hashed string**: ItemMailAttachCategory.hshCstringRef
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemMenu
 
@@ -338,7 +338,7 @@
 
 **Notes**: What icon is used in inventory. Must be matched to a Label in the ItemMenuIcon table to get the actual ResName (image filename)
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemMessageCategory
 
@@ -350,7 +350,7 @@
 
 **Notes**: One thing this seems to do is group quest fish/insects. 
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0x164a5f24
 
@@ -360,7 +360,7 @@
 
 **Notes**: Villager clothing style preference 1
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0x9ba040c2
 
@@ -370,7 +370,7 @@
 
 **Notes**: Villager clothing style preference 2
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemNpcFtrActionType
 
@@ -382,7 +382,7 @@
 
 **Notes**: How villagers interact with the furniture
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemNpcFtrWatchType
 
@@ -394,7 +394,7 @@
 
 **Notes**: The direction of the item that villagers interact from
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemNpcReactionGenreType
 
@@ -406,7 +406,7 @@
 
 **Notes**: Used to choose how villagers comment on furniture genres
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemNpcReactionThemeType
 
@@ -418,7 +418,7 @@
 
 **Notes**: Used to choose how villagers comment on furniture themes
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemNpcRoomLayoutLimit
 
@@ -430,7 +430,7 @@
 
 **Notes**: Determines whether villagers can put this on the floor in their house. ('Valid' = can only be placed on surface)
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemNpcRoomReplaceCategory
 
@@ -442,7 +442,7 @@
 
 **Notes**: Groups items so only items in the same group can replace default floor furniture in villagers' houses
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemOrderSale
 
@@ -454,7 +454,7 @@
 
 **Notes**: Yes' and 'No'. Items that appear in Nook Shopping seem to have 'Yes'
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemOutfitInfo
 
@@ -466,7 +466,7 @@
 
 **Notes**: Categorizes clothes and tools
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemPlayerTopsBottomsForm
 
@@ -476,7 +476,7 @@
 
 **Hashed string**: ItemPlayerTopsBottomsForm.hshCstringRef
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemPriorityPlace
 
@@ -488,7 +488,7 @@
 
 **Notes**: Determines if the item is recommended for outdoors or indoors. Outdoors items give bonus points for island rating. It's unknown what indoors is used for
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemRandomColorGroup
 
@@ -500,7 +500,7 @@
 
 **Notes**: Used to keep colors consistent for groups of items which the colors are randomly chosen for your island
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemRegionFilter
 
@@ -512,7 +512,7 @@
 
 **Notes**: Determines that celebratory candles aren't suitable for Europe
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemSize
 
@@ -522,7 +522,7 @@
 
 **Hashed string**: ItemSize.hshCstringRef
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemUICategory
 
@@ -534,7 +534,7 @@
 
 **Notes**: Item storage categories. "Floor" is housewares, "Upper" is miscellaneous.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemUIFurnitureCategory
 
@@ -546,7 +546,7 @@
 
 **Notes**: How items are sorted in each storage category for "Sort: Type"
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemUnitIcon
 
@@ -558,7 +558,7 @@
 
 **Notes**: Icon used for dropped items
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## LampType
 
@@ -570,7 +570,7 @@
 
 **Notes**: type of light emission, like "Candle" or "FluorLamp"
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## LocalWindType
 
@@ -582,7 +582,7 @@
 
 **Notes**: For objects that create wind effects, like fans
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## NpcFtrWatchPos
 
@@ -592,7 +592,7 @@
 
 **Hashed string**: NpcFtrWatchPos f32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## NpcGender
 
@@ -602,7 +602,7 @@
 
 **Hashed string**: NpcGender.hshCstringRef
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## NpcOutfit
 
@@ -614,7 +614,7 @@
 
 **Notes**: Positions the villagers wear caps and glasses
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## OutfitSE
 
@@ -626,7 +626,7 @@
 
 **Notes**: Presumably outfit sound effect. Currently 'None' for every item
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Price
 
@@ -638,7 +638,7 @@
 
 **Notes**: The amount of bells the item is bought for. Divide by 4 to get sale price at Nook's Cranny. All items have prices but not all of them can be bought with bells
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## RideHeight
 
@@ -648,7 +648,7 @@
 
 **Hashed string**: RideHeight f32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Seasonality
 
@@ -660,7 +660,7 @@
 
 **Notes**: Seems to set seasonal "appropriateness", but not restrictions on whether those items are available
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## WallPlaceType
 
@@ -670,7 +670,7 @@
 
 **Hashed string**: WallPlaceType.hshCstringRef
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## BridgeTypeId
 
@@ -682,7 +682,7 @@
 
 **Notes**: Matches to UniqueID in StructureBridgeTypeParam
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ColorGroupSortId
 
@@ -694,7 +694,7 @@
 
 **Notes**: All items with values above 0 (from 1 to 8) seem to be clothing. But some clothing items are 0 too
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## CookingRecipeID
 
@@ -706,7 +706,7 @@
 
 **Notes**: Yum
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## DiyRecipeID
 
@@ -718,7 +718,7 @@
 
 **Notes**: Matches to UniqueID in RecipeCraftParam, so links a crafted object back to its DIY recipe
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## FakeArtConvertId
 
@@ -730,7 +730,7 @@
 
 **Notes**: Matches UniqueIDs of fake art to real art and vice versa
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## FloorTableId
 
@@ -742,7 +742,7 @@
 
 **Notes**: Matches to UniqueID in RoomFloorParam
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0x9ec34ed4
 
@@ -750,7 +750,7 @@
 
 **Type**: u16/s16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemShareTextureUniqueID
 
@@ -762,7 +762,7 @@
 
 **Notes**: Used for insects and their toy versions, presumably as a common identifier to reference shared textures
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## RemakeID
 
@@ -774,7 +774,7 @@
 
 **Notes**: Matches to UniqueID in ItemRemake
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## SewingRecipeID
 
@@ -784,7 +784,7 @@
 
 **Hashed string**: SewingRecipeID s16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## SlopeTableId
 
@@ -796,7 +796,7 @@
 
 **Notes**: Matches to UniqueID in StructureSlopeParam
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## UniqueID
 
@@ -806,7 +806,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## WallTableId
 
@@ -818,7 +818,7 @@
 
 **Notes**: Matches to UniqueID in RoomWallParam
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## AITagBitRankA
 
@@ -830,7 +830,7 @@
 
 **Notes**: Bit field that groups clothes for villagers to equip in certain situations. See link below for more information: https://docs.google.com/spreadsheets/d/1Hg9RM8t-wfJWBOhRyqQAbsQN-gv_qLLA2JalqNE-B2U/edit?usp=sharing
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## AITagBitRankB
 
@@ -842,7 +842,7 @@
 
 **Notes**: Bit field that groups clothes for villagers to equip in certain situations
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## AITagBitRankC
 
@@ -854,7 +854,7 @@
 
 **Notes**: Unused bit field that groups clothes for villagers to equip in certain situations
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## AITagBitRankS
 
@@ -866,7 +866,7 @@
 
 **Notes**: Bit field that groups clothes for villagers to equip in certain situations
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## CanNotLookFace
 
@@ -878,7 +878,7 @@
 
 **Notes**: Prevents villagers from seeing your wasp-stung face
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## CaptureClosetIcon
 
@@ -890,7 +890,7 @@
 
 **Notes**: Used for generating wardrobe icons. No effect on gameplay
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## CaptureDiyIcon
 
@@ -902,7 +902,7 @@
 
 **Notes**: Used for generating recipe icons. No effect on gameplay
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0xf179f796
 
@@ -912,7 +912,7 @@
 
 **Notes**: Used for determining interaction state when generating icons. No effect on gameplay
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## CaptureFtrIcon
 
@@ -924,7 +924,7 @@
 
 **Notes**: Used for generating storage icons. No effect on gameplay
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## CaptureGardeningIcon
 
@@ -936,7 +936,7 @@
 
 **Notes**: Used for generating gardening??? icons. Maybe Leif shop icons. No effect on gameplay
 
-**Versions**: , 
+**Versions**: 1.3.0, 1.4.0
 
 ## CapturePreset
 
@@ -948,7 +948,7 @@
 
 **Notes**: Used for generating icons. No effect on gameplay
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## DefaultSwitch
 
@@ -960,7 +960,7 @@
 
 **Notes**: Likely default on/off state
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## FrontSwitch
 
@@ -972,7 +972,7 @@
 
 **Notes**: Whether it can only be turned on/off from the front
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## HasJmp
 
@@ -984,7 +984,7 @@
 
 **Notes**: Includes all rugs with .pbc files (collision files?)
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0x4b97cdab
 
@@ -992,7 +992,7 @@
 
 **Type**: u8/s8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## IsSwingFtr
 
@@ -1004,7 +1004,7 @@
 
 **Notes**: If the items have wind animations
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemHHADirection
 
@@ -1016,7 +1016,7 @@
 
 **Notes**: 1 = can get HHA penalty for facing walls
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemName
 
@@ -1028,7 +1028,7 @@
 
 **Notes**: Japanese item name?
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemReleaseVersion
 
@@ -1040,7 +1040,7 @@
 
 **Notes**: Version the item was added. Matches to row index (not UniqueID!) in ReleaseVersionParam
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Label
 
@@ -1050,7 +1050,7 @@
 
 **Hashed string**: Label string50
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## NpcDefaultSwitch
 
@@ -1062,7 +1062,7 @@
 
 **Notes**: Default on/off state when placed in villagers' houses
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ResName
 
@@ -1074,7 +1074,7 @@
 
 **Notes**: Model name
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## RumbleForEdit
 
@@ -1084,7 +1084,7 @@
 
 **Hashed string**: RumbleForEdit u8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0xb5677509
 
@@ -1092,7 +1092,7 @@
 
 **Type**: u8/s8
 
-**Versions**: , 
+**Versions**: 1.3.0, 1.4.0
 
 ## ToiletType
 
@@ -1104,7 +1104,7 @@
 
 **Notes**: Usable toilets are set to 1
 
-**Versions**: , , , 
+**Versions**: 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## TouchRumble
 
@@ -1114,7 +1114,7 @@
 
 **Hashed string**: TouchRumble u8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ValidEffect
 
@@ -1124,5 +1124,5 @@
 
 **Hashed string**: ValidEffect u8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

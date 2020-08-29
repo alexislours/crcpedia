@@ -12,7 +12,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ASCommand
 
@@ -24,7 +24,7 @@
 
 **Notes**: Animation name
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EndHour
 
@@ -36,7 +36,7 @@
 
 **Notes**: Interval end hour (24-hour time)
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## SelectRate
 
@@ -48,7 +48,7 @@
 
 **Notes**: Probably a percent chance of the animation being shown when player enters Resident Services
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StartHour
 
@@ -60,5 +60,5 @@
 
 **Notes**: Interval start hour (24-hour time)
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

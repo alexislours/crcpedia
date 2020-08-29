@@ -10,7 +10,7 @@
 
 **Type**: u32/s32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0xb6f6977b
 
@@ -18,7 +18,7 @@
 
 **Type**: u32/s32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0xa1def3bb
 
@@ -26,7 +26,7 @@
 
 **Type**: u32/s32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0x98a65efb
 
@@ -34,7 +34,7 @@
 
 **Type**: u32/s32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0xf0c9a20d
 
@@ -42,7 +42,7 @@
 
 **Type**: u32/s32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0xc9b10f4d
 
@@ -50,7 +50,7 @@
 
 **Type**: u32/s32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0xde996b8d
 
@@ -58,7 +58,7 @@
 
 **Type**: u32/s32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0xbb4055cd
 
@@ -66,7 +66,7 @@
 
 **Type**: u32/s32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0xac68310d
 
@@ -74,7 +74,7 @@
 
 **Type**: u32/s32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0x95109c4d
 
@@ -82,7 +82,7 @@
 
 **Type**: u32/s32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0x8238f88d
 
@@ -90,7 +90,7 @@
 
 **Type**: u32/s32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0x5ea2e0cd
 
@@ -98,7 +98,7 @@
 
 **Type**: u32/s32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0x498a840d
 
@@ -106,7 +106,7 @@
 
 **Type**: u32/s32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## UniqueID
 
@@ -116,7 +116,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Name
 
@@ -126,7 +126,7 @@
 
 **Hashed string**: Name string32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Stage0
 
@@ -136,7 +136,7 @@
 
 **Hashed string**: Stage0 string32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Stage1
 
@@ -146,7 +146,7 @@
 
 **Hashed string**: Stage1 string32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Stage10
 
@@ -156,7 +156,7 @@
 
 **Hashed string**: Stage10 string32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Stage11
 
@@ -166,7 +166,7 @@
 
 **Hashed string**: Stage11 string32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Stage12
 
@@ -176,7 +176,7 @@
 
 **Hashed string**: Stage12 string32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Stage2
 
@@ -186,7 +186,7 @@
 
 **Hashed string**: Stage2 string32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Stage3
 
@@ -196,7 +196,7 @@
 
 **Hashed string**: Stage3 string32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Stage4
 
@@ -206,7 +206,7 @@
 
 **Hashed string**: Stage4 string32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Stage5
 
@@ -216,7 +216,7 @@
 
 **Hashed string**: Stage5 string32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Stage6
 
@@ -226,7 +226,7 @@
 
 **Hashed string**: Stage6 string32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Stage7
 
@@ -236,7 +236,7 @@
 
 **Hashed string**: Stage7 string32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Stage8
 
@@ -246,7 +246,7 @@
 
 **Hashed string**: Stage8 string32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Stage9
 
@@ -256,5 +256,5 @@
 
 **Hashed string**: Stage9 string32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

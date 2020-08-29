@@ -12,7 +12,7 @@
 
 **Hashed string**: NormalScaleMaskA f32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## NormalScaleMaskB
 
@@ -22,7 +22,7 @@
 
 **Hashed string**: NormalScaleMaskB f32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## NormalScaleMaskG
 
@@ -32,7 +32,7 @@
 
 **Hashed string**: NormalScaleMaskG f32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## NormalScaleMaskR
 
@@ -42,7 +42,7 @@
 
 **Hashed string**: NormalScaleMaskR f32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## UniqueID
 
@@ -52,7 +52,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Label
 
@@ -62,7 +62,7 @@
 
 **Hashed string**: Label string64
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Name
 
@@ -72,7 +72,7 @@
 
 **Hashed string**: Name string64
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## NpcResName
 
@@ -82,7 +82,7 @@
 
 **Hashed string**: NpcResName string64
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## NpcSpResName
 
@@ -92,7 +92,7 @@
 
 **Hashed string**: NpcSpResName string64
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ResName
 
@@ -102,7 +102,7 @@
 
 **Hashed string**: ResName string64
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## TorsoResName
 
@@ -112,5 +112,5 @@
 
 **Hashed string**: TorsoResName string32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

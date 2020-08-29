@@ -12,7 +12,7 @@
 
 **Hashed string**: BgCheckType.hshCstringRef
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ChangeDemo
 
@@ -22,7 +22,7 @@
 
 **Hashed string**: ChangeDemo.hshCstringRef
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ObjCheckRate
 
@@ -32,7 +32,7 @@
 
 **Hashed string**: ObjCheckRate f32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ObjCheckType
 
@@ -42,7 +42,7 @@
 
 **Hashed string**: ObjCheckType.hshCstringRef
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## PacketType
 
@@ -52,7 +52,7 @@
 
 **Hashed string**: PacketType.hshCstringRef
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## RemoteChase
 
@@ -62,7 +62,7 @@
 
 **Hashed string**: RemoteChase.hshCstringRef
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ToolState
 
@@ -72,7 +72,7 @@
 
 **Hashed string**: ToolState.hshCstringRef
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## DemoNetLockState
 
@@ -82,7 +82,7 @@
 
 **Hashed string**: DemoNetLockState u16
 
-**Versions**: 
+**Versions**: 1.4.0
 
 ## AcceptAccess
 
@@ -92,7 +92,7 @@
 
 **Hashed string**: AcceptAccess u8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0xf413acd2
 
@@ -100,7 +100,7 @@
 
 **Type**: u8/s8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0x833e2942
 
@@ -108,7 +108,7 @@
 
 **Type**: u8/s8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## BeesRunAway
 
@@ -118,7 +118,7 @@
 
 **Hashed string**: BeesRunAway u8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## BgmEnd
 
@@ -128,7 +128,7 @@
 
 **Hashed string**: BgmEnd u8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## CanChaseForInsect
 
@@ -138,7 +138,7 @@
 
 **Hashed string**: CanChaseForInsect u8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0x63f77486
 
@@ -146,7 +146,7 @@
 
 **Type**: u8/s8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0x5dcf7b24
 
@@ -154,7 +154,7 @@
 
 **Type**: u8/s8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0x16e483f0
 
@@ -162,7 +162,7 @@
 
 **Type**: u8/s8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0xaa0070b7
 
@@ -170,7 +170,7 @@
 
 **Type**: u8/s8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## DemoNetLockState (Unused)
 
@@ -182,7 +182,7 @@
 
 **Notes**: Moved to e50d3218 in 1.4.0
 
-**Versions**: , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0
 
 ## DummyMenuDemo
 
@@ -192,7 +192,7 @@
 
 **Hashed string**: DummyMenuDemo u8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EnableRodCloth
 
@@ -202,7 +202,7 @@
 
 **Hashed string**: EnableRodCloth u8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EnableStageChange
 
@@ -212,7 +212,7 @@
 
 **Hashed string**: EnableStageChange u8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ForbidOverwrite
 
@@ -222,7 +222,7 @@
 
 **Hashed string**: ForbidOverwrite u8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## HideFoodCounter
 
@@ -232,7 +232,7 @@
 
 **Hashed string**: HideFoodCounter u8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## HideHUD
 
@@ -242,7 +242,7 @@
 
 **Hashed string**: HideHUD u8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## InWaterBody
 
@@ -252,7 +252,7 @@
 
 **Hashed string**: InWaterBody u8
 
-**Versions**: , 
+**Versions**: 1.3.0, 1.4.0
 
 ## JudgeVisibleOn
 
@@ -262,7 +262,7 @@
 
 **Hashed string**: JudgeVisibleOn u8
 
-**Versions**: , , , 
+**Versions**: 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0xede0a8ca
 
@@ -270,7 +270,7 @@
 
 **Type**: u8/s8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0x87438100
 
@@ -278,7 +278,7 @@
 
 **Type**: u8/s8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## NpcLookAction
 
@@ -288,7 +288,7 @@
 
 **Hashed string**: NpcLookAction u8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0x5b6d5751
 
@@ -296,7 +296,7 @@
 
 **Type**: u8/s8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## PoseTrans
 
@@ -306,7 +306,7 @@
 
 **Hashed string**: PoseTrans u8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## PoseTransDive
 
@@ -316,7 +316,7 @@
 
 **Hashed string**: PoseTransDive u8
 
-**Versions**: , 
+**Versions**: 1.3.0, 1.4.0
 
 ## 0x65fd6b0d
 
@@ -324,7 +324,7 @@
 
 **Type**: u8/s8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0x2b6186a0
 
@@ -332,7 +332,7 @@
 
 **Type**: u8/s8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0x95798f28
 
@@ -340,7 +340,7 @@
 
 **Type**: u8/s8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StateName
 
@@ -350,7 +350,7 @@
 
 **Hashed string**: StateName string48
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StopAutoSave
 
@@ -360,7 +360,7 @@
 
 **Hashed string**: StopAutoSave u8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0xa84507aa
 
@@ -368,7 +368,7 @@
 
 **Type**: u8/s8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0xc033d95a
 
@@ -376,7 +376,7 @@
 
 **Type**: u8/s8
 
-**Versions**: , , , 
+**Versions**: 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ValidDiveRate
 
@@ -386,7 +386,7 @@
 
 **Hashed string**: ValidDiveRate u8
 
-**Versions**: , , 
+**Versions**: 1.2.0, 1.3.0, 1.4.0
 
 ## WaitType
 
@@ -396,5 +396,5 @@
 
 **Hashed string**: WaitType u8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

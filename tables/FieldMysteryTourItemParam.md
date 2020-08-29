@@ -14,5 +14,5 @@
 
 **Notes**: Removed in 1.1.0
 
-**Versions**: 
+**Versions**: 1.0.0
 

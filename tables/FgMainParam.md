@@ -14,7 +14,7 @@
 
 **Notes**: Collision height of the model, 0 if no collision
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## InsectParam
 
@@ -26,7 +26,7 @@
 
 **Notes**: the counterpart for InsectStatusParam's AppearFg
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Kind
 
@@ -38,7 +38,7 @@
 
 **Notes**: the type of object the row is (e.g. fruit tree, cedar stump, rose, etc.), and is used a lot when the specific object doesn't matter (e.g. "all fences" or "all fruit trees")
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## PicIconHeight
 
@@ -50,7 +50,7 @@
 
 **Notes**: Always 0
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## BuryItem
 
@@ -62,7 +62,7 @@
 
 **Notes**: Item burried
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## BuryItem2
 
@@ -74,7 +74,7 @@
 
 **Notes**: Item burried
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## BuryItem3
 
@@ -86,7 +86,7 @@
 
 **Notes**: Item burried
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ChangeFg
 
@@ -98,7 +98,7 @@
 
 **Notes**: varies depending on the item, but is loosely "what item id does this item become if something happens to it" (trees -> stumps (axed), flower blooms -> stems (picked), flowering bushes -> flowerless bushes (out of season))
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## DigItem
 
@@ -110,7 +110,7 @@
 
 **Notes**: Item returned when digging
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EffectAttribute
 
@@ -122,7 +122,7 @@
 
 **Notes**: Always 0
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## GrowupFg
 
@@ -134,7 +134,7 @@
 
 **Notes**: Item ID that the item in FgMainParam grows up into, i.e. sapling → tree stage 1, red cosmos stems → red cosmos buds, etc. its value is a bit weird for bushes because bushes have a slightly different path in code to handle whether they're in season or not
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## NutItem
 
@@ -146,7 +146,7 @@
 
 **Notes**: Fruit falling from the object
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## PicItem
 
@@ -158,7 +158,7 @@
 
 **Notes**: Item returned when picking up
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## SoundAttribute
 
@@ -170,7 +170,7 @@
 
 **Notes**: Always 0
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## UniqueID
 
@@ -180,7 +180,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ColorIndex
 
@@ -190,7 +190,7 @@
 
 **Hashed string**: ColorIndex s8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## DebugName
 
@@ -200,7 +200,7 @@
 
 **Hashed string**: DebugName string64
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Grow
 
@@ -212,7 +212,7 @@
 
 **Notes**: growth stage, a bit weird for bushes
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Label
 
@@ -222,7 +222,7 @@
 
 **Hashed string**: Label string32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ModelName
 
@@ -234,7 +234,7 @@
 
 **Notes**: 3D model file name
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Nature
 
@@ -246,7 +246,7 @@
 
 **Notes**: bitfield
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0xa4b2d66d
 
@@ -256,7 +256,7 @@
 
 **Notes**: bitfield
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ResName
 
@@ -266,5 +266,5 @@
 
 **Hashed string**: ResName string64
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

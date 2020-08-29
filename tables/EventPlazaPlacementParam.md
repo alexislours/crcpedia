@@ -12,7 +12,7 @@
 
 **Notes**: Event name
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EventType
 
@@ -24,7 +24,7 @@
 
 **Notes**: PermanentObj, CalendarEvent, VisitorNpc, and NpcGroupActivity
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0x24e5b19d
 
@@ -34,7 +34,7 @@
 
 **Notes**: NPC group activity name?
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## PlacementKind
 
@@ -46,7 +46,7 @@
 
 **Notes**: Ftr, NPC, and EventObj
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EventFtrUniqueID
 
@@ -58,7 +58,7 @@
 
 **Notes**: ID of row from EventPlazaFtrParam
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EventObjUniqueID
 
@@ -70,7 +70,7 @@
 
 **Notes**: ID of row from EventPlazaObjModelParam
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## OffsetX
 
@@ -82,7 +82,7 @@
 
 **Notes**: X position
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## OffsetZ
 
@@ -94,7 +94,7 @@
 
 **Notes**: Z position
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## UniqueID
 
@@ -104,7 +104,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## CalendarEventKey
 
@@ -116,7 +116,7 @@
 
 **Notes**: Event name. Identical to 36dd90c
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0xb8e42602
 
@@ -124,7 +124,7 @@
 
 **Type**: u8
 
-**Versions**: 
+**Versions**: 1.4.0
 
 ## DisableInDream
 
@@ -136,7 +136,7 @@
 
 **Notes**: 1 = Doesn't appear in dreams, 0 = Does appear in dreams
 
-**Versions**: 
+**Versions**: 1.4.0
 
 ## 0xe6c63c5c
 
@@ -144,7 +144,7 @@
 
 **Type**: string32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0x7215b154
 
@@ -152,7 +152,7 @@
 
 **Type**: string32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## NpcSpLabel
 
@@ -164,7 +164,7 @@
 
 **Notes**: Special NPC used
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## PlacementKey
 
@@ -176,7 +176,7 @@
 
 **Notes**: Row name
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## VisitorNpcLabel
 
@@ -188,5 +188,5 @@
 
 **Notes**: Special NPC used
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

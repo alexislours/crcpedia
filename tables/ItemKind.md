@@ -14,7 +14,7 @@
 
 **Notes**: Possibly related to what kind of icon is shown in storage
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemKindUIType
 
@@ -26,7 +26,7 @@
 
 **Notes**: Possibly determines what kind of options show up when selected in inventory
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemRemakeType
 
@@ -36,7 +36,7 @@
 
 **Hashed string**: ItemRemakeType.hshCstringRef
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## MessageKind
 
@@ -46,7 +46,7 @@
 
 **Hashed string**: MessageKind.hshCstringRef
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## SLinkType
 
@@ -56,7 +56,7 @@
 
 **Hashed string**: SLinkType.hshCstringRef
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## MultiHoldMaxNum
 
@@ -68,7 +68,7 @@
 
 **Notes**: Number of items that can be stacked
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## SaveCountMaxNum
 
@@ -80,7 +80,7 @@
 
 **Notes**: 0 in all rows
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## UniqueID
 
@@ -90,7 +90,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## CanBury
 
@@ -102,7 +102,7 @@
 
 **Notes**: Can be buried (shows a "Bury" option in the inventory UI)
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## CanEat
 
@@ -114,7 +114,7 @@
 
 **Notes**: Can be eaten
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## CanFtr
 
@@ -126,7 +126,7 @@
 
 **Notes**: Can be placed on the ground as furniture
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## CanGift
 
@@ -138,7 +138,7 @@
 
 **Notes**: Can be wrapped in wrapping paper
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## CanNpcBirthdayPresent
 
@@ -150,7 +150,7 @@
 
 **Notes**: Can be gifted to villagers during their birthdays
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## CanNpcPresent
 
@@ -162,7 +162,7 @@
 
 **Notes**: Can be gifted to villagers daily
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## CanPlant
 
@@ -174,7 +174,7 @@
 
 **Notes**: Can be planted (shows a "Plant" option in the inventory UI)
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## CanPut
 
@@ -186,7 +186,7 @@
 
 **Notes**: Can be dropped as an icon
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## CanPutWallAndFloor
 
@@ -198,7 +198,7 @@
 
 **Notes**: Items that can be placed on walls or floor
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## CanSell
 
@@ -210,7 +210,7 @@
 
 **Notes**: Can be sold in Nook's Cranny
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## CanSellSimple
 
@@ -222,7 +222,7 @@
 
 **Notes**: Can be sold in the drop-off box
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## CanSetChest
 
@@ -234,7 +234,7 @@
 
 **Notes**: Can be put into storage
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## CanSetCloset
 
@@ -246,7 +246,7 @@
 
 **Notes**: Shows up in the wardrobe UI
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## CanSetInTrashBox
 
@@ -258,7 +258,7 @@
 
 **Notes**: Can be thrown away in garbage cans
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## CanSetItem
 
@@ -270,7 +270,7 @@
 
 **Notes**: Exists as an item that can be in your inventory
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## CanUsePhotoStudio
 
@@ -282,7 +282,7 @@
 
 **Notes**: Can be used in Harv's studio
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0xc37a683c
 
@@ -292,7 +292,7 @@
 
 **Notes**: Not used by the game. Is '1' on the three HousingKit rows
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## IsCollectAchievement
 
@@ -302,7 +302,7 @@
 
 **Hashed string**: IsCollectAchievement u8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Label
 
@@ -312,7 +312,7 @@
 
 **Hashed string**: Label string32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Name
 
@@ -322,5 +322,5 @@
 
 **Hashed string**: Name string64
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

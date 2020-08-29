@@ -14,7 +14,7 @@
 
 **Notes**: Type of value used to complete, either "Num" or "Money"
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## WaitFrame
 
@@ -24,7 +24,7 @@
 
 **Hashed string**: WaitFrame u32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## AppearValue
 
@@ -36,7 +36,7 @@
 
 **Notes**: FlagsUiType value required to be able to get the Nook Miles Plus in the rotation
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## GenreID
 
@@ -46,7 +46,7 @@
 
 **Hashed string**: GenreID u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemNameUniqueID
 
@@ -58,7 +58,7 @@
 
 **Notes**: Internal ID for critters if applicable
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## MaxValue
 
@@ -70,7 +70,7 @@
 
 **Notes**: Value from FlagsUiType required to complete
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## MsID
 
@@ -82,7 +82,7 @@
 
 **Notes**: MSBT label in System/NookMilage/NookMilagePlus_Title.msbt
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Reward
 
@@ -94,7 +94,7 @@
 
 **Notes**: Number of Nook Miles on completion
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## UniqueID
 
@@ -104,7 +104,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## BonusFive
 
@@ -116,7 +116,7 @@
 
 **Notes**: Can be 5x Nook Miles
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## CanSelectEDay
 
@@ -128,7 +128,7 @@
 
 **Notes**: Nook Miles Plus available on Earth Day
 
-**Versions**: , , , 
+**Versions**: 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## CancelEDay
 
@@ -140,7 +140,7 @@
 
 **Notes**: Nook Miles Plus unavailable on Earth Day
 
-**Versions**: , , , 
+**Versions**: 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## CountOtherVillage
 
@@ -152,7 +152,7 @@
 
 **Notes**: If you can achieve it on someone else's island
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## FlagsFlowAccess
 
@@ -162,7 +162,7 @@
 
 **Hashed string**: FlagsFlowAccess u8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## IsEDay
 
@@ -174,7 +174,7 @@
 
 **Notes**: 1 if it's an Earth Day Nook Miles Plus
 
-**Versions**: , , , 
+**Versions**: 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Key
 
@@ -184,7 +184,7 @@
 
 **Hashed string**: Key string64
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Name
 
@@ -194,7 +194,7 @@
 
 **Hashed string**: Name string128
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## NetPlaySelect
 
@@ -206,7 +206,7 @@
 
 **Notes**: If it can be unlocked while playing online
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## SpecialSelect
 
@@ -218,7 +218,7 @@
 
 **Notes**: Forced as first quests?
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Weighting
 
@@ -228,5 +228,5 @@
 
 **Hashed string**: Weighting u8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

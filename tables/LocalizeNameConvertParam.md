@@ -12,7 +12,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## BaseName
 
@@ -24,7 +24,7 @@
 
 **Notes**: Ressource for the Texture
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## CNzh
 
@@ -36,7 +36,7 @@
 
 **Notes**: Simplified Chinese
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EUde
 
@@ -48,7 +48,7 @@
 
 **Notes**: German
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EUen
 
@@ -60,7 +60,7 @@
 
 **Notes**: English
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EUes
 
@@ -72,7 +72,7 @@
 
 **Notes**: Spanish
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EUfr
 
@@ -84,7 +84,7 @@
 
 **Notes**: French
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EUit
 
@@ -96,7 +96,7 @@
 
 **Notes**: Italian
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EUnl
 
@@ -108,7 +108,7 @@
 
 **Notes**: Dutch
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EUru
 
@@ -120,7 +120,7 @@
 
 **Notes**: Russian
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## JPja
 
@@ -132,7 +132,7 @@
 
 **Notes**: Japanese
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## KRko
 
@@ -144,7 +144,7 @@
 
 **Notes**: Korean
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## LocalizeAnim
 
@@ -156,7 +156,7 @@
 
 **Notes**: If the animation is localized, only used for countdown and TVProgram
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## LocalizeModel
 
@@ -168,7 +168,7 @@
 
 **Notes**: If the model is localized, always false
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## LocalizeTexture
 
@@ -180,7 +180,7 @@
 
 **Notes**: If the texture is localized
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## TWzh
 
@@ -192,7 +192,7 @@
 
 **Notes**: Traditional Chinese
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## USen
 
@@ -204,7 +204,7 @@
 
 **Notes**: English US
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## USes
 
@@ -216,7 +216,7 @@
 
 **Notes**: Spanish US
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## USfr
 
@@ -228,5 +228,5 @@
 
 **Notes**: French US
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

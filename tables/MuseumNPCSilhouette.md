@@ -13,7 +13,7 @@
 
 **Notes**: The race's index in NmlNpcRaceParam.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## SilhouettePosX
 
@@ -25,7 +25,7 @@
 
 **Notes**: Always 160
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## SilhouettePosY
 
@@ -37,7 +37,7 @@
 
 **Notes**: Always 20
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## SilhouettePosZ
 
@@ -49,7 +49,7 @@
 
 **Notes**: Always 210
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## UniqueID
 
@@ -61,7 +61,7 @@
 
 **Notes**: The UniqueID, which isn't even sorted in the order the silhouettes appear at the museum
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## SilhouetteName
 
@@ -73,5 +73,5 @@
 
 **Notes**: The silhouette name in Japanese.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

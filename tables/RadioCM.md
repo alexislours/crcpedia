@@ -12,7 +12,7 @@
 
 **Hashed string**: SelectRate f32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Frames
 
@@ -22,7 +22,7 @@
 
 **Hashed string**: Frames u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## MusicNo
 
@@ -32,7 +32,7 @@
 
 **Hashed string**: MusicNo u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## UniqueID
 
@@ -42,7 +42,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## BeforeDays
 
@@ -52,7 +52,7 @@
 
 **Hashed string**: BeforeDays u8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EventLabelShort
 
@@ -62,7 +62,7 @@
 
 **Hashed string**: EventLabelShort string128
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Timezone
 
@@ -72,5 +72,5 @@
 
 **Hashed string**: Timezone u8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

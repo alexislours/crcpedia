@@ -12,7 +12,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## CanPutDisplay
 
@@ -24,7 +24,7 @@
 
 **Notes**: If the category can put items labeled 'Display' on their surfaces
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## CanPutFish
 
@@ -36,7 +36,7 @@
 
 **Notes**: If the category can put items labeled 'Fish' on their surfaces
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## CanPutFood
 
@@ -48,7 +48,7 @@
 
 **Notes**: If the category can put items labeled 'Food' on their surfaces
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## CanPutForBase
 
@@ -60,7 +60,7 @@
 
 **Notes**: If the category can put items labeled 'Item_ForBase' on their surfaces
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## CanPutInsect
 
@@ -72,7 +72,7 @@
 
 **Notes**: If the category can put items labeled 'Insect' on their surfaces
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## CanPutKitchen
 
@@ -84,7 +84,7 @@
 
 **Notes**: If the category can put items labeled 'Kitchen' on their surfaces
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## CanPutUtility
 
@@ -96,7 +96,7 @@
 
 **Notes**: If the category can put items labeled 'Utility' on their surfaces
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## CanPutWorkStuff
 
@@ -108,7 +108,7 @@
 
 **Notes**: If the category can put items labeled 'WorkStuff' on their surfaces
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Label
 
@@ -118,5 +118,5 @@
 
 **Hashed string**: Label string32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

@@ -14,7 +14,7 @@
 
 **Notes**: ColEffectAttributeParam UniqueID
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## SoundAttribute
 
@@ -26,7 +26,7 @@
 
 **Notes**: ColSoundAttributeParam UniqueID
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## UniqueID
 
@@ -36,7 +36,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ViewSortID
 
@@ -46,7 +46,7 @@
 
 **Hashed string**: ViewSortID u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## CanBury
 
@@ -58,7 +58,7 @@
 
 **Notes**: 1 if you can use your shovel on that ground type, 0 otherwise
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## DebugName
 
@@ -68,7 +68,7 @@
 
 **Hashed string**: DebugName string32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## FtrPlace
 
@@ -80,7 +80,7 @@
 
 **Notes**: 1 if you can put furniture on that ground type, 0 otherwise
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0x2e1e45c3
 
@@ -90,7 +90,7 @@
 
 **Notes**: stores a hex colour code as a string
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0xbd859433
 
@@ -100,7 +100,7 @@
 
 **Notes**: stores a hex colour code as a string
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0x0254bd05
 
@@ -108,7 +108,7 @@
 
 **Type**: u8/s8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## NpcNoEntry
 
@@ -120,7 +120,7 @@
 
 **Notes**: 1 if villager can't walk on that ground type
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## PlayerNoEntry
 
@@ -132,7 +132,7 @@
 
 **Notes**: 1 if players can't walk on that ground type
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Sand
 
@@ -144,7 +144,7 @@
 
 **Notes**: 1 if its sand, only used for beach at the moment
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## WaterCheck
 
@@ -156,5 +156,5 @@
 
 **Notes**: If the ground type is water?
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

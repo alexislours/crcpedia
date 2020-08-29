@@ -14,7 +14,7 @@
 
 **Notes**: The room in which the art piece is displayed. Matches with StageName in MuseumNPCSpotTalk.
 
-**Versions**: , , 
+**Versions**: 1.2.0, 1.3.0, 1.4.0
 
 ## ModelID
 
@@ -26,7 +26,7 @@
 
 **Notes**: The ID for this art piece's resource.
 
-**Versions**: , , 
+**Versions**: 1.2.0, 1.3.0, 1.4.0
 
 ## UniqueID
 
@@ -36,7 +36,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: , , 
+**Versions**: 1.2.0, 1.3.0, 1.4.0
 
 ## WatchItem
 
@@ -48,7 +48,7 @@
 
 **Notes**: The item corresponding to this art piece. Matches with UniqueID in ItemParam.
 
-**Versions**: , , 
+**Versions**: 1.2.0, 1.3.0, 1.4.0
 
 ## CameraParamName
 
@@ -60,5 +60,5 @@
 
 **Notes**: ?? Seems to reference indiviual watch points for each art piece (altough some are shared), but what does this correspond to?
 
-**Versions**: , , 
+**Versions**: 1.2.0, 1.3.0, 1.4.0
 

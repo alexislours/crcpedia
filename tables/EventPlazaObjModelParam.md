@@ -12,7 +12,7 @@
 
 **Hashed string**: DemoDistance f32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0xa9c1118b
 
@@ -22,7 +22,7 @@
 
 **Notes**: Current event on the plaza
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## RoofMaterial
 
@@ -32,7 +32,7 @@
 
 **Hashed string**: RoofMaterial u16
 
-**Versions**: , , 
+**Versions**: 1.2.0, 1.3.0, 1.4.0
 
 ## UniqueID
 
@@ -42,7 +42,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## FlowEntryName
 
@@ -54,7 +54,7 @@
 
 **Notes**: value used as the starting point in the eventflow file listed in FlowFileName
 
-**Versions**: 
+**Versions**: 1.4.0
 
 ## FlowFileName
 
@@ -66,7 +66,7 @@
 
 **Notes**: EventFlow called upon interaction
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## NearCulling
 
@@ -76,7 +76,7 @@
 
 **Hashed string**: NearCulling u8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ResourceName
 
@@ -88,5 +88,5 @@
 
 **Notes**: Model file name
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

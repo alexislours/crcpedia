@@ -14,7 +14,7 @@
 
 **Notes**: Lines up with STR_Favorite. Used for FreeD_RumorP_Favorite NPC dialogue
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Book1
 
@@ -26,7 +26,7 @@
 
 **Notes**: Same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Book2
 
@@ -38,7 +38,7 @@
 
 **Notes**: Same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Comic0
 
@@ -50,7 +50,7 @@
 
 **Notes**: Same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Comic1
 
@@ -62,7 +62,7 @@
 
 **Notes**: Same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Comic2
 
@@ -74,7 +74,7 @@
 
 **Notes**: Same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Dream0
 
@@ -86,7 +86,7 @@
 
 **Notes**: Same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Dream1
 
@@ -98,7 +98,7 @@
 
 **Notes**: Same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Dream2
 
@@ -110,7 +110,7 @@
 
 **Notes**: Same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Drink0
 
@@ -122,7 +122,7 @@
 
 **Notes**: Same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Drink1
 
@@ -134,7 +134,7 @@
 
 **Notes**: Same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Drink2
 
@@ -146,7 +146,7 @@
 
 **Notes**: Same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Food0
 
@@ -158,7 +158,7 @@
 
 **Notes**: Same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Food1
 
@@ -170,7 +170,7 @@
 
 **Notes**: Same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Food2
 
@@ -182,7 +182,7 @@
 
 **Notes**: Same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Hobby0
 
@@ -194,7 +194,7 @@
 
 **Notes**: Same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Hobby1
 
@@ -206,7 +206,7 @@
 
 **Notes**: Same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Hobby2
 
@@ -218,7 +218,7 @@
 
 **Notes**: Same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Movie0
 
@@ -230,7 +230,7 @@
 
 **Notes**: Same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Movie1
 
@@ -242,7 +242,7 @@
 
 **Notes**: Same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Movie2
 
@@ -254,7 +254,7 @@
 
 **Notes**: Same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Music0
 
@@ -266,7 +266,7 @@
 
 **Notes**: Same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Music1
 
@@ -278,7 +278,7 @@
 
 **Notes**: Same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Music2
 
@@ -290,7 +290,7 @@
 
 **Notes**: Same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Speciality0
 
@@ -302,7 +302,7 @@
 
 **Notes**: Same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Speciality1
 
@@ -314,7 +314,7 @@
 
 **Notes**: Same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Speciality2
 
@@ -326,7 +326,7 @@
 
 **Notes**: Same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Sports0
 
@@ -338,7 +338,7 @@
 
 **Notes**: Same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Sports1
 
@@ -350,7 +350,7 @@
 
 **Notes**: Same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Sports2
 
@@ -362,7 +362,7 @@
 
 **Notes**: Same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## TvProgram0
 
@@ -374,7 +374,7 @@
 
 **Notes**: Same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## TvProgram1
 
@@ -386,7 +386,7 @@
 
 **Notes**: Same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## TvProgram2
 
@@ -398,7 +398,7 @@
 
 **Notes**: Same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## UniqueID
 
@@ -408,7 +408,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Label
 
@@ -420,5 +420,5 @@
 
 **Notes**: Personality
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

@@ -14,7 +14,7 @@
 
 **Notes**: Blue value for hair color
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## BaseColorG
 
@@ -26,7 +26,7 @@
 
 **Notes**: Green value for hair color
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## BaseColorR
 
@@ -38,7 +38,7 @@
 
 **Notes**: Red value for hair color
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## HighlightColorB
 
@@ -50,7 +50,7 @@
 
 **Notes**: Blue value for hair highlight color
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## HighlightColorG
 
@@ -62,7 +62,7 @@
 
 **Notes**: Green value for hair highlight color
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## HighlightColorR
 
@@ -74,7 +74,7 @@
 
 **Notes**: Red value for hair highlight color
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## UniqueID
 
@@ -84,7 +84,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Label
 
@@ -94,7 +94,7 @@
 
 **Hashed string**: Label string32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Name
 
@@ -104,5 +104,5 @@
 
 **Hashed string**: Name string32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

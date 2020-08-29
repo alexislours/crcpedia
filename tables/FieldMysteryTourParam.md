@@ -14,7 +14,7 @@
 
 **Notes**: Removed in 1.1.0
 
-**Versions**: 
+**Versions**: 1.0.0
 
 ## FishPattern (Unused)
 
@@ -26,7 +26,7 @@
 
 **Notes**: Removed in 1.1.0
 
-**Versions**: 
+**Versions**: 1.0.0
 
 ## InsectPattern (Unused)
 
@@ -38,7 +38,7 @@
 
 **Notes**: Removed in 1.1.0
 
-**Versions**: 
+**Versions**: 1.0.0
 
 ## MysteryTourFieldUniqueID (Unused)
 
@@ -50,7 +50,7 @@
 
 **Notes**: Removed in 1.1.0
 
-**Versions**: 
+**Versions**: 1.0.0
 
 ## MysteryTourItemUniqueID (Unused)
 
@@ -62,7 +62,7 @@
 
 **Notes**: Removed in 1.1.0
 
-**Versions**: 
+**Versions**: 1.0.0
 
 ## SelectWeight (Unused)
 
@@ -74,7 +74,7 @@
 
 **Notes**: Removed in 1.1.0
 
-**Versions**: 
+**Versions**: 1.0.0
 
 ## UniqueID (Unused)
 
@@ -86,5 +86,5 @@
 
 **Notes**: Removed in 1.1.0
 
-**Versions**: 
+**Versions**: 1.0.0
 

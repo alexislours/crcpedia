@@ -12,7 +12,7 @@
 
 **Hashed string**: Door0Angle f32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0x85a0fa49
 
@@ -20,7 +20,7 @@
 
 **Type**: u32/s32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## FacilityModelVariation
 
@@ -30,7 +30,7 @@
 
 **Hashed string**: FacilityModelVariation.hshCstringRef
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## FloorHeight
 
@@ -40,7 +40,7 @@
 
 **Hashed string**: FloorHeight f32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Door0
 
@@ -50,7 +50,7 @@
 
 **Hashed string**: Door0 u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## DoorMaterial
 
@@ -60,7 +60,7 @@
 
 **Hashed string**: DoorMaterial u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0x9c2d6dc6
 
@@ -68,7 +68,7 @@
 
 **Type**: u16/s16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## RoofMaterial
 
@@ -78,7 +78,7 @@
 
 **Hashed string**: RoofMaterial u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StructureInfoUniqueID
 
@@ -88,7 +88,7 @@
 
 **Hashed string**: StructureInfoUniqueID u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## UniqueID
 
@@ -98,7 +98,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Construction
 
@@ -108,7 +108,7 @@
 
 **Hashed string**: Construction u8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## GrowLevel
 
@@ -118,7 +118,7 @@
 
 **Hashed string**: GrowLevel u8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## HasDoorEigyoLight
 
@@ -128,7 +128,7 @@
 
 **Hashed string**: HasDoorEigyoLight u8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## HasEigyoLight
 
@@ -138,7 +138,7 @@
 
 **Hashed string**: HasEigyoLight u8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## HasNightLight
 
@@ -148,7 +148,7 @@
 
 **Hashed string**: HasNightLight u8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## IsUseXlink
 
@@ -158,7 +158,7 @@
 
 **Hashed string**: IsUseXlink u8
 
-**Versions**: , , , 
+**Versions**: 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ModelName
 
@@ -168,7 +168,7 @@
 
 **Hashed string**: ModelName string32
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## UseChimneySmoke
 
@@ -178,7 +178,7 @@
 
 **Hashed string**: UseChimneySmoke u8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## UseMyDesign
 
@@ -188,5 +188,5 @@
 
 **Hashed string**: UseMyDesign u8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

@@ -12,7 +12,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## AsCommand
 
@@ -22,7 +22,7 @@
 
 **Hashed string**: AsCommand string50
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## CliffCreate
 
@@ -34,7 +34,7 @@
 
 **Notes**: 1 if its an error during the creation of a cliff
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0x0b3be609
 
@@ -44,7 +44,7 @@
 
 **Notes**: Always 0
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EventFlowEntryName
 
@@ -56,7 +56,7 @@
 
 **Notes**: Entry in the eventflows to handle error
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Label
 
@@ -66,7 +66,7 @@
 
 **Hashed string**: Label string30
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Name
 
@@ -76,5 +76,5 @@
 
 **Hashed string**: Name string60
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

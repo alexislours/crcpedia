@@ -14,7 +14,7 @@
 
 **Notes**: Picks the flag image to display
 
-**Versions**: , , , 
+**Versions**: 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## UniqueID
 
@@ -24,7 +24,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: , , , 
+**Versions**: 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Label
 
@@ -36,5 +36,5 @@
 
 **Notes**: Matches to RegionEventCountry columns in CalendarEventRegionParam
 
-**Versions**: , , , 
+**Versions**: 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

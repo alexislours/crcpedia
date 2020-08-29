@@ -14,7 +14,7 @@
 
 **Notes**: Matches ItemParam UniqueID and STR_ItemName ids
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ProbAprDaytime
 
@@ -26,7 +26,7 @@
 
 **Notes**: "Daytime" columns for each month set spawn rates for the 9 AM – 4 PM timeslot. Lower values mean lower probability of spawing. For each timeslot, adding up all spawn rates always adds up to 100.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ProbAprMorningAndEvening
 
@@ -38,7 +38,7 @@
 
 **Notes**: "MorningAndEvening" columns for each month set spawn rates for the 4 PM – 9 PM and 4 AM – 9 AM timeslots
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ProbAprNight
 
@@ -50,7 +50,7 @@
 
 **Notes**: "Night" columns for each month set spawn rates for the 9 PM – 4 AM timeslot
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ProbAugDaytime
 
@@ -62,7 +62,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ProbAugMorningAndEvening
 
@@ -74,7 +74,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ProbAugNight
 
@@ -86,7 +86,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ProbDecDaytime
 
@@ -98,7 +98,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ProbDecMorningAndEvening
 
@@ -110,7 +110,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ProbDecNight
 
@@ -122,7 +122,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ProbFebDaytime
 
@@ -134,7 +134,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ProbFebMorningAndEvening
 
@@ -146,7 +146,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ProbFebNight
 
@@ -158,7 +158,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ProbJanDaytime
 
@@ -170,7 +170,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ProbJanMorningAndEvening
 
@@ -182,7 +182,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ProbJanNight
 
@@ -194,7 +194,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ProbJulDaytime
 
@@ -206,7 +206,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ProbJulMorningAndEvening
 
@@ -218,7 +218,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ProbJulNight
 
@@ -230,7 +230,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ProbJunDaytime
 
@@ -242,7 +242,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ProbJunMorningAndEvening
 
@@ -254,7 +254,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ProbJunNight
 
@@ -266,7 +266,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ProbMarDaytime
 
@@ -278,7 +278,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ProbMarMorningAndEvening
 
@@ -290,7 +290,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ProbMarNight
 
@@ -302,7 +302,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ProbMayDaytime
 
@@ -314,7 +314,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ProbMayMorningAndEvening
 
@@ -326,7 +326,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ProbMayNight
 
@@ -338,7 +338,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ProbNovDaytime
 
@@ -350,7 +350,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ProbNovMorningAndEvening
 
@@ -362,7 +362,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ProbNovNight
 
@@ -374,7 +374,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ProbOctDaytime
 
@@ -386,7 +386,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ProbOctMorningAndEvening
 
@@ -398,7 +398,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ProbOctNight
 
@@ -410,7 +410,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ProbSepDaytime
 
@@ -422,7 +422,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ProbSepMorningAndEvening
 
@@ -434,7 +434,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ProbSepNight
 
@@ -446,7 +446,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## AppearArea
 
@@ -458,5 +458,5 @@
 
 **Notes**: Hemisphere — 0 is North, 1 is South. Each critter has one row for each
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

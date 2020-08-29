@@ -14,7 +14,7 @@
 
 **Notes**: Type of clothing or clothing in or out of season
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## AN1Index
 
@@ -26,7 +26,7 @@
 
 **Notes**: Message number in AN_FreeA_ClothesP
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## AN2Index
 
@@ -38,7 +38,7 @@
 
 **Notes**: Message number in AN_FreeA_ClothesP. Seems to be used for when clothes are worn often
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## AccessoryID
 
@@ -50,7 +50,7 @@
 
 **Notes**: Checks if the player's worn accessory matches this ID
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## BO1Index
 
@@ -62,7 +62,7 @@
 
 **Notes**: Message number in BO_FreeA_ClothesP
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## BO2Index
 
@@ -74,7 +74,7 @@
 
 **Notes**: Message number in BO_FreeA_ClothesP. Seems to be used for when clothes are worn often
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## BagID
 
@@ -86,7 +86,7 @@
 
 **Notes**: Checks if the player's worn bag matches this ID
 
-**Versions**: , , , 
+**Versions**: 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## BottomsID
 
@@ -98,7 +98,7 @@
 
 **Notes**: Checks if the player's worn bottoms matches this ID
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## CapID
 
@@ -110,7 +110,7 @@
 
 **Notes**: Checks if the player's worn cap matches this ID
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## CombinationNum
 
@@ -122,7 +122,7 @@
 
 **Notes**: Probably the number of worn items needed to match in the row or group for the dialogue to activate
 
-**Versions**: , , , 
+**Versions**: 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EyeAcceID
 
@@ -134,7 +134,7 @@
 
 **Notes**: Checks if the player's worn eye accessory matches this ID
 
-**Versions**: , , , 
+**Versions**: 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## FU1Index
 
@@ -146,7 +146,7 @@
 
 **Notes**: Message number in FU_FreeA_ClothesP
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## FU2Index
 
@@ -158,7 +158,7 @@
 
 **Notes**: Message number in FU_FreeA_ClothesP. Seems to be used for when clothes are worn often
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## GE1Index
 
@@ -170,7 +170,7 @@
 
 **Notes**: Message number in GE_FreeA_ClothesP
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## GE2Index
 
@@ -182,7 +182,7 @@
 
 **Notes**: Message number in GE_FreeA_ClothesP. Seems to be used for when clothes are worn often
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## HA1Index
 
@@ -194,7 +194,7 @@
 
 **Notes**: Message number in HA_FreeA_ClothesP
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## HA2Index
 
@@ -206,7 +206,7 @@
 
 **Notes**: Message number in HA_FreeA_ClothesP. Seems to be used for when clothes are worn often
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## HelmetID
 
@@ -218,7 +218,7 @@
 
 **Notes**: Checks if the player's worn helmet matches this ID
 
-**Versions**: , , , 
+**Versions**: 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## KO1Index
 
@@ -230,7 +230,7 @@
 
 **Notes**: Message number in KO_FreeA_ClothesP
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## KO2Index
 
@@ -242,7 +242,7 @@
 
 **Notes**: Message number in KO_FreeA_ClothesP. Seems to be used for when clothes are worn often
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## OT1Index
 
@@ -254,7 +254,7 @@
 
 **Notes**: Message number in OT_FreeA_ClothesP
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## OT2Index
 
@@ -266,7 +266,7 @@
 
 **Notes**: Message number in OT_FreeA_ClothesP. Seems to be used for when clothes are worn often
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ShoesID
 
@@ -278,7 +278,7 @@
 
 **Notes**: Checks if the player's worn shoes matches this ID
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## SocksID
 
@@ -290,7 +290,7 @@
 
 **Notes**: Checks if the player's worn socks matches this ID
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ToolID
 
@@ -302,7 +302,7 @@
 
 **Notes**: Checks if the player's equipped tool matches this ID
 
-**Versions**: , , 
+**Versions**: 1.2.0, 1.3.0, 1.4.0
 
 ## TopsID
 
@@ -314,7 +314,7 @@
 
 **Notes**: Checks if the player's worn tops matches this ID
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## UmbrellaID
 
@@ -326,7 +326,7 @@
 
 **Notes**: Checks if the player's equipped matches this ID
 
-**Versions**: , , 
+**Versions**: 1.2.0, 1.3.0, 1.4.0
 
 ## UniqueID
 
@@ -336,7 +336,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ZK1Index
 
@@ -348,7 +348,7 @@
 
 **Notes**: Message number in ZK_FreeA_ClothesP
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ZK2Index
 
@@ -360,5 +360,5 @@
 
 **Notes**: Message number in ZK_FreeA_ClothesP. Seems to be used for when clothes are worn often
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

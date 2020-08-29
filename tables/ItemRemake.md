@@ -14,7 +14,7 @@
 
 **Notes**: Whether this item allows for sable or custom patterns
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## RebodyPattern0LightColor
 
@@ -26,7 +26,7 @@
 
 **Notes**: Light color of this rebody variant
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## RebodyPattern1LightColor
 
@@ -38,7 +38,7 @@
 
 **Notes**: Light color of this rebody variant
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## RebodyPattern2LightColor
 
@@ -50,7 +50,7 @@
 
 **Notes**: Light color of this rebody variant
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## RebodyPattern3LightColor
 
@@ -62,7 +62,7 @@
 
 **Notes**: Light color of this rebody variant
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## RebodyPattern4LightColor
 
@@ -74,7 +74,7 @@
 
 **Notes**: Light color of this rebody variant
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## RebodyPattern5LightColor
 
@@ -86,7 +86,7 @@
 
 **Notes**: Light color of this rebody variant
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## RebodyPattern6LightColor
 
@@ -98,7 +98,7 @@
 
 **Notes**: Light color of this rebody variant
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## RebodyPattern7LightColor
 
@@ -110,7 +110,7 @@
 
 **Notes**: Light color of this rebody variant
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## RefabricPattern0LightColor
 
@@ -122,7 +122,7 @@
 
 **Notes**: Light color of this refabric variant
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## RefabricPattern1LightColor
 
@@ -134,7 +134,7 @@
 
 **Notes**: Light color of this refabric variant
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## RefabricPattern2LightColor
 
@@ -146,7 +146,7 @@
 
 **Notes**: Light color of this refabric variant
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## RefabricPattern3LightColor
 
@@ -158,7 +158,7 @@
 
 **Notes**: Light color of this refabric variant
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## RefabricPattern4LightColor
 
@@ -170,7 +170,7 @@
 
 **Notes**: Light color of this refabric variant
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## RefabricPattern5LightColor
 
@@ -182,7 +182,7 @@
 
 **Notes**: Light color of this refabric variant
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## RefabricPattern6LightColor
 
@@ -194,7 +194,7 @@
 
 **Notes**: Light color of this refabric variant
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## RefabricPattern7LightColor
 
@@ -206,7 +206,7 @@
 
 **Notes**: Light color of this refabric variant
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## RemakeLotType
 
@@ -216,7 +216,7 @@
 
 **Hashed string**: RemakeLotType.hshCstringRef
 
-**Versions**: , , , 
+**Versions**: 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemUniqueID
 
@@ -228,7 +228,7 @@
 
 **Notes**: Matches UniqueID in ItemParam
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## RemakeKitNum
 
@@ -240,7 +240,7 @@
 
 **Notes**: Number of customization kits required
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## UniqueID
 
@@ -250,7 +250,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0xd4f43b0b
 
@@ -258,7 +258,7 @@
 
 **Type**: u8/s8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ReBodyPattern0Color0
 
@@ -270,7 +270,7 @@
 
 **Notes**: Variant 0 Color 1 (Number corresponds with ItemColor row index)
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ReBodyPattern0Color1
 
@@ -282,7 +282,7 @@
 
 **Notes**: Variant 0 Color 2
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ReBodyPattern1Color0
 
@@ -294,7 +294,7 @@
 
 **Notes**: Variant 1 Color 1
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ReBodyPattern1Color1
 
@@ -306,7 +306,7 @@
 
 **Notes**: Variant 1 Color 2
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ReBodyPattern2Color0
 
@@ -318,7 +318,7 @@
 
 **Notes**: Variant 2 Color 1
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ReBodyPattern2Color1
 
@@ -330,7 +330,7 @@
 
 **Notes**: Variant 2 Color 2
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ReBodyPattern3Color0
 
@@ -342,7 +342,7 @@
 
 **Notes**: Variant 3 Color 1
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ReBodyPattern3Color1
 
@@ -354,7 +354,7 @@
 
 **Notes**: Variant 3 Color 2
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ReBodyPattern4Color0
 
@@ -366,7 +366,7 @@
 
 **Notes**: Variant 4 Color 1
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ReBodyPattern4Color1
 
@@ -378,7 +378,7 @@
 
 **Notes**: Variant 4 Color 2
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ReBodyPattern5Color0
 
@@ -390,7 +390,7 @@
 
 **Notes**: Variant 5 Color 1
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ReBodyPattern5Color1
 
@@ -402,7 +402,7 @@
 
 **Notes**: Variant 5 Color 2
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ReBodyPattern6Color0
 
@@ -414,7 +414,7 @@
 
 **Notes**: Variant 6 Color 1
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ReBodyPattern6Color1
 
@@ -426,7 +426,7 @@
 
 **Notes**: Variant 6 Color 2
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ReBodyPattern7Color0
 
@@ -438,7 +438,7 @@
 
 **Notes**: Variant 7 Color 1
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ReBodyPattern7Color1
 
@@ -450,7 +450,7 @@
 
 **Notes**: Variant 7 Color 2
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ReBodyPatternNum
 
@@ -462,7 +462,7 @@
 
 **Notes**: Number of ReBody variants
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ReFabricPattern0Color0
 
@@ -474,7 +474,7 @@
 
 **Notes**: Color 1 with this fabric pattern (overwrites ReBody color 1)
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ReFabricPattern0Color1
 
@@ -486,7 +486,7 @@
 
 **Notes**: Color 2 with this fabric pattern (overwrites ReBody color 2)
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ReFabricPattern0VisibleOff
 
@@ -498,7 +498,7 @@
 
 **Notes**: Sets first pattern variant to have no fabric
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ReFabricPattern1Color0
 
@@ -510,7 +510,7 @@
 
 **Notes**: Color 1 with this fabric pattern (overwrites ReBody color 1)
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ReFabricPattern1Color1
 
@@ -522,7 +522,7 @@
 
 **Notes**: Color 2 with this fabric pattern (overwrites ReBody color 2)
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ReFabricPattern2Color0
 
@@ -534,7 +534,7 @@
 
 **Notes**: Color 1 with this fabric pattern (overwrites ReBody color 1)
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ReFabricPattern2Color1
 
@@ -546,7 +546,7 @@
 
 **Notes**: Color 2 with this fabric pattern (overwrites ReBody color 2)
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ReFabricPattern3Color0
 
@@ -558,7 +558,7 @@
 
 **Notes**: Color 1 with this fabric pattern (overwrites ReBody color 1)
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ReFabricPattern3Color1
 
@@ -570,7 +570,7 @@
 
 **Notes**: Color 2 with this fabric pattern (overwrites ReBody color 2)
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ReFabricPattern4Color0
 
@@ -582,7 +582,7 @@
 
 **Notes**: Color 1 with this fabric pattern (overwrites ReBody color 1)
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ReFabricPattern4Color1
 
@@ -594,7 +594,7 @@
 
 **Notes**: Color 2 with this fabric pattern (overwrites ReBody color 2)
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ReFabricPattern5Color0
 
@@ -606,7 +606,7 @@
 
 **Notes**: Color 1 with this fabric pattern (overwrites ReBody color 1)
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ReFabricPattern5Color1
 
@@ -618,7 +618,7 @@
 
 **Notes**: Color 2 with this fabric pattern (overwrites ReBody color 2)
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ReFabricPattern6Color0
 
@@ -630,7 +630,7 @@
 
 **Notes**: Color 1 with this fabric pattern (overwrites ReBody color 1)
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ReFabricPattern6Color1
 
@@ -642,7 +642,7 @@
 
 **Notes**: Color 2 with this fabric pattern (overwrites ReBody color 2)
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ReFabricPattern7Color0
 
@@ -654,7 +654,7 @@
 
 **Notes**: Color 1 with this fabric pattern (overwrites ReBody color 1)
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ReFabricPattern7Color1
 
@@ -666,7 +666,7 @@
 
 **Notes**: Color 2 with this fabric pattern (overwrites ReBody color 2)
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ReFabricPatternNum
 
@@ -678,5 +678,5 @@
 
 **Notes**: Number of ReFabric variants
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

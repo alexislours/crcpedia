@@ -12,7 +12,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## WatchItem
 
@@ -22,7 +22,7 @@
 
 **Hashed string**: WatchItem u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## WatchPointID
 
@@ -32,7 +32,7 @@
 
 **Hashed string**: WatchPointID u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## BalloonTalkKey
 
@@ -42,7 +42,7 @@
 
 **Hashed string**: BalloonTalkKey string25
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## BalloonTalkLabelKey
 
@@ -52,7 +52,7 @@
 
 **Hashed string**: BalloonTalkLabelKey string4
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ReactionTalkKey
 
@@ -62,7 +62,7 @@
 
 **Hashed string**: ReactionTalkKey string25
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ReactionTalkLabelKey
 
@@ -72,5 +72,5 @@
 
 **Hashed string**: ReactionTalkLabelKey string4
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

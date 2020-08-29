@@ -14,7 +14,7 @@
 
 **Notes**: Type of building, either "Default", "MainField", "PlayerHouse", "MysteryTourIsland" or "PhotoStudioHouse"
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## PhotoStudioRoomNo
 
@@ -26,7 +26,7 @@
 
 **Notes**: Room ID for the photo studio
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## RoomType
 
@@ -38,7 +38,7 @@
 
 **Notes**: Room ID for player house
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemLayer
 
@@ -48,7 +48,7 @@
 
 **Hashed string**: ItemLayer u8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StageName
 
@@ -60,7 +60,7 @@
 
 **Notes**: Name of current stage
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StaticField
 
@@ -70,5 +70,5 @@
 
 **Hashed string**: StaticField u8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

@@ -12,7 +12,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: 
+**Versions**: 1.4.0
 
 ## Name
 
@@ -22,5 +22,5 @@
 
 **Hashed string**: Name string128
 
-**Versions**: 
+**Versions**: 1.4.0
 

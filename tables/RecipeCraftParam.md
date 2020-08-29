@@ -14,7 +14,7 @@
 
 **Notes**: Card background color
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## CraftRecipeSeason
 
@@ -26,7 +26,7 @@
 
 **Notes**: Season name for seasonal recipes. Must check if _478b74e4 is "SelectRecipeSeason", because all non-seasonal diys are marked as "Bamboo" for some reason :/
 
-**Versions**: , , , 
+**Versions**: 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## CraftRecipeSelectSeasonType
 
@@ -38,7 +38,7 @@
 
 **Notes**: Determines whether a recipe is part of a season or a calendar event
 
-**Versions**: , , , 
+**Versions**: 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## CraftUnlock
 
@@ -50,7 +50,7 @@
 
 **Notes**: Special unlock methods
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## NPCUnlock
 
@@ -62,7 +62,7 @@
 
 **Notes**: Personality values for villager recipes
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## VillagerOpenNum
 
@@ -74,7 +74,7 @@
 
 **Notes**: Number of learned recipes to unlock 
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Amount1
 
@@ -86,7 +86,7 @@
 
 **Notes**: Amount of crafting material
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Amount2
 
@@ -98,7 +98,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Amount3
 
@@ -110,7 +110,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Amount4
 
@@ -122,7 +122,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Amount5
 
@@ -134,7 +134,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Amount6
 
@@ -146,7 +146,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Item
 
@@ -158,7 +158,7 @@
 
 **Notes**: ID of crafted object in ItemParam
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Material1
 
@@ -170,7 +170,7 @@
 
 **Notes**: ID of crafting material in ItemParam
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Material2
 
@@ -182,7 +182,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Material3
 
@@ -194,7 +194,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Material4
 
@@ -206,7 +206,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Material5
 
@@ -218,7 +218,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Material6
 
@@ -230,7 +230,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## SerialID
 
@@ -242,7 +242,7 @@
 
 **Notes**: Matches in-game "by series" sort order. Series groups can be separated by ignoring the last two digits.
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## UniqueID
 
@@ -252,7 +252,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## SelectCalendarEventSeason
 
@@ -264,5 +264,5 @@
 
 **Notes**: Event name for calendar event recipes. If _478b74e4 is "SelectCalendarEvent"
 
-**Versions**: , , , 
+**Versions**: 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

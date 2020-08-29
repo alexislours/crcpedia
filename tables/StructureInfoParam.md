@@ -12,7 +12,7 @@
 
 **Hashed string**: HousePartsType.hshCstringRef
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ModelType
 
@@ -24,7 +24,7 @@
 
 **Notes**: “House, Facility, Bridge, Slope"
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0xfec3548b
 
@@ -34,7 +34,7 @@
 
 **Notes**: value is always 0 OR a murmur hash of "MainField" or "PhotoStudioIsland"
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StructureInfoHouseType
 
@@ -46,7 +46,7 @@
 
 **Notes**: “Player, Npc, PhotoStudio"
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## StructureInfoType
 
@@ -58,7 +58,7 @@
 
 **Notes**: “House, Facility, Bridge, Slope"
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Door0
 
@@ -68,7 +68,7 @@
 
 **Hashed string**: Door0 u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## UniqueID
 
@@ -78,5 +78,5 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

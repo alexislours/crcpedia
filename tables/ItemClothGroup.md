@@ -14,7 +14,7 @@
 
 **Notes**: Seasonally restricted items (mannequins can override this)
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ParentItemName
 
@@ -24,7 +24,7 @@
 
 **Hashed string**: ParentItemName u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## UniqueID
 
@@ -36,7 +36,7 @@
 
 **Notes**: Correspond to string IDs for clothing names
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## FashionThemeDaily
 
@@ -48,7 +48,7 @@
 
 **Notes**: Label theme
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## FashionThemeFairyland
 
@@ -60,7 +60,7 @@
 
 **Notes**: Label theme
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## FashionThemeFomal
 
@@ -72,7 +72,7 @@
 
 **Notes**: Label theme
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## FashionThemeHorror
 
@@ -84,7 +84,7 @@
 
 **Notes**: Label theme
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## FashionThemeOutdoor
 
@@ -96,7 +96,7 @@
 
 **Notes**: Label theme
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## FashionThemeParty
 
@@ -108,7 +108,7 @@
 
 **Notes**: Label theme
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## FashionThemeRelax
 
@@ -120,7 +120,7 @@
 
 **Notes**: Label theme
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## FashionThemeSport
 
@@ -132,7 +132,7 @@
 
 **Notes**: Label theme
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## FashionThemeStage
 
@@ -144,7 +144,7 @@
 
 **Notes**: Label theme
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## FashionThemeVacation
 
@@ -156,7 +156,7 @@
 
 **Notes**: Label theme
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## FashionThemeWork
 
@@ -168,7 +168,7 @@
 
 **Notes**: Label theme
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## 0x83ccbe0f
 
@@ -176,7 +176,7 @@
 
 **Type**: string64
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Label
 
@@ -188,7 +188,7 @@
 
 **Notes**: Matches to ClothGroup in ItemParam
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Name
 
@@ -198,7 +198,7 @@
 
 **Hashed string**: Name string64
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## UseColorGroupSort
 
@@ -208,5 +208,5 @@
 
 **Hashed string**: UseColorGroupSort u8
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

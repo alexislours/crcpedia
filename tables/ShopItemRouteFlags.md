@@ -14,7 +14,7 @@
 
 **Notes**: Flag ID in EventFlagsLandParam
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## FlagPlayer
 
@@ -26,7 +26,7 @@
 
 **Notes**: Flag ID in EventFlagsPlayerParam
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ShopType
 
@@ -38,7 +38,7 @@
 
 **Notes**: Appears in Nook's Cranny or Machine
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## AttrCollectBit
 
@@ -50,7 +50,7 @@
 
 **Notes**: 1 = Can only be collected once per player
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ItemFrom
 
@@ -62,5 +62,5 @@
 
 **Notes**: ItemFrom type unlocked
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

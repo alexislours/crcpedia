@@ -14,7 +14,7 @@
 
 **Notes**: "Region" events appear to be Nook Shopping-only. "Totakeke" are KK Slider concerts. the distinction between "Global" and "Term" events eludes me — they both involve special activities. "Global" events seem more complex?
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## FlagLand1
 
@@ -26,7 +26,7 @@
 
 **Notes**: UniqueID of EventFlagsLandParam, define the flag required for the event to start
 
-**Versions**: , , , 
+**Versions**: 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## FlagLand2
 
@@ -38,7 +38,7 @@
 
 **Notes**: Unused, probably the same as FlagLand1 for a second flag
 
-**Versions**: , , , 
+**Versions**: 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## TkkSkipBirthday
 
@@ -50,7 +50,7 @@
 
 **Notes**: “Before, Skip, Same, After". In case of scheduling conflict, determines what to do with birthday KK concerts
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## TkkSkipNormal
 
@@ -62,7 +62,7 @@
 
 **Notes**: “Before, Skip, Same, After". In case of scheduling conflict, determines what to do with saturday KK concerts. Can stack if there are multiple conflicts in a row, e.g. a Bug-Off followed by a Fireworks Show will move KK to monday
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## UniqueID
 
@@ -72,7 +72,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Announce
 
@@ -84,7 +84,7 @@
 
 **Notes**: whether an event gets a morning annoucement from isabelle
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## BbsDays
 
@@ -96,7 +96,7 @@
 
 **Notes**: number of days before the event when a notice is posted on bulletin board
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## BcatLevel
 
@@ -108,7 +108,7 @@
 
 **Notes**: Events that are locked behind BCAT updates (letter updates like 1.2.0a)
 
-**Versions**: , , 
+**Versions**: 1.2.0, 1.3.0, 1.4.0
 
 ## BoardDesign
 
@@ -120,7 +120,7 @@
 
 **Notes**: card design for bulletin board notice
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2000
 
@@ -132,7 +132,7 @@
 
 **Notes**: these columns set day of the month for events with weird dates, like easter and lunar new year
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2001
 
@@ -144,7 +144,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2002
 
@@ -156,7 +156,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2003
 
@@ -168,7 +168,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2004
 
@@ -180,7 +180,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2005
 
@@ -192,7 +192,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2006
 
@@ -204,7 +204,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2007
 
@@ -216,7 +216,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2008
 
@@ -228,7 +228,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2009
 
@@ -240,7 +240,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2010
 
@@ -252,7 +252,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2011
 
@@ -264,7 +264,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2012
 
@@ -276,7 +276,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2013
 
@@ -288,7 +288,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2014
 
@@ -300,7 +300,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2015
 
@@ -312,7 +312,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2016
 
@@ -324,7 +324,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2017
 
@@ -336,7 +336,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2018
 
@@ -348,7 +348,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2019
 
@@ -360,7 +360,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2020
 
@@ -372,7 +372,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2021
 
@@ -384,7 +384,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2022
 
@@ -396,7 +396,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2023
 
@@ -408,7 +408,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2024
 
@@ -420,7 +420,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2025
 
@@ -432,7 +432,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2026
 
@@ -444,7 +444,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2027
 
@@ -456,7 +456,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2028
 
@@ -468,7 +468,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2029
 
@@ -480,7 +480,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2030
 
@@ -492,7 +492,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2031
 
@@ -504,7 +504,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2032
 
@@ -516,7 +516,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2033
 
@@ -528,7 +528,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2034
 
@@ -540,7 +540,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2035
 
@@ -552,7 +552,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2036
 
@@ -564,7 +564,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2037
 
@@ -576,7 +576,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2038
 
@@ -588,7 +588,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2039
 
@@ -600,7 +600,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2040
 
@@ -612,7 +612,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2041
 
@@ -624,7 +624,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2042
 
@@ -636,7 +636,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2043
 
@@ -648,7 +648,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2044
 
@@ -660,7 +660,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2045
 
@@ -672,7 +672,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2046
 
@@ -684,7 +684,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2047
 
@@ -696,7 +696,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2048
 
@@ -708,7 +708,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2049
 
@@ -720,7 +720,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2050
 
@@ -732,7 +732,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2051
 
@@ -744,7 +744,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2052
 
@@ -756,7 +756,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2053
 
@@ -768,7 +768,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2054
 
@@ -780,7 +780,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2055
 
@@ -792,7 +792,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2056
 
@@ -804,7 +804,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2057
 
@@ -816,7 +816,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2058
 
@@ -828,7 +828,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2059
 
@@ -840,7 +840,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Day2060
 
@@ -852,7 +852,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## DayNorth
 
@@ -864,7 +864,7 @@
 
 **Notes**: Event day of the month in Northern Hemisphere
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## DaySouth
 
@@ -876,7 +876,7 @@
 
 **Notes**: Event day of the month in Southern Hemisphere
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EventBegin
 
@@ -888,7 +888,7 @@
 
 **Notes**: Event start time (24 hour notation)
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EventEnd
 
@@ -900,7 +900,7 @@
 
 **Notes**: Event end time (24 hour notation)
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## EventHalf
 
@@ -912,7 +912,7 @@
 
 **Notes**: Value empty for all events as of 1.4.0. Might be used for a future event that is split into two halves, or something along those lines
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## LabelLong
 
@@ -924,7 +924,7 @@
 
 **Notes**: Identifies the event and matches to strings in STR_EventName
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## LabelShort
 
@@ -936,7 +936,7 @@
 
 **Notes**: More general identifier that groups similar events like all the Fishing Tourneys, Bug-Offs, and Fireworks Shows
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## MainDays
 
@@ -948,7 +948,7 @@
 
 **Notes**: Event duration in days, counting up from start date
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2000
 
@@ -960,7 +960,7 @@
 
 **Notes**: these columns set the month for events with weird dates, like easter and lunar new year
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2001
 
@@ -972,7 +972,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2002
 
@@ -984,7 +984,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2003
 
@@ -996,7 +996,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2004
 
@@ -1008,7 +1008,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2005
 
@@ -1020,7 +1020,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2006
 
@@ -1032,7 +1032,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2007
 
@@ -1044,7 +1044,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2008
 
@@ -1056,7 +1056,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2009
 
@@ -1068,7 +1068,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2010
 
@@ -1080,7 +1080,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2011
 
@@ -1092,7 +1092,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2012
 
@@ -1104,7 +1104,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2013
 
@@ -1116,7 +1116,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2014
 
@@ -1128,7 +1128,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2015
 
@@ -1140,7 +1140,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2016
 
@@ -1152,7 +1152,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2017
 
@@ -1164,7 +1164,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2018
 
@@ -1176,7 +1176,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2019
 
@@ -1188,7 +1188,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2020
 
@@ -1200,7 +1200,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2021
 
@@ -1212,7 +1212,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2022
 
@@ -1224,7 +1224,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2023
 
@@ -1236,7 +1236,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2024
 
@@ -1248,7 +1248,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2025
 
@@ -1260,7 +1260,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2026
 
@@ -1272,7 +1272,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2027
 
@@ -1284,7 +1284,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2028
 
@@ -1296,7 +1296,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2029
 
@@ -1308,7 +1308,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2030
 
@@ -1320,7 +1320,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2031
 
@@ -1332,7 +1332,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2032
 
@@ -1344,7 +1344,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2033
 
@@ -1356,7 +1356,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2034
 
@@ -1368,7 +1368,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2035
 
@@ -1380,7 +1380,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2036
 
@@ -1392,7 +1392,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2037
 
@@ -1404,7 +1404,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2038
 
@@ -1416,7 +1416,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2039
 
@@ -1428,7 +1428,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2040
 
@@ -1440,7 +1440,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2041
 
@@ -1452,7 +1452,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2042
 
@@ -1464,7 +1464,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2043
 
@@ -1476,7 +1476,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2044
 
@@ -1488,7 +1488,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2045
 
@@ -1500,7 +1500,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2046
 
@@ -1512,7 +1512,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2047
 
@@ -1524,7 +1524,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2048
 
@@ -1536,7 +1536,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2049
 
@@ -1548,7 +1548,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2050
 
@@ -1560,7 +1560,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2051
 
@@ -1572,7 +1572,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2052
 
@@ -1584,7 +1584,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2053
 
@@ -1596,7 +1596,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2054
 
@@ -1608,7 +1608,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2055
 
@@ -1620,7 +1620,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2056
 
@@ -1632,7 +1632,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2057
 
@@ -1644,7 +1644,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2058
 
@@ -1656,7 +1656,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2059
 
@@ -1668,7 +1668,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Month2060
 
@@ -1680,7 +1680,7 @@
 
 **Notes**: same as above
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## MonthNorth
 
@@ -1692,7 +1692,7 @@
 
 **Notes**: Event month in Northern Hemisphere
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## MonthSouth
 
@@ -1704,7 +1704,7 @@
 
 **Notes**: Event month in Southern Hemisphere
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## MsgFile
 
@@ -1716,7 +1716,7 @@
 
 **Notes**: Key for villager dialogs, either {personalityCode}_FreeF_{MsgFile}.msbt or {personalityCode}_GEvent_{MsgFile}.msbt
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## NameLong
 
@@ -1726,7 +1726,7 @@
 
 **Hashed string**: NameLong string128
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## NameShort
 
@@ -1736,7 +1736,7 @@
 
 **Hashed string**: NameShort string128
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## NpcBegin
 
@@ -1748,7 +1748,7 @@
 
 **Notes**: For events with associated special NPCs (like Flick with Bug-Off), sets npc start time. NPC times don't necessarily match with event start/end times
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## NpcEnd
 
@@ -1760,7 +1760,7 @@
 
 **Notes**: Sets special npc end time
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## OpenAllYear
 
@@ -1772,7 +1772,7 @@
 
 **Notes**: All basegame events are set to 1 and all events from updates are set to 0. Potentially indicates whether or not the events need the NetworkSystemClock (set via an online or spoofed NTP server) to be accurate in order to unlock
 
-**Versions**: , , , 
+**Versions**: 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## Output
 
@@ -1784,7 +1784,7 @@
 
 **Notes**: Probably enables/disables events globally
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## PreMsgLabelValue
 
@@ -1796,7 +1796,7 @@
 
 **Notes**: maps to messages in FreeE_Event
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## ReadyDays
 
@@ -1808,7 +1808,7 @@
 
 **Notes**: Event duration in days, counting backwards from start date
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## RegionAsia (Unused)
 
@@ -1820,7 +1820,7 @@
 
 **Notes**: Removed in 1.3.0
 
-**Versions**: , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0
 
 ## RegionEu (Unused)
 
@@ -1832,7 +1832,7 @@
 
 **Notes**: Removed in 1.3.0
 
-**Versions**: , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0
 
 ## RegionJp (Unused)
 
@@ -1844,7 +1844,7 @@
 
 **Notes**: Removed in 1.3.0
 
-**Versions**: , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0
 
 ## RegionUs (Unused)
 
@@ -1856,7 +1856,7 @@
 
 **Notes**: Removed in 1.3.0
 
-**Versions**: , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0
 
 ## RemoveEventObj
 
@@ -1868,7 +1868,7 @@
 
 **Notes**: As of 1.4.0 only applies to Fireworks Shows; might relate to Plaza decorations
 
-**Versions**: 
+**Versions**: 1.4.0
 
 ## TalkFlowName (Unused)
 
@@ -1880,7 +1880,7 @@
 
 **Notes**: Removed in 1.3.0
 
-**Versions**: , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0
 
 ## WdayNorth
 
@@ -1892,7 +1892,7 @@
 
 **Notes**: Event weekday (northern hemisphere) for events that fall on a specific day of the week; values are presumably 1-7 (1 is monday, 7 is sunday)
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## WdaySouth
 
@@ -1904,7 +1904,7 @@
 
 **Notes**: Same as previous but for southern hemisphere
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## WeatherPattern (Unused)
 
@@ -1916,7 +1916,7 @@
 
 **Notes**: Was always empty. Removed in 1.3.0
 
-**Versions**: , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0
 
 ## WeekNorth
 
@@ -1928,7 +1928,7 @@
 
 **Notes**: Event week number (in a month) for events that fall on the nth week of a certain month (northern hemisphere)
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
 ## WeekSouth
 
@@ -1940,5 +1940,5 @@
 
 **Notes**: Same as previous but for southern hemisphere
 
-**Versions**: , , , , 
+**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
