@@ -1,7 +1,7 @@
 # EventFlagsPlayerActivityParam
 **Named columns**: 8/8
 
-**Documented columns**: 3/8
+**Documented columns**: 4/8
 
 **Description**: Flags for the player interactions
 ## MaxValue

@@ -1,7 +1,7 @@
 # EventFlagsAocParam
 **Named columns**: 6/6
 
-**Documented columns**: 1/6
+**Documented columns**: 5/6
 
 **Description**: Table for NSO checks?
 ## DefaultValue

@@ -1,7 +1,7 @@
 # EventFlagsPlayerParam
 **Named columns**: 7/10
 
-**Documented columns**: 4/10
+**Documented columns**: 5/10
 
 **Description**: Global flags for the player
 ## DefaultValue

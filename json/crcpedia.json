@@ -3585,7 +3585,7 @@
   "EventFlagsAocParam": {
     "name": "EventFlagsAocParam",
     "namedColumns": "6/6",
-    "documentedColumns": "1/6",
+    "documentedColumns": "5/6",
     "description": "Table for NSO checks?",
     "hashes": [
       {
@@ -3597,7 +3597,7 @@
         "name": "DefaultValue",
         "functionalityNotes": "",
         "versions": ["No", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "110b14c",
@@ -3608,7 +3608,7 @@
         "name": "MaxValue",
         "functionalityNotes": "",
         "versions": ["No", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "54706054",
@@ -3619,7 +3619,7 @@
         "name": "UniqueID",
         "functionalityNotes": "",
         "versions": ["No", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "fa93f14b",
@@ -3641,7 +3641,7 @@
         "name": "Key",
         "functionalityNotes": "",
         "versions": ["No", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "85cf1615",
@@ -3947,7 +3947,7 @@
   "EventFlagsLandTempParam": {
     "name": "EventFlagsLandTempParam",
     "namedColumns": "7/10",
-    "documentedColumns": "2/10",
+    "documentedColumns": "5/10",
     "description": "List of temporary flags (that will/can reset) related to the island",
     "hashes": [
       {
@@ -3959,7 +3959,7 @@
         "name": "DefaultValue",
         "functionalityNotes": "",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "110b14c",
@@ -3970,7 +3970,7 @@
         "name": "MaxValue",
         "functionalityNotes": "",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "54706054",
@@ -3981,7 +3981,7 @@
         "name": "UniqueID",
         "functionalityNotes": "",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "5140e4b4",
@@ -4522,8 +4522,7 @@
         "formattedHash": "_f163e8be",
         "name": "Weighting",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"]
       }
     ]
   },
@@ -4818,7 +4817,7 @@
   "EventFlagsPlayerActivityParam": {
     "name": "EventFlagsPlayerActivityParam",
     "namedColumns": "8/8",
-    "documentedColumns": "3/8",
+    "documentedColumns": "4/8",
     "description": "Flags for the player interactions",
     "hashes": [
       {
@@ -4830,7 +4829,7 @@
         "name": "MaxValue",
         "functionalityNotes": "",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "110a7053",
@@ -4914,7 +4913,7 @@
   "EventFlagsPlayerParam": {
     "name": "EventFlagsPlayerParam",
     "namedColumns": "7/10",
-    "documentedColumns": "4/10",
+    "documentedColumns": "5/10",
     "description": "Global flags for the player",
     "hashes": [
       {
@@ -4937,7 +4936,7 @@
         "name": "MaxValue",
         "functionalityNotes": "",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "54706054",
@@ -6343,7 +6342,7 @@
   "FieldLandMakingUnitModelParam": {
     "name": "FieldLandMakingUnitModelParam",
     "namedColumns": "42/42",
-    "documentedColumns": "0/42",
+    "documentedColumns": "1/42",
     "description": "Param for island part models and textures",
     "hashes": [
       {
@@ -6806,14 +6805,14 @@
         "name": "ModelName",
         "functionalityNotes": "",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       }
     ]
   },
   "FieldMainFieldParam": {
     "name": "FieldMainFieldParam",
     "namedColumns": "6/6",
-    "documentedColumns": "0/6",
+    "documentedColumns": "2/6",
     "description": "Different island presets",
     "hashes": [
       {
@@ -6825,7 +6824,7 @@
         "name": "UniqueID",
         "functionalityNotes": "",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "6e1ac981",
@@ -6858,7 +6857,7 @@
         "name": "Label",
         "functionalityNotes": "",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "948eb946",
