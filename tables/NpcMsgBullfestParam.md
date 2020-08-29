@@ -1,5 +1,6 @@
 # NpcMsgBullfestParam
 [View this table in your browser](NpcMsgBullfestParam-value.md) (version 1.4.0).
+
 **Named columns**: 30/30
 
 **Documented columns**: 29/30

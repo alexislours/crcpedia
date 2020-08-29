@@ -1,5 +1,6 @@
 # EventFlagsLifeSupportAchievementParam
 [View this table in your browser](EventFlagsLifeSupportAchievementParam-value.md) (version 1.4.0).
+
 **Named columns**: 20/21
 
 **Documented columns**: 17/21

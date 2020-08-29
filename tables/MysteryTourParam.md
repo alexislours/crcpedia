@@ -1,5 +1,6 @@
 # MysteryTourParam
 [View this table in your browser](MysteryTourParam-value.md) (version 1.4.0).
+
 **Named columns**: 11/16
 
 **Documented columns**: 12/16

@@ -1,5 +1,6 @@
 # ItemNpcFtrActionParam
 [View this table in your browser](ItemNpcFtrActionParam-value.md) (version 1.4.0).
+
 **Named columns**: 8/8
 
 **Documented columns**: 3/8

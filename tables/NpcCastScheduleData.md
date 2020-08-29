@@ -1,5 +1,6 @@
 # NpcCastScheduleData
 [View this table in your browser](NpcCastScheduleData-value.md) (version 1.4.0).
+
 **Named columns**: 10/11
 
 **Documented columns**: 0/11

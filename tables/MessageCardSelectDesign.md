@@ -1,5 +1,6 @@
 # MessageCardSelectDesign
 [View this table in your browser](MessageCardSelectDesign-value.md) (version 1.4.0).
+
 **Named columns**: 12/13
 
 **Documented columns**: 12/13

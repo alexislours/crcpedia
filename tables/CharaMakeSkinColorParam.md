@@ -1,5 +1,6 @@
 # CharaMakeSkinColorParam
 [View this table in your browser](CharaMakeSkinColorParam-value.md) (version 1.4.0).
+
 **Named columns**: 15/15
 
 **Documented columns**: 15/15

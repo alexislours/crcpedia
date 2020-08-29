@@ -1,5 +1,6 @@
 # NpcInterest
 [View this table in your browser](NpcInterest-value.md) (version 1.4.0).
+
 **Named columns**: 27/27
 
 **Documented columns**: 15/27

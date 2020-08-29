@@ -1,5 +1,6 @@
 # NpcEquipRule
 [View this table in your browser](NpcEquipRule-value.md) (version 1.4.0).
+
 **Named columns**: 20/20
 
 **Documented columns**: 8/20

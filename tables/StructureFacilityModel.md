@@ -1,5 +1,6 @@
 # StructureFacilityModel
 [View this table in your browser](StructureFacilityModel-value.md) (version 1.4.0).
+
 **Named columns**: 17/19
 
 **Documented columns**: 0/19

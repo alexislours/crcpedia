@@ -1,5 +1,6 @@
 # NpcLooksParam
 [View this table in your browser](NpcLooksParam-value.md) (version 1.4.0).
+
 **Named columns**: 35/35
 
 **Documented columns**: 35/35

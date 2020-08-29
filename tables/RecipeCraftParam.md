@@ -1,5 +1,6 @@
 # RecipeCraftParam
 [View this table in your browser](RecipeCraftParam-value.md) (version 1.4.0).
+
 **Named columns**: 22/22
 
 **Documented columns**: 22/22

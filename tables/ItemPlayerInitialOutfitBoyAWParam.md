@@ -1,5 +1,6 @@
 # ItemPlayerInitialOutfitBoyAWParam
 [View this table in your browser](ItemPlayerInitialOutfitBoyAWParam-value.md) (version 1.4.0).
+
 **Named columns**: 9/9
 
 **Documented columns**: 9/9

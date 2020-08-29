@@ -1,5 +1,6 @@
 # EventFlagsNpcSaveParam
 [View this table in your browser](EventFlagsNpcSaveParam-value.md) (version 1.4.0).
+
 **Named columns**: 6/7
 
 **Documented columns**: 5/7

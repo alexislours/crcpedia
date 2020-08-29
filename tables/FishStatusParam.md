@@ -1,5 +1,6 @@
 # FishStatusParam
 [View this table in your browser](FishStatusParam-value.md) (version 1.4.0).
+
 **Named columns**: 17/19
 
 **Documented columns**: 15/19

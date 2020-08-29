@@ -1,5 +1,6 @@
 # ItemOutfitInfo
 [View this table in your browser](ItemOutfitInfo-value.md) (version 1.4.0).
+
 **Named columns**: 17/17
 
 **Documented columns**: 2/17

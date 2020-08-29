@@ -1,5 +1,6 @@
 # InsectStatusParam
 [View this table in your browser](InsectStatusParam-value.md) (version 1.4.0).
+
 **Named columns**: 16/16
 
 **Documented columns**: 12/16

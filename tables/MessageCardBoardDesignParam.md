@@ -1,5 +1,6 @@
 # MessageCardBoardDesignParam
 [View this table in your browser](MessageCardBoardDesignParam-value.md) (version 1.4.0).
+
 **Named columns**: 12/13
 
 **Documented columns**: 12/13

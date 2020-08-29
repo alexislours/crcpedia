@@ -1,5 +1,6 @@
 # ItemSize
 [View this table in your browser](ItemSize-value.md) (version 1.4.0).
+
 **Named columns**: 8/8
 
 **Documented columns**: 4/8

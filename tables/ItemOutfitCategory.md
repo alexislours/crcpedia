@@ -1,5 +1,6 @@
 # ItemOutfitCategory
 [View this table in your browser](ItemOutfitCategory-value.md) (version 1.4.0).
+
 **Named columns**: 14/14
 
 **Documented columns**: 2/14

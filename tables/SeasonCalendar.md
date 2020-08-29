@@ -1,5 +1,6 @@
 # SeasonCalendar
 [View this table in your browser](SeasonCalendar-value.md) (version 1.4.0).
+
 **Named columns**: 20/20
 
 **Documented columns**: 20/20

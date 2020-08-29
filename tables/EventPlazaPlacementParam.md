@@ -1,5 +1,6 @@
 # EventPlazaPlacementParam
 [View this table in your browser](EventPlazaPlacementParam-value.md) (version 1.4.0).
+
 **Named columns**: 12/17
 
 **Documented columns**: 14/17

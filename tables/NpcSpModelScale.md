@@ -1,5 +1,6 @@
 # NpcSpModelScale
 [View this table in your browser](NpcSpModelScale-value.md) (version 1.4.0).
+
 **Named columns**: 19/19
 
 **Documented columns**: 0/19

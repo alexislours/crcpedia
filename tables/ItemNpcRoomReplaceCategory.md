@@ -1,5 +1,6 @@
 # ItemNpcRoomReplaceCategory
 [View this table in your browser](ItemNpcRoomReplaceCategory-value.md) (version 1.4.0).
+
 **Named columns**: 10/10
 
 **Documented columns**: 10/10

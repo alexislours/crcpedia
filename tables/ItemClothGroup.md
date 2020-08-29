@@ -1,5 +1,6 @@
 # ItemClothGroup
 [View this table in your browser](ItemClothGroup-value.md) (version 1.4.0).
+
 **Named columns**: 17/18
 
 **Documented columns**: 15/18

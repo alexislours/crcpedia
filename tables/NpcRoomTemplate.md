@@ -1,5 +1,6 @@
 # NpcRoomTemplate
 [View this table in your browser](NpcRoomTemplate-value.md) (version 1.4.0).
+
 **Named columns**: 6/6
 
 **Documented columns**: 0/6

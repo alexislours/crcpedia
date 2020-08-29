@@ -1,5 +1,6 @@
 # MuseumNPCSpotTalk
 [View this table in your browser](MuseumNPCSpotTalk-value.md) (version 1.4.0).
+
 **Named columns**: 5/5
 
 **Documented columns**: 4/5

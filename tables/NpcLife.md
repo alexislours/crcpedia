@@ -1,5 +1,6 @@
 # NpcLife
 [View this table in your browser](NpcLife-value.md) (version 1.4.0).
+
 **Named columns**: 40/40
 
 **Documented columns**: 28/40
