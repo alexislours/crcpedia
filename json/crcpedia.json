@@ -86,7 +86,7 @@
         "formattedHash": "_f6b34c16",
         "name": "SpNpcCloth",
         "functionalityNotes": "always 0",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -251,7 +251,7 @@
         "formattedHash": "_736adca8",
         "name": "FlagAnim",
         "functionalityNotes": "Picks the flag image to display",
-        "versions": ["No", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["No", "Yes*", "Yes", "Yes", "Yes"],
         "knownFunctionality": true
       },
       {
@@ -1230,7 +1230,7 @@
         "formattedHash": "_ac69956e",
         "name": "EventHalf",
         "functionalityNotes": "Value empty for all events as of 1.4.0. Might be used for a future event that is split into two halves, or something along those lines",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -1263,7 +1263,7 @@
         "formattedHash": "_c17c7ca8",
         "name": "MainDays",
         "functionalityNotes": "Event duration in days, counting up from start date",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes", "Yes", "Yes", "Yes"],
         "knownFunctionality": true
       },
       {
@@ -1978,7 +1978,7 @@
         "formattedHash": "_1144c9a1",
         "name": "NameLong",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": true
       },
       {
@@ -1989,7 +1989,7 @@
         "formattedHash": "_3c835e2c",
         "name": "NameShort",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": true
       },
       {
@@ -2119,7 +2119,7 @@
         "formattedHash": "_c6ddbf67",
         "name": "TalkFlowName",
         "functionalityNotes": "Removed in 1.3.0",
-        "versions": ["Yes", "Yes", "Yes", "No", "No"],
+        "versions": ["Yes", "Yes*", "Yes*", "No", "No"],
         "knownFunctionality": "unused"
       },
       {
@@ -2152,7 +2152,7 @@
         "formattedHash": "_062ec6cf",
         "name": "WeatherPattern",
         "functionalityNotes": "Was always empty. Removed in 1.3.0",
-        "versions": ["Yes", "Yes", "Yes", "No", "No"],
+        "versions": ["Yes*", "Yes*", "Yes*", "No", "No"],
         "knownFunctionality": "unused"
       },
       {
@@ -2193,7 +2193,7 @@
         "formattedHash": "_82bfcf29",
         "name": "RegionEventCountry1",
         "functionalityNotes": "Region the event is associated with. Matches to strings in STR_RegionEventArea",
-        "versions": ["No", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["No", "Yes*", "Yes", "Yes", "Yes"],
         "knownFunctionality": true
       },
       {
@@ -2215,7 +2215,7 @@
         "formattedHash": "_af2602cd",
         "name": "RegionEventCountry2",
         "functionalityNotes": "Additional regions for the event in case there's more than one. Defined as row indices in CalendarEventCountryParam",
-        "versions": ["No", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["No", "Yes*", "Yes", "Yes", "Yes"],
         "knownFunctionality": true
       },
       {
@@ -2226,7 +2226,7 @@
         "formattedHash": "_92462b7d",
         "name": "RegionEventCountry3",
         "functionalityNotes": "Same as above",
-        "versions": ["No", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["No", "Yes*", "Yes", "Yes", "Yes"],
         "knownFunctionality": true
       },
       {
@@ -2237,7 +2237,7 @@
         "formattedHash": "_2066f76d",
         "name": "RegionEventCountry4",
         "functionalityNotes": "Same as above",
-        "versions": ["No", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["No", "Yes*", "Yes", "Yes", "Yes"],
         "knownFunctionality": true
       },
       {
@@ -2248,7 +2248,7 @@
         "formattedHash": "_1d06dedd",
         "name": "RegionEventCountry5",
         "functionalityNotes": "Same as above",
-        "versions": ["No", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["No", "Yes*", "Yes", "Yes", "Yes"],
         "knownFunctionality": true
       },
       {
@@ -2270,7 +2270,7 @@
         "formattedHash": "_be26d70e",
         "name": "EventLabel",
         "functionalityNotes": "Label of the event",
-        "versions": ["No", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["No", "Yes*", "Yes", "Yes", "Yes"],
         "knownFunctionality": true
       },
       {
@@ -3408,7 +3408,7 @@
         "formattedHash": "_b99c565a",
         "name": "ViewSortID",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -3430,7 +3430,7 @@
         "formattedHash": "_ab51a3cf",
         "name": "DebugName",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": true
       },
       {
@@ -3441,7 +3441,7 @@
         "formattedHash": "_3e78dc38",
         "name": "FtrPlace",
         "functionalityNotes": "1 if you can put furniture on that ground type, 0 otherwise",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": true
       },
       {
@@ -3629,7 +3629,7 @@
         "formattedHash": "_fa93f14b",
         "name": "FlagsFlowAccess",
         "functionalityNotes": "",
-        "versions": ["No", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["No", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -3714,7 +3714,7 @@
         "formattedHash": "_fa93f14b",
         "name": "FlagsFlowAccess",
         "functionalityNotes": "",
-        "versions": ["No", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["No", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -3799,7 +3799,7 @@
         "formattedHash": "_fa93f14b",
         "name": "FlagsFlowAccess",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["No", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -4024,7 +4024,7 @@
         "formattedHash": "_fa93f14b",
         "name": "FlagsFlowAccess",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["No", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -4250,7 +4250,7 @@
         "formattedHash": "_bed25a86",
         "name": "",
         "functionalityNotes": "",
-        "versions": ["No", "No", "No", "No", "Yes"],
+        "versions": ["No", "No", "No", "No", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -4423,7 +4423,7 @@
         "formattedHash": "_0153341a",
         "name": "CanSelectEDay",
         "functionalityNotes": "Nook Miles Plus available on Earth Day",
-        "versions": ["No", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["No", "Yes*", "Yes", "Yes", "Yes"],
         "knownFunctionality": true
       },
       {
@@ -4434,7 +4434,7 @@
         "formattedHash": "_679e3850",
         "name": "CancelEDay",
         "functionalityNotes": "Nook Miles Plus unavailable on Earth Day",
-        "versions": ["No", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["No", "Yes*", "Yes", "Yes", "Yes"],
         "knownFunctionality": true
       },
       {
@@ -4456,7 +4456,7 @@
         "formattedHash": "_fa93f14b",
         "name": "FlagsFlowAccess",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["No", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -4467,7 +4467,7 @@
         "formattedHash": "_c47fe703",
         "name": "IsEDay",
         "functionalityNotes": "1 if it's an Earth Day Nook Miles Plus",
-        "versions": ["No", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["No", "Yes*", "Yes", "Yes", "Yes"],
         "knownFunctionality": true
       },
       {
@@ -4511,7 +4511,7 @@
         "formattedHash": "_e07863ab",
         "name": "SpecialSelect",
         "functionalityNotes": "Forced as first quests?",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -4596,7 +4596,7 @@
         "formattedHash": "_fa93f14b",
         "name": "FlagsFlowAccess",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["No", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -4692,7 +4692,7 @@
         "formattedHash": "_fa93f14b",
         "name": "FlagsFlowAccess",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["No", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -4788,7 +4788,7 @@
         "formattedHash": "_fa93f14b",
         "name": "FlagsFlowAccess",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["No", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -4884,7 +4884,7 @@
         "formattedHash": "_fa93f14b",
         "name": "FlagsFlowAccess",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["No", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -4969,7 +4969,7 @@
         "formattedHash": "_bed25a86",
         "name": "",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["No", "No", "No", "No", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -4991,7 +4991,7 @@
         "formattedHash": "_fa93f14b",
         "name": "FlagsFlowAccess",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["No", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -5098,7 +5098,7 @@
         "formattedHash": "_fa93f14b",
         "name": "FlagsFlowAccess",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["No", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -5172,7 +5172,7 @@
         "formattedHash": "_fa93f14b",
         "name": "FlagsFlowAccess",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["No", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -5402,7 +5402,7 @@
         "formattedHash": "_036dd90c",
         "name": "",
         "functionalityNotes": "Event name",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": true
       },
       {
@@ -5899,7 +5899,7 @@
         "formattedHash": "_3f45f2bf",
         "name": "DebugName",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": true
       },
       {
@@ -6294,7 +6294,7 @@
         "formattedHash": "_04034aa7",
         "name": "Name",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": true
       }
     ]
@@ -7369,7 +7369,7 @@
         "formattedHash": "_dadfa19a",
         "name": "EnglishName",
         "functionalityNotes": "The template's name? Format is FldOutTemplate[A, B or C][number from 0 to 11]. If A, TemplateKind is 3B_S2, if B it's 3B_SW and if C it's 3B_SE.",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"]
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"]
       }
     ]
   },
@@ -8324,7 +8324,7 @@
         "formattedHash": "_b7c9dd05",
         "name": "EscapeScale",
         "functionalityNotes": "doesn't appear to be used in the main binary",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -8423,7 +8423,7 @@
         "formattedHash": "_ab51a3cf",
         "name": "DebugName",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": true
       },
       {
@@ -8659,7 +8659,7 @@
         "formattedHash": "_96ba28fe",
         "name": "Comment",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -8670,7 +8670,7 @@
         "formattedHash": "_ba199df0",
         "name": "DisableEmoticon",
         "functionalityNotes": "",
-        "versions": ["No", "No", "No", "No", "Yes"],
+        "versions": ["No", "No", "No", "No", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -8703,7 +8703,7 @@
         "formattedHash": "_26911c10",
         "name": "ToolAsCommand",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       }
     ]
@@ -9777,7 +9777,7 @@
         "formattedHash": "_27450132",
         "name": "GetScale",
         "functionalityNotes": "Might modify model scale when caught? Doesn't appear to be used in the main binary",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -9865,7 +9865,7 @@
         "formattedHash": "_3f45f2bf",
         "name": "DebugName",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": true
       },
       {
@@ -9994,7 +9994,7 @@
         "formattedHash": "_d2a5c5cf",
         "name": "DemoType",
         "functionalityNotes": "",
-        "versions": ["No", "No", "No", "Yes", "Yes"],
+        "versions": ["No", "No", "No", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -10016,7 +10016,7 @@
         "formattedHash": "_036e8ebe",
         "name": "Name",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -10027,7 +10027,7 @@
         "formattedHash": "_0e387a24",
         "name": "SwitchableOnWall",
         "functionalityNotes": "",
-        "versions": ["No", "No", "No", "Yes", "Yes"],
+        "versions": ["No", "No", "No", "Yes*", "Yes*"],
         "knownFunctionality": false
       }
     ]
@@ -10222,7 +10222,7 @@
         "formattedHash": "_036e8ebe",
         "name": "Name",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": true
       },
       {
@@ -10543,7 +10543,7 @@
         "formattedHash": "_036e8ebe",
         "name": "Name",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": true
       }
     ]
@@ -10824,7 +10824,7 @@
         "formattedHash": "_c37a683c",
         "name": "",
         "functionalityNotes": "Not used by the game. Is '1' on the three HousingKit rows",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -10857,7 +10857,7 @@
         "formattedHash": "_036e8ebe",
         "name": "Name",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": true
       }
     ]
@@ -10909,7 +10909,7 @@
         "formattedHash": "_036e8ebe",
         "name": "Name",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       }
     ]
@@ -10950,7 +10950,7 @@
         "formattedHash": "_036e8ebe",
         "name": "Name",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": true
       },
       {
@@ -11974,7 +11974,7 @@
         "formattedHash": "_036e8ebe",
         "name": "Name",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -12092,7 +12092,7 @@
         "formattedHash": "_f8316716",
         "name": "Depth",
         "functionalityNotes": "I can't find the hash in code at all (0xf831, 0x6716, and 0xf8316716), so either I'm doing something wrong or it's just unused",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"]
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"]
       },
       {
         "hash": "43507f0d",
@@ -12655,7 +12655,7 @@
         "formattedHash": "_5c1c3044",
         "name": "BridgeTypeId",
         "functionalityNotes": "Matches to UniqueID in StructureBridgeTypeParam",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": true
       },
       {
@@ -12677,7 +12677,7 @@
         "formattedHash": "_c353ef20",
         "name": "CookingRecipeID",
         "functionalityNotes": "Yum",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -12699,7 +12699,7 @@
         "formattedHash": "_bee071da",
         "name": "FakeArtConvertId",
         "functionalityNotes": "Matches UniqueIDs of fake art to real art and vice versa",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes", "Yes", "Yes"],
         "knownFunctionality": true
       },
       {
@@ -12753,7 +12753,7 @@
         "formattedHash": "_88a6501c",
         "name": "SewingRecipeID",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -12764,7 +12764,7 @@
         "formattedHash": "_bfba247c",
         "name": "SlopeTableId",
         "functionalityNotes": "Matches to UniqueID in StructureSlopeParam",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": true
       },
       {
@@ -12852,7 +12852,7 @@
         "formattedHash": "_e4697080",
         "name": "CaptureClosetIcon",
         "functionalityNotes": "Used for generating wardrobe icons. No effect on gameplay",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": true
       },
       {
@@ -12863,7 +12863,7 @@
         "formattedHash": "_e24d9b0e",
         "name": "CaptureDiyIcon",
         "functionalityNotes": "Used for generating recipe icons. No effect on gameplay",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": true
       },
       {
@@ -12874,7 +12874,7 @@
         "formattedHash": "_f179f796",
         "name": "",
         "functionalityNotes": "Used for determining interaction state when generating icons. No effect on gameplay",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": true
       },
       {
@@ -12885,7 +12885,7 @@
         "formattedHash": "_e65df243",
         "name": "CaptureFtrIcon",
         "functionalityNotes": "Used for generating storage icons. No effect on gameplay",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": true
       },
       {
@@ -12896,7 +12896,7 @@
         "formattedHash": "_116f007f",
         "name": "CaptureGardeningIcon",
         "functionalityNotes": "Used for generating gardening??? icons. Maybe Leif shop icons. No effect on gameplay",
-        "versions": ["No", "No", "No", "Yes", "Yes"]
+        "versions": ["No", "No", "No", "Yes*", "Yes*"]
       },
       {
         "hash": "fc275e86",
@@ -12906,7 +12906,7 @@
         "formattedHash": "_fc275e86",
         "name": "CapturePreset",
         "functionalityNotes": "Used for generating icons. No effect on gameplay",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": true
       },
       {
@@ -12948,7 +12948,7 @@
         "formattedHash": "_4b97cdab",
         "name": "",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -12959,7 +12959,7 @@
         "formattedHash": "_bea3e8b8",
         "name": "IsSwingFtr",
         "functionalityNotes": "If the items have wind animations",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": true
       },
       {
@@ -12980,7 +12980,7 @@
         "formattedHash": "_b8cc232c",
         "name": "ItemName",
         "functionalityNotes": "Japanese item name?",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"]
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"]
       },
       {
         "hash": "805cdabb",
@@ -12990,7 +12990,7 @@
         "formattedHash": "_805cdabb",
         "name": "ItemReleaseVersion",
         "functionalityNotes": "Version the item was added. Matches to row index (not UniqueID!) in ReleaseVersionParam",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": true
       },
       {
@@ -13591,7 +13591,7 @@
         "formattedHash": "_036e8ebe",
         "name": "Name",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -14552,7 +14552,7 @@
         "formattedHash": "_801351e6",
         "name": "ResSizeLimit",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -14563,7 +14563,7 @@
         "formattedHash": "_09b64264",
         "name": "MemoryUnitNum",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -14574,7 +14574,7 @@
         "formattedHash": "_3cf05708",
         "name": "PolygonLimit",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -14876,7 +14876,7 @@
         "formattedHash": "_036e8ebe",
         "name": "Name",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       }
     ]
@@ -14961,7 +14961,7 @@
         "formattedHash": "_036e8ebe",
         "name": "Name",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -15411,7 +15411,7 @@
         "formattedHash": "_ab51a3cf",
         "name": "DebugName",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       }
     ]
@@ -15633,7 +15633,7 @@
         "formattedHash": "_63a46970",
         "name": "",
         "functionalityNotes": "Never used by game code",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -15798,7 +15798,7 @@
         "formattedHash": "_24da7ada",
         "name": "Kind",
         "functionalityNotes": "Always 0",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -16542,7 +16542,7 @@
         "formattedHash": "_7c6429ea",
         "name": "SilhouetteName",
         "functionalityNotes": "The silhouette name in Japanese.",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": true
       }
     ]
@@ -16605,7 +16605,7 @@
         "formattedHash": "_b10b6bc8",
         "name": "SpotTalkName",
         "functionalityNotes": "The spot's name in Japanese.",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": true
       }
     ]
@@ -17058,7 +17058,7 @@
         "formattedHash": "_85fb9dd5",
         "name": "PointName",
         "functionalityNotes": "The view point's name in Japanese. Usually is the name of whatever's exposed.",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": true
       },
       {
@@ -17484,7 +17484,7 @@
         "formattedHash": "_08238405",
         "name": "AccentWall",
         "functionalityNotes": "All 0s (My personal theory is that AccentWall is used for 1 wall that's different from the other 3 in the room. Unused by the game)",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -17506,7 +17506,7 @@
         "formattedHash": "_0b52f5bb",
         "name": "FloorType",
         "functionalityNotes": "Only 0 and 54",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -17604,7 +17604,7 @@
         "formattedHash": "_da63a0cc",
         "name": "WallType",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -18016,7 +18016,7 @@
         "formattedHash": "_b7a6c4a8",
         "name": "CastType",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       }
     ]
@@ -18331,7 +18331,7 @@
         "formattedHash": "_74275e7a",
         "name": "MaskFrequencyWear",
         "functionalityNotes": "Likelyhood of wearing a mask from the PurposeTag during this EquipRule? All 0s",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"]
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"]
       },
       {
         "hash": "cc198281",
@@ -18341,7 +18341,7 @@
         "formattedHash": "_cc198281",
         "name": "MaskPurposeLimit",
         "functionalityNotes": "Limits masks to within the PurposeTag during this EquipRule? All 0s",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"]
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"]
       },
       {
         "hash": "14767df7",
@@ -18351,7 +18351,7 @@
         "formattedHash": "_14767df7",
         "name": "MaskTemporarilyCreate",
         "functionalityNotes": "Determines whether villagers will use a TempCreate mask if they don't own any masks in the PurposeTag. All 0s",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": true
       },
       {
@@ -18362,7 +18362,7 @@
         "formattedHash": "_036e8ebe",
         "name": "Name",
         "functionalityNotes": "Japanese name?",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"]
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"]
       }
     ]
   },
@@ -18684,7 +18684,7 @@
         "formattedHash": "_3b27f030",
         "name": "ArriveDist",
         "functionalityNotes": "All rows are -1",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -18706,7 +18706,7 @@
         "formattedHash": "_76e5e67a",
         "name": "SatisfyMinute",
         "functionalityNotes": "All rows are 15",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -19665,7 +19665,7 @@
         "formattedHash": "_3af6dfe2",
         "name": "BagID",
         "functionalityNotes": "Checks if the player's worn bag matches this ID",
-        "versions": ["No", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["No", "Yes*", "Yes*", "Yes", "Yes"],
         "knownFunctionality": true
       },
       {
@@ -19698,7 +19698,7 @@
         "formattedHash": "_cd89ffeb",
         "name": "CombinationNum",
         "functionalityNotes": "Probably the number of worn items needed to match in the row or group for the dialogue to activate",
-        "versions": ["No", "Yes", "Yes", "Yes", "Yes"]
+        "versions": ["No", "Yes*", "Yes*", "Yes", "Yes"]
       },
       {
         "hash": "da01c243",
@@ -19708,7 +19708,7 @@
         "formattedHash": "_da01c243",
         "name": "EyeAcceID",
         "functionalityNotes": "Checks if the player's worn eye accessory matches this ID",
-        "versions": ["No", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["No", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": true
       },
       {
@@ -19785,7 +19785,7 @@
         "formattedHash": "_f429d772",
         "name": "HelmetID",
         "functionalityNotes": "Checks if the player's worn helmet matches this ID",
-        "versions": ["No", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["No", "Yes*", "Yes*", "Yes", "Yes"],
         "knownFunctionality": true
       },
       {
@@ -19851,7 +19851,7 @@
         "formattedHash": "_e113ac8d",
         "name": "SocksID",
         "functionalityNotes": "Checks if the player's worn socks matches this ID",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes", "Yes"],
         "knownFunctionality": true
       },
       {
@@ -19862,7 +19862,7 @@
         "formattedHash": "_ebb9a634",
         "name": "ToolID",
         "functionalityNotes": "Checks if the player's equipped tool matches this ID",
-        "versions": ["No", "No", "Yes", "Yes", "Yes"],
+        "versions": ["No", "No", "Yes*", "Yes", "Yes"],
         "knownFunctionality": true
       },
       {
@@ -19884,7 +19884,7 @@
         "formattedHash": "_003c0210",
         "name": "UmbrellaID",
         "functionalityNotes": "Checks if the player's equipped matches this ID",
-        "versions": ["No", "No", "Yes", "Yes", "Yes"],
+        "versions": ["No", "No", "Yes*", "Yes", "Yes"],
         "knownFunctionality": true
       },
       {
@@ -20054,7 +20054,7 @@
         "formattedHash": "_0207a2af",
         "name": "SpNpcID",
         "functionalityNotes": "UniqueID of SpNpcParam for the Special NPC",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": true
       },
       {
@@ -20109,7 +20109,7 @@
         "formattedHash": "_036e8ebe",
         "name": "Name",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": true
       }
     ]
@@ -21039,7 +21039,7 @@
         "formattedHash": "_5b6d5751",
         "name": "",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -21072,7 +21072,7 @@
         "formattedHash": "_65fd6b0d",
         "name": "",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -21127,7 +21127,7 @@
         "formattedHash": "_a84507aa",
         "name": "",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -21138,7 +21138,7 @@
         "formattedHash": "_c033d95a",
         "name": "",
         "functionalityNotes": "",
-        "versions": ["No", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["No", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -21149,7 +21149,7 @@
         "formattedHash": "_ed32aade",
         "name": "ValidDiveRate",
         "functionalityNotes": "",
-        "versions": ["No", "No", "Yes", "Yes", "Yes"],
+        "versions": ["No", "No", "Yes*", "Yes", "Yes"],
         "knownFunctionality": false
       },
       {
@@ -21599,7 +21599,7 @@
         "formattedHash": "_76c190b2",
         "name": "ReleaseKey",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": true
       },
       {
@@ -21722,7 +21722,7 @@
         "formattedHash": "_036e8ebe",
         "name": "Name",
         "functionalityNotes": "Japanese strings. We've translated the 3 values as \"Curtains\", \"Slatted Blinds\", and \"Roller Shades\" in the Item Spreadsheet",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": true
       },
       {
@@ -21763,7 +21763,7 @@
         "formattedHash": "_036e8ebe",
         "name": "Name",
         "functionalityNotes": "Japanese strings",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": true
       },
       {
@@ -21848,7 +21848,7 @@
         "formattedHash": "_58aff4fb",
         "name": "ItemTableId",
         "functionalityNotes": "Haven't double-checked but 90% sure this joins on the UniqueID in ItemParam",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"]
+        "versions": ["Yes", "Yes*", "Yes*", "Yes*", "Yes*"]
       },
       {
         "hash": "8fced711",
@@ -21902,7 +21902,7 @@
         "formattedHash": "_b8cc232c",
         "name": "ItemName",
         "functionalityNotes": "Japanese string",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": true
       },
       {
@@ -21924,7 +21924,7 @@
         "formattedHash": "_05836619",
         "name": "Reverberation",
         "functionalityNotes": "Removed in 1.3.0",
-        "versions": ["Yes", "Yes", "Yes", "No", "No"],
+        "versions": ["Yes*", "Yes*", "Yes*", "No", "No"],
         "knownFunctionality": "unused"
       },
       {
@@ -21987,7 +21987,7 @@
         "formattedHash": "_05038516",
         "name": "LandingName",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -22104,7 +22104,7 @@
         "formattedHash": "_58aff4fb",
         "name": "ItemTableId",
         "functionalityNotes": "Haven't double-checked but I'm 90% sure this joins on the UniqueID in ItemParam",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"]
+        "versions": ["Yes", "Yes*", "Yes*", "Yes*", "Yes*"]
       },
       {
         "hash": "54706054",
@@ -22136,7 +22136,7 @@
         "formattedHash": "_b8cc232c",
         "name": "ItemName",
         "functionalityNotes": "self-explanatory name; japanese string",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": true
       },
       {
@@ -22158,7 +22158,7 @@
         "formattedHash": "_05836619",
         "name": "Reverberation",
         "functionalityNotes": "Removed in 1.3.0",
-        "versions": ["Yes", "Yes", "Yes", "No", "No"],
+        "versions": ["Yes*", "Yes*", "Yes*", "No", "No"],
         "knownFunctionality": "unused"
       },
       {
@@ -22232,7 +22232,7 @@
         "formattedHash": "_9b0b7ce4",
         "name": "WindowName",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       }
     ]
@@ -22825,7 +22825,7 @@
         "formattedHash": "_ab51a3cf",
         "name": "DebugName",
         "functionalityNotes": "",
-        "versions": ["No", "No", "No", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": true
       },
       {
@@ -23406,7 +23406,7 @@
         "formattedHash": "_ab51a3cf",
         "name": "DebugName",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": true
       }
     ]
@@ -23736,7 +23736,7 @@
         "formattedHash": "_904611f3",
         "name": "",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -23780,7 +23780,7 @@
         "formattedHash": "_5c28c4db",
         "name": "BridgeTypeNameJp",
         "functionalityNotes": "The name of the bridge in Japanese.",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": true
       }
     ]
@@ -23975,7 +23975,7 @@
         "formattedHash": "_52f5d4e9",
         "name": "Stage1",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -23986,7 +23986,7 @@
         "formattedHash": "_12a20792",
         "name": "Stage10",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -23997,7 +23997,7 @@
         "formattedHash": "_fd606cac",
         "name": "Stage11",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -24008,7 +24008,7 @@
         "formattedHash": "_1657d7af",
         "name": "Stage12",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -24019,7 +24019,7 @@
         "formattedHash": "_b9c26fea",
         "name": "Stage2",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -24030,7 +24030,7 @@
         "formattedHash": "_560004d4",
         "name": "Stage3",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -24041,7 +24041,7 @@
         "formattedHash": "_b4dc1fad",
         "name": "Stage4",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -24052,7 +24052,7 @@
         "formattedHash": "_5b1e7493",
         "name": "Stage5",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -24063,7 +24063,7 @@
         "formattedHash": "_b029cf90",
         "name": "Stage6",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -24074,7 +24074,7 @@
         "formattedHash": "_5feba4ae",
         "name": "Stage7",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -24085,7 +24085,7 @@
         "formattedHash": "_aee0ff23",
         "name": "Stage8",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -24096,7 +24096,7 @@
         "formattedHash": "_4122941d",
         "name": "Stage9",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       }
     ]
@@ -24601,7 +24601,7 @@
         "formattedHash": "_e6fc6624",
         "name": "HousePartsType",
         "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": false
       },
       {
@@ -24782,7 +24782,7 @@
         "formattedHash": "_fec3548b",
         "name": "",
         "functionalityNotes": "value is always 0 OR a murmur hash of \"MainField\" or \"PhotoStudioIsland\"",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes", "Yes"],
         "knownFunctionality": false
       },
       {
@@ -24867,7 +24867,7 @@
         "formattedHash": "_08462f85",
         "name": "JpName",
         "functionalityNotes": "The slope's name in Japanese.",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": true
       },
       {

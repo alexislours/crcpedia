@@ -16,10 +16,11 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| No | Yes | Yes | Yes | Yes | 
+| No | Yes* | Yes | Yes | Yes | 
 
+*Found in the BCSVs but unreferenced in the executable
 
 ## SortID
 
@@ -33,7 +34,7 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
 |:--:|:--:|:--:|:--:|:--:|
 | No | No | Yes | Yes | Yes | 
 
@@ -50,10 +51,11 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| No | Yes | Yes | Yes | Yes | 
+| No | Yes* | Yes | Yes | Yes | 
 
+*Found in the BCSVs but unreferenced in the executable
 
 ## RegionEventCountry3
 
@@ -67,10 +69,11 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| No | Yes | Yes | Yes | Yes | 
+| No | Yes* | Yes | Yes | Yes | 
 
+*Found in the BCSVs but unreferenced in the executable
 
 ## RegionEventCountry4
 
@@ -84,10 +87,11 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| No | Yes | Yes | Yes | Yes | 
+| No | Yes* | Yes | Yes | Yes | 
 
+*Found in the BCSVs but unreferenced in the executable
 
 ## RegionEventCountry5
 
@@ -101,10 +105,11 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| No | Yes | Yes | Yes | Yes | 
+| No | Yes* | Yes | Yes | Yes | 
 
+*Found in the BCSVs but unreferenced in the executable
 
 ## UniqueID
 
@@ -116,7 +121,7 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
 |:--:|:--:|:--:|:--:|:--:|
 | No | Yes | Yes | Yes | Yes | 
 
@@ -133,10 +138,11 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| No | Yes | Yes | Yes | Yes | 
+| No | Yes* | Yes | Yes | Yes | 
 
+*Found in the BCSVs but unreferenced in the executable
 
 ## ItemFrom
 
@@ -150,7 +156,7 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
 |:--:|:--:|:--:|:--:|:--:|
 | No | Yes | Yes | Yes | Yes | 
 
