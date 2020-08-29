@@ -7073,7 +7073,7 @@
   "FieldOutsideTemplate": {
     "name": "FieldOutsideTemplate",
     "namedColumns": "27/27",
-    "documentedColumns": "23/27",
+    "documentedColumns": "24/27",
     "description": "Island beach templates",
     "hashes": [
       {
@@ -7369,7 +7369,8 @@
         "formattedHash": "_dadfa19a",
         "name": "EnglishName",
         "functionalityNotes": "The template's name? Format is FldOutTemplate[A, B or C][number from 0 to 11]. If A, TemplateKind is 3B_S2, if B it's 3B_SW and if C it's 3B_SE.",
-        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"]
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
+        "knownFunctionality": true
       }
     ]
   },
