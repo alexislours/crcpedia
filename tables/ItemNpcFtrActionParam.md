@@ -32,7 +32,7 @@
 
 **Hashed string**: NpcFtrActionWeather.hshCstringRef
 
-**Versions**: , , 
+**Versions**: , , , 
 
 ## NpcFtrActionTool
 

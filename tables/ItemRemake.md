@@ -216,7 +216,7 @@
 
 **Hashed string**: RemakeLotType.hshCstringRef
 
-**Versions**: , , 
+**Versions**: , , , 
 
 ## ItemUniqueID
 

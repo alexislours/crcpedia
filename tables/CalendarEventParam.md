@@ -26,7 +26,7 @@
 
 **Notes**: UniqueID of EventFlagsLandParam, define the flag required for the event to start
 
-**Versions**: , , 
+**Versions**: , , , 
 
 ## FlagLand2
 
@@ -38,7 +38,7 @@
 
 **Notes**: Unused, probably the same as FlagLand1 for a second flag
 
-**Versions**: , , 
+**Versions**: , , , 
 
 ## TkkSkipBirthday
 
@@ -108,7 +108,7 @@
 
 **Notes**: Events that are locked behind BCAT updates (letter updates like 1.2.0a)
 
-**Versions**: , 
+**Versions**: , , 
 
 ## BoardDesign
 
@@ -1772,7 +1772,7 @@
 
 **Notes**: All basegame events are set to 1 and all events from updates are set to 0. Potentially indicates whether or not the events need the NetworkSystemClock (set via an online or spoofed NTP server) to be accurate in order to unlock
 
-**Versions**: , , 
+**Versions**: , , , 
 
 ## Output
 

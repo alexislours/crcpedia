@@ -26,7 +26,7 @@
 
 **Notes**: Whether it's a "Normal" mystery island or the "MayDay" island
 
-**Versions**: , , 
+**Versions**: , , , 
 
 ## FishPattern
 
@@ -158,7 +158,7 @@
 
 **Notes**: Checks if the EnableGotoRareMysteryTour flag has been activated.
 
-**Versions**: , 
+**Versions**: , , 
 
 ## SelectWeight
 
@@ -180,5 +180,5 @@
 
 **Hashed string**: StatusPattern u8
 
-**Versions**: , 
+**Versions**: , , 
 

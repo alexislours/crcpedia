@@ -251,7 +251,7 @@
         "formattedHash": "_736adca8",
         "name": "FlagAnim",
         "functionalityNotes": "Picks the flag image to display",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": true
       },
       {
@@ -262,7 +262,7 @@
         "formattedHash": "_54706054",
         "name": "UniqueID",
         "functionalityNotes": "",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": true
       },
       {
@@ -273,7 +273,7 @@
         "formattedHash": "_87bf00e8",
         "name": "Label",
         "functionalityNotes": "Matches to RegionEventCountry columns in CalendarEventRegionParam",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": true
       }
     ]
@@ -292,7 +292,7 @@
         "formattedHash": "_598463c8",
         "name": "RequiredNum",
         "functionalityNotes": "Price in heart crystals",
-        "versions": ["", ""],
+        "versions": ["", "", ""],
         "knownFunctionality": true
       },
       {
@@ -303,7 +303,7 @@
         "formattedHash": "_612bc6cf",
         "name": "UniqueID",
         "functionalityNotes": "",
-        "versions": ["", ""],
+        "versions": ["", "", ""],
         "knownFunctionality": true
       },
       {
@@ -314,7 +314,7 @@
         "formattedHash": "_ad1e04ad",
         "name": "ExchangeItem",
         "functionalityNotes": "ID of the furniture",
-        "versions": ["", ""],
+        "versions": ["", "", ""],
         "knownFunctionality": true
       },
       {
@@ -325,7 +325,7 @@
         "formattedHash": "_a0bb7510",
         "name": "DispInteriorMode",
         "functionalityNotes": "",
-        "versions": ["", ""],
+        "versions": ["", "", ""],
         "knownFunctionality": false
       },
       {
@@ -336,7 +336,7 @@
         "formattedHash": "_7c226372",
         "name": "JuneBrideProgress",
         "functionalityNotes": "Number of photoshoot done to be able to trade the furniture",
-        "versions": ["", ""],
+        "versions": ["", "", ""],
         "knownFunctionality": true
       }
     ]
@@ -355,7 +355,7 @@
         "formattedHash": "_612bc6cf",
         "name": "UniqueID",
         "functionalityNotes": "",
-        "versions": ["", ""],
+        "versions": ["", "", ""],
         "knownFunctionality": true
       },
       {
@@ -366,7 +366,7 @@
         "formattedHash": "_60836eaa",
         "name": "PriorityReward",
         "functionalityNotes": "Default reward given",
-        "versions": ["", ""],
+        "versions": ["", "", ""],
         "knownFunctionality": true
       },
       {
@@ -377,7 +377,7 @@
         "formattedHash": "_657550b3",
         "name": "SubordinateReward",
         "functionalityNotes": "Alternate reward given",
-        "versions": ["", ""],
+        "versions": ["", "", ""],
         "knownFunctionality": true
       },
       {
@@ -388,7 +388,7 @@
         "formattedHash": "_7c226372",
         "name": "JuneBrideProgress",
         "functionalityNotes": "Number of photoshoot completed to get reward",
-        "versions": ["", ""],
+        "versions": ["", "", ""],
         "knownFunctionality": true
       }
     ]
@@ -417,7 +417,7 @@
         "formattedHash": "_a75689ff",
         "name": "FlagLand1",
         "functionalityNotes": "UniqueID of EventFlagsLandParam, define the flag required for the event to start",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": true
       },
       {
@@ -428,7 +428,7 @@
         "formattedHash": "_e0f6f32f",
         "name": "FlagLand2",
         "functionalityNotes": "Unused, probably the same as FlagLand1 for a second flag",
-        "versions": ["", "", ""]
+        "versions": ["", "", "", ""]
       },
       {
         "hash": "52c75c1e",
@@ -493,7 +493,7 @@
         "formattedHash": "_e5337bd9",
         "name": "BcatLevel",
         "functionalityNotes": "Events that are locked behind BCAT updates (letter updates like 1.2.0a)",
-        "versions": ["", ""],
+        "versions": ["", "", ""],
         "knownFunctionality": true
       },
       {
@@ -2022,7 +2022,7 @@
         "formattedHash": "_4b4d3c12",
         "name": "OpenAllYear",
         "functionalityNotes": "All basegame events are set to 1 and all events from updates are set to 0. Potentially indicates whether or not the events need the NetworkSystemClock (set via an online or spoofed NTP server) to be accurate in order to unlock",
-        "versions": ["", "", ""]
+        "versions": ["", "", "", ""]
       },
       {
         "hash": "87ff95cc",
@@ -2108,7 +2108,7 @@
         "formattedHash": "_46df4305",
         "name": "RemoveEventObj",
         "functionalityNotes": "As of 1.4.0 only applies to Fireworks Shows; might relate to Plaza decorations",
-        "versions": [],
+        "versions": [""],
         "knownFunctionality": false
       },
       {
@@ -2193,7 +2193,7 @@
         "formattedHash": "_82bfcf29",
         "name": "RegionEventCountry1",
         "functionalityNotes": "Region the event is associated with. Matches to strings in STR_RegionEventArea",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": true
       },
       {
@@ -2204,7 +2204,7 @@
         "formattedHash": "_8b3c9137",
         "name": "SortID",
         "functionalityNotes": "Sort ID for the events",
-        "versions": ["", ""],
+        "versions": ["", "", ""],
         "knownFunctionality": true
       },
       {
@@ -2215,7 +2215,7 @@
         "formattedHash": "_af2602cd",
         "name": "RegionEventCountry2",
         "functionalityNotes": "Additional regions for the event in case there's more than one. Defined as row indices in CalendarEventCountryParam",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": true
       },
       {
@@ -2226,7 +2226,7 @@
         "formattedHash": "_92462b7d",
         "name": "RegionEventCountry3",
         "functionalityNotes": "Same as above",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": true
       },
       {
@@ -2237,7 +2237,7 @@
         "formattedHash": "_2066f76d",
         "name": "RegionEventCountry4",
         "functionalityNotes": "Same as above",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": true
       },
       {
@@ -2248,7 +2248,7 @@
         "formattedHash": "_1d06dedd",
         "name": "RegionEventCountry5",
         "functionalityNotes": "Same as above",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": true
       },
       {
@@ -2259,7 +2259,7 @@
         "formattedHash": "_54706054",
         "name": "UniqueID",
         "functionalityNotes": "",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": true
       },
       {
@@ -2270,7 +2270,7 @@
         "formattedHash": "_be26d70e",
         "name": "EventLabel",
         "functionalityNotes": "Label of the event",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": true
       },
       {
@@ -2281,7 +2281,7 @@
         "formattedHash": "_46e66708",
         "name": "ItemFrom",
         "functionalityNotes": "ItemFrom label associated to the event",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": true
       }
     ]
@@ -3596,7 +3596,7 @@
         "formattedHash": "_797f5754",
         "name": "DefaultValue",
         "functionalityNotes": "",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": false
       },
       {
@@ -3607,7 +3607,7 @@
         "formattedHash": "_0110b14c",
         "name": "MaxValue",
         "functionalityNotes": "",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": false
       },
       {
@@ -3618,7 +3618,7 @@
         "formattedHash": "_54706054",
         "name": "UniqueID",
         "functionalityNotes": "",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": false
       },
       {
@@ -3629,7 +3629,7 @@
         "formattedHash": "_fa93f14b",
         "name": "FlagsFlowAccess",
         "functionalityNotes": "",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": false
       },
       {
@@ -3640,7 +3640,7 @@
         "formattedHash": "_45f320f2",
         "name": "Key",
         "functionalityNotes": "",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": false
       },
       {
@@ -3651,7 +3651,7 @@
         "formattedHash": "_85cf1615",
         "name": "Name",
         "functionalityNotes": "",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": true
       }
     ]
@@ -3670,7 +3670,7 @@
         "formattedHash": "_3fe43170",
         "name": "FlagLand",
         "functionalityNotes": "UniqueID in EventFlagsLandParam, only used to unlock the easter event",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": true
       },
       {
@@ -3681,7 +3681,7 @@
         "formattedHash": "_797f5754",
         "name": "DefaultValue",
         "functionalityNotes": "",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": true
       },
       {
@@ -3692,7 +3692,7 @@
         "formattedHash": "_0110b14c",
         "name": "MaxValue",
         "functionalityNotes": "",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": true
       },
       {
@@ -3703,7 +3703,7 @@
         "formattedHash": "_54706054",
         "name": "UniqueID",
         "functionalityNotes": "",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": true
       },
       {
@@ -3714,7 +3714,7 @@
         "formattedHash": "_fa93f14b",
         "name": "FlagsFlowAccess",
         "functionalityNotes": "",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": false
       },
       {
@@ -3725,7 +3725,7 @@
         "formattedHash": "_45f320f2",
         "name": "Key",
         "functionalityNotes": "",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": true
       },
       {
@@ -3736,7 +3736,7 @@
         "formattedHash": "_85cf1615",
         "name": "Name",
         "functionalityNotes": "",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": true
       }
     ]
@@ -3939,7 +3939,7 @@
         "formattedHash": "_8b8c8093",
         "name": "SyncNoCheck",
         "functionalityNotes": "",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": false
       }
     ]
@@ -4002,7 +4002,7 @@
         "formattedHash": "_3dad9135",
         "name": "",
         "functionalityNotes": "",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": false
       },
       {
@@ -4250,7 +4250,7 @@
         "formattedHash": "_bed25a86",
         "name": "",
         "functionalityNotes": "",
-        "versions": [],
+        "versions": [""],
         "knownFunctionality": false
       },
       {
@@ -4423,7 +4423,7 @@
         "formattedHash": "_0153341a",
         "name": "CanSelectEDay",
         "functionalityNotes": "Nook Miles Plus available on Earth Day",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": true
       },
       {
@@ -4434,7 +4434,7 @@
         "formattedHash": "_679e3850",
         "name": "CancelEDay",
         "functionalityNotes": "Nook Miles Plus unavailable on Earth Day",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": true
       },
       {
@@ -4467,7 +4467,7 @@
         "formattedHash": "_c47fe703",
         "name": "IsEDay",
         "functionalityNotes": "1 if it's an Earth Day Nook Miles Plus",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": true
       },
       {
@@ -4980,7 +4980,7 @@
         "formattedHash": "_c436ce69",
         "name": "",
         "functionalityNotes": "",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": false
       },
       {
@@ -5076,7 +5076,7 @@
         "formattedHash": "_3dad9135",
         "name": "",
         "functionalityNotes": "",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": false
       },
       {
@@ -5257,7 +5257,7 @@
         "formattedHash": "_cb7385a8",
         "name": "",
         "functionalityNotes": "",
-        "versions": [],
+        "versions": [""],
         "knownFunctionality": false
       }
     ]
@@ -5328,7 +5328,7 @@
         "formattedHash": "_83b54e59",
         "name": "RoofMaterial",
         "functionalityNotes": "",
-        "versions": ["", ""],
+        "versions": ["", "", ""],
         "knownFunctionality": false
       },
       {
@@ -5350,7 +5350,7 @@
         "formattedHash": "_30d3f8f7",
         "name": "FlowEntryName",
         "functionalityNotes": "value used as the starting point in the eventflow file listed in FlowFileName",
-        "versions": [],
+        "versions": [""],
         "knownFunctionality": true
       },
       {
@@ -5512,7 +5512,7 @@
         "formattedHash": "_b8e42602",
         "name": "",
         "functionalityNotes": "",
-        "versions": [],
+        "versions": [""],
         "knownFunctionality": false
       },
       {
@@ -5523,7 +5523,7 @@
         "formattedHash": "_30127dfd",
         "name": "DisableInDream",
         "functionalityNotes": "1 = Doesn't appear in dreams, 0 = Does appear in dreams",
-        "versions": [],
+        "versions": [""],
         "knownFunctionality": true
       },
       {
@@ -5597,7 +5597,7 @@
         "formattedHash": "_54706054",
         "name": "UniqueID",
         "functionalityNotes": "",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -5608,7 +5608,7 @@
         "formattedHash": "_85cf1615",
         "name": "Name",
         "functionalityNotes": "",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       }
     ]
@@ -8560,7 +8560,7 @@
         "formattedHash": "_58102055",
         "name": "",
         "functionalityNotes": "",
-        "versions": [],
+        "versions": [""],
         "knownFunctionality": false
       },
       {
@@ -8670,7 +8670,7 @@
         "formattedHash": "_ba199df0",
         "name": "DisableEmoticon",
         "functionalityNotes": "",
-        "versions": [],
+        "versions": [""],
         "knownFunctionality": false
       },
       {
@@ -8722,7 +8722,7 @@
         "formattedHash": "_607ccfce",
         "name": "ArtObjNum",
         "functionalityNotes": "",
-        "versions": ["", ""],
+        "versions": ["", "", ""],
         "knownFunctionality": false
       },
       {
@@ -9961,7 +9961,7 @@
         "formattedHash": "_8b1904b9",
         "name": "",
         "functionalityNotes": "",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": false
       },
       {
@@ -9994,7 +9994,7 @@
         "formattedHash": "_d2a5c5cf",
         "name": "DemoType",
         "functionalityNotes": "",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": false
       },
       {
@@ -10027,7 +10027,7 @@
         "formattedHash": "_0e387a24",
         "name": "SwitchableOnWall",
         "functionalityNotes": "",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": false
       }
     ]
@@ -11002,7 +11002,7 @@
         "formattedHash": "_99667bf1",
         "name": "NpcFtrActionWeather",
         "functionalityNotes": "",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": false
       },
       {
@@ -11639,7 +11639,7 @@
         "formattedHash": "_b645432f",
         "name": "HandToolAsLabel",
         "functionalityNotes": "",
-        "versions": [],
+        "versions": [""],
         "knownFunctionality": false
       },
       {
@@ -11694,7 +11694,7 @@
         "formattedHash": "_a9f8ee25",
         "name": "ToolEnterAsName",
         "functionalityNotes": "",
-        "versions": ["", ""],
+        "versions": ["", "", ""],
         "knownFunctionality": false
       },
       {
@@ -11768,7 +11768,7 @@
         "formattedHash": "_9dcea17e",
         "name": "ItemLayout",
         "functionalityNotes": "",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": false
       },
       {
@@ -11779,7 +11779,7 @@
         "formattedHash": "_e06fb090",
         "name": "ItemSize",
         "functionalityNotes": "",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": false
       },
       {
@@ -11790,7 +11790,7 @@
         "formattedHash": "_54706054",
         "name": "UniqueID",
         "functionalityNotes": "",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": false
       },
       {
@@ -11801,7 +11801,7 @@
         "formattedHash": "_87bf00e8",
         "name": "Label",
         "functionalityNotes": "",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": false
       },
       {
@@ -11812,7 +11812,7 @@
         "formattedHash": "_48ef0398",
         "name": "ResName",
         "functionalityNotes": "",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": false
       }
     ]
@@ -11952,7 +11952,7 @@
         "formattedHash": "_46489ce7",
         "name": "HangerInfo",
         "functionalityNotes": "",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": false
       },
       {
@@ -12157,7 +12157,7 @@
         "formattedHash": "_8900b8a0",
         "name": "ItemDailyCategory",
         "functionalityNotes": "Possibly related to Nature Day Nook Miles+ achievements",
-        "versions": ["", ""]
+        "versions": ["", "", ""]
       },
       {
         "hash": "db1a2f07",
@@ -12896,7 +12896,7 @@
         "formattedHash": "_116f007f",
         "name": "CaptureGardeningIcon",
         "functionalityNotes": "Used for generating gardening??? icons. Maybe Leif shop icons. No effect on gameplay",
-        "versions": [""]
+        "versions": ["", ""]
       },
       {
         "hash": "fc275e86",
@@ -13045,7 +13045,7 @@
         "formattedHash": "_b5677509",
         "name": "",
         "functionalityNotes": "",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": false
       },
       {
@@ -13056,7 +13056,7 @@
         "formattedHash": "_0eb7fa40",
         "name": "ToiletType",
         "functionalityNotes": "Usable toilets are set to 1",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": true
       },
       {
@@ -13841,7 +13841,7 @@
         "formattedHash": "_a86c26bb",
         "name": "RemakeLotType",
         "functionalityNotes": "",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": false
       },
       {
@@ -14991,7 +14991,7 @@
         "formattedHash": "_23a01e5b",
         "name": "Theme",
         "functionalityNotes": "The theme corresponding to this combination.",
-        "versions": ["", ""],
+        "versions": ["", "", ""],
         "knownFunctionality": true
       },
       {
@@ -15002,7 +15002,7 @@
         "formattedHash": "_4e718582",
         "name": "FloorItemId",
         "functionalityNotes": "A floor used by default for this combination. Matches with UniqueID in ItemParam.",
-        "versions": ["", ""],
+        "versions": ["", "", ""],
         "knownFunctionality": true
       },
       {
@@ -15013,7 +15013,7 @@
         "formattedHash": "_a1249129",
         "name": "RugItemId",
         "functionalityNotes": "A rug used by default for this combination. Equals -2 if no rug. Matches with UniqueID in ItemParam.",
-        "versions": ["", ""],
+        "versions": ["", "", ""],
         "knownFunctionality": true
       },
       {
@@ -15024,7 +15024,7 @@
         "formattedHash": "_54706054",
         "name": "UniqueID",
         "functionalityNotes": "",
-        "versions": ["", ""],
+        "versions": ["", "", ""],
         "knownFunctionality": true
       },
       {
@@ -15035,7 +15035,7 @@
         "formattedHash": "_350e1ef9",
         "name": "WallItemId",
         "functionalityNotes": "A wallpaper used by default for this combination. Matches with UniqueID in ItemParam.",
-        "versions": ["", ""],
+        "versions": ["", "", ""],
         "knownFunctionality": true
       }
     ]
@@ -16278,7 +16278,7 @@
         "formattedHash": "_be776e71",
         "name": "StageName",
         "functionalityNotes": "The room in which the art piece is displayed. Matches with StageName in MuseumNPCSpotTalk.",
-        "versions": ["", ""],
+        "versions": ["", "", ""],
         "knownFunctionality": true
       },
       {
@@ -16289,7 +16289,7 @@
         "formattedHash": "_fdeed09c",
         "name": "ModelID",
         "functionalityNotes": "The ID for this art piece's resource.",
-        "versions": ["", ""],
+        "versions": ["", "", ""],
         "knownFunctionality": true
       },
       {
@@ -16300,7 +16300,7 @@
         "formattedHash": "_54706054",
         "name": "UniqueID",
         "functionalityNotes": "",
-        "versions": ["", ""],
+        "versions": ["", "", ""],
         "knownFunctionality": true
       },
       {
@@ -16311,7 +16311,7 @@
         "formattedHash": "_b76b7d37",
         "name": "WatchItem",
         "functionalityNotes": "The item corresponding to this art piece. Matches with UniqueID in ItemParam.",
-        "versions": ["", ""],
+        "versions": ["", "", ""],
         "knownFunctionality": true
       },
       {
@@ -16322,7 +16322,7 @@
         "formattedHash": "_b16c3035",
         "name": "CameraParamName",
         "functionalityNotes": "?? Seems to reference indiviual watch points for each art piece (altough some are shared), but what does this correspond to?",
-        "versions": ["", ""],
+        "versions": ["", "", ""],
         "knownFunctionality": false
       }
     ]
@@ -16756,7 +16756,7 @@
         "formattedHash": "_c1bb7d2d",
         "name": "VisibleOff",
         "functionalityNotes": "",
-        "versions": ["", ""],
+        "versions": ["", "", ""],
         "knownFunctionality": false
       }
     ]
@@ -16775,7 +16775,7 @@
         "formattedHash": "_be776e71",
         "name": "StageName",
         "functionalityNotes": "The room in which the stamp rack is. Matches with MuseumNPCSpotTalk.",
-        "versions": ["", ""],
+        "versions": ["", "", ""],
         "knownFunctionality": true
       },
       {
@@ -16786,7 +16786,7 @@
         "formattedHash": "_98ff7f38",
         "name": "StampRackPutUnitX",
         "functionalityNotes": "The x coordinate for where the stamp rack is placed.",
-        "versions": ["", ""],
+        "versions": ["", "", ""],
         "knownFunctionality": true
       },
       {
@@ -16797,7 +16797,7 @@
         "formattedHash": "_e23f2c58",
         "name": "StampRackPutUnitZ",
         "functionalityNotes": "The z coordinate for where the stamp rack is placed.",
-        "versions": ["", ""],
+        "versions": ["", "", ""],
         "knownFunctionality": true
       },
       {
@@ -16808,7 +16808,7 @@
         "formattedHash": "_b02f0c17",
         "name": "StampRackItemNameA",
         "functionalityNotes": " ",
-        "versions": ["", ""],
+        "versions": ["", "", ""],
         "knownFunctionality": false
       },
       {
@@ -16819,7 +16819,7 @@
         "formattedHash": "_f78f76c7",
         "name": "StampRackItemNameB",
         "functionalityNotes": "",
-        "versions": ["", ""],
+        "versions": ["", "", ""],
         "knownFunctionality": false
       },
       {
@@ -16830,7 +16830,7 @@
         "formattedHash": "_caef5f77",
         "name": "StampRackItemNameC",
         "functionalityNotes": "",
-        "versions": ["", ""],
+        "versions": ["", "", ""],
         "knownFunctionality": false
       },
       {
@@ -16841,7 +16841,7 @@
         "formattedHash": "_d4f5b3e6",
         "name": "StampRackSetDirection",
         "functionalityNotes": "The stamp rack's orientation.",
-        "versions": ["", ""],
+        "versions": ["", "", ""],
         "knownFunctionality": true
       },
       {
@@ -16852,7 +16852,7 @@
         "formattedHash": "_54706054",
         "name": "UniqueID",
         "functionalityNotes": "",
-        "versions": ["", ""],
+        "versions": ["", "", ""],
         "knownFunctionality": true
       },
       {
@@ -16863,7 +16863,7 @@
         "formattedHash": "_a90b807e",
         "name": "StampRackIdx",
         "functionalityNotes": "",
-        "versions": ["", ""],
+        "versions": ["", "", ""],
         "knownFunctionality": false
       },
       {
@@ -16874,7 +16874,7 @@
         "formattedHash": "_0512b63c",
         "name": "StampRackNameExplainLabel",
         "functionalityNotes": "Matches to strings in FTR_StampRally",
-        "versions": ["", ""],
+        "versions": ["", "", ""],
         "knownFunctionality": true
       },
       {
@@ -16885,7 +16885,7 @@
         "formattedHash": "_4ab9b98a",
         "name": "StampRackNameTextLabel",
         "functionalityNotes": "Matches to strings in FTR_StampRally",
-        "versions": ["", ""],
+        "versions": ["", "", ""],
         "knownFunctionality": true
       },
       {
@@ -16896,7 +16896,7 @@
         "formattedHash": "_96d80132",
         "name": "",
         "functionalityNotes": "Matches to strings in STR_StampRally",
-        "versions": ["", ""],
+        "versions": ["", "", ""],
         "knownFunctionality": true
       },
       {
@@ -16907,7 +16907,7 @@
         "formattedHash": "_ed4b6070",
         "name": "",
         "functionalityNotes": "",
-        "versions": ["", ""],
+        "versions": ["", "", ""],
         "knownFunctionality": false
       }
     ]
@@ -17208,7 +17208,7 @@
         "formattedHash": "_1c8d9dbc",
         "name": "TourType",
         "functionalityNotes": "Whether it's a \"Normal\" mystery island or the \"MayDay\" island",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": true
       },
       {
@@ -17337,7 +17337,7 @@
         "formattedHash": "_0b3d1d54",
         "name": "",
         "functionalityNotes": "Checks if the EnableGotoRareMysteryTour flag has been activated.",
-        "versions": ["", ""],
+        "versions": ["", "", ""],
         "knownFunctionality": true
       },
       {
@@ -17359,7 +17359,7 @@
         "formattedHash": "_b1589411",
         "name": "StatusPattern",
         "functionalityNotes": "",
-        "versions": ["", ""],
+        "versions": ["", "", ""],
         "knownFunctionality": false
       }
     ]
@@ -19665,7 +19665,7 @@
         "formattedHash": "_3af6dfe2",
         "name": "BagID",
         "functionalityNotes": "Checks if the player's worn bag matches this ID",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": true
       },
       {
@@ -19698,7 +19698,7 @@
         "formattedHash": "_cd89ffeb",
         "name": "CombinationNum",
         "functionalityNotes": "Probably the number of worn items needed to match in the row or group for the dialogue to activate",
-        "versions": ["", "", ""]
+        "versions": ["", "", "", ""]
       },
       {
         "hash": "da01c243",
@@ -19708,7 +19708,7 @@
         "formattedHash": "_da01c243",
         "name": "EyeAcceID",
         "functionalityNotes": "Checks if the player's worn eye accessory matches this ID",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": true
       },
       {
@@ -19785,7 +19785,7 @@
         "formattedHash": "_f429d772",
         "name": "HelmetID",
         "functionalityNotes": "Checks if the player's worn helmet matches this ID",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": true
       },
       {
@@ -19862,7 +19862,7 @@
         "formattedHash": "_ebb9a634",
         "name": "ToolID",
         "functionalityNotes": "Checks if the player's equipped tool matches this ID",
-        "versions": ["", ""],
+        "versions": ["", "", ""],
         "knownFunctionality": true
       },
       {
@@ -19884,7 +19884,7 @@
         "formattedHash": "_003c0210",
         "name": "UmbrellaID",
         "functionalityNotes": "Checks if the player's equipped matches this ID",
-        "versions": ["", ""],
+        "versions": ["", "", ""],
         "knownFunctionality": true
       },
       {
@@ -20786,7 +20786,7 @@
         "formattedHash": "_e50d3218",
         "name": "DemoNetLockState",
         "functionalityNotes": "",
-        "versions": [],
+        "versions": [""],
         "knownFunctionality": false
       },
       {
@@ -20984,7 +20984,7 @@
         "formattedHash": "_066fbe8e",
         "name": "InWaterBody",
         "functionalityNotes": "",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": false
       },
       {
@@ -20995,7 +20995,7 @@
         "formattedHash": "_e1e934d5",
         "name": "JudgeVisibleOn",
         "functionalityNotes": "",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": false
       },
       {
@@ -21061,7 +21061,7 @@
         "formattedHash": "_013cbdbd",
         "name": "PoseTransDive",
         "functionalityNotes": "",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": false
       },
       {
@@ -21138,7 +21138,7 @@
         "formattedHash": "_c033d95a",
         "name": "",
         "functionalityNotes": "",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": false
       },
       {
@@ -21149,7 +21149,7 @@
         "formattedHash": "_ed32aade",
         "name": "ValidDiveRate",
         "functionalityNotes": "",
-        "versions": ["", ""],
+        "versions": ["", "", ""],
         "knownFunctionality": false
       },
       {
@@ -21360,7 +21360,7 @@
         "formattedHash": "_7f5b6179",
         "name": "CraftRecipeSeason",
         "functionalityNotes": "Season name for seasonal recipes. Must check if _478b74e4 is \"SelectRecipeSeason\", because all non-seasonal diys are marked as \"Bamboo\" for some reason :/",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": true
       },
       {
@@ -21371,7 +21371,7 @@
         "formattedHash": "_478b74e4",
         "name": "CraftRecipeSelectSeasonType",
         "functionalityNotes": "Determines whether a recipe is part of a season or a calendar event",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": true
       },
       {
@@ -21580,7 +21580,7 @@
         "formattedHash": "_33ddefc8",
         "name": "SelectCalendarEventSeason",
         "functionalityNotes": "Event name for calendar event recipes. If _478b74e4 is \"SelectCalendarEvent\"",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": true
       }
     ]
@@ -21965,7 +21965,7 @@
         "formattedHash": "_2fe593c3",
         "name": "UISortID",
         "functionalityNotes": "",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": false
       },
       {
@@ -22251,7 +22251,7 @@
         "formattedHash": "_54706054",
         "name": "UniqueID",
         "functionalityNotes": "",
-        "versions": [],
+        "versions": [""],
         "knownFunctionality": false
       },
       {
@@ -22262,7 +22262,7 @@
         "formattedHash": "_85cf1615",
         "name": "Name",
         "functionalityNotes": "",
-        "versions": [],
+        "versions": [""],
         "knownFunctionality": false
       }
     ]
@@ -22281,7 +22281,7 @@
         "formattedHash": "_64330cb0",
         "name": "AppearArea",
         "functionalityNotes": "Hemisphere — 0 is North, 1 is South. Each critter has one row for each",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22292,7 +22292,7 @@
         "formattedHash": "_20cb67bc",
         "name": "ItemID",
         "functionalityNotes": "Matches ItemParam UniqueID and STR_ItemName ids",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22303,7 +22303,7 @@
         "formattedHash": "_9c4a43c0",
         "name": "ProbAprDaytime",
         "functionalityNotes": "\"Daytime\" columns for each month set spawn rates for the 9 AM – 4 PM timeslot",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22314,7 +22314,7 @@
         "formattedHash": "_0dbbebb5",
         "name": "ProbAprMorningAndEvening",
         "functionalityNotes": "\"MorningAndEvening\" columns for each month set spawn rates for the 4 PM – 9 PM and 4 AM – 9 AM timeslots",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22325,7 +22325,7 @@
         "formattedHash": "_1d790df7",
         "name": "ProbAprNight",
         "functionalityNotes": "\"Night\" columns for each month set spawn rates for the 9 PM – 4 AM timeslot",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22336,7 +22336,7 @@
         "formattedHash": "_15de6a3f",
         "name": "ProbAugDaytime",
         "functionalityNotes": "same as above",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22347,7 +22347,7 @@
         "formattedHash": "_74ea1d73",
         "name": "ProbAugMorningAndEvening",
         "functionalityNotes": "same as above",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22358,7 +22358,7 @@
         "formattedHash": "_ada9eb19",
         "name": "ProbAugNight",
         "functionalityNotes": "same as above",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22369,7 +22369,7 @@
         "formattedHash": "_267c99f7",
         "name": "ProbDecDaytime",
         "functionalityNotes": "same as above",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22380,7 +22380,7 @@
         "formattedHash": "_c11af347",
         "name": "ProbDecMorningAndEvening",
         "functionalityNotes": "same as above",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22391,7 +22391,7 @@
         "formattedHash": "_9217f8b8",
         "name": "ProbDecNight",
         "functionalityNotes": "same as above",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22402,7 +22402,7 @@
         "formattedHash": "_5cb71135",
         "name": "ProbFebDaytime",
         "functionalityNotes": "same as above",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22413,7 +22413,7 @@
         "formattedHash": "_0f095b88",
         "name": "ProbFebMorningAndEvening",
         "functionalityNotes": "same as above",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22424,7 +22424,7 @@
         "formattedHash": "_91ee0d19",
         "name": "ProbFebNight",
         "functionalityNotes": "same as above",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22435,7 +22435,7 @@
         "formattedHash": "_b3f1a70f",
         "name": "ProbJanDaytime",
         "functionalityNotes": "same as above",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22446,7 +22446,7 @@
         "formattedHash": "_51bcedfa",
         "name": "ProbJanMorningAndEvening",
         "functionalityNotes": "same as above",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22457,7 +22457,7 @@
         "formattedHash": "_3e01d394",
         "name": "ProbJanNight",
         "functionalityNotes": "same as above",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22468,7 +22468,7 @@
         "formattedHash": "_2b74f5dc",
         "name": "ProbJulDaytime",
         "functionalityNotes": "same as above",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22479,7 +22479,7 @@
         "formattedHash": "_7ec203a5",
         "name": "ProbJulMorningAndEvening",
         "functionalityNotes": "same as above",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22490,7 +22490,7 @@
         "formattedHash": "_24dbb4e0",
         "name": "ProbJulNight",
         "functionalityNotes": "same as above",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22501,7 +22501,7 @@
         "formattedHash": "_c74f6b43",
         "name": "ProbJunDaytime",
         "functionalityNotes": "same as above",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22512,7 +22512,7 @@
         "formattedHash": "_5092ca25",
         "name": "ProbJunMorningAndEvening",
         "functionalityNotes": "same as above",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22523,7 +22523,7 @@
         "formattedHash": "_202e64dd",
         "name": "ProbJunNight",
         "functionalityNotes": "same as above",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22534,7 +22534,7 @@
         "formattedHash": "_df2eadb2",
         "name": "ProbMarDaytime",
         "functionalityNotes": "same as above",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22545,7 +22545,7 @@
         "formattedHash": "_2cb125cc",
         "name": "ProbMarMorningAndEvening",
         "functionalityNotes": "same as above",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22556,7 +22556,7 @@
         "formattedHash": "_770b5b7d",
         "name": "ProbMarNight",
         "functionalityNotes": "same as above",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22567,7 +22567,7 @@
         "formattedHash": "_aebc09bc",
         "name": "ProbMayDaytime",
         "functionalityNotes": "same as above",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22578,7 +22578,7 @@
         "formattedHash": "_ac8aae8c",
         "name": "ProbMayMorningAndEvening",
         "functionalityNotes": "same as above",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22589,7 +22589,7 @@
         "formattedHash": "_8feba08a",
         "name": "ProbMayNight",
         "functionalityNotes": "same as above",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22600,7 +22600,7 @@
         "formattedHash": "_5aafbfa6",
         "name": "ProbNovDaytime",
         "functionalityNotes": "same as above",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22611,7 +22611,7 @@
         "formattedHash": "_c57d2eb8",
         "name": "ProbNovMorningAndEvening",
         "functionalityNotes": "same as above",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22622,7 +22622,7 @@
         "formattedHash": "_5b0802f1",
         "name": "ProbNovNight",
         "functionalityNotes": "same as above",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22633,7 +22633,7 @@
         "formattedHash": "_b12179b4",
         "name": "ProbOctDaytime",
         "functionalityNotes": "same as above",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22644,7 +22644,7 @@
         "formattedHash": "_6aed60aa",
         "name": "ProbOctMorningAndEvening",
         "functionalityNotes": "same as above",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22655,7 +22655,7 @@
         "formattedHash": "_ce420c64",
         "name": "ProbOctNight",
         "functionalityNotes": "same as above",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22666,7 +22666,7 @@
         "formattedHash": "_5e853057",
         "name": "ProbSepDaytime",
         "functionalityNotes": "same as above",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22677,7 +22677,7 @@
         "formattedHash": "_1fe65c0c",
         "name": "ProbSepMorningAndEvening",
         "functionalityNotes": "same as above",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22688,7 +22688,7 @@
         "formattedHash": "_260ec620",
         "name": "ProbSepNight",
         "functionalityNotes": "same as above",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       }
     ]
@@ -22707,7 +22707,7 @@
         "formattedHash": "_093dfe4f",
         "name": "ModelScale",
         "functionalityNotes": "This table suggests that all sea creature shadows use the same model, and this controls their relative size",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22718,7 +22718,7 @@
         "formattedHash": "_54706054",
         "name": "UniqueID",
         "functionalityNotes": "Relates to ShadowType in SeafoodStatusParam. 0=SS, 1=S, 2=M, 3=L, 4=LL",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22729,7 +22729,7 @@
         "formattedHash": "_fad4ff78",
         "name": "ModelResName",
         "functionalityNotes": "",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       }
     ]
@@ -22748,7 +22748,7 @@
         "formattedHash": "_fbace208",
         "name": "ActionType",
         "functionalityNotes": "Movement style. \"Stop\" is stationary",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22759,7 +22759,7 @@
         "formattedHash": "_de78df0f",
         "name": "CaptureCategory",
         "functionalityNotes": "Distinguishes plants from animals. Affects UI text: plants get \"returned\" instead of \"released\" when disposing of near water",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22770,7 +22770,7 @@
         "formattedHash": "_afeb1bf1",
         "name": "CaptureLevel",
         "functionalityNotes": "Catch difficulty. Creatures with lower values are faster and harder to catch",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22781,7 +22781,7 @@
         "formattedHash": "_ac0ebe24",
         "name": "ShadowType",
         "functionalityNotes": "Shadow size",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22792,7 +22792,7 @@
         "formattedHash": "_20cb67bc",
         "name": "ItemID",
         "functionalityNotes": "Matches ItemParam UniqueID and STR_ItemName ids",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22803,7 +22803,7 @@
         "formattedHash": "_d42df0b4",
         "name": "OpenRecordNum",
         "functionalityNotes": "Total lifetime sea creature catches required to unlock this one. Can be checked with the \"Deep Dive\" Nook Miles achievement",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22814,7 +22814,7 @@
         "formattedHash": "_54706054",
         "name": "UniqueID",
         "functionalityNotes": "",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22825,7 +22825,7 @@
         "formattedHash": "_ab51a3cf",
         "name": "DebugName",
         "functionalityNotes": "",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22836,7 +22836,7 @@
         "formattedHash": "_87bf00e8",
         "name": "Label",
         "functionalityNotes": "",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22847,7 +22847,7 @@
         "formattedHash": "_48ef0398",
         "name": "ResName",
         "functionalityNotes": "Regular model",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       },
       {
@@ -22858,7 +22858,7 @@
         "formattedHash": "_1c8856db",
         "name": "ResNameMuseum",
         "functionalityNotes": "Museum model",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": true
       }
     ]
@@ -23168,7 +23168,7 @@
         "formattedHash": "_54706054",
         "name": "UniqueID",
         "functionalityNotes": "Removed in 1.3.0",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": "unused"
       },
       {
@@ -23179,7 +23179,7 @@
         "formattedHash": "_85cf1615",
         "name": "Name",
         "functionalityNotes": "Removed in 1.3.0",
-        "versions": [""],
+        "versions": ["", ""],
         "knownFunctionality": "unused"
       }
     ]
@@ -23568,7 +23568,7 @@
         "formattedHash": "_07d60b3d",
         "name": "NameWithTitle",
         "functionalityNotes": "",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": false
       },
       {
@@ -24280,7 +24280,7 @@
         "formattedHash": "_09d75f40",
         "name": "IsUseXlink",
         "functionalityNotes": "",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": false
       },
       {
@@ -24557,7 +24557,7 @@
         "formattedHash": "_37d4e515",
         "name": "CustomizeSortID",
         "functionalityNotes": "",
-        "versions": [],
+        "versions": [""],
         "knownFunctionality": false
       },
       {
@@ -25849,7 +25849,7 @@
         "formattedHash": "_54706054",
         "name": "UniqueID",
         "functionalityNotes": "",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": true
       },
       {
@@ -25860,7 +25860,7 @@
         "formattedHash": "_87bf00e8",
         "name": "Label",
         "functionalityNotes": "Identifier of the weather type",
-        "versions": ["", "", ""],
+        "versions": ["", "", "", ""],
         "knownFunctionality": true
       }
     ]

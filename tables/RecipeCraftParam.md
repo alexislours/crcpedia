@@ -26,7 +26,7 @@
 
 **Notes**: Season name for seasonal recipes. Must check if _478b74e4 is "SelectRecipeSeason", because all non-seasonal diys are marked as "Bamboo" for some reason :/
 
-**Versions**: , , 
+**Versions**: , , , 
 
 ## CraftRecipeSelectSeasonType
 
@@ -38,7 +38,7 @@
 
 **Notes**: Determines whether a recipe is part of a season or a calendar event
 
-**Versions**: , , 
+**Versions**: , , , 
 
 ## CraftUnlock
 
@@ -264,5 +264,5 @@
 
 **Notes**: Event name for calendar event recipes. If _478b74e4 is "SelectCalendarEvent"
 
-**Versions**: , , 
+**Versions**: , , , 
 

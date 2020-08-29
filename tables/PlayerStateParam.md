@@ -252,7 +252,7 @@
 
 **Hashed string**: InWaterBody u8
 
-**Versions**: 
+**Versions**: , 
 
 ## JudgeVisibleOn
 
@@ -262,7 +262,7 @@
 
 **Hashed string**: JudgeVisibleOn u8
 
-**Versions**: , , 
+**Versions**: , , , 
 
 ## 0xede0a8ca
 
@@ -316,7 +316,7 @@
 
 **Hashed string**: PoseTransDive u8
 
-**Versions**: 
+**Versions**: , 
 
 ## 0x65fd6b0d
 
@@ -376,7 +376,7 @@
 
 **Type**: u8/s8
 
-**Versions**: , , 
+**Versions**: , , , 
 
 ## ValidDiveRate
 
@@ -386,7 +386,7 @@
 
 **Hashed string**: ValidDiveRate u8
 
-**Versions**: , 
+**Versions**: , , 
 
 ## WaitType
 

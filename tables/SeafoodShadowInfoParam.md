@@ -14,7 +14,7 @@
 
 **Notes**: This table suggests that all sea creature shadows use the same model, and this controls their relative size
 
-**Versions**: 
+**Versions**: , 
 
 ## UniqueID
 
@@ -26,7 +26,7 @@
 
 **Notes**: Relates to ShadowType in SeafoodStatusParam. 0=SS, 1=S, 2=M, 3=L, 4=LL
 
-**Versions**: 
+**Versions**: , 
 
 ## ModelResName
 
@@ -36,5 +36,5 @@
 
 **Hashed string**: ModelResName string65
 
-**Versions**: 
+**Versions**: , 
 

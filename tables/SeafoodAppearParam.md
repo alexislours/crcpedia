@@ -14,7 +14,7 @@
 
 **Notes**: Hemisphere — 0 is North, 1 is South. Each critter has one row for each
 
-**Versions**: 
+**Versions**: , 
 
 ## ItemID
 
@@ -26,7 +26,7 @@
 
 **Notes**: Matches ItemParam UniqueID and STR_ItemName ids
 
-**Versions**: 
+**Versions**: , 
 
 ## ProbAprDaytime
 
@@ -38,7 +38,7 @@
 
 **Notes**: "Daytime" columns for each month set spawn rates for the 9 AM – 4 PM timeslot
 
-**Versions**: 
+**Versions**: , 
 
 ## ProbAprMorningAndEvening
 
@@ -50,7 +50,7 @@
 
 **Notes**: "MorningAndEvening" columns for each month set spawn rates for the 4 PM – 9 PM and 4 AM – 9 AM timeslots
 
-**Versions**: 
+**Versions**: , 
 
 ## ProbAprNight
 
@@ -62,7 +62,7 @@
 
 **Notes**: "Night" columns for each month set spawn rates for the 9 PM – 4 AM timeslot
 
-**Versions**: 
+**Versions**: , 
 
 ## ProbAugDaytime
 
@@ -74,7 +74,7 @@
 
 **Notes**: same as above
 
-**Versions**: 
+**Versions**: , 
 
 ## ProbAugMorningAndEvening
 
@@ -86,7 +86,7 @@
 
 **Notes**: same as above
 
-**Versions**: 
+**Versions**: , 
 
 ## ProbAugNight
 
@@ -98,7 +98,7 @@
 
 **Notes**: same as above
 
-**Versions**: 
+**Versions**: , 
 
 ## ProbDecDaytime
 
@@ -110,7 +110,7 @@
 
 **Notes**: same as above
 
-**Versions**: 
+**Versions**: , 
 
 ## ProbDecMorningAndEvening
 
@@ -122,7 +122,7 @@
 
 **Notes**: same as above
 
-**Versions**: 
+**Versions**: , 
 
 ## ProbDecNight
 
@@ -134,7 +134,7 @@
 
 **Notes**: same as above
 
-**Versions**: 
+**Versions**: , 
 
 ## ProbFebDaytime
 
@@ -146,7 +146,7 @@
 
 **Notes**: same as above
 
-**Versions**: 
+**Versions**: , 
 
 ## ProbFebMorningAndEvening
 
@@ -158,7 +158,7 @@
 
 **Notes**: same as above
 
-**Versions**: 
+**Versions**: , 
 
 ## ProbFebNight
 
@@ -170,7 +170,7 @@
 
 **Notes**: same as above
 
-**Versions**: 
+**Versions**: , 
 
 ## ProbJanDaytime
 
@@ -182,7 +182,7 @@
 
 **Notes**: same as above
 
-**Versions**: 
+**Versions**: , 
 
 ## ProbJanMorningAndEvening
 
@@ -194,7 +194,7 @@
 
 **Notes**: same as above
 
-**Versions**: 
+**Versions**: , 
 
 ## ProbJanNight
 
@@ -206,7 +206,7 @@
 
 **Notes**: same as above
 
-**Versions**: 
+**Versions**: , 
 
 ## ProbJulDaytime
 
@@ -218,7 +218,7 @@
 
 **Notes**: same as above
 
-**Versions**: 
+**Versions**: , 
 
 ## ProbJulMorningAndEvening
 
@@ -230,7 +230,7 @@
 
 **Notes**: same as above
 
-**Versions**: 
+**Versions**: , 
 
 ## ProbJulNight
 
@@ -242,7 +242,7 @@
 
 **Notes**: same as above
 
-**Versions**: 
+**Versions**: , 
 
 ## ProbJunDaytime
 
@@ -254,7 +254,7 @@
 
 **Notes**: same as above
 
-**Versions**: 
+**Versions**: , 
 
 ## ProbJunMorningAndEvening
 
@@ -266,7 +266,7 @@
 
 **Notes**: same as above
 
-**Versions**: 
+**Versions**: , 
 
 ## ProbJunNight
 
@@ -278,7 +278,7 @@
 
 **Notes**: same as above
 
-**Versions**: 
+**Versions**: , 
 
 ## ProbMarDaytime
 
@@ -290,7 +290,7 @@
 
 **Notes**: same as above
 
-**Versions**: 
+**Versions**: , 
 
 ## ProbMarMorningAndEvening
 
@@ -302,7 +302,7 @@
 
 **Notes**: same as above
 
-**Versions**: 
+**Versions**: , 
 
 ## ProbMarNight
 
@@ -314,7 +314,7 @@
 
 **Notes**: same as above
 
-**Versions**: 
+**Versions**: , 
 
 ## ProbMayDaytime
 
@@ -326,7 +326,7 @@
 
 **Notes**: same as above
 
-**Versions**: 
+**Versions**: , 
 
 ## ProbMayMorningAndEvening
 
@@ -338,7 +338,7 @@
 
 **Notes**: same as above
 
-**Versions**: 
+**Versions**: , 
 
 ## ProbMayNight
 
@@ -350,7 +350,7 @@
 
 **Notes**: same as above
 
-**Versions**: 
+**Versions**: , 
 
 ## ProbNovDaytime
 
@@ -362,7 +362,7 @@
 
 **Notes**: same as above
 
-**Versions**: 
+**Versions**: , 
 
 ## ProbNovMorningAndEvening
 
@@ -374,7 +374,7 @@
 
 **Notes**: same as above
 
-**Versions**: 
+**Versions**: , 
 
 ## ProbNovNight
 
@@ -386,7 +386,7 @@
 
 **Notes**: same as above
 
-**Versions**: 
+**Versions**: , 
 
 ## ProbOctDaytime
 
@@ -398,7 +398,7 @@
 
 **Notes**: same as above
 
-**Versions**: 
+**Versions**: , 
 
 ## ProbOctMorningAndEvening
 
@@ -410,7 +410,7 @@
 
 **Notes**: same as above
 
-**Versions**: 
+**Versions**: , 
 
 ## ProbOctNight
 
@@ -422,7 +422,7 @@
 
 **Notes**: same as above
 
-**Versions**: 
+**Versions**: , 
 
 ## ProbSepDaytime
 
@@ -434,7 +434,7 @@
 
 **Notes**: same as above
 
-**Versions**: 
+**Versions**: , 
 
 ## ProbSepMorningAndEvening
 
@@ -446,7 +446,7 @@
 
 **Notes**: same as above
 
-**Versions**: 
+**Versions**: , 
 
 ## ProbSepNight
 
@@ -458,5 +458,5 @@
 
 **Notes**: same as above
 
-**Versions**: 
+**Versions**: , 
 

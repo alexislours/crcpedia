@@ -152,7 +152,7 @@
 
 **Notes**: Possibly related to Nature Day Nook Miles+ achievements
 
-**Versions**: , 
+**Versions**: , , 
 
 ## ItemFrom
 
@@ -936,7 +936,7 @@
 
 **Notes**: Used for generating gardening??? icons. Maybe Leif shop icons. No effect on gameplay
 
-**Versions**: 
+**Versions**: , 
 
 ## CapturePreset
 
@@ -1092,7 +1092,7 @@
 
 **Type**: u8/s8
 
-**Versions**: 
+**Versions**: , 
 
 ## ToiletType
 
@@ -1104,7 +1104,7 @@
 
 **Notes**: Usable toilets are set to 1
 
-**Versions**: , , 
+**Versions**: , , , 
 
 ## TouchRumble
 

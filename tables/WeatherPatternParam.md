@@ -12,7 +12,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: , , 
+**Versions**: , , , 
 
 ## Label
 
@@ -24,5 +24,5 @@
 
 **Notes**: Identifier of the weather type
 
-**Versions**: , , 
+**Versions**: , , , 
 

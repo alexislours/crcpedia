@@ -14,7 +14,7 @@
 
 **Notes**: The room in which the stamp rack is. Matches with MuseumNPCSpotTalk.
 
-**Versions**: , 
+**Versions**: , , 
 
 ## StampRackPutUnitX
 
@@ -26,7 +26,7 @@
 
 **Notes**: The x coordinate for where the stamp rack is placed.
 
-**Versions**: , 
+**Versions**: , , 
 
 ## StampRackPutUnitZ
 
@@ -38,7 +38,7 @@
 
 **Notes**: The z coordinate for where the stamp rack is placed.
 
-**Versions**: , 
+**Versions**: , , 
 
 ## StampRackItemNameA
 
@@ -50,7 +50,7 @@
 
 **Notes**:  
 
-**Versions**: , 
+**Versions**: , , 
 
 ## StampRackItemNameB
 
@@ -60,7 +60,7 @@
 
 **Hashed string**: StampRackItemNameB u16
 
-**Versions**: , 
+**Versions**: , , 
 
 ## StampRackItemNameC
 
@@ -70,7 +70,7 @@
 
 **Hashed string**: StampRackItemNameC u16
 
-**Versions**: , 
+**Versions**: , , 
 
 ## StampRackSetDirection
 
@@ -82,7 +82,7 @@
 
 **Notes**: The stamp rack's orientation.
 
-**Versions**: , 
+**Versions**: , , 
 
 ## UniqueID
 
@@ -92,7 +92,7 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: , 
+**Versions**: , , 
 
 ## StampRackIdx
 
@@ -102,7 +102,7 @@
 
 **Hashed string**: StampRackIdx u8
 
-**Versions**: , 
+**Versions**: , , 
 
 ## StampRackNameExplainLabel
 
@@ -114,7 +114,7 @@
 
 **Notes**: Matches to strings in FTR_StampRally
 
-**Versions**: , 
+**Versions**: , , 
 
 ## StampRackNameTextLabel
 
@@ -126,7 +126,7 @@
 
 **Notes**: Matches to strings in FTR_StampRally
 
-**Versions**: , 
+**Versions**: , , 
 
 ## 0x96d80132
 
@@ -136,7 +136,7 @@
 
 **Notes**: Matches to strings in STR_StampRally
 
-**Versions**: , 
+**Versions**: , , 
 
 ## 0xed4b6070
 
@@ -144,5 +144,5 @@
 
 **Type**: u8/s8
 
-**Versions**: , 
+**Versions**: , , 
 

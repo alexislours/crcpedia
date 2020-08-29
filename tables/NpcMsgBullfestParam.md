@@ -86,7 +86,7 @@
 
 **Notes**: Checks if the player's worn bag matches this ID
 
-**Versions**: , , 
+**Versions**: , , , 
 
 ## BottomsID
 
@@ -122,7 +122,7 @@
 
 **Notes**: Probably the number of worn items needed to match in the row or group for the dialogue to activate
 
-**Versions**: , , 
+**Versions**: , , , 
 
 ## EyeAcceID
 
@@ -134,7 +134,7 @@
 
 **Notes**: Checks if the player's worn eye accessory matches this ID
 
-**Versions**: , , 
+**Versions**: , , , 
 
 ## FU1Index
 
@@ -218,7 +218,7 @@
 
 **Notes**: Checks if the player's worn helmet matches this ID
 
-**Versions**: , , 
+**Versions**: , , , 
 
 ## KO1Index
 
@@ -302,7 +302,7 @@
 
 **Notes**: Checks if the player's equipped tool matches this ID
 
-**Versions**: , 
+**Versions**: , , 
 
 ## TopsID
 
@@ -326,7 +326,7 @@
 
 **Notes**: Checks if the player's equipped matches this ID
 
-**Versions**: , 
+**Versions**: , , 
 
 ## UniqueID
 

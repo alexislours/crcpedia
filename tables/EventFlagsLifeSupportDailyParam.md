@@ -128,7 +128,7 @@
 
 **Notes**: Nook Miles Plus available on Earth Day
 
-**Versions**: , , 
+**Versions**: , , , 
 
 ## CancelEDay
 
@@ -140,7 +140,7 @@
 
 **Notes**: Nook Miles Plus unavailable on Earth Day
 
-**Versions**: , , 
+**Versions**: , , , 
 
 ## CountOtherVillage
 
@@ -174,7 +174,7 @@
 
 **Notes**: 1 if it's an Earth Day Nook Miles Plus
 
-**Versions**: , , 
+**Versions**: , , , 
 
 ## Key
 

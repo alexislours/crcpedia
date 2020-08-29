@@ -30,7 +30,7 @@
 
 **Type**: hshCstringRef
 
-**Versions**: , , 
+**Versions**: , , , 
 
 ## UniqueID
 
@@ -60,7 +60,7 @@
 
 **Hashed string**: DemoType u8
 
-**Versions**: 
+**Versions**: , 
 
 ## Label
 
@@ -90,5 +90,5 @@
 
 **Hashed string**: SwitchableOnWall u8
 
-**Versions**: 
+**Versions**: , 
 

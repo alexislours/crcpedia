@@ -12,7 +12,7 @@
 
 **Hashed string**: ArtObjNum u16
 
-**Versions**: , 
+**Versions**: , , 
 
 ## DecorationObjNum
 
