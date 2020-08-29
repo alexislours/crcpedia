@@ -12,7 +12,12 @@
 
 **Hashed string**: BackRotateOffsetX f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## BackRotateOffsetY
 
@@ -22,7 +27,12 @@
 
 **Hashed string**: BackRotateOffsetY f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## BackRotateOffsetZ
 
@@ -32,7 +42,12 @@
 
 **Hashed string**: BackRotateOffsetZ f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## BackTransOffsetX
 
@@ -42,7 +57,12 @@
 
 **Hashed string**: BackTransOffsetX f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## BackTransOffsetY
 
@@ -52,7 +72,12 @@
 
 **Hashed string**: BackTransOffsetY f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## BackTransOffsetZ
 
@@ -62,7 +87,12 @@
 
 **Hashed string**: BackTransOffsetZ f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## FrontRotateOffsetX
 
@@ -72,7 +102,12 @@
 
 **Hashed string**: FrontRotateOffsetX f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## FrontRotateOffsetY
 
@@ -82,7 +117,12 @@
 
 **Hashed string**: FrontRotateOffsetY f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## FrontRotateOffsetZ
 
@@ -92,7 +132,12 @@
 
 **Hashed string**: FrontRotateOffsetZ f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## FrontTransOffsetX
 
@@ -102,7 +147,12 @@
 
 **Hashed string**: FrontTransOffsetX f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## FrontTransOffsetY
 
@@ -112,7 +162,12 @@
 
 **Hashed string**: FrontTransOffsetY f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## FrontTransOffsetZ
 
@@ -122,7 +177,12 @@
 
 **Hashed string**: FrontTransOffsetZ f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## LeftRotateOffsetX
 
@@ -132,7 +192,12 @@
 
 **Hashed string**: LeftRotateOffsetX f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## LeftRotateOffsetY
 
@@ -142,7 +207,12 @@
 
 **Hashed string**: LeftRotateOffsetY f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## LeftRotateOffsetZ
 
@@ -152,7 +222,12 @@
 
 **Hashed string**: LeftRotateOffsetZ f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## LeftTransOffsetX
 
@@ -162,7 +237,12 @@
 
 **Hashed string**: LeftTransOffsetX f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## LeftTransOffsetY
 
@@ -172,7 +252,12 @@
 
 **Hashed string**: LeftTransOffsetY f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## LeftTransOffsetZ
 
@@ -182,7 +267,12 @@
 
 **Hashed string**: LeftTransOffsetZ f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## PeakRotateOffsetX
 
@@ -192,7 +282,12 @@
 
 **Hashed string**: PeakRotateOffsetX f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## PeakRotateOffsetY
 
@@ -202,7 +297,12 @@
 
 **Hashed string**: PeakRotateOffsetY f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## PeakRotateOffsetZ
 
@@ -212,7 +312,12 @@
 
 **Hashed string**: PeakRotateOffsetZ f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## PeakTransOffsetX
 
@@ -222,7 +327,12 @@
 
 **Hashed string**: PeakTransOffsetX f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## PeakTransOffsetY
 
@@ -232,7 +342,12 @@
 
 **Hashed string**: PeakTransOffsetY f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## PeakTransOffsetZ
 
@@ -242,7 +357,12 @@
 
 **Hashed string**: PeakTransOffsetZ f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## RightRotateOffsetX
 
@@ -252,7 +372,12 @@
 
 **Hashed string**: RightRotateOffsetX f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## RightRotateOffsetY
 
@@ -262,7 +387,12 @@
 
 **Hashed string**: RightRotateOffsetY f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## RightRotateOffsetZ
 
@@ -272,7 +402,12 @@
 
 **Hashed string**: RightRotateOffsetZ f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## RightTransOffsetX
 
@@ -282,7 +417,12 @@
 
 **Hashed string**: RightTransOffsetX f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## RightTransOffsetY
 
@@ -292,7 +432,12 @@
 
 **Hashed string**: RightTransOffsetY f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## RightTransOffsetZ
 
@@ -302,7 +447,12 @@
 
 **Hashed string**: RightTransOffsetZ f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## TopRotateOffsetX
 
@@ -312,7 +462,12 @@
 
 **Hashed string**: TopRotateOffsetX f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## TopRotateOffsetY
 
@@ -322,7 +477,12 @@
 
 **Hashed string**: TopRotateOffsetY f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## TopRotateOffsetZ
 
@@ -332,7 +492,12 @@
 
 **Hashed string**: TopRotateOffsetZ f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## TopTransOffsetX
 
@@ -342,7 +507,12 @@
 
 **Hashed string**: TopTransOffsetX f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## TopTransOffsetY
 
@@ -352,7 +522,12 @@
 
 **Hashed string**: TopTransOffsetY f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## TopTransOffsetZ
 
@@ -362,7 +537,12 @@
 
 **Hashed string**: TopTransOffsetZ f32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## UniqueID
 
@@ -372,7 +552,12 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## CapResName
 
@@ -382,7 +567,12 @@
 
 **Hashed string**: CapResName string32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## InvisibleEarL
 
@@ -392,7 +582,12 @@
 
 **Hashed string**: InvisibleEarL u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## InvisibleEarR
 
@@ -402,7 +597,12 @@
 
 **Hashed string**: InvisibleEarR u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## Label
 
@@ -412,7 +612,12 @@
 
 **Hashed string**: Label string32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## Name
 
@@ -422,7 +627,12 @@
 
 **Hashed string**: Name string32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## ResName
 
@@ -432,5 +642,10 @@
 
 **Hashed string**: ResName string32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 

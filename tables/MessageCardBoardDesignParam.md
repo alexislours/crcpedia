@@ -14,7 +14,12 @@
 
 **Notes**: indices to MessageCardColorParam
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## BodyColor
 
@@ -26,7 +31,12 @@
 
 **Notes**: indices to MessageCardColorParam
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## FootColor
 
@@ -38,7 +48,12 @@
 
 **Notes**: indices to MessageCardColorParam
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## HeadColor
 
@@ -50,7 +65,12 @@
 
 **Notes**: indices to MessageCardColorParam
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## PenColor1
 
@@ -62,7 +82,12 @@
 
 **Notes**: indices to MessageCardColorParam
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## PenColor2
 
@@ -74,7 +99,12 @@
 
 **Notes**: indices to MessageCardColorParam
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## PenColor3
 
@@ -86,7 +116,12 @@
 
 **Notes**: indices to MessageCardColorParam
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## PenColor4
 
@@ -98,7 +133,12 @@
 
 **Notes**: indices to MessageCardColorParam
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## RuleColor
 
@@ -110,7 +150,12 @@
 
 **Notes**: indices to MessageCardColorParam
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## TextLotId
 
@@ -122,7 +167,12 @@
 
 **Notes**: The resource name for this board message
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## 0x84818e10
 
@@ -130,7 +180,12 @@
 
 **Type**: u16/s16
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## UniqueID
 
@@ -140,7 +195,12 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## ResourceName
 
@@ -152,5 +212,10 @@
 
 **Notes**: MessageCard image in Layout
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 

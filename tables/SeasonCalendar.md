@@ -14,7 +14,12 @@
 
 **Notes**: NH shrub blooming seasonality. 1=azalea, 2=hydrangea, 3=hibiscus, 4=tea olive, 5=holly, 6=camellia
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## Bush_S
 
@@ -26,7 +31,12 @@
 
 **Notes**: Same as above for SH
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## Cloud_N
 
@@ -38,7 +48,12 @@
 
 **Notes**: NH special cloud types seasonality. 1=cumulonimbus, 2=cirrus; cirrocumulus, 3=thin clouds, 4=billow clouds
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## Cloud_S
 
@@ -50,7 +65,12 @@
 
 **Notes**: Same as above for SH
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## Day
 
@@ -62,7 +82,12 @@
 
 **Notes**: Each row is a range of dates ending in this day, and starting the day after the previous row's day. Use in conjunction with Month column
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## Fog_N
 
@@ -74,7 +99,12 @@
 
 **Notes**: NH fog seasonality. 1=river/sea fog; heavy fog, 2=river/sea fog
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## Fog_S
 
@@ -86,7 +116,12 @@
 
 **Notes**: Same as above for SH
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## Month
 
@@ -98,7 +133,12 @@
 
 **Notes**: Use with Day column to determine date ranges. Value always refers to last day in date range
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## SPWeather_N
 
@@ -110,7 +150,12 @@
 
 **Notes**: NH special weather effects seasonality. 1=rainbow, 2=aurora
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## SPWeather_S
 
@@ -122,7 +167,12 @@
 
 **Notes**: Same as above for SH
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## Sakura_N
 
@@ -134,7 +184,12 @@
 
 **Notes**: NH petal/leaf effects. 1=no bg cherry petal fall, 2=cherry petal fall, 3=heavy cherry petal fall, 4=maple leaf fall, 5=heavy maple leaf fall
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## Sakura_S
 
@@ -146,7 +201,12 @@
 
 **Notes**: Same as above for SH
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## Season_N
 
@@ -158,7 +218,12 @@
 
 **Notes**: NH seasons. 0=spring, 1=summer, 2=fall, 3=winter
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## Season_S
 
@@ -170,7 +235,12 @@
 
 **Notes**: Same as above for SH
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## Shop_N
 
@@ -182,7 +252,12 @@
 
 **Notes**: NH shop seasonality. Matches dates for seasonal item availability (ItemSeasonalityParam) and Nook's Cranny decorations. 0=spring, 1=summer, 2=fall, 3=winter
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## Shop_S
 
@@ -194,7 +269,12 @@
 
 **Notes**: Same as above for SH
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## Snow_N
 
@@ -206,7 +286,12 @@
 
 **Notes**: NH snow seasonality. 0=rain, 1=snow, 2=snow cover
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## Snow_S
 
@@ -218,7 +303,12 @@
 
 **Notes**: Same as above for SH
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## Weed_N
 
@@ -230,7 +320,12 @@
 
 **Notes**: NH weed and vegetation color seasonality. 0=spring, 1=summer, 2=fall 1, 3=fall 2, 4=fall 3, 5=winter 1, 6=winter 2
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## Weed_S
 
@@ -242,5 +337,10 @@
 
 **Notes**: Same as above for SH
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 

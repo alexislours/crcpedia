@@ -14,7 +14,12 @@
 
 **Notes**: Movement style. "Stop" is stationary
 
-**Versions**: 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| No | No | No | Yes | Yes | undefined |
+
 
 ## CaptureCategory
 
@@ -26,7 +31,12 @@
 
 **Notes**: Distinguishes plants from animals. Affects UI text: plants get "returned" instead of "released" when disposing of near water
 
-**Versions**: 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| No | No | No | Yes | Yes | undefined |
+
 
 ## CaptureLevel
 
@@ -38,7 +48,12 @@
 
 **Notes**: Catch difficulty. Creatures with lower values are faster and harder to catch
 
-**Versions**: 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| No | No | No | Yes | Yes | undefined |
+
 
 ## ShadowType
 
@@ -50,7 +65,12 @@
 
 **Notes**: Shadow size
 
-**Versions**: 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| No | No | No | Yes | Yes | undefined |
+
 
 ## ItemID
 
@@ -62,7 +82,12 @@
 
 **Notes**: Matches ItemParam UniqueID and STR_ItemName ids
 
-**Versions**: 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| No | No | No | Yes | Yes | undefined |
+
 
 ## OpenRecordNum
 
@@ -74,7 +99,12 @@
 
 **Notes**: Total lifetime sea creature catches required to unlock this one. Can be checked with the "Deep Dive" Nook Miles achievement
 
-**Versions**: 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| No | No | No | Yes | Yes | undefined |
+
 
 ## UniqueID
 
@@ -84,7 +114,12 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| No | No | No | Yes | Yes | undefined |
+
 
 ## DebugName
 
@@ -94,7 +129,12 @@
 
 **Hashed string**: DebugName string32
 
-**Versions**: 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| No | No | No | Yes | Yes | undefined |
+
 
 ## Label
 
@@ -104,7 +144,12 @@
 
 **Hashed string**: Label string32
 
-**Versions**: 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| No | No | No | Yes | Yes | undefined |
+
 
 ## ResName
 
@@ -116,7 +161,12 @@
 
 **Notes**: Regular model
 
-**Versions**: 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| No | No | No | Yes | Yes | undefined |
+
 
 ## ResNameMuseum
 
@@ -128,5 +178,10 @@
 
 **Notes**: Museum model
 
-**Versions**: 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| No | No | No | Yes | Yes | undefined |
+
 

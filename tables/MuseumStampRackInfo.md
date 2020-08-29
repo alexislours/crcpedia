@@ -14,7 +14,12 @@
 
 **Notes**: The room in which the stamp rack is. Matches with MuseumNPCSpotTalk.
 
-**Versions**: 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| No | No | Yes | Yes | Yes | undefined |
+
 
 ## StampRackPutUnitX
 
@@ -26,7 +31,12 @@
 
 **Notes**: The x coordinate for where the stamp rack is placed.
 
-**Versions**: 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| No | No | Yes | Yes | Yes | undefined |
+
 
 ## StampRackPutUnitZ
 
@@ -38,7 +48,12 @@
 
 **Notes**: The z coordinate for where the stamp rack is placed.
 
-**Versions**: 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| No | No | Yes | Yes | Yes | undefined |
+
 
 ## StampRackItemNameA
 
@@ -50,7 +65,12 @@
 
 **Notes**:  
 
-**Versions**: 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| No | No | Yes | Yes | Yes | undefined |
+
 
 ## StampRackItemNameB
 
@@ -60,7 +80,12 @@
 
 **Hashed string**: StampRackItemNameB u16
 
-**Versions**: 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| No | No | Yes | Yes | Yes | undefined |
+
 
 ## StampRackItemNameC
 
@@ -70,7 +95,12 @@
 
 **Hashed string**: StampRackItemNameC u16
 
-**Versions**: 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| No | No | Yes | Yes | Yes | undefined |
+
 
 ## StampRackSetDirection
 
@@ -82,7 +112,12 @@
 
 **Notes**: The stamp rack's orientation.
 
-**Versions**: 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| No | No | Yes | Yes | Yes | undefined |
+
 
 ## UniqueID
 
@@ -92,7 +127,12 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| No | No | Yes | Yes | Yes | undefined |
+
 
 ## StampRackIdx
 
@@ -102,7 +142,12 @@
 
 **Hashed string**: StampRackIdx u8
 
-**Versions**: 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| No | No | Yes | Yes | Yes | undefined |
+
 
 ## StampRackNameExplainLabel
 
@@ -114,7 +159,12 @@
 
 **Notes**: Matches to strings in FTR_StampRally
 
-**Versions**: 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| No | No | Yes | Yes | Yes | undefined |
+
 
 ## StampRackNameTextLabel
 
@@ -126,7 +176,12 @@
 
 **Notes**: Matches to strings in FTR_StampRally
 
-**Versions**: 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| No | No | Yes | Yes | Yes | undefined |
+
 
 ## 0x96d80132
 
@@ -136,7 +191,12 @@
 
 **Notes**: Matches to strings in STR_StampRally
 
-**Versions**: 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| No | No | Yes | Yes | Yes | undefined |
+
 
 ## 0xed4b6070
 
@@ -144,5 +204,10 @@
 
 **Type**: u8/s8
 
-**Versions**: 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| No | No | Yes | Yes | Yes | undefined |
+
 

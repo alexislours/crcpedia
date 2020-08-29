@@ -12,7 +12,12 @@
 
 **Hashed string**: ApplyNeedActivity u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## CanDoze
 
@@ -22,7 +27,12 @@
 
 **Hashed string**: CanDoze u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## CastLabel
 
@@ -32,7 +42,12 @@
 
 **Hashed string**: CastLabel u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## 0xd507df3e
 
@@ -40,7 +55,12 @@
 
 **Type**: u8/s8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## EndHour
 
@@ -50,7 +70,12 @@
 
 **Hashed string**: EndHour u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## EndMinute
 
@@ -60,7 +85,12 @@
 
 **Hashed string**: EndMinute u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## EventName
 
@@ -70,7 +100,12 @@
 
 **Hashed string**: EventName string32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## NeglectSleep
 
@@ -80,7 +115,12 @@
 
 **Hashed string**: NeglectSleep u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## StartHour
 
@@ -90,7 +130,12 @@
 
 **Hashed string**: StartHour u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## StartMinute
 
@@ -100,7 +145,12 @@
 
 **Hashed string**: StartMinute u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## UseRainGoods
 
@@ -110,5 +160,10 @@
 
 **Hashed string**: UseRainGoods u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 

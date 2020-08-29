@@ -14,7 +14,12 @@
 
 **Notes**: Possibly related to what kind of icon is shown in storage
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## ItemKindUIType
 
@@ -26,7 +31,12 @@
 
 **Notes**: Possibly determines what kind of options show up when selected in inventory
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## ItemRemakeType
 
@@ -36,7 +46,12 @@
 
 **Hashed string**: ItemRemakeType.hshCstringRef
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## MessageKind
 
@@ -46,7 +61,12 @@
 
 **Hashed string**: MessageKind.hshCstringRef
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## SLinkType
 
@@ -56,7 +76,12 @@
 
 **Hashed string**: SLinkType.hshCstringRef
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## MultiHoldMaxNum
 
@@ -68,7 +93,12 @@
 
 **Notes**: Number of items that can be stacked
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## SaveCountMaxNum
 
@@ -80,7 +110,12 @@
 
 **Notes**: 0 in all rows
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## UniqueID
 
@@ -90,7 +125,12 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## CanBury
 
@@ -102,7 +142,12 @@
 
 **Notes**: Can be buried (shows a "Bury" option in the inventory UI)
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## CanEat
 
@@ -114,7 +159,12 @@
 
 **Notes**: Can be eaten
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## CanFtr
 
@@ -126,7 +176,12 @@
 
 **Notes**: Can be placed on the ground as furniture
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## CanGift
 
@@ -138,7 +193,12 @@
 
 **Notes**: Can be wrapped in wrapping paper
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## CanNpcBirthdayPresent
 
@@ -150,7 +210,12 @@
 
 **Notes**: Can be gifted to villagers during their birthdays
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## CanNpcPresent
 
@@ -162,7 +227,12 @@
 
 **Notes**: Can be gifted to villagers daily
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## CanPlant
 
@@ -174,7 +244,12 @@
 
 **Notes**: Can be planted (shows a "Plant" option in the inventory UI)
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## CanPut
 
@@ -186,7 +261,12 @@
 
 **Notes**: Can be dropped as an icon
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## CanPutWallAndFloor
 
@@ -198,7 +278,12 @@
 
 **Notes**: Items that can be placed on walls or floor
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## CanSell
 
@@ -210,7 +295,12 @@
 
 **Notes**: Can be sold in Nook's Cranny
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## CanSellSimple
 
@@ -222,7 +312,12 @@
 
 **Notes**: Can be sold in the drop-off box
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## CanSetChest
 
@@ -234,7 +329,12 @@
 
 **Notes**: Can be put into storage
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## CanSetCloset
 
@@ -246,7 +346,12 @@
 
 **Notes**: Shows up in the wardrobe UI
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## CanSetInTrashBox
 
@@ -258,7 +363,12 @@
 
 **Notes**: Can be thrown away in garbage cans
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## CanSetItem
 
@@ -270,7 +380,12 @@
 
 **Notes**: Exists as an item that can be in your inventory
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## CanUsePhotoStudio
 
@@ -282,7 +397,12 @@
 
 **Notes**: Can be used in Harv's studio
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## 0xc37a683c
 
@@ -292,7 +412,12 @@
 
 **Notes**: Not used by the game. Is '1' on the three HousingKit rows
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## IsCollectAchievement
 
@@ -302,7 +427,12 @@
 
 **Hashed string**: IsCollectAchievement u8
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## Label
 
@@ -312,7 +442,12 @@
 
 **Hashed string**: Label string32
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 
 ## Name
 
@@ -322,5 +457,10 @@
 
 **Hashed string**: Name string64
 
-**Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | undefined |
+
 

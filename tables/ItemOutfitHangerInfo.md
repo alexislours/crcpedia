@@ -12,7 +12,12 @@
 
 **Hashed string**: ItemLayout.hshCstringRef
 
-**Versions**: 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| No | No | No | Yes | Yes | undefined |
+
 
 ## ItemSize
 
@@ -22,7 +27,12 @@
 
 **Hashed string**: ItemSize.hshCstringRef
 
-**Versions**: 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| No | No | No | Yes | Yes | undefined |
+
 
 ## UniqueID
 
@@ -32,7 +42,12 @@
 
 **Hashed string**: UniqueID u16
 
-**Versions**: 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| No | No | No | Yes | Yes | undefined |
+
 
 ## Label
 
@@ -42,7 +57,12 @@
 
 **Hashed string**: Label string32
 
-**Versions**: 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| No | No | No | Yes | Yes | undefined |
+
 
 ## ResName
 
@@ -52,5 +72,10 @@
 
 **Hashed string**: ResName string64
 
-**Versions**: 1.3.0, 1.4.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| No | No | No | Yes | Yes | undefined |
+
 

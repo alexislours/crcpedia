@@ -14,7 +14,12 @@
 
 **Notes**: Removed in 1.1.0
 
-**Versions**: 1.0.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | No | No | No | No | undefined |
+
 
 ## FishPattern (Unused)
 
@@ -26,7 +31,12 @@
 
 **Notes**: Removed in 1.1.0
 
-**Versions**: 1.0.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | No | No | No | No | undefined |
+
 
 ## InsectPattern (Unused)
 
@@ -38,7 +48,12 @@
 
 **Notes**: Removed in 1.1.0
 
-**Versions**: 1.0.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | No | No | No | No | undefined |
+
 
 ## MysteryTourFieldUniqueID (Unused)
 
@@ -50,7 +65,12 @@
 
 **Notes**: Removed in 1.1.0
 
-**Versions**: 1.0.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | No | No | No | No | undefined |
+
 
 ## MysteryTourItemUniqueID (Unused)
 
@@ -62,7 +82,12 @@
 
 **Notes**: Removed in 1.1.0
 
-**Versions**: 1.0.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | No | No | No | No | undefined |
+
 
 ## SelectWeight (Unused)
 
@@ -74,7 +99,12 @@
 
 **Notes**: Removed in 1.1.0
 
-**Versions**: 1.0.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | No | No | No | No | undefined |
+
 
 ## UniqueID (Unused)
 
@@ -86,5 +116,10 @@
 
 **Notes**: Removed in 1.1.0
 
-**Versions**: 1.0.0
+**Versions**: 
+
+ | 1.0.0 | 1.1.1 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | No | No | No | No | undefined |
+
 
