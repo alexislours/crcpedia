@@ -6075,7 +6075,7 @@
   },
   "FieldLandMakingActionParam": {
     "name": "FieldLandMakingActionParam",
-    "namedColumns": "10/12",
+    "namedColumns": "9/12",
     "documentedColumns": "1/12",
     "description": "Params for field modification like cliff and rivers",
     "hashes": [
@@ -6104,10 +6104,10 @@
       {
         "hash": "bcf172f",
         "type": "hshCstringRef",
-        "hashedString": "MeshEdgeDirType.hshCstringRef",
+        "hashedString": "",
         "hashNotes": "",
         "formattedHash": "_0bcf172f",
-        "name": "MeshEdgeDirType",
+        "name": "",
         "functionalityNotes": "",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
         "knownFunctionality": false
