@@ -1,7 +1,7 @@
 # ItemPlayerTopsForm
 **Named columns**: 11/11
 
-**Documented columns**: 1/11
+**Documented columns**: 7/11
 
 **Description**: Params for the scaling of tops on the player
 ## NormalScaleMaskA
@@ -118,6 +118,8 @@
 
 **Hashed string**: NpcResName string64
 
+**Notes**: 3D model file name
+
 **Versions**: 
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
@@ -132,6 +134,8 @@
 **Hash**: 0xdf7ab4c3
 
 **Hashed string**: NpcSpResName string64
+
+**Notes**: 3D model file name
 
 **Versions**: 
 
@@ -148,6 +152,8 @@
 
 **Hashed string**: ResName string64
 
+**Notes**: 3D model file name
+
 **Versions**: 
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
@@ -162,6 +168,8 @@
 **Hash**: 0x15d08d9a
 
 **Hashed string**: TorsoResName string32
+
+**Notes**: 3D model file name
 
 **Versions**: 
 

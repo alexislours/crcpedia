@@ -1,7 +1,7 @@
 # ItemNpcFtrActionParam
 **Named columns**: 8/8
 
-**Documented columns**: 0/8
+**Documented columns**: 3/8
 
 **Description**: Defines what villagers do when interacting with furniture
 ## NpcFtrActionHoldTime

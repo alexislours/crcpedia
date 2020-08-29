@@ -1,7 +1,7 @@
 # ItemShareTexture
 **Named columns**: 2/2
 
-**Documented columns**: 0/2
+**Documented columns**: 2/2
 
 **Description**: Texture shared accross multiple items, only used for insect cages (?) at the moment
 ## UniqueID
@@ -26,6 +26,8 @@
 **Hash**: 0xdcfb52e8
 
 **Hashed string**: ResName string32
+
+**Notes**: Texture file name
 
 **Versions**: 
 

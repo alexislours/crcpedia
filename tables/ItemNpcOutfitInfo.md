@@ -1,7 +1,7 @@
 # ItemNpcOutfitInfo
 **Named columns**: 3/5
 
-**Documented columns**: 0/5
+**Documented columns**: 3/5
 
 ## UniqueID
 

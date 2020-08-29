@@ -1,7 +1,7 @@
 # IndoorIdrParam
 **Named columns**: 5/5
 
-**Documented columns**: 0/5
+**Documented columns**: 5/5
 
 **Description**: Indoor param for building objects
 ## ArtObjNum
@@ -11,6 +11,8 @@
 **Hash**: 0x607ccfce
 
 **Hashed string**: ArtObjNum u16
+
+**Notes**: Number of art
 
 **Versions**: 
 
@@ -27,6 +29,8 @@
 
 **Hashed string**: DecorationObjNum u16
 
+**Notes**: Number of decoration models
+
 **Versions**: 
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
@@ -41,6 +45,8 @@
 **Hash**: 0x707e79ff
 
 **Hashed string**: FossilObjNum u16
+
+**Notes**: Number of fossils in the area
 
 **Versions**: 
 
@@ -71,6 +77,8 @@
 **Hash**: 0x4b9c4229
 
 **Hashed string**: ResourceName string64
+
+**Notes**: Indoor 3D model file name
 
 **Versions**: 
 

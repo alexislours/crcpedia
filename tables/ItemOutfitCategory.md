@@ -1,7 +1,7 @@
 # ItemOutfitCategory
 **Named columns**: 14/14
 
-**Documented columns**: 0/14
+**Documented columns**: 2/14
 
 **Description**: Category params for outfits and tools
 ## UniqueID

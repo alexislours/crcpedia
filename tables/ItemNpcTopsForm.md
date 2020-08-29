@@ -1,7 +1,7 @@
 # ItemNpcTopsForm
 **Named columns**: 31/31
 
-**Documented columns**: 0/31
+**Documented columns**: 3/31
 
 **Description**: Params for the scaling of tops for the villagers
 ## OnepieceHNormalScaleMaskA

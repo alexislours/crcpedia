@@ -1,7 +1,7 @@
 # ItemFilter
 **Named columns**: 19/19
 
-**Documented columns**: 0/19
+**Documented columns**: 2/19
 
 **Description**: Item filter for donation to NPC and selling
 ## ItemKind1

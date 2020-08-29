@@ -7021,7 +7021,7 @@
     "name": "FieldOutsideParts",
     "namedColumns": "4/4",
     "documentedColumns": "3/4",
-    "description": "Island beach parts",
+    "description": "Island beach and underwater parts",
     "hashes": [
       {
         "hash": "493eed57",
@@ -8497,7 +8497,7 @@
   "GmoFootprintParam": {
     "name": "GmoFootprintParam",
     "namedColumns": "4/4",
-    "documentedColumns": "0/4",
+    "documentedColumns": "1/4",
     "description": "Footprint GFX",
     "hashes": [
       {
@@ -8531,7 +8531,7 @@
         "name": "UniqueID",
         "functionalityNotes": "",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "85cf1615",
@@ -8549,7 +8549,7 @@
   "HumanAnimParam": {
     "name": "HumanAnimParam",
     "namedColumns": "12/14",
-    "documentedColumns": "0/14",
+    "documentedColumns": "1/14",
     "description": "Player animations",
     "hashes": [
       {
@@ -8594,7 +8594,7 @@
         "name": "UniqueID",
         "functionalityNotes": "",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "9f5123d4",
@@ -8711,7 +8711,7 @@
   "IndoorIdrParam": {
     "name": "IndoorIdrParam",
     "namedColumns": "5/5",
-    "documentedColumns": "0/5",
+    "documentedColumns": "5/5",
     "description": "Indoor param for building objects",
     "hashes": [
       {
@@ -8721,9 +8721,9 @@
         "hashNotes": "",
         "formattedHash": "_607ccfce",
         "name": "ArtObjNum",
-        "functionalityNotes": "",
+        "functionalityNotes": "Number of art",
         "versions": ["No", "No", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "91b7e30b",
@@ -8732,9 +8732,9 @@
         "hashNotes": "",
         "formattedHash": "_91b7e30b",
         "name": "DecorationObjNum",
-        "functionalityNotes": "",
+        "functionalityNotes": "Number of decoration models",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "707e79ff",
@@ -8743,9 +8743,9 @@
         "hashNotes": "",
         "formattedHash": "_707e79ff",
         "name": "FossilObjNum",
-        "functionalityNotes": "",
+        "functionalityNotes": "Number of fossils in the area",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "54706054",
@@ -8756,7 +8756,7 @@
         "name": "UniqueID",
         "functionalityNotes": "",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "4b9c4229",
@@ -8765,9 +8765,9 @@
         "hashNotes": "",
         "formattedHash": "_4b9c4229",
         "name": "ResourceName",
-        "functionalityNotes": "",
+        "functionalityNotes": "Indoor 3D model file name",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       }
     ]
   },
@@ -9928,7 +9928,7 @@
   "ItemAct": {
     "name": "ItemAct",
     "namedColumns": "8/9",
-    "documentedColumns": "1/9",
+    "documentedColumns": "3/9",
     "description": "Item interaction parameters",
     "hashes": [
       {
@@ -9973,7 +9973,7 @@
         "name": "UniqueID",
         "functionalityNotes": "",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "31cb6b0a",
@@ -10006,7 +10006,7 @@
         "name": "Label",
         "functionalityNotes": "",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "36e8ebe",
@@ -10282,7 +10282,7 @@
   "ItemFilter": {
     "name": "ItemFilter",
     "namedColumns": "19/19",
-    "documentedColumns": "0/19",
+    "documentedColumns": "2/19",
     "description": "Item filter for donation to NPC and selling",
     "hashes": [
       {
@@ -10459,7 +10459,7 @@
         "name": "UniqueID",
         "functionalityNotes": "",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "ffe069a3",
@@ -10492,7 +10492,7 @@
         "name": "Label",
         "functionalityNotes": "",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       }
     ]
   },
@@ -10865,7 +10865,7 @@
   "ItemMailAttachCategoryGroup": {
     "name": "ItemMailAttachCategoryGroup",
     "namedColumns": "3/4",
-    "documentedColumns": "1/4",
+    "documentedColumns": "2/4",
     "description": "",
     "hashes": [
       {
@@ -10877,7 +10877,7 @@
         "name": "UniqueID",
         "functionalityNotes": "",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "e4361c86",
@@ -10969,7 +10969,7 @@
   "ItemNpcFtrActionParam": {
     "name": "ItemNpcFtrActionParam",
     "namedColumns": "8/8",
-    "documentedColumns": "0/8",
+    "documentedColumns": "3/8",
     "description": "Defines what villagers do when interacting with furniture",
     "hashes": [
       {
@@ -11025,7 +11025,7 @@
         "name": "UniqueID",
         "functionalityNotes": "",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "87bf00e8",
@@ -11036,7 +11036,7 @@
         "name": "Label",
         "functionalityNotes": "",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "977adfce",
@@ -11047,7 +11047,7 @@
         "name": "Name",
         "functionalityNotes": "",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "6c6fdb31",
@@ -11065,7 +11065,7 @@
   "ItemNpcOutfitInfo": {
     "name": "ItemNpcOutfitInfo",
     "namedColumns": "3/5",
-    "documentedColumns": "0/5",
+    "documentedColumns": "3/5",
     "description": "",
     "hashes": [
       {
@@ -11077,7 +11077,7 @@
         "name": "UniqueID",
         "functionalityNotes": "",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "8e07b21e",
@@ -11110,7 +11110,7 @@
         "name": "Label",
         "functionalityNotes": "",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "977adfce",
@@ -11121,7 +11121,7 @@
         "name": "Name",
         "functionalityNotes": "",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       }
     ]
   },
@@ -11246,7 +11246,7 @@
   "ItemNpcTopsForm": {
     "name": "ItemNpcTopsForm",
     "namedColumns": "31/31",
-    "documentedColumns": "0/31",
+    "documentedColumns": "3/31",
     "description": "Params for the scaling of tops for the villagers",
     "hashes": [
       {
@@ -11566,7 +11566,7 @@
         "name": "UniqueID",
         "functionalityNotes": "",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "2f1b930d",
@@ -11577,7 +11577,7 @@
         "name": "Label",
         "functionalityNotes": "",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "977adfce",
@@ -11588,14 +11588,14 @@
         "name": "Name",
         "functionalityNotes": "",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       }
     ]
   },
   "ItemOutfitCategory": {
     "name": "ItemOutfitCategory",
     "namedColumns": "14/14",
-    "documentedColumns": "0/14",
+    "documentedColumns": "2/14",
     "description": "Category params for outfits and tools",
     "hashes": [
       {
@@ -11607,7 +11607,7 @@
         "name": "UniqueID",
         "functionalityNotes": "",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "7eb53ebb",
@@ -11662,7 +11662,7 @@
         "name": "Label",
         "functionalityNotes": "",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "42ad246a",
@@ -11757,7 +11757,7 @@
   "ItemOutfitHangerInfo": {
     "name": "ItemOutfitHangerInfo",
     "namedColumns": "5/5",
-    "documentedColumns": "0/5",
+    "documentedColumns": "3/5",
     "description": "Params for clothes placed on walls",
     "hashes": [
       {
@@ -11791,7 +11791,7 @@
         "name": "UniqueID",
         "functionalityNotes": "",
         "versions": ["No", "No", "No", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "87bf00e8",
@@ -11802,7 +11802,7 @@
         "name": "Label",
         "functionalityNotes": "",
         "versions": ["No", "No", "No", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "48ef0398",
@@ -11813,14 +11813,14 @@
         "name": "ResName",
         "functionalityNotes": "",
         "versions": ["No", "No", "No", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       }
     ]
   },
   "ItemOutfitInfo": {
     "name": "ItemOutfitInfo",
     "namedColumns": "17/17",
-    "documentedColumns": "1/17",
+    "documentedColumns": "2/17",
     "description": "",
     "hashes": [
       {
@@ -11964,7 +11964,7 @@
         "name": "Label",
         "functionalityNotes": "",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "36e8ebe",
@@ -13516,7 +13516,7 @@
   "ItemPlayerTopsForm": {
     "name": "ItemPlayerTopsForm",
     "namedColumns": "11/11",
-    "documentedColumns": "1/11",
+    "documentedColumns": "7/11",
     "description": "Params for the scaling of tops on the player",
     "hashes": [
       {
@@ -13572,7 +13572,7 @@
         "name": "UniqueID",
         "functionalityNotes": "",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "13ab5198",
@@ -13583,7 +13583,7 @@
         "name": "Label",
         "functionalityNotes": "",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "36e8ebe",
@@ -13603,9 +13603,9 @@
         "hashNotes": "",
         "formattedHash": "_4e3ee3de",
         "name": "NpcResName",
-        "functionalityNotes": "",
+        "functionalityNotes": "3D model file name",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "df7ab4c3",
@@ -13614,9 +13614,9 @@
         "hashNotes": "",
         "formattedHash": "_df7ab4c3",
         "name": "NpcSpResName",
-        "functionalityNotes": "",
+        "functionalityNotes": "3D model file name",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "48ef0398",
@@ -13625,9 +13625,9 @@
         "hashNotes": "",
         "formattedHash": "_48ef0398",
         "name": "ResName",
-        "functionalityNotes": "",
+        "functionalityNotes": "3D model file name",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "15d08d9a",
@@ -13636,9 +13636,9 @@
         "hashNotes": "",
         "formattedHash": "_15d08d9a",
         "name": "TorsoResName",
-        "functionalityNotes": "",
+        "functionalityNotes": "3D model file name",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       }
     ]
   },
@@ -14513,7 +14513,7 @@
   "ItemShareTexture": {
     "name": "ItemShareTexture",
     "namedColumns": "2/2",
-    "documentedColumns": "0/2",
+    "documentedColumns": "2/2",
     "description": "Texture shared accross multiple items, only used for insect cages (?) at the moment",
     "hashes": [
       {
@@ -14525,7 +14525,7 @@
         "name": "UniqueID",
         "functionalityNotes": "",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "dcfb52e8",
@@ -14534,9 +14534,9 @@
         "hashNotes": "",
         "formattedHash": "_dcfb52e8",
         "name": "ResName",
-        "functionalityNotes": "",
+        "functionalityNotes": "Texture file name",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       }
     ]
   },

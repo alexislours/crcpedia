@@ -1,7 +1,7 @@
 # HumanAnimParam
 **Named columns**: 12/14
 
-**Documented columns**: 0/14
+**Documented columns**: 1/14
 
 **Description**: Player animations
 ## EmoticonTool

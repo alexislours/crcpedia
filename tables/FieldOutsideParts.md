@@ -3,7 +3,7 @@
 
 **Documented columns**: 3/4
 
-**Description**: Island beach parts
+**Description**: Island beach and underwater parts
 ## PartsKind
 
 **Name**: PartsKind

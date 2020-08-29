@@ -1,7 +1,7 @@
 # ItemOutfitInfo
 **Named columns**: 17/17
 
-**Documented columns**: 1/17
+**Documented columns**: 2/17
 
 ## Category
 

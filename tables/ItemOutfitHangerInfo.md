@@ -1,7 +1,7 @@
 # ItemOutfitHangerInfo
 **Named columns**: 5/5
 
-**Documented columns**: 0/5
+**Documented columns**: 3/5
 
 **Description**: Params for clothes placed on walls
 ## ItemLayout
