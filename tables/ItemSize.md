@@ -1,7 +1,7 @@
 # ItemSize
 **Named columns**: 8/8
 
-**Documented columns**: 0/8
+**Documented columns**: 4/8
 
 **Description**: Size of different furniture, also includes a polygon limit for rendering
 ## ResSizeLimit
@@ -43,6 +43,8 @@
 **Hash**: 0x3cf05708
 
 **Hashed string**: PolygonLimit u16
+
+**Notes**: Max number of polygons
 
 **Versions**: 
 

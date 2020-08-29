@@ -14543,7 +14543,7 @@
   "ItemSize": {
     "name": "ItemSize",
     "namedColumns": "8/8",
-    "documentedColumns": "0/8",
+    "documentedColumns": "4/8",
     "description": "Size of different furniture, also includes a polygon limit for rendering",
     "hashes": [
       {
@@ -14575,9 +14575,9 @@
         "hashNotes": "",
         "formattedHash": "_3cf05708",
         "name": "PolygonLimit",
-        "functionalityNotes": "",
+        "functionalityNotes": "Max number of polygons",
         "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "54706054",
@@ -14588,7 +14588,7 @@
         "name": "UniqueID",
         "functionalityNotes": "",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "16b8f524",
@@ -14621,7 +14621,7 @@
         "name": "Label",
         "functionalityNotes": "",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "977adfce",
@@ -14632,7 +14632,7 @@
         "name": "Name",
         "functionalityNotes": "",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       }
     ]
   },
