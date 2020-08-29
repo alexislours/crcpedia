@@ -1,14 +1,16 @@
 # HumanAnimParam
-**Named columns**: 11/14
+**Named columns**: 12/14
 
 **Documented columns**: 0/14
 
 **Description**: Player animations
-## 0x58102055
+## EmoticonTool
+
+**Name**: EmoticonTool
 
 **Hash**: 0x58102055
 
-**Type**: hshCstringRef
+**Hashed string**: EmoticonTool.hshCstringRef
 
 **Versions**: 
 

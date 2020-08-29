@@ -8549,17 +8549,17 @@
   },
   "HumanAnimParam": {
     "name": "HumanAnimParam",
-    "namedColumns": "11/14",
+    "namedColumns": "12/14",
     "documentedColumns": "0/14",
     "description": "Player animations",
     "hashes": [
       {
         "hash": "58102055",
         "type": "hshCstringRef",
-        "hashedString": "",
+        "hashedString": "EmoticonTool.hshCstringRef",
         "hashNotes": "",
         "formattedHash": "_58102055",
-        "name": "",
+        "name": "EmoticonTool",
         "functionalityNotes": "",
         "versions": ["No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
