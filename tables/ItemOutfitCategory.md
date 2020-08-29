@@ -1,5 +1,5 @@
 # ItemOutfitCategory
-**Named columns**: 13/14
+**Named columns**: 14/14
 
 **Documented columns**: 0/14
 
@@ -24,11 +24,13 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## 0x555442aa
+## EquipOnlyOutdoor
+
+**Name**: EquipOnlyOutdoor
 
 **Hash**: 0x555442aa
 
-**Type**: u8/s8
+**Hashed string**: EquipOnlyOutdoor u8
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

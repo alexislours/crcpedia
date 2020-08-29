@@ -1,5 +1,5 @@
 # HumanAnimParam
-**Named columns**: 10/14
+**Named columns**: 11/14
 
 **Documented columns**: 0/14
 
@@ -68,11 +68,13 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## 0x84761fb6
+## CancelFootSE
+
+**Name**: CancelFootSE
 
 **Hash**: 0x84761fb6
 
-**Type**: u8/s8
+**Hashed string**: CancelFootSE u8
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

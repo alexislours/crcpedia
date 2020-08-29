@@ -1,5 +1,5 @@
 # NpcCastScheduleData
-**Named columns**: 9/11
+**Named columns**: 10/11
 
 **Documented columns**: 0/11
 
@@ -102,11 +102,13 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## 0xe76db92f
+## UseRainGoods
+
+**Name**: UseRainGoods
 
 **Hash**: 0xe76db92f
 
-**Type**: u8/s8
+**Hashed string**: UseRainGoods u8
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

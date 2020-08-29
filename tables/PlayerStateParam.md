@@ -1,5 +1,5 @@
 # PlayerStateParam
-**Named columns**: 26/42
+**Named columns**: 28/42
 
 **Documented columns**: 1/42
 
@@ -130,11 +130,13 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## 0x497ac4d6
+## CanChaseForInsect
+
+**Name**: CanChaseForInsect
 
 **Hash**: 0x497ac4d6
 
-**Type**: u8/s8
+**Hashed string**: CanChaseForInsect u8
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
@@ -222,11 +224,13 @@
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 
-## 0xe550abdf
+## HideFoodCounter
+
+**Name**: HideFoodCounter
 
 **Hash**: 0xe550abdf
 
-**Type**: u8/s8
+**Hashed string**: HideFoodCounter u8
 
 **Versions**: 1.0.0, 1.1.0, 1.2.0, 1.3.0, 1.4.0
 

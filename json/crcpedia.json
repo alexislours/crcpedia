@@ -6076,7 +6076,7 @@
   },
   "FieldLandMakingActionParam": {
     "name": "FieldLandMakingActionParam",
-    "namedColumns": "9/12",
+    "namedColumns": "10/12",
     "documentedColumns": "1/12",
     "description": "Params for field modification like cliff and rivers",
     "hashes": [
@@ -6181,11 +6181,11 @@
       },
       {
         "hash": "f9a37bdc",
-        "type": "u8/s8",
-        "hashedString": "",
+        "type": "u8",
+        "hashedString": "FallToRiver u8",
         "hashNotes": "",
         "formattedHash": "_f9a37bdc",
-        "name": "",
+        "name": "FallToRiver",
         "functionalityNotes": "",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": false
@@ -8548,7 +8548,7 @@
   },
   "HumanAnimParam": {
     "name": "HumanAnimParam",
-    "namedColumns": "10/14",
+    "namedColumns": "11/14",
     "documentedColumns": "0/14",
     "description": "Player animations",
     "hashes": [
@@ -8631,11 +8631,11 @@
       },
       {
         "hash": "84761fb6",
-        "type": "u8/s8",
-        "hashedString": "",
+        "type": "u8",
+        "hashedString": "CancelFootSE u8",
         "hashNotes": "",
         "formattedHash": "_84761fb6",
-        "name": "",
+        "name": "CancelFootSE",
         "functionalityNotes": "",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": false
@@ -11594,7 +11594,7 @@
   },
   "ItemOutfitCategory": {
     "name": "ItemOutfitCategory",
-    "namedColumns": "13/14",
+    "namedColumns": "14/14",
     "documentedColumns": "0/14",
     "description": "Category params for outfits and tools",
     "hashes": [
@@ -11622,11 +11622,11 @@
       },
       {
         "hash": "555442aa",
-        "type": "u8/s8",
-        "hashedString": "",
+        "type": "u8",
+        "hashedString": "EquipOnlyOutdoor u8",
         "hashNotes": "",
         "formattedHash": "_555442aa",
-        "name": "",
+        "name": "EquipOnlyOutdoor",
         "functionalityNotes": "",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": false
@@ -18023,7 +18023,7 @@
   },
   "NpcCastScheduleData": {
     "name": "NpcCastScheduleData",
-    "namedColumns": "9/11",
+    "namedColumns": "10/11",
     "documentedColumns": "0/11",
     "description": "How NPC can act during various situation",
     "hashes": [
@@ -18139,11 +18139,11 @@
       },
       {
         "hash": "e76db92f",
-        "type": "u8/s8",
-        "hashedString": "",
+        "type": "u8",
+        "hashedString": "UseRainGoods u8",
         "hashNotes": "",
         "formattedHash": "_e76db92f",
-        "name": "",
+        "name": "UseRainGoods",
         "functionalityNotes": "",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": false
@@ -20697,7 +20697,7 @@
   },
   "PlayerStateParam": {
     "name": "PlayerStateParam",
-    "namedColumns": "26/42",
+    "namedColumns": "28/42",
     "documentedColumns": "1/42",
     "description": "Different state the player can be in",
     "hashes": [
@@ -20846,11 +20846,11 @@
       },
       {
         "hash": "497ac4d6",
-        "type": "u8/s8",
-        "hashedString": "",
+        "type": "u8",
+        "hashedString": "CanChaseForInsect u8",
         "hashNotes": "",
         "formattedHash": "_497ac4d6",
-        "name": "",
+        "name": "CanChaseForInsect",
         "functionalityNotes": "",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": false
@@ -20956,11 +20956,11 @@
       },
       {
         "hash": "e550abdf",
-        "type": "u8/s8",
-        "hashedString": "",
+        "type": "u8",
+        "hashedString": "HideFoodCounter u8",
         "hashNotes": "",
         "formattedHash": "_e550abdf",
-        "name": "",
+        "name": "HideFoodCounter",
         "functionalityNotes": "",
         "versions": ["1.0.0", "1.1.0", "1.2.0", "1.3.0", "1.4.0"],
         "knownFunctionality": false
