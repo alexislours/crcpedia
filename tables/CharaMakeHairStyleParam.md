@@ -1,4 +1,5 @@
 # CharaMakeHairStyleParam
+[View this table in your browser](CharaMakeHairStyleParam-value.md) (version 1.4.0).
 **Named columns**: 43/43
 
 **Documented columns**: 3/43

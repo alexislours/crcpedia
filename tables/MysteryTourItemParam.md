@@ -1,4 +1,5 @@
 # MysteryTourItemParam
+[View this table in your browser](MysteryTourItemParam-value.md) (version 1.4.0).
 **Named columns**: 1/1
 
 **Documented columns**: 0/1

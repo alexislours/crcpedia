@@ -1,4 +1,5 @@
 # EventFlagsLandParam
+[View this table in your browser](EventFlagsLandParam-value.md) (version 1.4.0).
 **Named columns**: 9/10
 
 **Documented columns**: 2/10

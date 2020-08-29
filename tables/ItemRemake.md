@@ -1,4 +1,5 @@
 # ItemRemake
+[View this table in your browser](ItemRemake-value.md) (version 1.4.0).
 **Named columns**: 56/57
 
 **Documented columns**: 55/57

@@ -1,4 +1,5 @@
 # NpcCastLabelData
+[View this table in your browser](NpcCastLabelData-value.md) (version 1.4.0).
 **Named columns**: 4/4
 
 **Documented columns**: 0/4

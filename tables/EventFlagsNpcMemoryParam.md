@@ -1,4 +1,5 @@
 # EventFlagsNpcMemoryParam
+[View this table in your browser](EventFlagsNpcMemoryParam-value.md) (version 1.4.0).
 **Named columns**: 6/9
 
 **Documented columns**: 5/9

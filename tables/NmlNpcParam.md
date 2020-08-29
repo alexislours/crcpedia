@@ -1,4 +1,5 @@
 # NmlNpcParam
+[View this table in your browser](NmlNpcParam-value.md) (version 1.4.0).
 **Named columns**: 31/39
 
 **Documented columns**: 22/39

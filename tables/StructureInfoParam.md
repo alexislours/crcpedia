@@ -1,4 +1,5 @@
 # StructureInfoParam
+[View this table in your browser](StructureInfoParam-value.md) (version 1.4.0).
 **Named columns**: 6/7
 
 **Documented columns**: 0/7

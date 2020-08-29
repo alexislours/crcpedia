@@ -1,4 +1,5 @@
 # EventFlagsLifeSupportDailyParam
+[View this table in your browser](EventFlagsLifeSupportDailyParam-value.md) (version 1.4.0).
 **Named columns**: 20/20
 
 **Documented columns**: 15/20

@@ -1,4 +1,5 @@
 # EventFlagsPlayerVisitParam
+[View this table in your browser](EventFlagsPlayerVisitParam-value.md) (version 1.4.0).
 **Named columns**: 6/6
 
 **Documented columns**: 5/6

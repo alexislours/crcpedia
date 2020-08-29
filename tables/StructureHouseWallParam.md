@@ -1,4 +1,5 @@
 # StructureHouseWallParam
+[View this table in your browser](StructureHouseWallParam-value.md) (version 1.4.0).
 **Named columns**: 8/9
 
 **Documented columns**: 0/9

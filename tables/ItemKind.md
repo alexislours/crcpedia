@@ -1,4 +1,5 @@
 # ItemKind
+[View this table in your browser](ItemKind-value.md) (version 1.4.0).
 **Named columns**: 27/28
 
 **Documented columns**: 20/28

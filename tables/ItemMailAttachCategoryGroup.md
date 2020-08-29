@@ -1,4 +1,5 @@
 # ItemMailAttachCategoryGroup
+[View this table in your browser](ItemMailAttachCategoryGroup-value.md) (version 1.4.0).
 **Named columns**: 3/4
 
 **Documented columns**: 2/4

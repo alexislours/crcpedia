@@ -1,4 +1,5 @@
 # MysteryTourInsectParam
+[View this table in your browser](MysteryTourInsectParam-value.md) (version 1.4.0).
 **Named columns**: 2/2
 
 **Documented columns**: 0/2

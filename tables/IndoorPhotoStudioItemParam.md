@@ -1,4 +1,5 @@
 # IndoorPhotoStudioItemParam
+[View this table in your browser](IndoorPhotoStudioItemParam-value.md) (version 1.4.0).
 **Named columns**: 8/8
 
 **Documented columns**: 8/8

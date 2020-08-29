@@ -1,4 +1,5 @@
 # MuseumWatchPoint
+[View this table in your browser](MuseumWatchPoint-value.md) (version 1.4.0).
 **Named columns**: 13/14
 
 **Documented columns**: 10/14

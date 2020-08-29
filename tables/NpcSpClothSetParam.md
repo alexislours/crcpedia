@@ -1,4 +1,5 @@
 # NpcSpClothSetParam
+[View this table in your browser](NpcSpClothSetParam-value.md) (version 1.4.0).
 **Named columns**: 10/10
 
 **Documented columns**: 10/10

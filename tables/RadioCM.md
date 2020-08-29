@@ -1,4 +1,5 @@
 # RadioCM
+[View this table in your browser](RadioCM-value.md) (version 1.4.0).
 **Named columns**: 7/7
 
 **Documented columns**: 0/7

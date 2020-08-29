@@ -1,4 +1,5 @@
 # PlayerStateParam
+[View this table in your browser](PlayerStateParam-value.md) (version 1.4.0).
 **Named columns**: 28/42
 
 **Documented columns**: 1/42

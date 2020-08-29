@@ -1,4 +1,5 @@
 # SpNpcParam
+[View this table in your browser](SpNpcParam-value.md) (version 1.4.0).
 **Named columns**: 20/23
 
 **Documented columns**: 12/23

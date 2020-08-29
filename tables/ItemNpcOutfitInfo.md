@@ -1,4 +1,5 @@
 # ItemNpcOutfitInfo
+[View this table in your browser](ItemNpcOutfitInfo-value.md) (version 1.4.0).
 **Named columns**: 3/5
 
 **Documented columns**: 3/5

@@ -1,4 +1,5 @@
 # EventFlagsBcatParam
+[View this table in your browser](EventFlagsBcatParam-value.md) (version 1.4.0).
 **Named columns**: 7/7
 
 **Documented columns**: 6/7

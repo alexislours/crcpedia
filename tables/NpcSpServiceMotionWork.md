@@ -1,4 +1,5 @@
 # NpcSpServiceMotionWork
+[View this table in your browser](NpcSpServiceMotionWork-value.md) (version 1.4.0).
 **Named columns**: 18/18
 
 **Documented columns**: 18/18

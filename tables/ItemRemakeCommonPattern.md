@@ -1,4 +1,5 @@
 # ItemRemakeCommonPattern
+[View this table in your browser](ItemRemakeCommonPattern-value.md) (version 1.4.0).
 **Named columns**: 7/7
 
 **Documented columns**: 7/7

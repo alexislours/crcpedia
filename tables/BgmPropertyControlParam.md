@@ -1,4 +1,5 @@
 # BgmPropertyControlParam
+[View this table in your browser](BgmPropertyControlParam-value.md) (version 1.4.0).
 **Named columns**: 4/4
 
 **Documented columns**: 2/4

@@ -1,4 +1,5 @@
 # CharaMakeHairColorParam
+[View this table in your browser](CharaMakeHairColorParam-value.md) (version 1.4.0).
 **Named columns**: 9/9
 
 **Documented columns**: 3/9

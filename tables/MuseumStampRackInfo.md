@@ -1,4 +1,5 @@
 # MuseumStampRackInfo
+[View this table in your browser](MuseumStampRackInfo-value.md) (version 1.4.0).
 **Named columns**: 11/13
 
 **Documented columns**: 8/13

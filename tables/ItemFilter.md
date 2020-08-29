@@ -1,4 +1,5 @@
 # ItemFilter
+[View this table in your browser](ItemFilter-value.md) (version 1.4.0).
 **Named columns**: 19/19
 
 **Documented columns**: 2/19

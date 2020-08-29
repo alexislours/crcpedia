@@ -1,4 +1,5 @@
 # ItemUnitIcon
+[View this table in your browser](ItemUnitIcon-value.md) (version 1.4.0).
 **Named columns**: 8/8
 
 **Documented columns**: 1/8

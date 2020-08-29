@@ -1,4 +1,5 @@
 # StructureDoorParam
+[View this table in your browser](StructureDoorParam-value.md) (version 1.4.0).
 **Named columns**: 15/28
 
 **Documented columns**: 0/28
