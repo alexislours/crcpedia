@@ -5,7 +5,7 @@
 
 **Documented columns**: 0/2
 
-**Description**: Seems to be used for villagers with 2 different sets of notes
+**Description**: Seems to be used for villagers with 2 different sets of Village Melody notes
 ## UniqueID
 
 **Name**: UniqueID

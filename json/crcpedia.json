@@ -25815,7 +25815,7 @@
     "name": "VMMultistepNPC",
     "namedColumns": "2/2",
     "documentedColumns": "0/2",
-    "description": "Seems to be used for villagers with 2 different sets of notes",
+    "description": "Seems to be used for villagers with 2 different sets of Village Melody notes",
     "hashes": [
       {
         "hash": "54706054",
