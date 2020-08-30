@@ -3,7 +3,7 @@
 
 **Named columns**: 31/39
 
-**Documented columns**: 24/39
+**Documented columns**: 25/39
 
 **Description**: Main params for villager NPCs
 ## 0xa54f92fd
@@ -155,7 +155,7 @@
 
 **Hashed string**: VmRhythmType.hshCstringRef
 
-**Notes**: If the villager's melody have a swing rhythm or not. (What does 'Random' do?)
+**Notes**: Village melody rhythm. 'Normal' = normal, 'Shuffle' = swing rhythm, 'Random' = notes have random length
 
 **Versions**: 
 

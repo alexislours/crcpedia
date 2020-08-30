@@ -17369,7 +17369,7 @@
   "NmlNpcParam": {
     "name": "NmlNpcParam",
     "namedColumns": "31/39",
-    "documentedColumns": "24/39",
+    "documentedColumns": "25/39",
     "description": "Main params for villager NPCs",
     "hashes": [
       {
@@ -17477,8 +17477,9 @@
         "hashNotes": "",
         "formattedHash": "_dd2d2adc",
         "name": "VmRhythmType",
-        "functionalityNotes": "If the villager's melody have a swing rhythm or not. (What does 'Random' do?)",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"]
+        "functionalityNotes": "Village melody rhythm. 'Normal' = normal, 'Shuffle' = swing rhythm, 'Random' = notes have random length",
+        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "knownFunctionality": true
       },
       {
         "hash": "8238405",
