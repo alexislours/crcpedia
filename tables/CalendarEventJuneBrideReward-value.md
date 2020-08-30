@@ -1,6 +1,6 @@
 Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/CalendarEventJuneBrideReward.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/CalendarEventJuneBrideReward.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/CalendarEventJuneBrideReward.json)
 
-Spazzy's exports: [CSV](JSON)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/CalendarEventJuneBrideReward.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/CalendarEventJuneBrideReward.json)
 
 | UniqueID | PriorityReward | SubordinateReward | JuneBrideProgress |
 |:--:|:--:|:--:|:--:|

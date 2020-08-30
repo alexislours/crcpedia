@@ -1,6 +1,6 @@
 Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/FieldLandMakingUnitModelParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/FieldLandMakingUnitModelParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/FieldLandMakingUnitModelParam.json)
 
-Spazzy's exports: [CSV](JSON)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/FieldLandMakingUnitModelParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/FieldLandMakingUnitModelParam.json)
 
 | ChangeFallType | CornerType | EdgePatternType | InnerType000 | ModelType | StepLevel | TriangleType | UniqueID | Variation | FishPoint | InnerType001 | InnerType002 | InnerType003 | InnerType010 | InnerType011 | InnerType012 | InnerType013 | InnerType020 | InnerType021 | InnerType022 | InnerType023 | InnerType030 | InnerType031 | InnerType032 | InnerType033 | InnerType100 | InnerType101 | InnerType102 | InnerType103 | InnerType110 | InnerType111 | InnerType112 | InnerType113 | InnerType120 | InnerType121 | InnerType122 | InnerType123 | InnerType130 | InnerType131 | InnerType132 | InnerType133 | ModelName |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

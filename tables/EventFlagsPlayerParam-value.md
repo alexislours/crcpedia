@@ -1,6 +1,6 @@
 Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/EventFlagsPlayerParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/EventFlagsPlayerParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/EventFlagsPlayerParam.json)
 
-Spazzy's exports: [CSV](JSON)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/EventFlagsPlayerParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/EventFlagsPlayerParam.json)
 
 | DefaultValue | MaxValue | UniqueID | _5140e4b4 | _bed25a86 | _c436ce69 | FlagsFlowAccess | Key | Name | SendPlayReport |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

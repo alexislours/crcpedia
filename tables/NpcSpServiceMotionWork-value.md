@@ -1,6 +1,6 @@
 Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/NpcSpServiceMotionWork.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/NpcSpServiceMotionWork.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/NpcSpServiceMotionWork.json)
 
-Spazzy's exports: [CSV](JSON)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/NpcSpServiceMotionWork.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/NpcSpServiceMotionWork.json)
 
 | UniqueID | ASCommand1 | ASCommand2 | ASCommand3 | ASCommand4 | ASCommand5 | ASCommand6 | ASCommand7 | ASCommand8 | Label | Rate1 | Rate2 | Rate3 | Rate4 | Rate5 | Rate6 | Rate7 | Rate8 |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

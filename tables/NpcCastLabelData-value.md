@@ -1,6 +1,6 @@
 Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/NpcCastLabelData.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/NpcCastLabelData.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/NpcCastLabelData.json)
 
-Spazzy's exports: [CSV](JSON)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/NpcCastLabelData.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/NpcCastLabelData.json)
 
 | AIFlowEntryName | AIFlowName | AppearStage | CastType |
 |:--:|:--:|:--:|:--:|

@@ -1,6 +1,6 @@
 Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/NpcLife.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/NpcLife.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/NpcLife.json)
 
-Spazzy's exports: [CSV](JSON)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/NpcLife.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/NpcLife.json)
 
 | ArriveDist | ItemUniqueID | SatisfyMinute | BehaviorType | EquipRule | FlagType | GroupActivityPlacementType | HobbyEducationLevel | HobbyFashionLevel | HobbyFitnessLevel | HobbyMotif | HobbyMusicLevel | HobbyNatureLevel | HobbyPlayLevel | LifeMotif | LiveMotif | LookAtType | MoveASType | NetPlay | RainActive | RainEquipment | SeasonAutumnLevel | SeasonSpringLevel | SeasonSummerLevel | SeasonWinterLevel | SpotType | TimeZoneIndoorEarlyMorningLevel | TimeZoneIndoorEveningLevel | TimeZoneIndoorMidnightLevel | TimeZoneIndoorMorningLevel | TimeZoneIndoorNightLevel | TimeZoneIndoorNoonLevel | TimeZoneOutdoorEarlyMorningLevel | TimeZoneOutdoorEveningLevel | TimeZoneOutdoorMidnightLevel | TimeZoneOutdoorMorningLevel | TimeZoneOutdoorNightLevel | TimeZoneOutdoorNoonLevel | VillageDevelopmentLevel | WaitASType |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

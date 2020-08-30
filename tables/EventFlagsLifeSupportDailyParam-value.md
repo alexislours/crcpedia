@@ -1,6 +1,6 @@
 Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/EventFlagsLifeSupportDailyParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/EventFlagsLifeSupportDailyParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/EventFlagsLifeSupportDailyParam.json)
 
-Spazzy's exports: [CSV](JSON)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/EventFlagsLifeSupportDailyParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/EventFlagsLifeSupportDailyParam.json)
 
 | _b5761610 | WaitFrame | AppearValue | GenreID | ItemNameUniqueID | MaxValue | MsID | Reward | UniqueID | BonusFive | CanSelectEDay | CancelEDay | CountOtherVillage | FlagsFlowAccess | IsEDay | Key | Name | NetPlaySelect | SpecialSelect | Weighting |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

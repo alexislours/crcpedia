@@ -1,6 +1,6 @@
 Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/EventFlagsNpcTempParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/EventFlagsNpcTempParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/EventFlagsNpcTempParam.json)
 
-Spazzy's exports: [CSV](JSON)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/EventFlagsNpcTempParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/EventFlagsNpcTempParam.json)
 
 | DefaultValue | MaxValue | UniqueID | _5f77b61a | _8d401df7 | FlagsFlowAccess | Key | Name |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

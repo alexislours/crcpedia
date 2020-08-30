@@ -1,6 +1,6 @@
 Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/EventFlagsLandParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/EventFlagsLandParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/EventFlagsLandParam.json)
 
-Spazzy's exports: [CSV](JSON)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/EventFlagsLandParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/EventFlagsLandParam.json)
 
 | _fdb1f290 | DefaultValue | FlagsFlowAccess | FlagsNetAccess | MaxValue | UniqueID | Key | Name | SendPlayReport | SyncNoCheck |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

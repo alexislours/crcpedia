@@ -1,6 +1,6 @@
 Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/TVProgram.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/TVProgram.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/TVProgram.json)
 
-Spazzy's exports: [CSV](JSON)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/TVProgram.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/TVProgram.json)
 
 | TVProgramName | _01481890 | EndDayN1 | EndDayN2 | EndDayN3 | EndDayN4 | EndDayN5 | EndDayN6 | EndDayS1 | EndDayS2 | EndDayS3 | EndDayS4 | EndDayS5 | EndDayS6 | EndMoN1 | EndMoN2 | EndMoN3 | EndMoN4 | EndMoN5 | EndMoN6 | EndMoS1 | EndMoS2 | EndMoS3 | EndMoS4 | EndMoS5 | EndMoS6 | ResourceName | ResourceNameSp1 | ResourceNameSp2 | ResourceNameSp3 | ResourceNameSp4 | ResourceNameSp5 | ResourceNameSp6 | StartDayN1 | StartDayN2 | StartDayN3 | StartDayN4 | StartDayN5 | StartDayN6 | StartDayS1 | StartDayS2 | StartDayS3 | StartDayS4 | StartDayS5 | StartDayS6 | StartMoN1 | StartMoN2 | StartMoN3 | StartMoN4 | StartMoN5 | StartMoN6 | StartMoS1 | StartMoS2 | StartMoS3 | StartMoS4 | StartMoS5 | StartMoS6 |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

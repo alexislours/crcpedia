@@ -1,6 +1,6 @@
 Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/AITag.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/AITag.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/AITag.json)
 
-Spazzy's exports: [CSV](JSON)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/AITag.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/AITag.json)
 
 | AITagCategory | UniqueID | Label | Name |
 |:--:|:--:|:--:|:--:|

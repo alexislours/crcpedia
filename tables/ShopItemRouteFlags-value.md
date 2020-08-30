@@ -1,6 +1,6 @@
 Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ShopItemRouteFlags.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/ShopItemRouteFlags.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/ShopItemRouteFlags.json)
 
-Spazzy's exports: [CSV](JSON)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ShopItemRouteFlags.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/ShopItemRouteFlags.json)
 
 | FlagLand | FlagPlayer | ShopType | AttrCollectBit | ItemFrom |
 |:--:|:--:|:--:|:--:|:--:|

@@ -1,6 +1,6 @@
 Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/HumanAnimParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/HumanAnimParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/HumanAnimParam.json)
 
-Spazzy's exports: [CSV](JSON)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/HumanAnimParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/HumanAnimParam.json)
 
 | _58102055 | LowerSetting | UISortID | UniqueID | _9f5123d4 | _d5217761 | AsCommand | _84761fb6 | CancelFootprint | Comment | _ba199df0 | Misc | MoveAs | ToolAsCommand |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

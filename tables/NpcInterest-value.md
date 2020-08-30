@@ -1,6 +1,6 @@
 Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/NpcInterest.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/NpcInterest.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/NpcInterest.json)
 
-Spazzy's exports: [CSV](JSON)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/NpcInterest.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/NpcInterest.json)
 
 | Offset | ContinuousTime | ItemUniqueID | BehaviorType | ConditionType | FlagType | InterestEndModeType | IntervalTime | LabelType | MoveASType | MoveConditionType | NeedType | RainActive | TimeZoneIndoorEarlyMorningLevel | TimeZoneIndoorEveningLevel | TimeZoneIndoorMidnightLevel | TimeZoneIndoorMorningLevel | TimeZoneIndoorNightLevel | TimeZoneIndoorNoonLevel | TimeZoneOutdoorEarlyMorningLevel | TimeZoneOutdoorEveningLevel | TimeZoneOutdoorMidnightLevel | TimeZoneOutdoorMorningLevel | TimeZoneOutdoorNightLevel | TimeZoneOutdoorNoonLevel | VillageDevelopmentLevel | WaitASType |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

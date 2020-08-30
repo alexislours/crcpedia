@@ -1,6 +1,6 @@
 Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/SpNpcParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/SpNpcParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/SpNpcParam.json)
 
-Spazzy's exports: [CSV](JSON)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/SpNpcParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/SpNpcParam.json)
 
 | GenderAsia | GenderUsEu | PacketId | Social | NpcSpClothSet | PosterItemID | Smartphone | Umbrella | UniqueID | BirthMDay | BirthMonth | HavokResName | Label | NameWithTitle | NpcColor | ResName | SpecialELink | SpecialSLink | _21c5bbd6 | _e52f0037 | _42f255d5 | VmPauseType | VmRhythmType |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

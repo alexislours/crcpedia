@@ -1,6 +1,6 @@
 Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/FadeOutDuckingParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/FadeOutDuckingParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/FadeOutDuckingParam.json)
 
-Spazzy's exports: [CSV](JSON)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/FadeOutDuckingParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/FadeOutDuckingParam.json)
 
 | UniqueID | Name |
 |:--:|:--:|

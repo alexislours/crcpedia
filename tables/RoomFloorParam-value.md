@@ -1,6 +1,6 @@
 Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/RoomFloorParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/RoomFloorParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/RoomFloorParam.json)
 
-Spazzy's exports: [CSV](JSON)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/RoomFloorParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/RoomFloorParam.json)
 
 | Act | Price | Scale | Scale10x6 | Floorboards | ItemTableId | LandingUniqueID | UniqueID | HasJmp | Horizon | ItemName | ResourceName | Rotatable |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

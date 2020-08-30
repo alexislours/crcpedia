@@ -1,6 +1,6 @@
 Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/NpcEquipRule.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/NpcEquipRule.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/NpcEquipRule.json)
 
-Spazzy's exports: [CSV](JSON)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/NpcEquipRule.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/NpcEquipRule.json)
 
 | ClothesFrequencyWear | ClothesPurposeLimit | ClothesTemporarilyCreate | PurposeScore | PurposeTag | ScoreMultiplier | SeasonScore | TasteScore | UniqueID | CapFrequencyWear | CapPurposeLimit | CapTemporarilyCreate | GlassesFrequencyWear | GlassesPurposeLimit | GlassesTemporarilyCreate | Label | MaskFrequencyWear | MaskPurposeLimit | MaskTemporarilyCreate | Name |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

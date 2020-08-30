@@ -1,6 +1,6 @@
 Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/EventFlagsLandTempParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/EventFlagsLandTempParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/EventFlagsLandTempParam.json)
 
-Spazzy's exports: [CSV](JSON)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/EventFlagsLandTempParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/EventFlagsLandTempParam.json)
 
 | DefaultValue | MaxValue | UniqueID | _5140e4b4 | _3dad9135 | _3c7fb88f | FlagsFlowAccess | FlagsNetAccess | Key | Name |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

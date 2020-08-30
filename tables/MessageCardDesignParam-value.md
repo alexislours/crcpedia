@@ -1,6 +1,6 @@
 Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/MessageCardDesignParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/MessageCardDesignParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/MessageCardDesignParam.json)
 
-Spazzy's exports: [CSV](JSON)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/MessageCardDesignParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/MessageCardDesignParam.json)
 
 | BackColor | BodyColor | _63a46970 | FootColor | HeadColor | PenColor1 | PenColor2 | PenColor3 | PenColor4 | RuleColor | SelectableBeginDate1 | SelectableBeginDate2 | SelectableEndDate1 | SelectableEndDate2 | TextLotId | _84818e10 | UniqueID | Kind | ResourceName | SelectableSeason | UnlockTrigger |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

@@ -1,6 +1,6 @@
 Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/RadioCM.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/RadioCM.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/RadioCM.json)
 
-Spazzy's exports: [CSV](JSON)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/RadioCM.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/RadioCM.json)
 
 | SelectRate | Frames | MusicNo | UniqueID | BeforeDays | EventLabelShort | Timezone |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|

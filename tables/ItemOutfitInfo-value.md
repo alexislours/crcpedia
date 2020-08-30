@@ -1,6 +1,6 @@
 Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemOutfitInfo.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemOutfitInfo.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemOutfitInfo.json)
 
-Spazzy's exports: [CSV](JSON)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemOutfitInfo.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/ItemOutfitInfo.json)
 
 | Category | FloorScale | RotateOffsetX | RotateOffsetY | RotateOffsetZ | TransOffsetX | TransOffsetY | TransOffsetZ | WallScale | BreakDamage | UniqueID | HangerInfo | Label | Name | SpecialELink | SpecialSLink | Storage |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

@@ -1,6 +1,6 @@
 Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/MuseumArtDonateInfo.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/MuseumArtDonateInfo.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/MuseumArtDonateInfo.json)
 
-Spazzy's exports: [CSV](JSON)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/MuseumArtDonateInfo.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/MuseumArtDonateInfo.json)
 
 | StageName | ModelID | UniqueID | WatchItem | CameraParamName |
 |:--:|:--:|:--:|:--:|:--:|

@@ -1,6 +1,6 @@
 Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/RoomWallParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/RoomWallParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/RoomWallParam.json)
 
-Spazzy's exports: [CSV](JSON)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/RoomWallParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/RoomWallParam.json)
 
 | AO | Act | Light | Price | ArchUniqueID | CeilingUniqueID | CurtainTexUniqueID | CurtainUniqueID | ItemTableId | UniqueID | WindowUniqueID | ItemName | ResourceName | TextureWindow |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

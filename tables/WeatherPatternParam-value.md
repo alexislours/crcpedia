@@ -1,6 +1,6 @@
 Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/WeatherPatternParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/WeatherPatternParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/WeatherPatternParam.json)
 
-Spazzy's exports: [CSV](JSON)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/WeatherPatternParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/WeatherPatternParam.json)
 
 | UniqueID | Label |
 |:--:|:--:|

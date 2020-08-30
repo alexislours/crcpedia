@@ -1,6 +1,6 @@
 Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/EventFlagsNpcSaveParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/EventFlagsNpcSaveParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/EventFlagsNpcSaveParam.json)
 
-Spazzy's exports: [CSV](JSON)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/EventFlagsNpcSaveParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/EventFlagsNpcSaveParam.json)
 
 | DefaultValue | MaxValue | UniqueID | _5140e4b4 | FlagsFlowAccess | Key | Name |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|

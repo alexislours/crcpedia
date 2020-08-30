@@ -1,6 +1,6 @@
 Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/EventFlagsLifeSupportAchievementParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/EventFlagsLifeSupportAchievementParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/EventFlagsLifeSupportAchievementParam.json)
 
-Spazzy's exports: [CSV](JSON)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/EventFlagsLifeSupportAchievementParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/EventFlagsLifeSupportAchievementParam.json)
 
 | FlagLand | FlagPlayer | LifeSupportStamp | MaxValue1 | MaxValue2 | MaxValue3 | MaxValue4 | MaxValue5 | Reward1 | Reward2 | Reward3 | Reward4 | Reward5 | Reward6 | WaitFrame | UniqueID | _bed25a86 | IsSpecial | Key | MaxLevel | Name |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

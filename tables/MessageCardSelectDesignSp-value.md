@@ -1,6 +1,6 @@
 Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/MessageCardSelectDesignSp.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/MessageCardSelectDesignSp.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/MessageCardSelectDesignSp.json)
 
-Spazzy's exports: [CSV](JSON)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/MessageCardSelectDesignSp.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/MessageCardSelectDesignSp.json)
 
 | _37571146 | DesignAlways1 | DesignAlways2 | DesignAlways3 | DesignAlways4 | DesignAutumn1 | DesignAutumn2 | DesignSpring1 | DesignSpring2 | DesignSummer1 | DesignSummer2 | DesignWinter1 | DesignWinter2 |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

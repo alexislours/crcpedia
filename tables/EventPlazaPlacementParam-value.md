@@ -1,6 +1,6 @@
 Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/EventPlazaPlacementParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/EventPlazaPlacementParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/EventPlazaPlacementParam.json)
 
-Spazzy's exports: [CSV](JSON)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/EventPlazaPlacementParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/EventPlazaPlacementParam.json)
 
 | _036dd90c | EventType | _24e5b19d | PlacementKind | EventFtrUniqueID | EventObjUniqueID | OffsetX | OffsetZ | UniqueID | CalendarEventKey | _b8e42602 | _30127dfd | _e6c63c5c | _7215b154 | NpcSpLabel | PlacementKey | VisitorNpcLabel |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

@@ -1,6 +1,6 @@
 Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/RecipeCraftParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/RecipeCraftParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/RecipeCraftParam.json)
 
-Spazzy's exports: [CSV](JSON)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/RecipeCraftParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/RecipeCraftParam.json)
 
 | BoardColorID | CraftRecipeSeason | CraftRecipeSelectSeasonType | CraftUnlock | NPCUnlock | VillagerOpenNum | Amount1 | Amount2 | Amount3 | Amount4 | Amount5 | Amount6 | Item | Material1 | Material2 | Material3 | Material4 | Material5 | Material6 | SerialID | UniqueID | SelectCalendarEventSeason |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

@@ -1,6 +1,6 @@
 Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/CharaMakeHairColorParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/CharaMakeHairColorParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/CharaMakeHairColorParam.json)
 
-Spazzy's exports: [CSV](JSON)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/CharaMakeHairColorParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/CharaMakeHairColorParam.json)
 
 | BaseColorB | BaseColorG | BaseColorR | HighlightColorB | HighlightColorG | HighlightColorR | UniqueID | Label | Name |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

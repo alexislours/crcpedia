@@ -1,6 +1,6 @@
 Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemPlayerTopsForm.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemPlayerTopsForm.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemPlayerTopsForm.json)
 
-Spazzy's exports: [CSV](JSON)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemPlayerTopsForm.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/ItemPlayerTopsForm.json)
 
 | NormalScaleMaskA | NormalScaleMaskB | NormalScaleMaskG | NormalScaleMaskR | UniqueID | Label | Name | NpcResName | NpcSpResName | ResName | TorsoResName |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

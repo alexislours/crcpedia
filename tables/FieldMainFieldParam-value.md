@@ -1,6 +1,6 @@
 Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/FieldMainFieldParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/FieldMainFieldParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/FieldMainFieldParam.json)
 
-Spazzy's exports: [CSV](JSON)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/FieldMainFieldParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/FieldMainFieldParam.json)
 
 | UniqueID | FieldData | ItemData | Label | OutsideTemplateKind | StructureData |
 |:--:|:--:|:--:|:--:|:--:|:--:|

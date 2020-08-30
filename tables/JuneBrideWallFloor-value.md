@@ -1,6 +1,6 @@
 Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/JuneBrideWallFloor.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/JuneBrideWallFloor.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/JuneBrideWallFloor.json)
 
-Spazzy's exports: [CSV](JSON)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/JuneBrideWallFloor.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/JuneBrideWallFloor.json)
 
 | Theme | FloorItemId | RugItemId | UniqueID | WallItemId |
 |:--:|:--:|:--:|:--:|:--:|

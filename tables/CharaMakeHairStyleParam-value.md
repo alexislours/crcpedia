@@ -1,6 +1,6 @@
 Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/CharaMakeHairStyleParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/CharaMakeHairStyleParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/CharaMakeHairStyleParam.json)
 
-Spazzy's exports: [CSV](JSON)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/CharaMakeHairStyleParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/CharaMakeHairStyleParam.json)
 
 | BackRotateOffsetX | BackRotateOffsetY | BackRotateOffsetZ | BackTransOffsetX | BackTransOffsetY | BackTransOffsetZ | FrontRotateOffsetX | FrontRotateOffsetY | FrontRotateOffsetZ | FrontTransOffsetX | FrontTransOffsetY | FrontTransOffsetZ | LeftRotateOffsetX | LeftRotateOffsetY | LeftRotateOffsetZ | LeftTransOffsetX | LeftTransOffsetY | LeftTransOffsetZ | PeakRotateOffsetX | PeakRotateOffsetY | PeakRotateOffsetZ | PeakTransOffsetX | PeakTransOffsetY | PeakTransOffsetZ | RightRotateOffsetX | RightRotateOffsetY | RightRotateOffsetZ | RightTransOffsetX | RightTransOffsetY | RightTransOffsetZ | TopRotateOffsetX | TopRotateOffsetY | TopRotateOffsetZ | TopTransOffsetX | TopTransOffsetY | TopTransOffsetZ | UniqueID | CapResName | InvisibleEarL | InvisibleEarR | Label | Name | ResName |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

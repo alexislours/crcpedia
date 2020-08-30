@@ -1,6 +1,6 @@
 Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/StructureInfoParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/StructureInfoParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/StructureInfoParam.json)
 
-Spazzy's exports: [CSV](JSON)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/StructureInfoParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/StructureInfoParam.json)
 
 | HousePartsType | ModelType | _fec3548b | StructureInfoHouseType | StructureInfoType | Door0 | UniqueID |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|

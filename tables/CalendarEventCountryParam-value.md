@@ -1,6 +1,6 @@
 Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/CalendarEventCountryParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/CalendarEventCountryParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/CalendarEventCountryParam.json)
 
-Spazzy's exports: [CSV](JSON)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/CalendarEventCountryParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/CalendarEventCountryParam.json)
 
 | FlagAnim | UniqueID | Label |
 |:--:|:--:|:--:|

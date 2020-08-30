@@ -1,6 +1,6 @@
 Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemColor.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemColor.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemColor.json)
 
-Spazzy's exports: [CSV](JSON)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemColor.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/ItemColor.json)
 
 | UniqueID | Label | Name |
 |:--:|:--:|:--:|

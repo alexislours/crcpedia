@@ -1,6 +1,6 @@
 Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/VMMultistepNPC.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/VMMultistepNPC.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/VMMultistepNPC.json)
 
-Spazzy's exports: [CSV](JSON)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/VMMultistepNPC.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/VMMultistepNPC.json)
 
 | UniqueID | NPCLabel |
 |:--:|:--:|

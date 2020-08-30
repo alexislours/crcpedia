@@ -1,6 +1,6 @@
 Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemFrom.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemFrom.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemFrom.json)
 
-Spazzy's exports: [CSV](JSON)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemFrom.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/ItemFrom.json)
 
 | HHABaseScore | UniqueID | Label | Name |
 |:--:|:--:|:--:|:--:|

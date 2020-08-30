@@ -1,6 +1,6 @@
 Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/CharaMakeSkinColorParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/CharaMakeSkinColorParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/CharaMakeSkinColorParam.json)
 
-Spazzy's exports: [CSV](JSON)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/CharaMakeSkinColorParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/CharaMakeSkinColorParam.json)
 
 | CheekOrangeColorB | CheekOrangeColorG | CheekOrangeColorR | CheekPinkColorB | CheekPinkColorG | CheekPinkColorR | SkinBaseColorB | SkinBaseColorG | SkinBaseColorR | SkinEdgeColorB | SkinEdgeColorG | SkinEdgeColorR | UniqueID | Label | Name |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

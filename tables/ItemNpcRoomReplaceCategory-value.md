@@ -1,6 +1,6 @@
 Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemNpcRoomReplaceCategory.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemNpcRoomReplaceCategory.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemNpcRoomReplaceCategory.json)
 
-Spazzy's exports: [CSV](JSON)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemNpcRoomReplaceCategory.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/ItemNpcRoomReplaceCategory.json)
 
 | UniqueID | CanPutDisplay | CanPutFish | CanPutFood | CanPutForBase | CanPutInsect | CanPutKitchen | CanPutUtility | CanPutWorkStuff | Label |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

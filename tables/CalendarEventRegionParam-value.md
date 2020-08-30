@@ -1,6 +1,6 @@
 Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/CalendarEventRegionParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/CalendarEventRegionParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/CalendarEventRegionParam.json)
 
-Spazzy's exports: [CSV](JSON)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/CalendarEventRegionParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/CalendarEventRegionParam.json)
 
 | RegionEventCountry1 | SortID | RegionEventCountry2 | RegionEventCountry3 | RegionEventCountry4 | RegionEventCountry5 | UniqueID | EventLabel | ItemFrom |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

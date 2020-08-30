@@ -1,6 +1,6 @@
 Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/InsectStatusParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/InsectStatusParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/InsectStatusParam.json)
 
-Spazzy's exports: [CSV](JSON)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/InsectStatusParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/InsectStatusParam.json)
 
 | AppearArea | AppearWeather | GetScale | Kind | WaitScale | ItemID | OpenAchievementCount | ToyItemID | UniqueID | AppearFg | DebugName | Label | Property | ResNameField | ResNameReplaceField | ResNameReplaceMuseum |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

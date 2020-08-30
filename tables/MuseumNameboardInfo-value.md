@@ -1,6 +1,6 @@
 Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/MuseumNameboardInfo.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/MuseumNameboardInfo.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/MuseumNameboardInfo.json)
 
-Spazzy's exports: [CSV](JSON)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/MuseumNameboardInfo.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/MuseumNameboardInfo.json)
 
 | NameboardAngleY | NameboardPosX | NameboardPosY | NameboardPosZ | StageName | DonateItemFifth | DonateItemFirst | DonateItemFourth | DonateItemSecond | DonateItemThird | UniqueID | ModelResName | VisibleOff |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
