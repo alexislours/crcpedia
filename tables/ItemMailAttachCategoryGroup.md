@@ -5,6 +5,7 @@
 
 **Documented columns**: 2/4
 
+**Description**: HHA attachments params
 ## UniqueID
 
 **Name**: UniqueID

@@ -5,6 +5,7 @@
 
 **Documented columns**: 2/17
 
+**Description**: Model scaling and transformations for clothing
 ## Category
 
 **Name**: Category

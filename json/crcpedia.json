@@ -10866,7 +10866,7 @@
     "name": "ItemMailAttachCategoryGroup",
     "namedColumns": "3/4",
     "documentedColumns": "2/4",
-    "description": "",
+    "description": "HHA attachments params",
     "hashes": [
       {
         "hash": "54706054",
@@ -11821,7 +11821,7 @@
     "name": "ItemOutfitInfo",
     "namedColumns": "17/17",
     "documentedColumns": "2/17",
-    "description": "",
+    "description": "Model scaling and transformations for clothing",
     "hashes": [
       {
         "hash": "90466afd",
