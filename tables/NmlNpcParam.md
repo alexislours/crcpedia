@@ -601,7 +601,7 @@
 
 **Type**: u8/s8
 
-**Notes**: 2 through 6
+**Notes**: Village melody note length, lower values have shorter notes. Name probably starts with "Vm"
 
 **Versions**: 
 

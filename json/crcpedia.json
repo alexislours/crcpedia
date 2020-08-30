@@ -17773,7 +17773,7 @@
         "hashNotes": "",
         "formattedHash": "_21c5bbd6",
         "name": "",
-        "functionalityNotes": "2 through 6",
+        "functionalityNotes": "Village melody note length, lower values have shorter notes. Name probably starts with \"Vm\"",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
         "knownFunctionality": false
       },
