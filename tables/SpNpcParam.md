@@ -3,7 +3,7 @@
 
 **Named columns**: 20/23
 
-**Documented columns**: 13/23
+**Documented columns**: 14/23
 
 **Description**: Main params for special NPCs
 ## GenderAsia
@@ -351,6 +351,8 @@
 
 **Hashed string**: VmPauseType u8
 
+**Notes**: Related to pauses/length of the notes in villagers' melodies?
+
 **Versions**: 
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
@@ -365,6 +367,8 @@
 **Hash**: 0x9d1d8e45
 
 **Hashed string**: VmRhythmType u8
+
+**Notes**: Village melody rhythm. 0 = normal, 1 = swing rhythm, 2 = notes have random length
 
 **Versions**: 
 

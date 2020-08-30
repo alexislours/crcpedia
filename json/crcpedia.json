@@ -23420,7 +23420,7 @@
   "SpNpcParam": {
     "name": "SpNpcParam",
     "namedColumns": "20/23",
-    "documentedColumns": "13/23",
+    "documentedColumns": "14/23",
     "description": "Main params for special NPCs",
     "hashes": [
       {
@@ -23659,7 +23659,7 @@
         "hashNotes": "",
         "formattedHash": "_e7534ab5",
         "name": "VmPauseType",
-        "functionalityNotes": "",
+        "functionalityNotes": "Related to pauses/length of the notes in villagers' melodies?",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
         "knownFunctionality": false
       },
@@ -23670,9 +23670,9 @@
         "hashNotes": "",
         "formattedHash": "_9d1d8e45",
         "name": "VmRhythmType",
-        "functionalityNotes": "",
+        "functionalityNotes": "Village melody rhythm. 0 = normal, 1 = swing rhythm, 2 = notes have random length",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       }
     ]
   },
