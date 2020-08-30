@@ -1,6 +1,6 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemKind.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemKind.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemKind.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemKind.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemKind.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemKind.json)
 
-Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemKind.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/ItemKind.json)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemKind.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/ItemKind.json)
 
 | FtrIconCaptureType | ItemKindUIType | ItemRemakeType | MessageKind | SLinkType | MultiHoldMaxNum | SaveCountMaxNum | UniqueID | CanBury | CanEat | CanFtr | CanGift | CanNpcBirthdayPresent | CanNpcPresent | CanPlant | CanPut | CanPutWallAndFloor | CanSell | CanSellSimple | CanSetChest | CanSetCloset | CanSetInTrashBox | CanSetItem | CanUsePhotoStudio | _c37a683c | IsCollectAchievement | Label | Name |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

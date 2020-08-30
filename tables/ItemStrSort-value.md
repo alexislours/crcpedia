@@ -1,6 +1,6 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemStrSort.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemStrSort.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemStrSort.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemStrSort.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemStrSort.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemStrSort.json)
 
-Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemStrSort.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/ItemStrSort.json)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemStrSort.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/ItemStrSort.json)
 
 | StrSortIdCNzh | StrSortIdEUde | StrSortIdEUen | StrSortIdEUes | StrSortIdEUfr | StrSortIdEUit | StrSortIdEUnl | StrSortIdEUru | StrSortIdJPja | StrSortIdKRko | StrSortIdTWzh | StrSortIdUSen | StrSortIdUSes | StrSortIdUSfr | UniqueID |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

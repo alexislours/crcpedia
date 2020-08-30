@@ -1,6 +1,6 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/NpcLooksParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/NpcLooksParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/NpcLooksParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/NpcLooksParam.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/NpcLooksParam.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/NpcLooksParam.json)
 
-Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/NpcLooksParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/NpcLooksParam.json)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/NpcLooksParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/NpcLooksParam.json)
 
 | Book0 | Book1 | Book2 | Comic0 | Comic1 | Comic2 | Dream0 | Dream1 | Dream2 | Drink0 | Drink1 | Drink2 | Food0 | Food1 | Food2 | Hobby0 | Hobby1 | Hobby2 | Movie0 | Movie1 | Movie2 | Music0 | Music1 | Music2 | Speciality0 | Speciality1 | Speciality2 | Sports0 | Sports1 | Sports2 | TvProgram0 | TvProgram1 | TvProgram2 | UniqueID | Label |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

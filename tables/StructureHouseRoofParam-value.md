@@ -1,6 +1,6 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/StructureHouseRoofParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/StructureHouseRoofParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/StructureHouseRoofParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/StructureHouseRoofParam.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/StructureHouseRoofParam.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/StructureHouseRoofParam.json)
 
-Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/StructureHouseRoofParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/StructureHouseRoofParam.json)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/StructureHouseRoofParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/StructureHouseRoofParam.json)
 
 | HouseColor | CustomizeSortID | HouseShapeUniqueID | Material | UniqueID | Dummy | ModelName |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|

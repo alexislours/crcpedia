@@ -1,6 +1,6 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/SeasonCalendar.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/SeasonCalendar.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/SeasonCalendar.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/SeasonCalendar.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/SeasonCalendar.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/SeasonCalendar.json)
 
-Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/SeasonCalendar.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/SeasonCalendar.json)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/SeasonCalendar.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/SeasonCalendar.json)
 
 | Bush_N | Bush_S | Cloud_N | Cloud_S | Day | Fog_N | Fog_S | Month | SPWeather_N | SPWeather_S | Sakura_N | Sakura_S | Season_N | Season_S | Shop_N | Shop_S | Snow_N | Snow_S | Weed_N | Weed_S |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

@@ -1,6 +1,6 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/EventFlagsHouseParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/EventFlagsHouseParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/EventFlagsHouseParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/EventFlagsHouseParam.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/EventFlagsHouseParam.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/EventFlagsHouseParam.json)
 
-Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/EventFlagsHouseParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/EventFlagsHouseParam.json)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/EventFlagsHouseParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/EventFlagsHouseParam.json)
 
 | DefaultValue | MaxValue | UniqueID | _5140e4b4 | FlagsFlowAccess | Key | Name |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|

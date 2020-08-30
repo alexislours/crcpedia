@@ -1,6 +1,6 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/FieldLandMakingError.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/FieldLandMakingError.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/FieldLandMakingError.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/FieldLandMakingError.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/FieldLandMakingError.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/FieldLandMakingError.json)
 
-Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/FieldLandMakingError.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/FieldLandMakingError.json)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/FieldLandMakingError.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/FieldLandMakingError.json)
 
 | UniqueID | AsCommand | CliffCreate | _0b3be609 | EventFlowEntryName | Label | Name |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|

@@ -1,6 +1,6 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemRemakeCommonPatternCategory.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemRemakeCommonPatternCategory.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemRemakeCommonPatternCategory.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemRemakeCommonPatternCategory.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemRemakeCommonPatternCategory.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemRemakeCommonPatternCategory.json)
 
-Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemRemakeCommonPatternCategory.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/ItemRemakeCommonPatternCategory.json)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemRemakeCommonPatternCategory.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/ItemRemakeCommonPatternCategory.json)
 
 | SortID | UniqueID | Label |
 |:--:|:--:|:--:|

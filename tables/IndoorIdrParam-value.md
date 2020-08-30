@@ -1,6 +1,6 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/IndoorIdrParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/IndoorIdrParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/IndoorIdrParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/IndoorIdrParam.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/IndoorIdrParam.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/IndoorIdrParam.json)
 
-Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/IndoorIdrParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/IndoorIdrParam.json)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/IndoorIdrParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/IndoorIdrParam.json)
 
 | ArtObjNum | DecorationObjNum | FossilObjNum | UniqueID | ResourceName |
 |:--:|:--:|:--:|:--:|:--:|

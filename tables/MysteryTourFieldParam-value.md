@@ -1,6 +1,6 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/MysteryTourFieldParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/MysteryTourFieldParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/MysteryTourFieldParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/MysteryTourFieldParam.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/MysteryTourFieldParam.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/MysteryTourFieldParam.json)
 
-Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/MysteryTourFieldParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/MysteryTourFieldParam.json)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/MysteryTourFieldParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/MysteryTourFieldParam.json)
 
 | MysteryTourFieldOutside | UniqueID |
 |:--:|:--:|

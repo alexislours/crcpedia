@@ -1,6 +1,6 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/StructureDoorParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/StructureDoorParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/StructureDoorParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/StructureDoorParam.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/StructureDoorParam.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/StructureDoorParam.json)
 
-Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/StructureDoorParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/StructureDoorParam.json)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/StructureDoorParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/StructureDoorParam.json)
 
 | _e7e1c6cd | _b6f6977b | _a1def3bb | _98a65efb | _f0c9a20d | _c9b10f4d | _de996b8d | _bb4055cd | _ac68310d | _95109c4d | _8238f88d | _5ea2e0cd | _498a840d | UniqueID | Name | Stage0 | Stage1 | Stage10 | Stage11 | Stage12 | Stage2 | Stage3 | Stage4 | Stage5 | Stage6 | Stage7 | Stage8 | Stage9 |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

@@ -1,6 +1,6 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/NmlNpcParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/NmlNpcParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/NmlNpcParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/NmlNpcParam.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/NmlNpcParam.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/NmlNpcParam.json)
 
-Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/NmlNpcParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/NmlNpcParam.json)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/NmlNpcParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/NmlNpcParam.json)
 
 | _a54f92fd | _e2efe82d | _5ef86f1f | _195815cf | _bea84522 | Hobby | NpcLooks | Social | VmPauseType | VmRhythmType | AccentWall | BromideItemID | FloorType | PosterItemID | RainHat | RainWare | SmartphoneRemakeCommonPattern | SmartphoneRemakePattern | Tops | Umbrella | UniqueID | WallType | BirthMDay | BirthMonth | Color1 | Color2 | HavokResName | HelperBoneResName | InitLive | InitRemakeId | Label | NpcColor | NpcTalkType | ResName | SpecialELink | SpecialSLink | _21c5bbd6 | _e52f0037 | _42f255d5 |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

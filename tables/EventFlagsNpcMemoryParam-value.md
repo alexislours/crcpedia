@@ -1,6 +1,6 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/EventFlagsNpcMemoryParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/EventFlagsNpcMemoryParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/EventFlagsNpcMemoryParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/EventFlagsNpcMemoryParam.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/EventFlagsNpcMemoryParam.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/EventFlagsNpcMemoryParam.json)
 
-Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/EventFlagsNpcMemoryParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/EventFlagsNpcMemoryParam.json)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/EventFlagsNpcMemoryParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/EventFlagsNpcMemoryParam.json)
 
 | UniqueID | _5f77b61a | _5140e4b4 | _8d401df7 | DefaultValue | FlagsFlowAccess | Key | MaxValue | Name |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

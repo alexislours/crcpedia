@@ -1,6 +1,6 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/PlayerStateParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/PlayerStateParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/PlayerStateParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/PlayerStateParam.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/PlayerStateParam.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/PlayerStateParam.json)
 
-Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/PlayerStateParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/PlayerStateParam.json)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/PlayerStateParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/PlayerStateParam.json)
 
 | BgCheckType | ChangeDemo | ObjCheckRate | ObjCheckType | PacketType | RemoteChase | ToolState | _e50d3218 | AcceptAccess | _f413acd2 | _833e2942 | BeesRunAway | BgmEnd | _497ac4d6 | _63f77486 | _5dcf7b24 | _16e483f0 | _aa0070b7 | DummyMenuDemo | EnableRodCloth | EnableStageChange | ForbidOverwrite | _e550abdf | HideHUD | InWaterBody | JudgeVisibleOn | _ede0a8ca | _87438100 | NpcLookAction | _5b6d5751 | PoseTrans | PoseTransDive | _65fd6b0d | _2b6186a0 | _95798f28 | StateName | StopAutoSave | _a84507aa | _c033d95a | ValidDiveRate | WaitType |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

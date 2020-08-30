@@ -1,6 +1,6 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/MuseumStampRackInfo.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/MuseumStampRackInfo.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/MuseumStampRackInfo.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/MuseumStampRackInfo.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/MuseumStampRackInfo.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/MuseumStampRackInfo.json)
 
-Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/MuseumStampRackInfo.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/MuseumStampRackInfo.json)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/MuseumStampRackInfo.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/MuseumStampRackInfo.json)
 
 | StageName | StampRackPutUnitX | StampRackPutUnitZ | StampRackItemNameA | StampRackItemNameB | StampRackItemNameC | StampRackSetDirection | UniqueID | StampRackIdx | _0512b63c | StampRackNameTextLabel | _96d80132 | _ed4b6070 |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

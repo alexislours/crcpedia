@@ -1,6 +1,6 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/FishStatusParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/FishStatusParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/FishStatusParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/FishStatusParam.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/FishStatusParam.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/FishStatusParam.json)
 
-Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/FishStatusParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/FishStatusParam.json)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/FishStatusParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/FishStatusParam.json)
 
 | AppearArea | AppearType | BuoyLv | EscapeScale | FishMuseumAction | _4108715d | SearchRadius | ShadowType | ItemID | OpenDonatedNum | ToyItemID | UniqueID | DebugName | IsCreateBait | IsSidewaysShow | Label | _1f875d3d | ResName | ResNameMuseum |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

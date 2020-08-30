@@ -1,6 +1,6 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/SeafoodAppearParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/SeafoodAppearParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/SeafoodAppearParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/SeafoodAppearParam.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/SeafoodAppearParam.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/SeafoodAppearParam.json)
 
-Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/SeafoodAppearParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/SeafoodAppearParam.json)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/SeafoodAppearParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/SeafoodAppearParam.json)
 
 | AppearArea | ItemID | ProbAprDaytime | ProbAprMorningAndEvening | ProbAprNight | ProbAugDaytime | ProbAugMorningAndEvening | ProbAugNight | ProbDecDaytime | ProbDecMorningAndEvening | ProbDecNight | ProbFebDaytime | ProbFebMorningAndEvening | ProbFebNight | ProbJanDaytime | ProbJanMorningAndEvening | ProbJanNight | ProbJulDaytime | ProbJulMorningAndEvening | ProbJulNight | ProbJunDaytime | ProbJunMorningAndEvening | ProbJunNight | ProbMarDaytime | ProbMarMorningAndEvening | ProbMarNight | ProbMayDaytime | ProbMayMorningAndEvening | ProbMayNight | ProbNovDaytime | ProbNovMorningAndEvening | ProbNovNight | ProbOctDaytime | ProbOctMorningAndEvening | ProbOctNight | ProbSepDaytime | ProbSepMorningAndEvening | ProbSepNight |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

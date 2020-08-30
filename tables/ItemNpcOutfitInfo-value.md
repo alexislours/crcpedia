@@ -1,6 +1,6 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemNpcOutfitInfo.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemNpcOutfitInfo.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemNpcOutfitInfo.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemNpcOutfitInfo.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemNpcOutfitInfo.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemNpcOutfitInfo.json)
 
-Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemNpcOutfitInfo.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/ItemNpcOutfitInfo.json)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemNpcOutfitInfo.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/ItemNpcOutfitInfo.json)
 
 | UniqueID | _8e07b21e | _e5c221d5 | Label | Name |
 |:--:|:--:|:--:|:--:|:--:|

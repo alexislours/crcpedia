@@ -1,6 +1,6 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemMenuIcon.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemMenuIcon.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemMenuIcon.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemMenuIcon.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemMenuIcon.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemMenuIcon.json)
 
-Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemMenuIcon.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/ItemMenuIcon.json)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemMenuIcon.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/ItemMenuIcon.json)
 
 | UniqueID | Label | Name | ResName |
 |:--:|:--:|:--:|:--:|

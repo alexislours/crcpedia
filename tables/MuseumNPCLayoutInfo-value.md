@@ -1,6 +1,6 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/MuseumNPCLayoutInfo.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/MuseumNPCLayoutInfo.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/MuseumNPCLayoutInfo.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/MuseumNPCLayoutInfo.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/MuseumNPCLayoutInfo.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/MuseumNPCLayoutInfo.json)
 
-Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/MuseumNPCLayoutInfo.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/MuseumNPCLayoutInfo.json)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/MuseumNPCLayoutInfo.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/MuseumNPCLayoutInfo.json)
 
 | UniqueID | WatchItem | WatchPointID | BalloonTalkKey | BalloonTalkLabelKey | ReactionTalkKey | ReactionTalkLabelKey |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|

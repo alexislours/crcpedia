@@ -1,6 +1,6 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/EventFlagsPlayerVisitParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/EventFlagsPlayerVisitParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/EventFlagsPlayerVisitParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/EventFlagsPlayerVisitParam.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/EventFlagsPlayerVisitParam.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/EventFlagsPlayerVisitParam.json)
 
-Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/EventFlagsPlayerVisitParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/EventFlagsPlayerVisitParam.json)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/EventFlagsPlayerVisitParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/EventFlagsPlayerVisitParam.json)
 
 | DefaultValue | MaxValue | UniqueID | FlagsFlowAccess | Key | Name |
 |:--:|:--:|:--:|:--:|:--:|:--:|

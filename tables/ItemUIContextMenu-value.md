@@ -1,6 +1,6 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemUIContextMenu.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemUIContextMenu.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemUIContextMenu.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemUIContextMenu.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemUIContextMenu.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemUIContextMenu.json)
 
-Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemUIContextMenu.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/ItemUIContextMenu.json)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemUIContextMenu.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/ItemUIContextMenu.json)
 
 | Priority | UniqueID | AutoDisappear | Label | MSLabel | Name |
 |:--:|:--:|:--:|:--:|:--:|:--:|

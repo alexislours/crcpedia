@@ -1,6 +1,6 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/MaterialType.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/MaterialType.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/MaterialType.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/MaterialType.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/MaterialType.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/MaterialType.json)
 
-Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/MaterialType.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/MaterialType.json)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/MaterialType.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/MaterialType.json)
 
 | SoundAttribute | UniqueID | DebugName |
 |:--:|:--:|:--:|

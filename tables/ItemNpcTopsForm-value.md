@@ -1,6 +1,6 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemNpcTopsForm.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemNpcTopsForm.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemNpcTopsForm.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemNpcTopsForm.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemNpcTopsForm.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemNpcTopsForm.json)
 
-Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemNpcTopsForm.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/ItemNpcTopsForm.json)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemNpcTopsForm.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/ItemNpcTopsForm.json)
 
 | OnepieceHNormalScaleMaskA | OnepieceHNormalScaleMaskB | OnepieceHNormalScaleMaskG | OnepieceHNormalScaleMaskR | OnepieceLNormalScaleMaskA | OnepieceLNormalScaleMaskB | OnepieceLNormalScaleMaskG | OnepieceLNormalScaleMaskR | OnepieceNNormalScaleMaskA | OnepieceNNormalScaleMaskB | OnepieceNNormalScaleMaskG | OnepieceNNormalScaleMaskR | OuterLNormalScaleMaskA | OuterLNormalScaleMaskB | OuterLNormalScaleMaskG | OuterLNormalScaleMaskR | TshirtsHNormalScaleMaskA | TshirtsHNormalScaleMaskB | TshirtsHNormalScaleMaskG | TshirtsHNormalScaleMaskR | TshirtsLNormalScaleMaskA | TshirtsLNormalScaleMaskB | TshirtsLNormalScaleMaskG | TshirtsLNormalScaleMaskR | TshirtsNNormalScaleMaskA | TshirtsNNormalScaleMaskB | TshirtsNNormalScaleMaskG | TshirtsNNormalScaleMaskR | UniqueID | Label | Name |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

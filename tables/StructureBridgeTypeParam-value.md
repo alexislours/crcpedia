@@ -1,6 +1,6 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/StructureBridgeTypeParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/StructureBridgeTypeParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/StructureBridgeTypeParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/StructureBridgeTypeParam.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/StructureBridgeTypeParam.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/StructureBridgeTypeParam.json)
 
-Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/StructureBridgeTypeParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/StructureBridgeTypeParam.json)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/StructureBridgeTypeParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/StructureBridgeTypeParam.json)
 
 | _904611f3 | ItemNameUniqueID | UniqueID | BridgeTypeName | BridgeTypeNameJp |
 |:--:|:--:|:--:|:--:|:--:|

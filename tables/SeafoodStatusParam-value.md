@@ -1,6 +1,6 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/SeafoodStatusParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/SeafoodStatusParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/SeafoodStatusParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/SeafoodStatusParam.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/SeafoodStatusParam.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/SeafoodStatusParam.json)
 
-Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/SeafoodStatusParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/SeafoodStatusParam.json)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/SeafoodStatusParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/SeafoodStatusParam.json)
 
 | ActionType | CaptureCategory | CaptureLevel | ShadowType | ItemID | OpenRecordNum | UniqueID | DebugName | Label | ResName | ResNameMuseum |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

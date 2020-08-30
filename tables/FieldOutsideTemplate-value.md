@@ -1,6 +1,6 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/FieldOutsideTemplate.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/FieldOutsideTemplate.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/FieldOutsideTemplate.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/FieldOutsideTemplate.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/FieldOutsideTemplate.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/FieldOutsideTemplate.json)
 
-Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/FieldOutsideTemplate.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/FieldOutsideTemplate.json)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/FieldOutsideTemplate.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/FieldOutsideTemplate.json)
 
 | E0Parts | E1Parts | E2Parts | E3Parts | N0Parts | N1Parts | N2Parts | N3Parts | N4Parts | NEParts | NWParts | S0Parts | S1Parts | S2Parts | S3Parts | S4Parts | SEParts | SWParts | SeaType | TemplateKind | W0Parts | W1Parts | W2Parts | W3Parts | WindDirection | UniqueID | EnglishName |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

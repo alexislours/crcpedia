@@ -1,6 +1,6 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/FgMainParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/FgMainParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/FgMainParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/FgMainParam.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/FgMainParam.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/FgMainParam.json)
 
-Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/FgMainParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/FgMainParam.json)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/FgMainParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/FgMainParam.json)
 
 | CollisionHeight | InsectParam | Kind | PicIconHeight | BuryItem | BuryItem2 | BuryItem3 | ChangeFg | DigItem | EffectAttribute | GrowupFg | NutItem | PicItem | SoundAttribute | UniqueID | ColorIndex | DebugName | Grow | Label | ModelName | Nature | _a4b2d66d | ResName |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

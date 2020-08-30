@@ -1,6 +1,6 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemClothGroup.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemClothGroup.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemClothGroup.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemClothGroup.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemClothGroup.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemClothGroup.json)
 
-Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemClothGroup.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/ItemClothGroup.json)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemClothGroup.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/ItemClothGroup.json)
 
 | ItemShopSeasonality | ParentItemName | UniqueID | FashionThemeDaily | FashionThemeFairyland | FashionThemeFomal | FashionThemeHorror | FashionThemeOutdoor | FashionThemeParty | FashionThemeRelax | FashionThemeSport | FashionThemeStage | FashionThemeVacation | FashionThemeWork | _83ccbe0f | Label | Name | UseColorGroupSort |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

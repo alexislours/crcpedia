@@ -1,6 +1,6 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/MessageCardColorParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/MessageCardColorParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/MessageCardColorParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/MessageCardColorParam.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/MessageCardColorParam.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/MessageCardColorParam.json)
 
-Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/MessageCardColorParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/MessageCardColorParam.json)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/MessageCardColorParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/MessageCardColorParam.json)
 
 | Color | UniqueID |
 |:--:|:--:|

@@ -1,6 +1,6 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemSize.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemSize.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemSize.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemSize.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemSize.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemSize.json)
 
-Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemSize.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/ItemSize.json)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemSize.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/ItemSize.json)
 
 | ResSizeLimit | MemoryUnitNum | PolygonLimit | UniqueID | HalfUnitSizeX | HalfUnitSizeZ | Label | Name |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

@@ -1,6 +1,6 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemMailAttachCategoryGroup.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemMailAttachCategoryGroup.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemMailAttachCategoryGroup.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemMailAttachCategoryGroup.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemMailAttachCategoryGroup.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemMailAttachCategoryGroup.json)
 
-Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemMailAttachCategoryGroup.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/ItemMailAttachCategoryGroup.json)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemMailAttachCategoryGroup.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/ItemMailAttachCategoryGroup.json)
 
 | UniqueID | _e4361c86 | Label | Name |
 |:--:|:--:|:--:|:--:|

@@ -1,6 +1,6 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/MessageCardBoardDesignParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/MessageCardBoardDesignParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/MessageCardBoardDesignParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/MessageCardBoardDesignParam.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/MessageCardBoardDesignParam.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/MessageCardBoardDesignParam.json)
 
-Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/MessageCardBoardDesignParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/MessageCardBoardDesignParam.json)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/MessageCardBoardDesignParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/MessageCardBoardDesignParam.json)
 
 | BackColor | BodyColor | FootColor | HeadColor | PenColor1 | PenColor2 | PenColor3 | PenColor4 | RuleColor | TextLotId | _84818e10 | UniqueID | ResourceName |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

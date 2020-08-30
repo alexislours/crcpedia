@@ -1,6 +1,6 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/NpcSpClothSetParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/NpcSpClothSetParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/NpcSpClothSetParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/NpcSpClothSetParam.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/NpcSpClothSetParam.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/NpcSpClothSetParam.json)
 
-Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/NpcSpClothSetParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/NpcSpClothSetParam.json)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/NpcSpClothSetParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/NpcSpClothSetParam.json)
 
 | AcceEye | Bottoms | Cap | Shoes | SpNpcID | Tool | Tops | UniqueID | Label | Name |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

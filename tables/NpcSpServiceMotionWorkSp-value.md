@@ -1,6 +1,6 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/NpcSpServiceMotionWorkSp.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/NpcSpServiceMotionWorkSp.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/NpcSpServiceMotionWorkSp.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/NpcSpServiceMotionWorkSp.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/NpcSpServiceMotionWorkSp.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/NpcSpServiceMotionWorkSp.json)
 
-Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/NpcSpServiceMotionWorkSp.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/NpcSpServiceMotionWorkSp.json)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/NpcSpServiceMotionWorkSp.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/NpcSpServiceMotionWorkSp.json)
 
 | UniqueID | ASCommand | EndHour | SelectRate | StartHour |
 |:--:|:--:|:--:|:--:|:--:|

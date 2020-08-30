@@ -1,6 +1,6 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemSeasonalityParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemSeasonalityParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemSeasonalityParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemSeasonalityParam.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemSeasonalityParam.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemSeasonalityParam.json)
 
-Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemSeasonalityParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/ItemSeasonalityParam.json)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemSeasonalityParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/ItemSeasonalityParam.json)
 
 | EndDayNorth | EndDaySouth | EndMonthNorth | EndMonthSouth | StartDayNorth | StartDaySouth | StartMonthNorth | StartMonthSouth | UniqueID |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

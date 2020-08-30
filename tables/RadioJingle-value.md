@@ -1,6 +1,6 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/RadioJingle.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/RadioJingle.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/RadioJingle.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/RadioJingle.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/RadioJingle.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/RadioJingle.json)
 
-Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/RadioJingle.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/RadioJingle.json)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/RadioJingle.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/RadioJingle.json)
 
 | SelectRate | Timezone | Frames | MusicNo | UniqueID | BeforeDays | EventLabelShort |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|

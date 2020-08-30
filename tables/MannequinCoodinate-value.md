@@ -1,6 +1,6 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/MannequinCoodinate.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/MannequinCoodinate.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/MannequinCoodinate.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/MannequinCoodinate.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/MannequinCoodinate.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/MannequinCoodinate.json)
 
-Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/MannequinCoodinate.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/MannequinCoodinate.json)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/MannequinCoodinate.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/MannequinCoodinate.json)
 
 | MannequinPose | Seasonality | AccEye | AccMouth | Bottoms | Cap | Shoes | Socks | Tops | UniqueID |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

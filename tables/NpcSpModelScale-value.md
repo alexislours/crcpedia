@@ -1,6 +1,6 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/NpcSpModelScale.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/NpcSpModelScale.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/NpcSpModelScale.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/NpcSpModelScale.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/NpcSpModelScale.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/NpcSpModelScale.json)
 
-Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/NpcSpModelScale.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/NpcSpModelScale.json)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/NpcSpModelScale.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/NpcSpModelScale.json)
 
 | NormalScaleBottomsA | NormalScaleBottomsB | NormalScaleBottomsG | NormalScaleBottomsR | NormalScaleHA | NormalScaleHB | NormalScaleHG | NormalScaleHR | NormalScaleLA | NormalScaleLB | NormalScaleLG | NormalScaleLR | NormalScaleNA | NormalScaleNB | NormalScaleNG | NormalScaleNR | UniqueID | Label | Name |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

@@ -1,6 +1,6 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/LocalizeNameConvertParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/LocalizeNameConvertParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/LocalizeNameConvertParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/LocalizeNameConvertParam.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/LocalizeNameConvertParam.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/LocalizeNameConvertParam.json)
 
-Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/LocalizeNameConvertParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/LocalizeNameConvertParam.json)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/LocalizeNameConvertParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/LocalizeNameConvertParam.json)
 
 | UniqueID | BaseName | CNzh | EUde | EUen | EUes | EUfr | EUit | EUnl | EUru | JPja | KRko | LocalizeAnim | LocalizeModel | LocalizeTexture | TWzh | USen | USes | USfr |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

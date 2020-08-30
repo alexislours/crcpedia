@@ -1,6 +1,6 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/FieldOutsideParts.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/FieldOutsideParts.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/FieldOutsideParts.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/FieldOutsideParts.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/FieldOutsideParts.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/FieldOutsideParts.json)
 
-Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/FieldOutsideParts.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/FieldOutsideParts.json)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/FieldOutsideParts.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/FieldOutsideParts.json)
 
 | PartsKind | ReefType | UniqueID | ModelName |
 |:--:|:--:|:--:|:--:|

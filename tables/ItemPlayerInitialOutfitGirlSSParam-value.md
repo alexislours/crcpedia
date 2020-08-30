@@ -1,6 +1,6 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemPlayerInitialOutfitGirlSSParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemPlayerInitialOutfitGirlSSParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemPlayerInitialOutfitGirlSSParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemPlayerInitialOutfitGirlSSParam.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemPlayerInitialOutfitGirlSSParam.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemPlayerInitialOutfitGirlSSParam.json)
 
-Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemPlayerInitialOutfitGirlSSParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/ItemPlayerInitialOutfitGirlSSParam.json)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemPlayerInitialOutfitGirlSSParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/ItemPlayerInitialOutfitGirlSSParam.json)
 
 | AcceEye | AcceMouth | Bottoms | Cap | Shoes | Socks | Tops | UniqueID | Label |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

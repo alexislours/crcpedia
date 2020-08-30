@@ -1,6 +1,6 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/RoomCurtainTexParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/RoomCurtainTexParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/RoomCurtainTexParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/RoomCurtainTexParam.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/RoomCurtainTexParam.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/RoomCurtainTexParam.json)
 
-Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/RoomCurtainTexParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/RoomCurtainTexParam.json)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/RoomCurtainTexParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/RoomCurtainTexParam.json)
 
 | UniqueID | Name | ResourceName |
 |:--:|:--:|:--:|

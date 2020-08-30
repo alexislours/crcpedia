@@ -1,6 +1,6 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/FieldLandMakingActionParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/FieldLandMakingActionParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/FieldLandMakingActionParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/FieldLandMakingActionParam.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/FieldLandMakingActionParam.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/FieldLandMakingActionParam.json)
 
-Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/FieldLandMakingActionParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/FieldLandMakingActionParam.json)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/FieldLandMakingActionParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/FieldLandMakingActionParam.json)
 
 | ActionRange | _75fee4b0 | MeshEdgeDirType | FallActionType | Layer | PlaneChangeType | _7674c4d6 | SuccessResult | ActionLockRange | _f9a37bdc | MainType | UpdateParts |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|

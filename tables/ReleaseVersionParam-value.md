@@ -1,6 +1,6 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ReleaseVersionParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/ReleaseVersionParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/ReleaseVersionParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ReleaseVersionParam.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/ReleaseVersionParam.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/ReleaseVersionParam.json)
 
-Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ReleaseVersionParam.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/ReleaseVersionParam.json)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ReleaseVersionParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/ReleaseVersionParam.json)
 
 | ReleaseKey | UniqueID | Label | Name |
 |:--:|:--:|:--:|:--:|

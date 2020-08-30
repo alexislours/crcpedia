@@ -1,6 +1,6 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/MessageCardSelectPresentSp.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/MessageCardSelectPresentSp.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/MessageCardSelectPresentSp.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/MessageCardSelectPresentSp.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/MessageCardSelectPresentSp.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/MessageCardSelectPresentSp.json)
 
-Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/MessageCardSelectPresentSp.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/MessageCardSelectPresentSp.json)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/MessageCardSelectPresentSp.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/MessageCardSelectPresentSp.json)
 
 | ItemCategory | ItemCategoryGroup | _37571146 | _e060d3cd | ItemRemakeType |
 |:--:|:--:|:--:|:--:|:--:|

@@ -1,6 +1,6 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/TVProgramMonday.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/TVProgramMonday.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/TVProgramMonday.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/TVProgramMonday.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/TVProgramMonday.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/TVProgramMonday.json)
 
-Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/TVProgramMonday.csv) [JSON](https://github.com/McSpazzy/acnh-json/blob/master/TVProgramMonday.json)
+Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/TVProgramMonday.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/TVProgramMonday.json)
 
 | TVProgramName | StartHour | StartMinute |
 |:--:|:--:|:--:|
