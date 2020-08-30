@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/CharaMakeSkinColorParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/CharaMakeSkinColorParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/CharaMakeSkinColorParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | CheekOrangeColorB | CheekOrangeColorG | CheekOrangeColorR | CheekPinkColorB | CheekPinkColorG | CheekPinkColorR | SkinBaseColorB | SkinBaseColorG | SkinBaseColorR | SkinEdgeColorB | SkinEdgeColorG | SkinEdgeColorR | UniqueID | Label | Name |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 0.6800000071525574 | 0.800000011920929 | 1.0 | 0.8399999737739563 | 0.8199999928474426 | 1.0 | 0.33000001311302185 | 0.5199999809265137 | 0.9399999976158142 | 0.09000000357627869 | 0.0 | 0.699999988079071 | 0 | 'SkinColor0' | 'SkinColor0' | 

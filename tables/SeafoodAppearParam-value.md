@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/SeafoodAppearParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/SeafoodAppearParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/SeafoodAppearParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | AppearArea | ItemID | ProbAprDaytime | ProbAprMorningAndEvening | ProbAprNight | ProbAugDaytime | ProbAugMorningAndEvening | ProbAugNight | ProbDecDaytime | ProbDecMorningAndEvening | ProbDecNight | ProbFebDaytime | ProbFebMorningAndEvening | ProbFebNight | ProbJanDaytime | ProbJanMorningAndEvening | ProbJanNight | ProbJulDaytime | ProbJulMorningAndEvening | ProbJulNight | ProbJunDaytime | ProbJunMorningAndEvening | ProbJunNight | ProbMarDaytime | ProbMarMorningAndEvening | ProbMarNight | ProbMayDaytime | ProbMayMorningAndEvening | ProbMayNight | ProbNovDaytime | ProbNovMorningAndEvening | ProbNovNight | ProbOctDaytime | ProbOctMorningAndEvening | ProbOctNight | ProbSepDaytime | ProbSepMorningAndEvening | ProbSepNight |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | North,北半球 | 2620 | 10 | 12 | 7 | 0 | 0 | 0 | 8 | 9 | 6 | 10 | 10 | 10 | 10 | 10 | 8 | 4 | 6 | 4 | 10 | 10 | 5 | 11 | 14 | 10 | 12 | 13 | 7 | 5 | 5 | 4 | 3 | 4 | 3 | 0 | 0 | 0 | 

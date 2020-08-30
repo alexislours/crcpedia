@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/MysteryTourParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/MysteryTourParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/MysteryTourParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | ItemPlacementKind | TourType | FishPattern | InsectPattern | MustItem0 | MustItem1 | MysteryTourFieldUniqueID | MysteryTourItemUniqueID | UniqueID | _7215b154 | _88bd09c2 | _4e5cd9f3 | _8f2f4bf9 | _0b3d1d54 | SelectWeight | StatusPattern |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | Normal,普通 | Normal,通常 | -1 | -1 | 65534 | 65534 | 1 | 1 | 0 | '' | '' | '' | '' | '' | 0 | 0 | 

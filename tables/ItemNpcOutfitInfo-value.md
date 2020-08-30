@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemNpcOutfitInfo.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemNpcOutfitInfo.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemNpcOutfitInfo.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | UniqueID | _8e07b21e | _e5c221d5 | Label | Name |
 |:--:|:--:|:--:|:--:|:--:|
 | 0 | 0 | 0 | 'None' | 'なし' | 

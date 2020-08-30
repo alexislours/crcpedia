@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/MuseumNPCLayoutInfo.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/MuseumNPCLayoutInfo.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/MuseumNPCLayoutInfo.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | UniqueID | WatchItem | WatchPointID | BalloonTalkKey | BalloonTalkLabelKey | ReactionTalkKey | ReactionTalkLabelKey |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 4 | 4191 | 4 | 'BLN_Spot_Museum' | '02' | 'BO_React_Watching_Fish' | '006' | 

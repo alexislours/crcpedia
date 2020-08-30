@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemStrSort.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemStrSort.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemStrSort.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | StrSortIdCNzh | StrSortIdEUde | StrSortIdEUen | StrSortIdEUes | StrSortIdEUfr | StrSortIdEUit | StrSortIdEUnl | StrSortIdEUru | StrSortIdJPja | StrSortIdKRko | StrSortIdTWzh | StrSortIdUSen | StrSortIdUSes | StrSortIdUSfr | UniqueID |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 27008 | 29049 | 23691 | 10518 | 29310 | 23295 | 28491 | 8988 | 24836 | 9438 | 26592 | 23238 | 10365 | 28945 | 2 | 

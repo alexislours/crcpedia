@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/RecipeCraftParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/RecipeCraftParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/RecipeCraftParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | BoardColorID | CraftRecipeSeason | CraftRecipeSelectSeasonType | CraftUnlock | NPCUnlock | VillagerOpenNum | Amount1 | Amount2 | Amount3 | Amount4 | Amount5 | Amount6 | Item | Material1 | Material2 | Material3 | Material4 | Material5 | Material6 | SerialID | UniqueID | SelectCalendarEventSeason |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 12 | Bamboo,はるのわかたけ | NoSelect,指定無し | None,※未設定 | AN,アネキ女 | 100 | 10 | 2 | 0 | 0 | 0 | 0 | 2596 | 2213 | 2511 | 65534 | 65534 | 65534 | 65534 | 1701 | 6 | 'EventNone' | 

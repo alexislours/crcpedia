@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/NmlNpcParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/NmlNpcParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/NmlNpcParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | _a54f92fd | _e2efe82d | _5ef86f1f | _195815cf | _bea84522 | Hobby | NpcLooks | Social | VmPauseType | VmRhythmType | AccentWall | BromideItemID | FloorType | PosterItemID | RainHat | RainWare | SmartphoneRemakeCommonPattern | SmartphoneRemakePattern | Tops | Umbrella | UniqueID | WallType | BirthMDay | BirthMonth | Color1 | Color2 | HavokResName | HelperBoneResName | InitLive | InitRemakeId | Label | NpcColor | NpcTalkType | ResName | SpecialELink | SpecialSLink | _21c5bbd6 | _e52f0037 | _42f255d5 |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 | 9 | 3 | 5 | Normal,気にせず | Education,教養 | Boy_pride,コワイ男 | Low,低 | Stop,ストップ | Normal,イーブン | 0 | 6426 | 54 | 10323 | 9573 | 8294 | 95 | 3 | 4249 | 7178 | 1 | 164 | 9 | 3 | 7 | 8 | 'NpcNmlClothAnt' | 'NpcNmlHelperBoneAnt' | 1 | 0 | 'ant00' | 63 | 1 | 'NpcNmlAnt00' | 0 | 0 | 5 | 1 | 4 | 

@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemRemakeCommonPatternCategory.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemRemakeCommonPatternCategory.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemRemakeCommonPatternCategory.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | SortID | UniqueID | Label |
 |:--:|:--:|:--:|
 | 0 | 0 | 'None' | 

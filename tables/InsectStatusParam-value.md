@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/InsectStatusParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/InsectStatusParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/InsectStatusParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | AppearArea | AppearWeather | GetScale | Kind | WaitScale | ItemID | OpenAchievementCount | ToyItemID | UniqueID | AppearFg | DebugName | Label | Property | ResNameField | ResNameReplaceField | ResNameReplaceMuseum |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | '_UNK_00000000_' | NotAppearInRain,雨天時は発生しない | 1.0 | Butterfly,チョウ | 1.0 | 626 | 0 | 7085 | 1 | 080000 | 'モンシロチョウ' | 'Monshirocho' | 0 | 'InsectMonshirocho' | '' | '' | 

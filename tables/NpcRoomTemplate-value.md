@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/NpcRoomTemplate.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/NpcRoomTemplate.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/NpcRoomTemplate.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | RoomType | Direction | GroupIndex | Size | XUnitIndex | ZUnitIndex |
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | 0 | 0 | 0 | 2 | 2 | 0 | 

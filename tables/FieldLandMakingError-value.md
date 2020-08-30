@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/FieldLandMakingError.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/FieldLandMakingError.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/FieldLandMakingError.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | UniqueID | AsCommand | CliffCreate | _0b3be609 | EventFlowEntryName | Label | Name |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 7 | 'PlayerToolNG' | 0 | 0 | 'ErrorCliffMakeBreak_CliffExistOnItem' | 'CliffExistOnItem' | '崖造成：崖上にアイテムがあります。' | 

@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/RoomCurtainTexParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/RoomCurtainTexParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/RoomCurtainTexParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | UniqueID | Name | ResourceName |
 |:--:|:--:|:--:|
 | 0 | 'しろいレースカーテン' | 'RoomTexCurtainNmlLace00' | 

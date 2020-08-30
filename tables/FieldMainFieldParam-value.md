@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/FieldMainFieldParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/FieldMainFieldParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/FieldMainFieldParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | UniqueID | FieldData | ItemData | Label | OutsideTemplateKind | StructureData |
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | 0 | 'FieldPresetA00' | 'ItemPresetA00' | 'VillagePresetA00' | 0 | 'StructurePresetA00' | 

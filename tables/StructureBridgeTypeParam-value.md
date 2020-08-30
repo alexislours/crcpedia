@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/StructureBridgeTypeParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/StructureBridgeTypeParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/StructureBridgeTypeParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | _904611f3 | ItemNameUniqueID | UniqueID | BridgeTypeName | BridgeTypeNameJp |
 |:--:|:--:|:--:|:--:|:--:|
 | 2782396781 | 5912 | 0 | 'BridgeStone' | '石橋' | 

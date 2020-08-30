@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/EventPlazaPlacementParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/EventPlazaPlacementParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/EventPlazaPlacementParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | _036dd90c | EventType | _24e5b19d | PlacementKind | EventFtrUniqueID | EventObjUniqueID | OffsetX | OffsetZ | UniqueID | CalendarEventKey | _b8e42602 | _30127dfd | _e6c63c5c | _7215b154 | NpcSpLabel | PlacementKey | VisitorNpcLabel |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 2442620672 | PermanentObj,常設オブジェ | 3069107721 | EventObj,イベントオブジェ | 0 | 0 | 0 | 0 | 0 | 'EventNone' | 0 | 0 | '' | '' | '' | 'Invalid' | '' | 

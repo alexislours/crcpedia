@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/MysteryTourItemParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/MysteryTourItemParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/MysteryTourItemParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | UniqueID |
 |:--:|
 | 0 | 

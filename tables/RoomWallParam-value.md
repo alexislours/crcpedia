@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/RoomWallParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/RoomWallParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/RoomWallParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | AO | Act | Light | Price | ArchUniqueID | CeilingUniqueID | CurtainTexUniqueID | CurtainUniqueID | ItemTableId | UniqueID | WindowUniqueID | ItemName | ResourceName | TextureWindow |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | UseAO,あり | None,なし | Orange,白熱灯 | 888 | 5 | 0 | 4 | 7 | 4795 | 0 | 8 | 'よくあるかべ' | 'RoomTexWallCommon00' | 0 | 

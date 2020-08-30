@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/FieldLandMakingActionParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/FieldLandMakingActionParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/FieldLandMakingActionParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | ActionRange | _75fee4b0 | MeshEdgeDirType | FallActionType | Layer | PlaneChangeType | _7674c4d6 | SuccessResult | ActionLockRange | _f9a37bdc | MainType | UpdateParts |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 1x1,1x1 | NoChange,変更なし | RightToSlant,直角 -> 斜め | None,なし | No0,レイヤ0 | NoChange,変更なし | None,なし | Make,Make | 0 | 0 | 5 | 0 | 

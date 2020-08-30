@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/NpcCastScheduleData.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/NpcCastScheduleData.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/NpcCastScheduleData.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | ApplyNeedActivity | CanDoze | CastLabel | _d507df3e | EndHour | EndMinute | EventName | NeglectSleep | StartHour | StartMinute | _e76db92f |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 1 | 1 | 0 | 0 | 29 | 0 | 'NotEvent' | 0 | 5 | 0 | 1 | 

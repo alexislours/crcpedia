@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/IndoorPhotoStudioItemParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/IndoorPhotoStudioItemParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/IndoorPhotoStudioItemParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | Dir | ItemID | PosX | PosZ | ReBody | ReFabric | RoomIndex | UniqueID |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | S,南 | 4911 | 0 | 0 | 0 | -1 | 0 | 2 | 

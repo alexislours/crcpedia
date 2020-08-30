@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/FadeOutDuckingParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/FadeOutDuckingParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/FadeOutDuckingParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | UniqueID | Name |
 |:--:|:--:|
 | 0 | '短い_SE_フェード専用' | 

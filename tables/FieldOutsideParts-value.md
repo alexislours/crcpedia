@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/FieldOutsideParts.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/FieldOutsideParts.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/FieldOutsideParts.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | PartsKind | ReefType | UniqueID | ModelName |
 |:--:|:--:|:--:|:--:|
 | PhotoStudio,撮影スタジオ | S_convexity,S凸 | 240 | 'FldOutPhotoSBridge00' | 

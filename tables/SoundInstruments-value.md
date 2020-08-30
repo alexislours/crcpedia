@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/SoundInstruments.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/SoundInstruments.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/SoundInstruments.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | InstrumentsType | RefItemUniqueID | UniqueID | Label | Name |
 |:--:|:--:|:--:|:--:|:--:|
 | FourHands,連弾楽器 | 383 | 0 | 'Acorsticguitar' | 'アコースティックギター' | 

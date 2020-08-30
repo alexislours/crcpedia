@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/FieldOutsideTemplate.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/FieldOutsideTemplate.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/FieldOutsideTemplate.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | E0Parts | E1Parts | E2Parts | E3Parts | N0Parts | N1Parts | N2Parts | N3Parts | N4Parts | NEParts | NWParts | S0Parts | S1Parts | S2Parts | S3Parts | S4Parts | SEParts | SWParts | SeaType | TemplateKind | W0Parts | W1Parts | W2Parts | W3Parts | WindDirection | UniqueID | EnglishName |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | E_Beach,E砂浜 | E_Stone,E岩場 | E_Promontory,E岬 | E_Beach,E砂浜 | N_Stone,N岩場 | N_Stone,N岩場 | N_Stone,N岩場 | N_Tsunekiti,Nつねきち | N_Stone,N岩場 | NE_Stone,NE岩場 | NW_Stone,NW岩場 | S_River,S汽水地 | S_Airport_L,S空港(左) | S_Airport_R,S空港(右) | S_Beach,S砂浜 | S_River,S汽水地 | SE_Jetty,SE砂浜桟橋 | SW_Beach,SW砂浜 | 3B,東西進入可 | 3B_S2,南中州 | W_UpEnd_Entry,W島(上) | W_DownEnd,W島(下) | W_Beach,W砂浜 | W_Stone,W岩場 | DNE_NNW,昼：北東、夜：北西 | 19 | 'FldOutTemplateA00' | 

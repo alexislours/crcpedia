@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/MysteryTourInsectParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/MysteryTourInsectParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/MysteryTourInsectParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | UniqueID | TargetInsect |
 |:--:|:--:|
 | 1 | 0000000000000000080000000000 | 

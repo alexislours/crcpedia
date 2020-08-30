@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/CharaMakeCheekTypeParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/CharaMakeCheekTypeParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/CharaMakeCheekTypeParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | UniqueID | Label | Name | TexName |
 |:--:|:--:|:--:|:--:|
 | 0 | 'Cheek0' | 'Cheek0' | 'mCheek_Alb.0' | 

@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/EventFlagsNpcTempParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/EventFlagsNpcTempParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/EventFlagsNpcTempParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | DefaultValue | MaxValue | UniqueID | _5f77b61a | _8d401df7 | FlagsFlowAccess | Key | Name |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 1 | 1 | 0 | 0 | 1 | 0 | 'PlayerBirthdayEnter' | 'プレイヤ誕生日分岐：入場直後' | 

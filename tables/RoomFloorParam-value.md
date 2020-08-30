@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/RoomFloorParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/RoomFloorParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/RoomFloorParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | Act | Price | Scale | Scale10x6 | Floorboards | ItemTableId | LandingUniqueID | UniqueID | HasJmp | Horizon | ItemName | ResourceName | Rotatable |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | None,なし | 888 | None,なし | None,なし | 3 | 4797 | 1 | 0 | 0 | 0 | 'ちかしつのゆか' | 'RoomTexFloorBasement00' | 0 | 

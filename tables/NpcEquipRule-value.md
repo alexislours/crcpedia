@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/NpcEquipRule.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/NpcEquipRule.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/NpcEquipRule.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | ClothesFrequencyWear | ClothesPurposeLimit | ClothesTemporarilyCreate | PurposeScore | PurposeTag | ScoreMultiplier | SeasonScore | TasteScore | UniqueID | CapFrequencyWear | CapPurposeLimit | CapTemporarilyCreate | GlassesFrequencyWear | GlassesPurposeLimit | GlassesTemporarilyCreate | Label | MaskFrequencyWear | MaskPurposeLimit | MaskTemporarilyCreate | Name |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | Always,◎ | None,- | None,- | 3 | 12 | 2.0 | 2 | 5 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 'Usually' | 0 | 0 | 0 | '日常' | 

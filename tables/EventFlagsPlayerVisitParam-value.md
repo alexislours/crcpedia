@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/EventFlagsPlayerVisitParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/EventFlagsPlayerVisitParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/EventFlagsPlayerVisitParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | DefaultValue | MaxValue | UniqueID | FlagsFlowAccess | Key | Name |
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | 0 | 1 | 0 | 2 | 'DC_ChmTalkRuleFirst' | 'カメヤマ(DC)|開催中、初回ルール説明聞いたか？' | 

@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ShopItemRouteFlags.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/ShopItemRouteFlags.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/ShopItemRouteFlags.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | FlagLand | FlagPlayer | ShopType | AttrCollectBit | ItemFrom |
 |:--:|:--:|:--:|:--:|:--:|
 | 268 | -1 | Shop,お店 | 0 | 'Shop_EnableAxe' | 

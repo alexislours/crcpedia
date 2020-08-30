@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/EventFlagsPlayerParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/EventFlagsPlayerParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/EventFlagsPlayerParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | DefaultValue | MaxValue | UniqueID | _5140e4b4 | _bed25a86 | _c436ce69 | FlagsFlowAccess | Key | Name | SendPlayReport |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 0 | 9 | 2 | 0 | 1 | 0 | 0 | 'PrologueNpcHintCount' | 'NPCの序盤ヒントをいくつまで聞いたか' | 1 | 

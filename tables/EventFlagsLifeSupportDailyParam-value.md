@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/EventFlagsLifeSupportDailyParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/EventFlagsLifeSupportDailyParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/EventFlagsLifeSupportDailyParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | _b5761610 | WaitFrame | AppearValue | GenreID | ItemNameUniqueID | MaxValue | MsID | Reward | UniqueID | BonusFive | CanSelectEDay | CancelEDay | CountOtherVillage | FlagsFlowAccess | IsEDay | Key | Name | NetPlaySelect | SpecialSelect | Weighting |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | Num,数 | 0 | 30 | 9 | 65534 | 20 | 9 | 100 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 'SellWeed' | '村清掃活動' | 0 | 1 | 2 | 

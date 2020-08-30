@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/MuseumNameboardInfo.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/MuseumNameboardInfo.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/MuseumNameboardInfo.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | NameboardAngleY | NameboardPosX | NameboardPosY | NameboardPosZ | StageName | DonateItemFifth | DonateItemFirst | DonateItemFourth | DonateItemSecond | DonateItemThird | UniqueID | ModelResName | VisibleOff |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 0.0 | 130.0 | -7.0 | 229.1999969482422 | IdrMuseumFish_2,[サカナ]淡水の部屋 | 2229 | 2225 | 2228 | 2226 | 2215 | 0 | 'IdrObjNameBoardFish2PopA01' | 0 | 

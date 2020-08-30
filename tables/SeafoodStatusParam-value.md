@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/SeafoodStatusParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/SeafoodStatusParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/SeafoodStatusParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | ActionType | CaptureCategory | CaptureLevel | ShadowType | ItemID | OpenRecordNum | UniqueID | DebugName | Label | ResName | ResNameMuseum |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | Stop,静止 | Weed,海藻 | 5,5 | L,L | 2620 | 0 | 0 | 'ワカメ' | 'Wakame' | 'DiveFishWakame' | 'DiveFishWakameMuseum' | 

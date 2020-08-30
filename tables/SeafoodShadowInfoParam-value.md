@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/SeafoodShadowInfoParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/SeafoodShadowInfoParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/SeafoodShadowInfoParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | ModelScale | UniqueID | ModelResName |
 |:--:|:--:|:--:|
 | 0.4000000059604645 | 0 | 'DiveFishShadow' | 

@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/LocalizeNameConvertParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/LocalizeNameConvertParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/LocalizeNameConvertParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | UniqueID | BaseName | CNzh | EUde | EUen | EUes | EUfr | EUit | EUnl | EUru | JPja | KRko | LocalizeAnim | LocalizeModel | LocalizeTexture | TWzh | USen | USes | USfr |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 0 | 'EvtobjCountdownBoard' | 14 | 8 | 1 | 2 | 7 | 9 | 11 | 12 | 0 | 13 | 1 | 0 | 1 | 15 | 1 | 2 | 3 | 

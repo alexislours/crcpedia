@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/EventFlagsLifeSupportAchievementParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/EventFlagsLifeSupportAchievementParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/EventFlagsLifeSupportAchievementParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | FlagLand | FlagPlayer | LifeSupportStamp | MaxValue1 | MaxValue2 | MaxValue3 | MaxValue4 | MaxValue5 | Reward1 | Reward2 | Reward3 | Reward4 | Reward5 | Reward6 | WaitFrame | UniqueID | _bed25a86 | IsSpecial | Key | MaxLevel | Name |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | -1 | -1 | Event,F4：イベント系 | 1 | 0 | 0 | 0 | 0 | 500 | 500 | 1000 | 2000 | 3000 | 0 | 0 | 53 | 1 | 0 | 'ImmigratetoIsland' | 1 | '島に移住した' | 

@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemOutfitHangerInfo.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemOutfitHangerInfo.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemOutfitHangerInfo.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | ItemLayout | ItemSize | UniqueID | Label | ResName |
 |:--:|:--:|:--:|:--:|:--:|
 | Wall_NoCol,壁掛け：0 | 1_0x1_0_Wall,1x1(壁) | 0 | 'None' | '' | 

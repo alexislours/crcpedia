@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/StructureBridgeParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/StructureBridgeParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/StructureBridgeParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | BridgePattern | BridgeTypeUniqueID | UniqueID | ModelName |
 |:--:|:--:|:--:|:--:|
 | 03,橋03 | 0 | 0 | 'BridgeStone03' | 

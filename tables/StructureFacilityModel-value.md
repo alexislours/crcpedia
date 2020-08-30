@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/StructureFacilityModel.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/StructureFacilityModel.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/StructureFacilityModel.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | Door0Angle | _85a0fa49 | FacilityModelVariation | FloorHeight | Door0 | DoorMaterial | _9c2d6dc6 | RoofMaterial | StructureInfoUniqueID | UniqueID | Construction | GrowLevel | HasDoorEigyoLight | HasEigyoLight | HasNightLight | IsUseXlink | ModelName | UseChimneySmoke | UseMyDesign |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 0.0 | 2117934662 | A,タイプA | 0.0 | 0 | 1 | 7 | 6 | 19 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 'StrcMarketA00Reserve' | 0 | 0 | 

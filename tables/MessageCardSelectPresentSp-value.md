@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/MessageCardSelectPresentSp.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/MessageCardSelectPresentSp.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/MessageCardSelectPresentSp.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | ItemCategory | ItemCategoryGroup | _37571146 | _e060d3cd | ItemRemakeType |
 |:--:|:--:|:--:|:--:|:--:|
 | 33 | 0 | 2777829115 | 0 | 0 | 

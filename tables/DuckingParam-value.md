@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/DuckingParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/DuckingParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/DuckingParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | UniqueID | Name |
 |:--:|:--:|
 | 1 | 'UI_通常' | 

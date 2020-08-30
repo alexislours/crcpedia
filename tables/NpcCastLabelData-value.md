@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/NpcCastLabelData.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/NpcCastLabelData.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/NpcCastLabelData.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | AIFlowEntryName | AIFlowName | AppearStage | CastType |
 |:--:|:--:|:--:|:--:|
 | '' | 'AI_NPC_Outdoor/AI_NPC_Indoor' | 0 | 0 | 

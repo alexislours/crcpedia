@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ColSoundAttributeParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/ColSoundAttributeParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/ColSoundAttributeParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | UniqueID | Name |
 |:--:|:--:|
 | 0 | '未設定' | 

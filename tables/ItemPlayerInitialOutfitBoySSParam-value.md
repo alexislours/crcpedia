@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemPlayerInitialOutfitBoySSParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemPlayerInitialOutfitBoySSParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemPlayerInitialOutfitBoySSParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | AcceEye | AcceMouth | Bottoms | Cap | Shoes | Socks | Tops | UniqueID | Label |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 65534 | 65534 | 4187 | 65534 | 6884 | 5199 | 6820 | 0 | 'BoySS_0' | 

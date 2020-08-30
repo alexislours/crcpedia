@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/MessageCardBoardDesignParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/MessageCardBoardDesignParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/MessageCardBoardDesignParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | BackColor | BodyColor | FootColor | HeadColor | PenColor1 | PenColor2 | PenColor3 | PenColor4 | RuleColor | TextLotId | _84818e10 | UniqueID | ResourceName |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 65535 | 138 | 139 | 139 | 138 | 360 | 169 | 170 | 1 | -1 | 65535 | 0 | 'BoardCardNormal00' | 

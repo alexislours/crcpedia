@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/MuseumNPCSpotTalk.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/MuseumNPCSpotTalk.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/MuseumNPCSpotTalk.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | StageName | UniqueID | SpotTalkKey | SpotTalkLabelKey | SpotTalkName |
 |:--:|:--:|:--:|:--:|:--:|
 | IdrMuseumFish_2,[サカナ]淡水の部屋 | 2 | 'BO_Spot_Museum_Fish' | '001' | '川魚の部屋' | 

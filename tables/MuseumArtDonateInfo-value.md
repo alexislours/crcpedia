@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/MuseumArtDonateInfo.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/MuseumArtDonateInfo.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/MuseumArtDonateInfo.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | StageName | ModelID | UniqueID | WatchItem | CameraParamName |
 |:--:|:--:|:--:|:--:|:--:|
 | IdrMuseumArt_0,芸術品部屋1 | 0 | 0 | 1343 | 'id00' | 

@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemKind.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemKind.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemKind.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | FtrIconCaptureType | ItemKindUIType | ItemRemakeType | MessageKind | SLinkType | MultiHoldMaxNum | SaveCountMaxNum | UniqueID | CanBury | CanEat | CanFtr | CanGift | CanNpcBirthdayPresent | CanNpcPresent | CanPlant | CanPut | CanPutWallAndFloor | CanSell | CanSellSimple | CanSetChest | CanSetCloset | CanSetInTrashBox | CanSetItem | CanUsePhotoStudio | _c37a683c | IsCollectAchievement | Label | Name |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | OnCapture,あり | None,なし | Ftr,家具 | 00_Ftr,00_Ftr | FtrUniqueUser,個別ユーザ | 0 | 0 | 5 | 1 | 0 | 1 | 1 | 1 | 1 | 0 | 1 | 0 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 0 | 1 | 'Ftr' | '家具' | 

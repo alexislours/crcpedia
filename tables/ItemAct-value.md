@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemAct.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemAct.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemAct.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | AsName | CategoryName | _8b1904b9 | UniqueID | Collision | DemoType | Label | Name | SwitchableOnWall |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | FtrLoopAuto,FtrLoopAuto | None,なし | Unknown,未設定 | 1 | 1 | 0 | 'None' | 'なし' | 0 | 

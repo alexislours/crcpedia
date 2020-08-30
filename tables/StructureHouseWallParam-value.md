@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/StructureHouseWallParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/StructureHouseWallParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/StructureHouseWallParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | HouseDoorStep | CustomizeSortID | _9c2d6dc6 | HouseShapeUniqueID | UniqueID | LightParamName | ModelName | UseCurtain | UseExteriorLight |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | Normal,通常の家 | 1000 | 3 | 0 | 0 | 'HouseWallPA04StandardA' | 'HouseWallPA04StandardA' | 1 | 1 | 

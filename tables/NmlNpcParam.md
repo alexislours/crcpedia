@@ -3,7 +3,7 @@
 
 **Named columns**: 31/39
 
-**Documented columns**: 22/39
+**Documented columns**: 24/39
 
 **Description**: Main params for villager NPCs
 ## 0xa54f92fd
@@ -12,7 +12,7 @@
 
 **Type**: u32/s32
 
-**Notes**: row index (not UniqueID!) within AITag.bcsv
+**Notes**: AITag row index counts as preferred clothes. 4 = China, 9 = None, 10 = Japanese.
 
 **Versions**: 
 
@@ -27,7 +27,7 @@
 
 **Type**: u32/s32
 
-**Notes**: row index (not UniqueID!) within AITag.bcsv
+**Notes**: AITag row index counts as preferred clothes. All 9 (None).
 
 **Versions**: 
 

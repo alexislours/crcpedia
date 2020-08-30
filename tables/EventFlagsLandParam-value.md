@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/EventFlagsLandParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/EventFlagsLandParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/EventFlagsLandParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | _fdb1f290 | DefaultValue | FlagsFlowAccess | FlagsNetAccess | MaxValue | UniqueID | Key | Name | SendPlayReport | SyncNoCheck |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | Pre,日またぎ成長処理前（経過日数が0以外） | 0 | EnableReadOnly,○参照×書き込み | ReadOnly,参照のみ可能 | 1 | 0 | 'TodayCreateVillage' | '今日村作成されたか' | 1 | 0 | 

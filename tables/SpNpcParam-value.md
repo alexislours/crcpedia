@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/SpNpcParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/SpNpcParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/SpNpcParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | GenderAsia | GenderUsEu | PacketId | Social | NpcSpClothSet | PosterItemID | Smartphone | Umbrella | UniqueID | BirthMDay | BirthMonth | HavokResName | Label | NameWithTitle | NpcColor | ResName | SpecialELink | SpecialSLink | _21c5bbd6 | _e52f0037 | _42f255d5 | VmPauseType | VmRhythmType |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | Male,男性 | Male,男性 | 0 | 0 | 25 | 10435 | 65534 | 65534 | 0 | 26 | 1 | '' | 'alp' | 0 | 0 | 'NpcSpAlp' | 1 | 0 | 5 | 1 | 2 | 0 | 0 | 

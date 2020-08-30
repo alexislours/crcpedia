@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemClothGroup.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemClothGroup.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemClothGroup.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | ItemShopSeasonality | ParentItemName | UniqueID | FashionThemeDaily | FashionThemeFairyland | FashionThemeFomal | FashionThemeHorror | FashionThemeOutdoor | FashionThemeParty | FashionThemeRelax | FashionThemeSport | FashionThemeStage | FashionThemeVacation | FashionThemeWork | _83ccbe0f | Label | Name | UseColorGroupSort |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | AllYear,通年 | 65534 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | '' | 'None' | '-' | 0 | 

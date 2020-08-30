@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/AmiiboData.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/AmiiboData.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/AmiiboData.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | CharacterId | NumberingId | SpNpcCloth | NfpType | NpcLabel | NpcType | Reaction | SeriesId | Studio |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 98560 | 587 | 0 | 0 | 'sza' | 1 | 0 | 5 | 0 | 

@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/StructureSlopeParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/StructureSlopeParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/StructureSlopeParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | ItemNameUniqueID | UniqueID | JpName | ModelName |
 |:--:|:--:|:--:|:--:|
 | 5863 | 0 | '石坂' | 'SlopeStoneStair' | 

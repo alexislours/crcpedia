@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/EventFlagsNpcMemoryParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/EventFlagsNpcMemoryParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/EventFlagsNpcMemoryParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | UniqueID | _5f77b61a | _5140e4b4 | _8d401df7 | DefaultValue | FlagsFlowAccess | Key | MaxValue | Name |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 0 | 1 | 1 | 0 | 0 | 2 | 'TalkFreeMultiDayEventNow' | 1 | '（ボツ）今、期間型イベント用のFreeFを聞いたか？' | 

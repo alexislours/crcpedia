@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemOutfitCategory.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemOutfitCategory.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemOutfitCategory.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | UniqueID | CanHasSit | _555442aa | _b645432f | HandToolAsName | Label | Misc | Name | _a9f8ee25 | ToolLeftModelName | ToolRightModelName | _f71bffe7 | _1b93daa9 | UseToolLeft |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 0 | 0 | 0 | 'None' | '' | 'None' | 0000 | 'なし' | '' | '' | '' | '' | '' | 0 | 

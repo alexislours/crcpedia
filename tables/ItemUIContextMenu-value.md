@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemUIContextMenu.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemUIContextMenu.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemUIContextMenu.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | Priority | UniqueID | AutoDisappear | Label | MSLabel | Name |
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | 10 | 2 | 1 | 'Build' | '0128' | 'ここにたてる' | 

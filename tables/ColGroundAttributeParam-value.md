@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ColGroundAttributeParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/ColGroundAttributeParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/ColGroundAttributeParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | EffectAttribute | SoundAttribute | UniqueID | ViewSortID | CanBury | DebugName | FtrPlace | _2e1e45c3 | _bd859433 | _0254bd05 | NpcNoEntry | PlayerNoEntry | Sand | WaterCheck |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 2 | 2 | 0 | 0 | 1 | '草' | 1 | '#CBAA6A' | '#E7DDD0' | 0 | 0 | 0 | 0 | 0 | 

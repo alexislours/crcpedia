@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/EventFlagsPlayerTempParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/EventFlagsPlayerTempParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/EventFlagsPlayerTempParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | DefaultValue | MaxValue | UniqueID | _3dad9135 | _3c7fb88f | FlagsFlowAccess | Key | Name |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 0 | 1 | 0 | 0 | 0 | 2 | 'TreasureQuestPlayerWin' | '宝探しクエストプレイヤー勝利' | 

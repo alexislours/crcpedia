@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/FishAppearSeaParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/FishAppearSeaParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/FishAppearSeaParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | ItemID | ProbAprDaytime | ProbAprMorningAndEvening | ProbAprNight | ProbAugDaytime | ProbAugMorningAndEvening | ProbAugNight | ProbDecDaytime | ProbDecMorningAndEvening | ProbDecNight | ProbFebDaytime | ProbFebMorningAndEvening | ProbFebNight | ProbJanDaytime | ProbJanMorningAndEvening | ProbJanNight | ProbJulDaytime | ProbJulMorningAndEvening | ProbJulNight | ProbJunDaytime | ProbJunMorningAndEvening | ProbJunNight | ProbMarDaytime | ProbMarMorningAndEvening | ProbMarNight | ProbMayDaytime | ProbMayMorningAndEvening | ProbMayNight | ProbNovDaytime | ProbNovMorningAndEvening | ProbNovNight | ProbOctDaytime | ProbOctMorningAndEvening | ProbOctNight | ProbSepDaytime | ProbSepMorningAndEvening | ProbSepNight | AppearArea |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 2264 | 16 | 16 | 17 | 15 | 14 | 16 | 21 | 20 | 18 | 20 | 19 | 18 | 21 | 20 | 18 | 15 | 14 | 15 | 18 | 18 | 17 | 20 | 18 | 19 | 20 | 20 | 20 | 21 | 20 | 19 | 20 | 20 | 21 | 15 | 15 | 15 | 0 | 

@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemUnitIcon.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemUnitIcon.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemUnitIcon.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | ScaleOffset | CatalogItemUniqueID | UniqueID | ColorIndex | Label | ModelName | Name | ResName |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 1.0 | 65534 | 5 | -1 | 'None' | '' | '（なし）' | '' | 

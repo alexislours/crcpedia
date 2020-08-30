@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemRemakeCommonPattern.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemRemakeCommonPattern.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemRemakeCommonPattern.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | Category | Color1 | Color2 | SortID | UniqueID | Label | TextureResName |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | Dot,ドット | Red,レッド | Red,レッド | 0 | 0 | '0' | 'FtrCmnFabricDotSmall00' | 

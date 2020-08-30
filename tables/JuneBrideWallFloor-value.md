@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/JuneBrideWallFloor.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/JuneBrideWallFloor.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/JuneBrideWallFloor.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | Theme | FloorItemId | RugItemId | UniqueID | WallItemId |
 |:--:|:--:|:--:|:--:|:--:|
 | Wedding,挙式 | 12431 | 12462 | 2 | 12466 | 

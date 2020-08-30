@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/CalendarEventRegionParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/CalendarEventRegionParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/CalendarEventRegionParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | RegionEventCountry1 | SortID | RegionEventCountry2 | RegionEventCountry3 | RegionEventCountry4 | RegionEventCountry5 | UniqueID | EventLabel | ItemFrom |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | EachCountry,37 | 501 | 0 | 0 | 0 | 0 | 1 | 'MothersDay' | 'MotherDay' | 

@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/NmlNpcRaceParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/NmlNpcRaceParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/NmlNpcRaceParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | AnimeTypeBag | AnimeTypeBasket | AnimeTypeBloom | AnimeTypeBook | AnimeTypeDrink | AnimeTypeFirewood | AnimeTypeFishingRod | AnimeTypeFood | AnimeTypeHandGlass | AnimeTypeNet | AnimeTypeSitDown | AnimeTypeSmartPhone | AnimeTypeUmbrella | AnimeTypeWateringCan | Label |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 'M' | 'M' | 'S' | 'M' | 'M' | 'S' | 'M' | 'L' | 'M' | 'M' | '07' | 'L' | 'S' | 'M' | 'ant' | 

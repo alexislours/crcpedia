@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/FgFlowerHeredity.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/FgFlowerHeredity.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/FgFlowerHeredity.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | Kind | Name | _753336dd | DefaultHeredity | HeredityA | HeredityB | HeredityC | HeredityD |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | FlwRose,植物：花：バラ | 60261 | 65534 | 0 | 0 | 0 | 0 | 0 | 

@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/CharaMakeEyeColorParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/CharaMakeEyeColorParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/CharaMakeEyeColorParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | BaseColorB | BaseColorG | BaseColorR | UniqueID | Label | Name |
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | 0.029999999329447746 | 0.029999999329447746 | 0.029999999329447746 | 0 | 'EyeColor0' | 'EyeColor0' | 

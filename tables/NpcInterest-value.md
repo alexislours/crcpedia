@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/NpcInterest.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/NpcInterest.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/NpcInterest.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | Offset | ContinuousTime | ItemUniqueID | BehaviorType | ConditionType | FlagType | InterestEndModeType | IntervalTime | LabelType | MoveASType | MoveConditionType | NeedType | RainActive | TimeZoneIndoorEarlyMorningLevel | TimeZoneIndoorEveningLevel | TimeZoneIndoorMidnightLevel | TimeZoneIndoorMorningLevel | TimeZoneIndoorNightLevel | TimeZoneIndoorNoonLevel | TimeZoneOutdoorEarlyMorningLevel | TimeZoneOutdoorEveningLevel | TimeZoneOutdoorMidnightLevel | TimeZoneOutdoorMorningLevel | TimeZoneOutdoorNightLevel | TimeZoneOutdoorNoonLevel | VillageDevelopmentLevel | WaitASType |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 2.0 | 900 | 65534 | 19 | 0 | 0 | 0 | 1 | 1 | '' | 3 | 0 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | '' | 

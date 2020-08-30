@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/StructureHouseDoorParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/StructureHouseDoorParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/StructureHouseDoorParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | _b619ba5c | HouseDoorAnim | HouseDoorShape | CustomizeSortID | Material | UniqueID | DecoForbidden | Dummy | HasDoorWindow | LatchBolt | ModelName |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 0 | KnobRotate,ノブ（回転あり） | Round,丸い | 1000 | 2 | 0 | 0 | 0 | 0 | 1 | 'HouseDoorStandardAR' | 

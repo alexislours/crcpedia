@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/TVProgramSunday.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/TVProgramSunday.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/TVProgramSunday.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | TVProgramName | StartHour | StartMinute |
 |:--:|:--:|:--:|
 | FtrTVProgramMusic,音楽番組 | 0 | 0 | 

@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/AITag.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/AITag.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/AITag.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | AITagCategory | UniqueID | Label | Name |
 |:--:|:--:|:--:|:--:|
 | Season,季節 | 1 | 'Spring' | '春' | 

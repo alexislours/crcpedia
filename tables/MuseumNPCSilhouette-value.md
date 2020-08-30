@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/MuseumNPCSilhouette.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/MuseumNPCSilhouette.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/MuseumNPCSilhouette.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | MuseumNpcRace | SilhouettePosX | SilhouettePosY | SilhouettePosZ | UniqueID | SilhouetteName |
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | 2 | 160.0 | 20.0 | 210.0 | 0 | 'トリシルエット' | 

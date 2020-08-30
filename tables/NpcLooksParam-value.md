@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/NpcLooksParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/NpcLooksParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/NpcLooksParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | Book0 | Book1 | Book2 | Comic0 | Comic1 | Comic2 | Dream0 | Dream1 | Dream2 | Drink0 | Drink1 | Drink2 | Food0 | Food1 | Food2 | Hobby0 | Hobby1 | Hobby2 | Movie0 | Movie1 | Movie2 | Music0 | Music1 | Music2 | Speciality0 | Speciality1 | Speciality2 | Sports0 | Sports1 | Sports2 | TvProgram0 | TvProgram1 | TvProgram2 | UniqueID | Label |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 50 | 43 | 46 | 69 | 66 | 62 | 184 | 191 | 185 | 143 | 144 | 145 | 161 | 166 | 171 | 207 | 206 | 201 | 88 | 86 | 83 | 27 | 25 | 28 | 223 | 222 | 220 | 128 | 124 | 130 | 103 | 110 | 104 | 0 | 'boy_normal' | 

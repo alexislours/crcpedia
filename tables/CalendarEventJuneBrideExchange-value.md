@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/CalendarEventJuneBrideExchange.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/CalendarEventJuneBrideExchange.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/CalendarEventJuneBrideExchange.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | RequiredNum | UniqueID | ExchangeItem | DispInteriorMode | JuneBrideProgress |
 |:--:|:--:|:--:|:--:|:--:|
 | 5 | 0 | 12401 | 1 | 1 | 

@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/NpcSpServiceMotionWork.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/NpcSpServiceMotionWork.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/NpcSpServiceMotionWork.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | UniqueID | ASCommand1 | ASCommand2 | ASCommand3 | ASCommand4 | ASCommand5 | ASCommand6 | ASCommand7 | ASCommand8 | Label | Rate1 | Rate2 | Rate3 | Rate4 | Rate5 | Rate6 | Rate7 | Rate8 |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 7 | 'NpcSpDusterMiddle@ToolDusterNormal' | 'NpcSpWatering@ToolSpray' | 'NpcSpWatchDisplay' | 'NpcSpBookSit@ToolBookNovel' | 'MaReSleep' | 'NpcSpArrange' | '' | '' | 'szaOffice' | 10 | 15 | 10 | 45 | 7 | 13 | 0 | 0 | 

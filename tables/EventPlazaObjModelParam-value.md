@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/EventPlazaObjModelParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/EventPlazaObjModelParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/EventPlazaObjModelParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | DemoDistance | _a9c1118b | RoofMaterial | UniqueID | _30d3f8f7 | FlowFileName | NearCulling | ResourceName |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 0.0 | None,なし | 0 | 0 | '' | '' | 0 | '' | 

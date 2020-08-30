@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/RoomWindowParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/RoomWindowParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/RoomWindowParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | RoomWindowModelType | RoomWindowWallType | UniqueID | ResourceName | WindowName |
 |:--:|:--:|:--:|:--:|:--:|
 | None,無し | None,無し | 6 | '' | '無し' | 

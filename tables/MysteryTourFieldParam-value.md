@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/MysteryTourFieldParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/MysteryTourFieldParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/MysteryTourFieldParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | MysteryTourFieldOutside | UniqueID |
 |:--:|:--:|
 | NoRiver,河口なし | 0 | 

@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/FgMainParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/FgMainParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/FgMainParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | CollisionHeight | InsectParam | Kind | PicIconHeight | BuryItem | BuryItem2 | BuryItem3 | ChangeFg | DigItem | EffectAttribute | GrowupFg | NutItem | PicItem | SoundAttribute | UniqueID | ColorIndex | DebugName | Grow | Label | ModelName | Nature | _a4b2d66d | ResName |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 0.0 | None,なし | TreeOak,植物：木：広葉樹 | 0.0 | 5152 | 2794 | 65534 | 65534 | 5152 | 0 | 60006 | 65534 | 65534 | 0 | 60005 | -1 | '広葉樹（苗）' | 0 | 'PltTreeOak0' | 'PltTreeOak0' | 8100 | 06 | 'PltTreeOak' | 

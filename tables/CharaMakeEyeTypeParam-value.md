@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/CharaMakeEyeTypeParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/CharaMakeEyeTypeParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/CharaMakeEyeTypeParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | UniqueID | Label | Name | ResName | StungResName |
 |:--:|:--:|:--:|:--:|:--:|
 | 0 | 'Eye0' | 'Eye0' | 'PlayerEye00' | 'PlayerEyeBite00' | 

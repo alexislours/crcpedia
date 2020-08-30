@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/RadioJingle.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/RadioJingle.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/RadioJingle.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | SelectRate | Timezone | Frames | MusicNo | UniqueID | BeforeDays | EventLabelShort |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 1.0 | Daytime,昼 | 329 | 301 | 0 | 0 | 'EventNone' | 

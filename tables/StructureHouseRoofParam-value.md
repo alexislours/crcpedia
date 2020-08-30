@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/StructureHouseRoofParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/StructureHouseRoofParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/StructureHouseRoofParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | HouseColor | CustomizeSortID | HouseShapeUniqueID | Material | UniqueID | Dummy | ModelName |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | Red,赤 | 1000 | 0 | 6 | 0 | 0 | 'HouseRoofPA04StandardA' | 

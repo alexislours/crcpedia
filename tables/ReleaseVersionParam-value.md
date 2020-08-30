@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ReleaseVersionParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/ReleaseVersionParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/ReleaseVersionParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | ReleaseKey | UniqueID | Label | Name |
 |:--:|:--:|:--:|:--:|
 | 10000 | 1 | 'Launch' | '1.0.0 ローンチ' | 

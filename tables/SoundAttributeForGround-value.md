@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/SoundAttributeForGround.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/SoundAttributeForGround.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/SoundAttributeForGround.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | RefSoundAttributeID | UniqueID |
 |:--:|:--:|
 | 0 | 0 | 

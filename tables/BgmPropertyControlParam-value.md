@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/BgmPropertyControlParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/BgmPropertyControlParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/BgmPropertyControlParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | PropertyID | UniqueID | Value | Name |
 |:--:|:--:|:--:|:--:|
 | 2 | 2 | 1 | 'ムシとり大会：1_開始準備' | 

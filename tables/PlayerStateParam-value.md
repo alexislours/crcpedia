@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/PlayerStateParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/PlayerStateParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/PlayerStateParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | BgCheckType | ChangeDemo | ObjCheckRate | ObjCheckType | PacketType | RemoteChase | ToolState | _e50d3218 | AcceptAccess | _f413acd2 | _833e2942 | BeesRunAway | BgmEnd | _497ac4d6 | _63f77486 | _5dcf7b24 | _16e483f0 | _aa0070b7 | DummyMenuDemo | EnableRodCloth | EnableStageChange | ForbidOverwrite | _e550abdf | HideHUD | InWaterBody | JudgeVisibleOn | _ede0a8ca | _87438100 | NpcLookAction | _5b6d5751 | PoseTrans | PoseTransDive | _65fd6b0d | _2b6186a0 | _95798f28 | StateName | StopAutoSave | _a84507aa | _c033d95a | ValidDiveRate | WaitType |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | NoBgCheckNoGravity,BGチェック無/重力無 | Disable,デモ不可 | 1.0 | None,なし | Overwrite,上書き | None,追従なし | IfNotDemoDraw,デモでなければ表示 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 'Hide' | 0 | 1 | 0 | 0 | 0 | 

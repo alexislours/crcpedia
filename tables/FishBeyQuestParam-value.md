@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/FishBeyQuestParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/FishBeyQuestParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/FishBeyQuestParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | UniqueID | IsSelectQuestM | IsSelectQuestS | IsSelectQuestSS |
 |:--:|:--:|:--:|:--:|
 | 0 | 1 | 0 | 1 | 

@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/EventFlagsPlayerActivityParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/EventFlagsPlayerActivityParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/EventFlagsPlayerActivityParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | MaxValue | MessageLabel | TalkValueVillager | TalkValueVisitor | UniqueID | FlagsFlowAccess | Key | Name |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 720 | 101 | 180 | 60 | 0 | 0 | 'PlayTime' | 'プレイ時間' | 

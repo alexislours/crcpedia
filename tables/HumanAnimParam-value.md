@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/HumanAnimParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/HumanAnimParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/HumanAnimParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | _58102055 | LowerSetting | UISortID | UniqueID | _9f5123d4 | _d5217761 | AsCommand | _84761fb6 | CancelFootprint | Comment | _ba199df0 | Misc | MoveAs | ToolAsCommand |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 3751981041 | DisableOnlyLowerBody,下半身再生不可 | 10 | 50 | 2 | 255 | 'MaReGreeting' | 0 | 0 | '【漫符】会釈' | 0 | 1e0000 | 0 | '' | 

@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemOutfitInfo.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemOutfitInfo.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemOutfitInfo.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | Category | FloorScale | RotateOffsetX | RotateOffsetY | RotateOffsetZ | TransOffsetX | TransOffsetY | TransOffsetZ | WallScale | BreakDamage | UniqueID | HangerInfo | Label | Name | SpecialELink | SpecialSLink | Storage |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | AccessoryEye,アクセサリ：目 | 0.75 | -98.9000015258789 | -90.0 | 0.0 | 3.0429999828338623 | 2.1730000972747803 | 1.7760000228881836 | 0.8500000238418579 | 0 | 110 | 3 | 'AccessoryOneEye' | 'アクセサリ：片目' | 0 | 0 | 0400 | 

@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/SoundAudioMusic.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/SoundAudioMusic.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/SoundAudioMusic.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | AudioMusicID | RefItemUniqueID | UniqueID | _32bc8d59 | Label |
 |:--:|:--:|:--:|:--:|:--:|
 | 1 | 2405 | 6 | 80 | 'Sanbika' | 

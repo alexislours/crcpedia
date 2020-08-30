@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/MuseumFossilDonateInfo.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/MuseumFossilDonateInfo.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/MuseumFossilDonateInfo.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | StageName | ModelID | UniqueID | WatchItem | CameraParamName |
 |:--:|:--:|:--:|:--:|:--:|
 | IdrMuseumFossil_1,[かせき]中生代の部屋 | 0 | 8 | 4688 | 'FossilBrachiosaurus' | 

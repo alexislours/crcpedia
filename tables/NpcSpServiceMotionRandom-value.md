@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/NpcSpServiceMotionRandom.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/NpcSpServiceMotionRandom.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/NpcSpServiceMotionRandom.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | SelectSecond | UniqueID | ASCommand | EndHour | Label | SelectRate | StartHour | Type |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 15 | 0 | 'MaReSleepy' | 6 | 'rco' | 20 | 21 | 0 | 

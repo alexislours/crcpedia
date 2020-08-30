@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemFrom.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemFrom.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemFrom.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | HHABaseScore | UniqueID | Label | Name |
 |:--:|:--:|:--:|:--:|
 | 0 | 0 | 'None' | 'なし' | 

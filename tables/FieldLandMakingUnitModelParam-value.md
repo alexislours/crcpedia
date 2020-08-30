@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/FieldLandMakingUnitModelParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/FieldLandMakingUnitModelParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/FieldLandMakingUnitModelParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | ChangeFallType | CornerType | EdgePatternType | InnerType000 | ModelType | StepLevel | TriangleType | UniqueID | Variation | FishPoint | InnerType001 | InnerType002 | InnerType003 | InnerType010 | InnerType011 | InnerType012 | InnerType013 | InnerType020 | InnerType021 | InnerType022 | InnerType023 | InnerType030 | InnerType031 | InnerType032 | InnerType033 | InnerType100 | InnerType101 | InnerType102 | InnerType103 | InnerType110 | InnerType111 | InnerType112 | InnerType113 | InnerType120 | InnerType121 | InnerType122 | InnerType123 | InnerType130 | InnerType131 | InnerType132 | InnerType133 | ModelName |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | None,なし | None,なし | None,なし | Base,地面 | Plane,平地 | Level0,なし | Invalid,なし | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 'Base' | 

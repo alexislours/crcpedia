@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemPlayerTopsForm.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemPlayerTopsForm.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemPlayerTopsForm.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | NormalScaleMaskA | NormalScaleMaskB | NormalScaleMaskG | NormalScaleMaskR | UniqueID | Label | Name | NpcResName | NpcSpResName | ResName | TorsoResName |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 0.0 | 0.0 | 0.0 | 0.0 | 0 | 'None' | 'なし' | '' | '' | '' | '' | 

@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/EventFlagsNpcSaveParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/EventFlagsNpcSaveParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/EventFlagsNpcSaveParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | DefaultValue | MaxValue | UniqueID | _5140e4b4 | FlagsFlowAccess | Key | Name |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 0 | 200 | 0 | 0 | 0 | 'NnpcHouseLoan' | 'ローン返済カウント' | 

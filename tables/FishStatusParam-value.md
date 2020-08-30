@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/FishStatusParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/FishStatusParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/FishStatusParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | AppearArea | AppearType | BuoyLv | EscapeScale | FishMuseumAction | _4108715d | SearchRadius | ShadowType | ItemID | OpenDonatedNum | ToyItemID | UniqueID | DebugName | IsCreateBait | IsSidewaysShow | Label | _1f875d3d | ResName | ResNameMuseum |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | '_UNK_f4dbdf21_' | River,川 | 1,2 | 1.0 | AntiStream,抗水流 | 1092616192 | 2,3 | M,M | 2237 | 0 | 6936 | 24 | 'アユ' | 1 | 0 | 'Ayu' | 'SysFishBoneRes3' | 'FishAyu' | 'FishAyuMuseum' | 

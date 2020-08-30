@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/MuseumStampRackInfo.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/MuseumStampRackInfo.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/MuseumStampRackInfo.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | StageName | StampRackPutUnitX | StampRackPutUnitZ | StampRackItemNameA | StampRackItemNameB | StampRackItemNameC | StampRackSetDirection | UniqueID | StampRackIdx | _0512b63c | StampRackNameTextLabel | _96d80132 | _ed4b6070 |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | IdrMuseumInsect_0,[ムシ]大温室 | 59 | 5 | 612 | 637 | 600 | 180 | 0 | 0 | '002' | '001' | '001' | 1 | 

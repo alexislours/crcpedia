@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemColor.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemColor.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemColor.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | UniqueID | Label | Name |
 |:--:|:--:|:--:|
 | 5 | 'Orange' | 'オレンジ' | 

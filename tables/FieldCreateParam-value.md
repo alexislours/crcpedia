@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/FieldCreateParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/FieldCreateParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/FieldCreateParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | FactoryType | PhotoStudioRoomNo | RoomType | ItemLayer | StageName | StaticField |
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | Default,Default | Room0,部屋0 | Invalid,なし | 0 | 'InvalidStage' | 0 | 

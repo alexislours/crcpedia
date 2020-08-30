@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/StructureHouseShapeParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/StructureHouseShapeParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/StructureHouseShapeParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | AppearanceLevel | CustomizeSortID | DefaultDoorUniqueID | DefaultRoofUniqueID | DefaultWallUniqueID | HousePartsType | UniqueID | DoorBellName | Name |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | Level04,成長段階04 | 0 | 0 | 0 | 0 | 0 | 0 | 'DoorBell_House_Standard1_Pl' | 'スタンダード1' | 

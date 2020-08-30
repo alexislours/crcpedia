@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemFilter.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemFilter.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemFilter.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | ItemKind1 | ItemKind10 | ItemKind11 | ItemKind12 | ItemKind13 | ItemKind14 | ItemKind15 | ItemKind2 | ItemKind3 | ItemKind4 | ItemKind5 | ItemKind6 | ItemKind7 | ItemKind8 | ItemKind9 | UniqueID | CheckDonation | ItemNum | Label |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 70 | 128 | 128 | 128 | 128 | 128 | 128 | 71 | 128 | 128 | 128 | 128 | 128 | 128 | 128 | 0 | 0 | 1 | 'RcoDonationForMuseum' | 

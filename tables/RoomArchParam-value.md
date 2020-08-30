@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/RoomArchParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/RoomArchParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/RoomArchParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | UniqueID | ResourceName |
 |:--:|:--:|
 | 0 | '' | 

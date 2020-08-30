@@ -17369,7 +17369,7 @@
   "NmlNpcParam": {
     "name": "NmlNpcParam",
     "namedColumns": "31/39",
-    "documentedColumns": "22/39",
+    "documentedColumns": "24/39",
     "description": "Main params for villager NPCs",
     "hashes": [
       {
@@ -17379,8 +17379,9 @@
         "hashNotes": "",
         "formattedHash": "_a54f92fd",
         "name": "",
-        "functionalityNotes": "row index (not UniqueID!) within AITag.bcsv",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"]
+        "functionalityNotes": "AITag row index counts as preferred clothes. 4 = China, 9 = None, 10 = Japanese.",
+        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "knownFunctionality": true
       },
       {
         "hash": "e2efe82d",
@@ -17389,8 +17390,9 @@
         "hashNotes": "",
         "formattedHash": "_e2efe82d",
         "name": "",
-        "functionalityNotes": "row index (not UniqueID!) within AITag.bcsv",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"]
+        "functionalityNotes": "AITag row index counts as preferred clothes. All 9 (None).",
+        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "knownFunctionality": true
       },
       {
         "hash": "5ef86f1f",

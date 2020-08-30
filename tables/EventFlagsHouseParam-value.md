@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/EventFlagsHouseParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/EventFlagsHouseParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/EventFlagsHouseParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | DefaultValue | MaxValue | UniqueID | _5140e4b4 | FlagsFlowAccess | Key | Name |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 0 | 1 | 1 | 0 | 2 | 'HouseOrder1' | 'テント→6x6増築申込' | 

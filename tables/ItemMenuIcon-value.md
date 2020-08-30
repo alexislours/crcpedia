@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemMenuIcon.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemMenuIcon.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemMenuIcon.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | UniqueID | Label | Name | ResName |
 |:--:|:--:|:--:|:--:|
 | 0 | 'Leaf' | '葉っぱ' | 'Leaf' | 

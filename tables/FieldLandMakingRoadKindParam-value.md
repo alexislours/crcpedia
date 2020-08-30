@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/FieldLandMakingRoadKindParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/FieldLandMakingRoadKindParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/FieldLandMakingRoadKindParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | GroundAttributeUniqueID | InnerType | MessageLabel |
 |:--:|:--:|:--:|
 | 0 | 0 | '001' | 

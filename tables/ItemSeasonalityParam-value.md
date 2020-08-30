@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemSeasonalityParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemSeasonalityParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemSeasonalityParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | EndDayNorth | EndDaySouth | EndMonthNorth | EndMonthSouth | StartDayNorth | StartDaySouth | StartMonthNorth | StartMonthSouth | UniqueID |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 31 | 31 | 12 | 12 | 1 | 1 | 1 | 1 | 0 | 

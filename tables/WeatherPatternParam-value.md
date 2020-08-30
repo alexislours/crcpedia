@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/WeatherPatternParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/WeatherPatternParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/WeatherPatternParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | UniqueID | Label |
 |:--:|:--:|
 | 0 | 'Fine00' | 

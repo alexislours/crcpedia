@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/GmoFootprintParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/GmoFootprintParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/GmoFootprintParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | Effect | Sound | UniqueID | Name |
 |:--:|:--:|:--:|:--:|
 | None,なし | None,なし | 20 | 'なし' | 

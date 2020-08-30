@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/IndoorIdrParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/IndoorIdrParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/IndoorIdrParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | ArtObjNum | DecorationObjNum | FossilObjNum | UniqueID | ResourceName |
 |:--:|:--:|:--:|:--:|:--:|
 | 0 | 0 | 0 | 0 | 'IdrMarket01' | 

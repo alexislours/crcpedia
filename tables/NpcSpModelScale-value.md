@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/NpcSpModelScale.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/NpcSpModelScale.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/NpcSpModelScale.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | NormalScaleBottomsA | NormalScaleBottomsB | NormalScaleBottomsG | NormalScaleBottomsR | NormalScaleHA | NormalScaleHB | NormalScaleHG | NormalScaleHR | NormalScaleLA | NormalScaleLB | NormalScaleLG | NormalScaleLR | NormalScaleNA | NormalScaleNB | NormalScaleNG | NormalScaleNR | UniqueID | Label | Name |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 0.6000000238418579 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.6000000238418579 | 0.6000000238418579 | 0.0 | 0.6000000238418579 | 0.6000000238418579 | 0.6000000238418579 | 0.0 | 0.0 | 0.0 | 0.6000000238418579 | 0 | 'rco' | 'たぬきち' | 

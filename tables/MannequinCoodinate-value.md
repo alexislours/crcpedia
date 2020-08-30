@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/MannequinCoodinate.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/MannequinCoodinate.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/MannequinCoodinate.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | MannequinPose | Seasonality | AccEye | AccMouth | Bottoms | Cap | Shoes | Socks | Tops | UniqueID |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | MannequinPause01,ポーズ1 | 0 | 65534 | 65534 | 11432 | 5146 | 10042 | 9682 | 8551 | 0 | 

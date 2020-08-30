@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/MuseumWatchPoint.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/MuseumWatchPoint.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/MuseumWatchPoint.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | SilhouetteID | StageName | _35ac2c17 | WalkWatchOffsetX | WalkWatchOffsetY | WalkWatchOffsetZ | WatchAngleY | WatchPosX | WatchPosY | WatchPosZ | UniqueID | BattlePoint | PointName | SilhouettePoint |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 0 | IdrMuseumFish_2,[サカナ]淡水の部屋 | Always,常時 | 0.0 | 10.0 | 20.0 | 135.0 | 240.0 | 10.0 | 230.0 | 3 | 0 | 'ピラルク' | 0 | 

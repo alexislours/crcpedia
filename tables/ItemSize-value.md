@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemSize.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemSize.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemSize.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | ResSizeLimit | MemoryUnitNum | PolygonLimit | UniqueID | HalfUnitSizeX | HalfUnitSizeZ | Label | Name |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 1.5750000476837158 | 1 | 1200 | 2 | 2 | 2 | '1_0x1_0' | '1x1' | 

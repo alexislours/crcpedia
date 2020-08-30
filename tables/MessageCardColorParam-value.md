@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/MessageCardColorParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/MessageCardColorParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/MessageCardColorParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | Color | UniqueID |
 |:--:|:--:|
 | 16777215 | 0 | 

@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/NpcMsgBullfestParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/NpcMsgBullfestParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/NpcMsgBullfestParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | NpcMsgBullfestCondition | AN1Index | AN2Index | AccessoryID | BO1Index | BO2Index | BagID | BottomsID | CapID | CombinationNum | EyeAcceID | FU1Index | FU2Index | GE1Index | GE2Index | HA1Index | HA2Index | HelmetID | KO1Index | KO2Index | OT1Index | OT2Index | ShoesID | SocksID | ToolID | TopsID | UmbrellaID | UniqueID | ZK1Index | ZK2Index |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | NpcRelatedTops,NPC関連服 | 1 | 101 | 65534 | 1 | 101 | 65534 | 65534 | 65534 | 0 | 65534 | 1 | 101 | 1 | 101 | 1 | 101 | 65534 | 1 | 101 | 1 | 101 | 65534 | 65534 | 65534 | 65534 | 65534 | 1 | 1 | 101 | 

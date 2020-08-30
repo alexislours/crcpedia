@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemNpcFtrActionParam.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemNpcFtrActionParam.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemNpcFtrActionParam.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | NpcFtrActionHoldTime | NpcFtrActionInterest | NpcFtrActionWeather | NpcFtrActionTool | UniqueID | Label | Name | NpcFtrActionAsName |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 0 | None,未設定 | None,なし | 65534 | 0 | 'None' | 'なし' | '' | 

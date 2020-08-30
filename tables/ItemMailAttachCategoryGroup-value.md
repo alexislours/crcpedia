@@ -1,3 +1,7 @@
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemMailAttachCategoryGroup.html) [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemMailAttachCategoryGroup.csv) [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemMailAttachCategoryGroup.json)
+
+Spazzy's exports: [CSV](JSON)
+
 | UniqueID | _e4361c86 | Label | Name |
 |:--:|:--:|:--:|:--:|
 | 0 | 'b6eede09' | 'None' | '-' | 
