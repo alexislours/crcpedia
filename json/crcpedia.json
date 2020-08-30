@@ -16480,7 +16480,7 @@
     "name": "MuseumNPCSilhouette",
     "namedColumns": "6/6",
     "documentedColumns": "1/6",
-    "description": "",
+    "description": "Seems to be offsets for hardcoded positions in the sillhouette room, even though they are all the same. Why do you do this to me Nintendo?",
     "hashes": [
       {
         "hash": "110ca7b2",

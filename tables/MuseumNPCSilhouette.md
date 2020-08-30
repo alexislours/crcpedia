@@ -5,6 +5,7 @@
 
 **Documented columns**: 1/6
 
+**Description**: Seems to be offsets for hardcoded positions in the sillhouette room, even though they are all the same. Why do you do this to me Nintendo?
 ## MuseumNpcRace
 
 **Name**: MuseumNpcRace
