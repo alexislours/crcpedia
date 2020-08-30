@@ -3,7 +3,7 @@
 
 **Named columns**: 31/39
 
-**Documented columns**: 25/39
+**Documented columns**: 26/39
 
 **Description**: Main params for villager NPCs
 ## 0xa54f92fd
@@ -616,7 +616,7 @@
 
 **Type**: u8/s8
 
-**Notes**: 1, 2, 3, 6, 8, 10, 12, 14, and 18
+**Notes**: Related to village melody. 1, 2, 3, 6, 8, 10, 12, 14, and 18
 
 **Versions**: 
 
@@ -631,7 +631,7 @@
 
 **Type**: u8/s8
 
-**Notes**: 1 through 6
+**Notes**: Related to village melody. 1 through 6
 
 **Versions**: 
 

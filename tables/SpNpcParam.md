@@ -3,7 +3,7 @@
 
 **Named columns**: 20/23
 
-**Documented columns**: 12/23
+**Documented columns**: 13/23
 
 **Description**: Main params for special NPCs
 ## GenderAsia
@@ -304,6 +304,8 @@
 
 **Type**: u8/s8
 
+**Notes**: Village melody note length, lower values have shorter notes. Name probably starts with "Vm"
+
 **Versions**: 
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
@@ -317,6 +319,8 @@
 
 **Type**: u8/s8
 
+**Notes**: Related to village melody. 1, 3, 4, 5, 10, 11, 21, and 53
+
 **Versions**: 
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
@@ -329,6 +333,8 @@
 **Hash**: 0x42f255d5
 
 **Type**: u8/s8
+
+**Notes**: Related to village melody. 1 through 6
 
 **Versions**: 
 

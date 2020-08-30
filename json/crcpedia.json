@@ -17369,7 +17369,7 @@
   "NmlNpcParam": {
     "name": "NmlNpcParam",
     "namedColumns": "31/39",
-    "documentedColumns": "25/39",
+    "documentedColumns": "26/39",
     "description": "Main params for villager NPCs",
     "hashes": [
       {
@@ -17775,7 +17775,7 @@
         "name": "",
         "functionalityNotes": "Village melody note length, lower values have shorter notes. Name probably starts with \"Vm\"",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "e52f0037",
@@ -17784,7 +17784,7 @@
         "hashNotes": "",
         "formattedHash": "_e52f0037",
         "name": "",
-        "functionalityNotes": "1, 2, 3, 6, 8, 10, 12, 14, and 18",
+        "functionalityNotes": "Related to village melody. 1, 2, 3, 6, 8, 10, 12, 14, and 18",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
         "knownFunctionality": false
       },
@@ -17795,7 +17795,7 @@
         "hashNotes": "",
         "formattedHash": "_42f255d5",
         "name": "",
-        "functionalityNotes": "1 through 6",
+        "functionalityNotes": "Related to village melody. 1 through 6",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
         "knownFunctionality": false
       }
@@ -23420,7 +23420,7 @@
   "SpNpcParam": {
     "name": "SpNpcParam",
     "namedColumns": "20/23",
-    "documentedColumns": "12/23",
+    "documentedColumns": "13/23",
     "description": "Main params for special NPCs",
     "hashes": [
       {
@@ -23626,9 +23626,9 @@
         "hashNotes": "",
         "formattedHash": "_21c5bbd6",
         "name": "",
-        "functionalityNotes": "",
+        "functionalityNotes": "Village melody note length, lower values have shorter notes. Name probably starts with \"Vm\"",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "e52f0037",
@@ -23637,7 +23637,7 @@
         "hashNotes": "",
         "formattedHash": "_e52f0037",
         "name": "",
-        "functionalityNotes": "",
+        "functionalityNotes": "Related to village melody. 1, 3, 4, 5, 10, 11, 21, and 53",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
         "knownFunctionality": false
       },
@@ -23648,7 +23648,7 @@
         "hashNotes": "",
         "formattedHash": "_42f255d5",
         "name": "",
-        "functionalityNotes": "",
+        "functionalityNotes": "Related to village melody. 1 through 6",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
         "knownFunctionality": false
       },
