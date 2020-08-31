@@ -5,6 +5,7 @@
 
 **Documented columns**: 3/5
 
+**Description**: Accessories available to villagers
 ## UniqueID
 
 **Name**: UniqueID

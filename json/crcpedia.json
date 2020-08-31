@@ -11066,7 +11066,7 @@
     "name": "ItemNpcOutfitInfo",
     "namedColumns": "3/5",
     "documentedColumns": "3/5",
-    "description": "",
+    "description": "Accessories available to villagers",
     "hashes": [
       {
         "hash": "54706054",
