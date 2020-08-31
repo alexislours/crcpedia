@@ -19520,8 +19520,8 @@
   "NpcMoveRoomTemplate": {
     "name": "NpcMoveRoomTemplate",
     "namedColumns": "6/6",
-    "documentedColumns": "0/6",
-    "description": "",
+    "documentedColumns": "5/6",
+    "description": "Layout of rooms while villagers are in boxes",
     "hashes": [
       {
         "hash": "d9a1f501",
@@ -19530,9 +19530,9 @@
         "hashNotes": "",
         "formattedHash": "_d9a1f501",
         "name": "RoomType",
-        "functionalityNotes": "",
+        "functionalityNotes": "Layout each personality uses. 0 = Peppy, 1 = Lazy, 2 = Jock, 3 = Cranky, 4 = Normal, 5 = Sisterly, 6 = Smug, 7 = Snooty",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "3a1fca06",
@@ -19541,9 +19541,9 @@
         "hashNotes": "",
         "formattedHash": "_3a1fca06",
         "name": "Direction",
-        "functionalityNotes": "",
+        "functionalityNotes": "Direction each piece of furniture faces",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "b12e26da",
@@ -19552,7 +19552,7 @@
         "hashNotes": "",
         "formattedHash": "_b12e26da",
         "name": "GroupIndex",
-        "functionalityNotes": "",
+        "functionalityNotes": "All 0s",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
         "knownFunctionality": false
       },
@@ -19563,9 +19563,9 @@
         "hashNotes": "",
         "formattedHash": "_0b6d59d2",
         "name": "Size",
-        "functionalityNotes": "",
+        "functionalityNotes": "Cardboard box type. 0 = 1x1, 1 = 2x1, 2 = 2x2",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "ef0088e8",
@@ -19574,9 +19574,9 @@
         "hashNotes": "",
         "formattedHash": "_ef0088e8",
         "name": "XUnitIndex",
-        "functionalityNotes": "",
+        "functionalityNotes": "X position from left to right",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "8f5c3da3",
@@ -19585,9 +19585,9 @@
         "hashNotes": "",
         "formattedHash": "_8f5c3da3",
         "name": "ZUnitIndex",
-        "functionalityNotes": "",
+        "functionalityNotes": "Y position from top to bottom",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       }
     ]
   },
