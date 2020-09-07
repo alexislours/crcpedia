@@ -18158,7 +18158,7 @@
   "NpcEquipRule": {
     "name": "NpcEquipRule",
     "namedColumns": "20/20",
-    "documentedColumns": "12/20",
+    "documentedColumns": "16/20",
     "description": "Parameters for each PurposeTag (AITag) for villager clothing",
     "hashes": [
       {
@@ -18180,7 +18180,8 @@
         "formattedHash": "_b219374f",
         "name": "ClothesPurposeLimit",
         "functionalityNotes": "Limits tops to within the PurposeTag during this EquipRule.",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"]
+        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "knownFunctionality": true
       },
       {
         "hash": "68d62ca8",
@@ -18275,7 +18276,8 @@
         "formattedHash": "_2c2a379e",
         "name": "CapPurposeLimit",
         "functionalityNotes": "Limits caps to within the PurposeTag during this EquipRule.",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"]
+        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "knownFunctionality": true
       },
       {
         "hash": "a4396b29",
@@ -18306,8 +18308,9 @@
         "hashNotes": "",
         "formattedHash": "_a073aa81",
         "name": "GlassesPurposeLimit",
-        "functionalityNotes": "Limits glasses to within the PurposeTag during this EquipRule?",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"]
+        "functionalityNotes": "Limits glasses to within the PurposeTag during this EquipRule.",
+        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "knownFunctionality": true
       },
       {
         "hash": "fdf8907b",
@@ -18349,8 +18352,9 @@
         "hashNotes": "",
         "formattedHash": "_cc198281",
         "name": "MaskPurposeLimit",
-        "functionalityNotes": "Limits masks to within the PurposeTag during this EquipRule? All 0s",
-        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"]
+        "functionalityNotes": "Limits masks to within the PurposeTag during this EquipRule. All 0s",
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
+        "knownFunctionality": true
       },
       {
         "hash": "14767df7",

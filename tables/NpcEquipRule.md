@@ -3,7 +3,7 @@
 
 **Named columns**: 20/20
 
-**Documented columns**: 12/20
+**Documented columns**: 16/20
 
 **Description**: Parameters for each PurposeTag (AITag) for villager clothing
 ## ClothesFrequencyWear
@@ -231,7 +231,7 @@
 
 **Hashed string**: GlassesPurposeLimit u8
 
-**Notes**: Limits glasses to within the PurposeTag during this EquipRule?
+**Notes**: Limits glasses to within the PurposeTag during this EquipRule.
 
 **Versions**: 
 
@@ -298,7 +298,7 @@
 
 **Hashed string**: MaskPurposeLimit u8
 
-**Notes**: Limits masks to within the PurposeTag during this EquipRule? All 0s
+**Notes**: Limits masks to within the PurposeTag during this EquipRule. All 0s
 
 **Versions**: 
 
