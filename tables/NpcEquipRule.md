@@ -3,7 +3,7 @@
 
 **Named columns**: 20/20
 
-**Documented columns**: 8/20
+**Documented columns**: 12/20
 
 **Description**: Parameters for each PurposeTag (AITag) for villager clothing
 ## ClothesFrequencyWear
@@ -14,7 +14,7 @@
 
 **Hashed string**: ClothesFrequencyWear.hshCstringRef
 
-**Notes**: Likelyhood of wearing a top from the PurposeTag during this EquipRule?
+**Notes**: Likelyhood of wearing a top from the PurposeTag during this EquipRule.
 
 **Versions**: 
 
@@ -31,7 +31,7 @@
 
 **Hashed string**: ClothesPurposeLimit.hshCstringRef
 
-**Notes**: Limits tops to within the PurposeTag during this EquipRule?
+**Notes**: Limits tops to within the PurposeTag during this EquipRule.
 
 **Versions**: 
 
@@ -48,7 +48,7 @@
 
 **Hashed string**: ClothesTemporarilyCreate.hshCstringRef
 
-**Notes**: Determines whether villagers will use a TempCreate top if they don't own any tops in the PurposeTag
+**Notes**: Determines whether villagers will use a TempCreate top if they don't own any tops in the PurposeTag. Condition = only if they don't have any other tops.
 
 **Versions**: 
 
@@ -163,7 +163,7 @@
 
 **Hashed string**: CapFrequencyWear u8
 
-**Notes**: Likelyhood of wearing a cap from the PurposeTag during this EquipRule? Numbers should line up with ClothesFrequencyWear, but that has 3 different strings and this has 4 values.
+**Notes**: Likelyhood of wearing a cap from the PurposeTag during this EquipRule. Numbers should line up with ClothesFrequencyWear, but that has 3 different strings and this has 4 values.
 
 **Versions**: 
 
@@ -180,7 +180,7 @@
 
 **Hashed string**: CapPurposeLimit u8
 
-**Notes**: Limits caps to within the PurposeTag during this EquipRule?
+**Notes**: Limits caps to within the PurposeTag during this EquipRule.
 
 **Versions**: 
 
@@ -197,7 +197,7 @@
 
 **Hashed string**: CapTemporarilyCreate u8
 
-**Notes**: Determines whether villagers will use a TempCreate cap if they don't own any caps in the PurposeTag
+**Notes**: Determines whether villagers will use a TempCreate cap if they don't own any caps in the PurposeTag. Condition = only if they don't have any other caps.
 
 **Versions**: 
 
@@ -214,7 +214,7 @@
 
 **Hashed string**: GlassesFrequencyWear u8
 
-**Notes**: Likelyhood of wearing glasses from the PurposeTag during this EquipRule?
+**Notes**: Likelyhood of wearing glasses from the PurposeTag during this EquipRule.
 
 **Versions**: 
 
@@ -248,7 +248,7 @@
 
 **Hashed string**: GlassesTemporarilyCreate u8
 
-**Notes**: Determines whether villagers will use TempCreate glasses if they don't own any glasses in the PurposeTag
+**Notes**: Determines whether villagers will use TempCreate glasses if they don't own any glasses in the PurposeTag. Condition = only if they don't have any other glasses.
 
 **Versions**: 
 
@@ -280,7 +280,7 @@
 
 **Hashed string**: MaskFrequencyWear u8
 
-**Notes**: Likelyhood of wearing a mask from the PurposeTag during this EquipRule? All 0s
+**Notes**: Likelyhood of wearing a mask from the PurposeTag during this EquipRule. All 0s
 
 **Versions**: 
 

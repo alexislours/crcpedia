@@ -18158,7 +18158,7 @@
   "NpcEquipRule": {
     "name": "NpcEquipRule",
     "namedColumns": "20/20",
-    "documentedColumns": "8/20",
+    "documentedColumns": "12/20",
     "description": "Parameters for each PurposeTag (AITag) for villager clothing",
     "hashes": [
       {
@@ -18168,8 +18168,9 @@
         "hashNotes": "",
         "formattedHash": "_423d1c4d",
         "name": "ClothesFrequencyWear",
-        "functionalityNotes": "Likelyhood of wearing a top from the PurposeTag during this EquipRule?",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"]
+        "functionalityNotes": "Likelyhood of wearing a top from the PurposeTag during this EquipRule.",
+        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "knownFunctionality": true
       },
       {
         "hash": "b219374f",
@@ -18178,7 +18179,7 @@
         "hashNotes": "",
         "formattedHash": "_b219374f",
         "name": "ClothesPurposeLimit",
-        "functionalityNotes": "Limits tops to within the PurposeTag during this EquipRule?",
+        "functionalityNotes": "Limits tops to within the PurposeTag during this EquipRule.",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"]
       },
       {
@@ -18188,7 +18189,7 @@
         "hashNotes": "",
         "formattedHash": "_68d62ca8",
         "name": "ClothesTemporarilyCreate",
-        "functionalityNotes": "Determines whether villagers will use a TempCreate top if they don't own any tops in the PurposeTag",
+        "functionalityNotes": "Determines whether villagers will use a TempCreate top if they don't own any tops in the PurposeTag. Condition = only if they don't have any other tops.",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
         "knownFunctionality": true
       },
@@ -18262,8 +18263,9 @@
         "hashNotes": "",
         "formattedHash": "_f9cf603a",
         "name": "CapFrequencyWear",
-        "functionalityNotes": "Likelyhood of wearing a cap from the PurposeTag during this EquipRule? Numbers should line up with ClothesFrequencyWear, but that has 3 different strings and this has 4 values.",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"]
+        "functionalityNotes": "Likelyhood of wearing a cap from the PurposeTag during this EquipRule. Numbers should line up with ClothesFrequencyWear, but that has 3 different strings and this has 4 values.",
+        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "knownFunctionality": true
       },
       {
         "hash": "2c2a379e",
@@ -18272,7 +18274,7 @@
         "hashNotes": "",
         "formattedHash": "_2c2a379e",
         "name": "CapPurposeLimit",
-        "functionalityNotes": "Limits caps to within the PurposeTag during this EquipRule?",
+        "functionalityNotes": "Limits caps to within the PurposeTag during this EquipRule.",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"]
       },
       {
@@ -18282,7 +18284,7 @@
         "hashNotes": "",
         "formattedHash": "_a4396b29",
         "name": "CapTemporarilyCreate",
-        "functionalityNotes": "Determines whether villagers will use a TempCreate cap if they don't own any caps in the PurposeTag",
+        "functionalityNotes": "Determines whether villagers will use a TempCreate cap if they don't own any caps in the PurposeTag. Condition = only if they don't have any other caps.",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
         "knownFunctionality": true
       },
@@ -18293,8 +18295,9 @@
         "hashNotes": "",
         "formattedHash": "_744b3452",
         "name": "GlassesFrequencyWear",
-        "functionalityNotes": "Likelyhood of wearing glasses from the PurposeTag during this EquipRule?",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"]
+        "functionalityNotes": "Likelyhood of wearing glasses from the PurposeTag during this EquipRule.",
+        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "knownFunctionality": true
       },
       {
         "hash": "a073aa81",
@@ -18313,7 +18316,7 @@
         "hashNotes": "",
         "formattedHash": "_fdf8907b",
         "name": "GlassesTemporarilyCreate",
-        "functionalityNotes": "Determines whether villagers will use TempCreate glasses if they don't own any glasses in the PurposeTag",
+        "functionalityNotes": "Determines whether villagers will use TempCreate glasses if they don't own any glasses in the PurposeTag. Condition = only if they don't have any other glasses.",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
         "knownFunctionality": true
       },
@@ -18335,8 +18338,9 @@
         "hashNotes": "",
         "formattedHash": "_74275e7a",
         "name": "MaskFrequencyWear",
-        "functionalityNotes": "Likelyhood of wearing a mask from the PurposeTag during this EquipRule? All 0s",
-        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"]
+        "functionalityNotes": "Likelyhood of wearing a mask from the PurposeTag during this EquipRule. All 0s",
+        "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
+        "knownFunctionality": true
       },
       {
         "hash": "cc198281",
