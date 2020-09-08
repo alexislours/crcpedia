@@ -4838,7 +4838,7 @@
         "hashNotes": "",
         "formattedHash": "_110a7053",
         "name": "MessageLabel",
-        "functionalityNotes": "",
+        "functionalityNotes": "Dialogue number",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
         "knownFunctionality": false
       },
