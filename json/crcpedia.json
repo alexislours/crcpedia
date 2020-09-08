@@ -4817,7 +4817,7 @@
   "EventFlagsPlayerActivityParam": {
     "name": "EventFlagsPlayerActivityParam",
     "namedColumns": "8/8",
-    "documentedColumns": "4/8",
+    "documentedColumns": "7/8",
     "description": "Flags for the player interactions",
     "hashes": [
       {
@@ -4840,7 +4840,7 @@
         "name": "MessageLabel",
         "functionalityNotes": "Dialogue number",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "ccd4c25f",
@@ -4849,9 +4849,9 @@
         "hashNotes": "",
         "formattedHash": "_ccd4c25f",
         "name": "TalkValueVillager",
-        "functionalityNotes": "",
+        "functionalityNotes": "Number of times the action needs to be done in order for villagers to comment on it for residents",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "e6317726",
@@ -4860,9 +4860,9 @@
         "hashNotes": "",
         "formattedHash": "_e6317726",
         "name": "TalkValueVisitor",
-        "functionalityNotes": "",
+        "functionalityNotes": "Number of times the action needs to be done in order for villagers to comment on it for visiting players",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "54706054",

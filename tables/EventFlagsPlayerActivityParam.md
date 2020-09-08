@@ -3,7 +3,7 @@
 
 **Named columns**: 8/8
 
-**Documented columns**: 4/8
+**Documented columns**: 7/8
 
 **Description**: Flags for the player interactions
 ## MaxValue
@@ -46,6 +46,8 @@
 
 **Hashed string**: TalkValueVillager u16
 
+**Notes**: Number of times the action needs to be done in order for villagers to comment on it for residents
+
 **Versions**: 
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
@@ -60,6 +62,8 @@
 **Hash**: 0xe6317726
 
 **Hashed string**: TalkValueVisitor u16
+
+**Notes**: Number of times the action needs to be done in order for villagers to comment on it for visiting players
 
 **Versions**: 
 
