@@ -3,7 +3,7 @@
 
 **Named columns**: 91/98
 
-**Documented columns**: 65/98
+**Documented columns**: 66/98
 
 **Description**: The big table everyone loves. Params for every item in the game
 ## AudioPreset
@@ -857,6 +857,8 @@
 **Hash**: 0x8392798c
 
 **Hashed string**: NpcGender.hshCstringRef
+
+**Notes**: used as an override for ItemGender for some npc related code (e.g. gifts). where if NpcGender is not Free, ItemGender is used, otherwise, NpcGender is used
 
 **Versions**: 
 

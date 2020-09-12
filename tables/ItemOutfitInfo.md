@@ -3,7 +3,7 @@
 
 **Named columns**: 17/17
 
-**Documented columns**: 2/17
+**Documented columns**: 3/17
 
 **Description**: Model scaling and transformations for clothing
 ## Category
@@ -178,6 +178,8 @@
 **Hash**: 0x46489ce7
 
 **Hashed string**: HangerInfo u8
+
+**Notes**: index into ItemOutfitHangerInfo (not UniqueId, though UniqueIds for ItemOutfitHangerInfo are sequential at the moment)
 
 **Versions**: 
 

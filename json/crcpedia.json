@@ -11820,7 +11820,7 @@
   "ItemOutfitInfo": {
     "name": "ItemOutfitInfo",
     "namedColumns": "17/17",
-    "documentedColumns": "2/17",
+    "documentedColumns": "3/17",
     "description": "Model scaling and transformations for clothing",
     "hashes": [
       {
@@ -11951,9 +11951,9 @@
         "hashNotes": "",
         "formattedHash": "_46489ce7",
         "name": "HangerInfo",
-        "functionalityNotes": "",
+        "functionalityNotes": "index into ItemOutfitHangerInfo (not UniqueId, though UniqueIds for ItemOutfitHangerInfo are sequential at the moment)",
         "versions": ["No", "No", "No", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "87bf00e8",
@@ -12015,7 +12015,7 @@
   "ItemParam": {
     "name": "ItemParam",
     "namedColumns": "91/98",
-    "documentedColumns": "65/98",
+    "documentedColumns": "66/98",
     "description": "The big table everyone loves. Params for every item in the game",
     "hashes": [
       {
@@ -12578,9 +12578,9 @@
         "hashNotes": "",
         "formattedHash": "_8392798c",
         "name": "NpcGender",
-        "functionalityNotes": "",
+        "functionalityNotes": "used as an override for ItemGender for some npc related code (e.g. gifts). where if NpcGender is not Free, ItemGender is used, otherwise, NpcGender is used",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "60c99a5e",
