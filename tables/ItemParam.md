@@ -892,7 +892,7 @@
 
 **Hashed string**: OutfitSE.hshCstringRef
 
-**Notes**: Outfit sound effect
+**Notes**: Sound effect for equipping outfit
 
 **Versions**: 
 

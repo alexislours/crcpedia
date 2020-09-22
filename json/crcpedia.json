@@ -12599,7 +12599,7 @@
         "hashNotes": "",
         "formattedHash": "_041c3234",
         "name": "OutfitSE",
-        "functionalityNotes": "Outfit sound effect",
+        "functionalityNotes": "Sound effect for equipping outfit",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
         "knownFunctionality": true
       },
