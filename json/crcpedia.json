@@ -12015,7 +12015,7 @@
   "ItemParam": {
     "name": "ItemParam",
     "namedColumns": "91/98",
-    "documentedColumns": "66/98",
+    "documentedColumns": "67/98",
     "description": "The big table everyone loves. Params for every item in the game",
     "hashes": [
       {
@@ -12599,9 +12599,9 @@
         "hashNotes": "",
         "formattedHash": "_041c3234",
         "name": "OutfitSE",
-        "functionalityNotes": "Presumably outfit sound effect. Currently 'None' for every item",
+        "functionalityNotes": "Outfit sound effect",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "718b024d",

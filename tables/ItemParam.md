@@ -3,7 +3,7 @@
 
 **Named columns**: 91/98
 
-**Documented columns**: 66/98
+**Documented columns**: 67/98
 
 **Description**: The big table everyone loves. Params for every item in the game
 ## AudioPreset
@@ -892,7 +892,7 @@
 
 **Hashed string**: OutfitSE.hshCstringRef
 
-**Notes**: Presumably outfit sound effect. Currently 'None' for every item
+**Notes**: Outfit sound effect
 
 **Versions**: 
 
