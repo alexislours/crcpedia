@@ -61,7 +61,7 @@
 
 **Hash**: 0xa745c103
 
-**Type**: u32
+**Type**: u32/s32
 
 **Versions**: 
 

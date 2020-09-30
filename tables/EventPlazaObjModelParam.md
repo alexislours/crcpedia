@@ -136,7 +136,7 @@
 
 **Hash**: 0xe2760d00
 
-**Type**: u8
+**Type**: u8/s8
 
 **Versions**: 
 
@@ -149,7 +149,7 @@
 
 **Hash**: 0xa5010be8
 
-**Type**: u16
+**Type**: u16/s16
 
 **Versions**: 
 

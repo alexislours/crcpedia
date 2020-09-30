@@ -51,7 +51,7 @@
 
 **Hash**: 0xbed25a86
 
-**Type**: u8
+**Type**: u8/s8
 
 **Versions**: 
 

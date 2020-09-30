@@ -1,9 +1,9 @@
 # NpcEquipRule
 [View this table in your browser](NpcEquipRule-value.md) (version 1.4.0).
 
-**Named columns**: 20/20
+**Named columns**: 20/21
 
-**Documented columns**: 16/20
+**Documented columns**: 16/21
 
 **Description**: Parameters for each PurposeTag (AITag) for villager clothing
 ## ClothesFrequencyWear
@@ -255,6 +255,19 @@
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
 |:--:|:--:|:--:|:--:|:--:|
 | Yes | Yes | Yes | Yes | Yes | 
+
+
+## 0x6510a4fe
+
+**Hash**: 0x6510a4fe
+
+**Type**: u8/s8
+
+**Versions**: 
+
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+|:--:|:--:|:--:|:--:|:--:|
+|  |  |  |  |  | 
 
 
 ## Label

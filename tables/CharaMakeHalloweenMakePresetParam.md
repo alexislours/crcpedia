@@ -7,7 +7,7 @@
 
 **Hash**: 0xea6d4070
 
-**Type**: u16
+**Type**: u16/s16
 
 **Versions**: 
 

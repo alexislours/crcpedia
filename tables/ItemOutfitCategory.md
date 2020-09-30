@@ -10,7 +10,7 @@
 
 **Hash**: 0x2924e11f
 
-**Type**: u16
+**Type**: u16/s16
 
 **Versions**: 
 

@@ -432,7 +432,7 @@
       },
       {
         "hash": "a745c103",
-        "type": "u32",
+        "type": "u32/s32",
         "hashedString": "",
         "hashNotes": "",
         "formattedHash": "_a745c103",
@@ -3072,7 +3072,7 @@
     "hashes": [
       {
         "hash": "ea6d4070",
-        "type": "u16",
+        "type": "u16/s16",
         "hashedString": "",
         "hashNotes": "",
         "formattedHash": "_ea6d4070",
@@ -4618,7 +4618,7 @@
       },
       {
         "hash": "bed25a86",
-        "type": "u8",
+        "type": "u8/s8",
         "hashedString": "",
         "hashNotes": "",
         "formattedHash": "_bed25a86",
@@ -5449,7 +5449,7 @@
       },
       {
         "hash": "e2760d00",
-        "type": "u8",
+        "type": "u8/s8",
         "hashedString": "",
         "hashNotes": "",
         "formattedHash": "_e2760d00",
@@ -5460,7 +5460,7 @@
       },
       {
         "hash": "a5010be8",
-        "type": "u16",
+        "type": "u16/s16",
         "hashedString": "",
         "hashNotes": "",
         "formattedHash": "_a5010be8",
@@ -11706,7 +11706,7 @@
     "hashes": [
       {
         "hash": "2924e11f",
-        "type": "u16",
+        "type": "u16/s16",
         "hashedString": "",
         "hashNotes": "",
         "formattedHash": "_2924e11f",
@@ -18296,8 +18296,8 @@
   },
   "NpcEquipRule": {
     "name": "NpcEquipRule",
-    "namedColumns": "20/20",
-    "documentedColumns": "16/20",
+    "namedColumns": "20/21",
+    "documentedColumns": "16/21",
     "description": "Parameters for each PurposeTag (AITag) for villager clothing",
     "hashes": [
       {
@@ -18461,6 +18461,17 @@
         "functionalityNotes": "Determines whether villagers will use TempCreate glasses if they don't own any glasses in the PurposeTag. Condition = only if they don't have any other glasses.",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
         "knownFunctionality": true
+      },
+      {
+        "hash": "6510a4fe",
+        "type": "u8/s8",
+        "hashedString": "",
+        "hashNotes": "",
+        "formattedHash": "_6510a4fe",
+        "name": "",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", ""],
+        "knownFunctionality": false
       },
       {
         "hash": "87bf00e8",
