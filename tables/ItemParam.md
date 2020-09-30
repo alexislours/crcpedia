@@ -1,9 +1,9 @@
 # ItemParam
 [View this table in your browser](ItemParam-value.md) (version 1.4.0).
 
-**Named columns**: 91/98
+**Named columns**: 91/100
 
-**Documented columns**: 67/98
+**Documented columns**: 67/100
 
 **Description**: The big table everyone loves. Params for every item in the game
 ## AudioPreset
@@ -1251,6 +1251,19 @@
 | Yes | Yes | Yes | Yes | Yes | 
 
 
+## 0x622c3346
+
+**Hash**: 0x622c3346
+
+**Type**: u8/s8
+
+**Versions**: 
+
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+|:--:|:--:|:--:|:--:|:--:|
+|  |  |  |  |  | 
+
+
 ## CanNotLookFace
 
 **Name**: CanNotLookFace
@@ -1303,6 +1316,19 @@
 | Yes* | Yes* | Yes* | Yes* | Yes* | 
 
 *Found in the BCSVs but unreferenced in the executable
+
+## 0xb91ea6c2
+
+**Hash**: 0xb91ea6c2
+
+**Type**: u8/s8
+
+**Versions**: 
+
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+|:--:|:--:|:--:|:--:|:--:|
+|  |  |  |  |  | 
+
 
 ## 0xf179f796
 

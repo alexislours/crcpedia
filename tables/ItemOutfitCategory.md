@@ -1,11 +1,24 @@
 # ItemOutfitCategory
 [View this table in your browser](ItemOutfitCategory-value.md) (version 1.4.0).
 
-**Named columns**: 14/14
+**Named columns**: 14/15
 
-**Documented columns**: 2/14
+**Documented columns**: 2/15
 
 **Description**: Category params for outfits and tools
+## 0x2924e11f
+
+**Hash**: 0x2924e11f
+
+**Type**: u16
+
+**Versions**: 
+
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+|:--:|:--:|:--:|:--:|:--:|
+|  |  |  |  |  | 
+
+
 ## UniqueID
 
 **Name**: UniqueID

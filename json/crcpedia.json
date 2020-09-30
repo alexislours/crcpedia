@@ -11700,10 +11700,21 @@
   },
   "ItemOutfitCategory": {
     "name": "ItemOutfitCategory",
-    "namedColumns": "14/14",
-    "documentedColumns": "2/14",
+    "namedColumns": "14/15",
+    "documentedColumns": "2/15",
     "description": "Category params for outfits and tools",
     "hashes": [
+      {
+        "hash": "2924e11f",
+        "type": "u16",
+        "hashedString": "",
+        "hashNotes": "",
+        "formattedHash": "_2924e11f",
+        "name": "",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", ""],
+        "knownFunctionality": false
+      },
       {
         "hash": "54706054",
         "type": "u16",
@@ -12120,8 +12131,8 @@
   },
   "ItemParam": {
     "name": "ItemParam",
-    "namedColumns": "91/98",
-    "documentedColumns": "67/98",
+    "namedColumns": "91/100",
+    "documentedColumns": "67/100",
     "description": "The big table everyone loves. Params for every item in the game",
     "hashes": [
       {
@@ -12940,6 +12951,17 @@
         "knownFunctionality": true
       },
       {
+        "hash": "622c3346",
+        "type": "u8/s8",
+        "hashedString": "",
+        "hashNotes": "",
+        "formattedHash": "_622c3346",
+        "name": "",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", ""],
+        "knownFunctionality": false
+      },
+      {
         "hash": "fd415a4c",
         "type": "u8",
         "hashedString": "CanNotLookFace u8",
@@ -12971,6 +12993,17 @@
         "functionalityNotes": "Used for generating recipe icons. No effect on gameplay",
         "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
         "knownFunctionality": true
+      },
+      {
+        "hash": "b91ea6c2",
+        "type": "u8/s8",
+        "hashedString": "",
+        "hashNotes": "",
+        "formattedHash": "_b91ea6c2",
+        "name": "",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", ""],
+        "knownFunctionality": false
       },
       {
         "hash": "f179f796",
