@@ -10,10 +10,10 @@ This documentation is automatically updated every 10 minutes.
 
 | Hashes | Header Documentation | Table Documentation |
 | --- | --- | --- |
-| 1594 hashes | 2226 headers | 181 tables |
+| 1594 hashes | 2226 headers | 182 tables |
 | 1498 names | 1499 documented headers | 180 documented tables |
-| 96 missing names | 727 undocumented headers | 1 undocumented tables |
-| 94.0% complete | 67.3% documented | 99.4% documented |
+| 96 missing names | 727 undocumented headers | 2 undocumented tables |
+| 94.0% complete | 67.3% documented | 98.9% documented |
 
 This [repository](https://github.com/alexislours/crcpedia) is generated using the following [sheet](https://docs.google.com/spreadsheets/d/13JwdQs7uvg4gMqll0OpoaiQUlWV2lO9iSbPlymMSNSQ).
 
