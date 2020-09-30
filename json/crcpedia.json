@@ -24484,17 +24484,17 @@
   },
   "StructureHouseDoorParam": {
     "name": "StructureHouseDoorParam",
-    "namedColumns": "10/11",
+    "namedColumns": "11/11",
     "documentedColumns": "0/11",
     "description": "Different doors for houses",
     "hashes": [
       {
         "hash": "b619ba5c",
         "type": "u32/s32",
-        "hashedString": "",
+        "hashedString": "DoorDecoZOffset f32",
         "hashNotes": "",
         "formattedHash": "_b619ba5c",
-        "name": "",
+        "name": "DoorDecoZOffset",
         "functionalityNotes": "",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
         "knownFunctionality": false

@@ -1,16 +1,18 @@
 # StructureHouseDoorParam
 [View this table in your browser](StructureHouseDoorParam-value.md) (version 1.4.0).
 
-**Named columns**: 10/11
+**Named columns**: 11/11
 
 **Documented columns**: 0/11
 
 **Description**: Different doors for houses
-## 0xb619ba5c
+## DoorDecoZOffset
+
+**Name**: DoorDecoZOffset
 
 **Hash**: 0xb619ba5c
 
-**Type**: u32/s32
+**Hashed string**: DoorDecoZOffset f32
 
 **Versions**: 
 
