@@ -1,7 +1,7 @@
 # CalendarEventParam
 [View this table in your browser](CalendarEventParam-value.md) (version 1.4.0).
 
-**Named columns**: 162/163
+**Named columns**: 163/163
 
 **Documented columns**: 156/163
 
@@ -57,11 +57,13 @@
 | No | Yes | Yes | Yes | Yes | 
 
 
-## 0xa745c103
+## FlagPlayerAnnounce
+
+**Name**: FlagPlayerAnnounce
 
 **Hash**: 0xa745c103
 
-**Type**: u32/s32
+**Hashed string**: FlagPlayerAnnounce s32
 
 **Versions**: 
 

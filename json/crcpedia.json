@@ -395,7 +395,7 @@
   },
   "CalendarEventParam": {
     "name": "CalendarEventParam",
-    "namedColumns": "162/163",
+    "namedColumns": "163/163",
     "documentedColumns": "156/163",
     "description": "Dates and settings for calendar events and Nook Shopping seasonal events",
     "hashes": [
@@ -432,11 +432,11 @@
       },
       {
         "hash": "a745c103",
-        "type": "u32/s32",
-        "hashedString": "",
+        "type": "s32",
+        "hashedString": "FlagPlayerAnnounce s32",
         "hashNotes": "",
         "formattedHash": "_a745c103",
-        "name": "",
+        "name": "FlagPlayerAnnounce",
         "functionalityNotes": "",
         "versions": ["", "", "", "", ""],
         "knownFunctionality": false
@@ -12131,7 +12131,7 @@
   },
   "ItemParam": {
     "name": "ItemParam",
-    "namedColumns": "92/100",
+    "namedColumns": "93/100",
     "documentedColumns": "67/100",
     "description": "The big table everyone loves. Params for every item in the game",
     "hashes": [
@@ -12996,11 +12996,11 @@
       },
       {
         "hash": "b91ea6c2",
-        "type": "u8/s8",
-        "hashedString": "",
+        "type": "u8",
+        "hashedString": "CaptureDoorOrnamentIcon u8",
         "hashNotes": "",
         "formattedHash": "_b91ea6c2",
-        "name": "",
+        "name": "CaptureDoorOrnamentIcon",
         "functionalityNotes": "",
         "versions": ["", "", "", "", ""],
         "knownFunctionality": false

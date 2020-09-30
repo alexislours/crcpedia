@@ -1,7 +1,7 @@
 # ItemParam
 [View this table in your browser](ItemParam-value.md) (version 1.4.0).
 
-**Named columns**: 92/100
+**Named columns**: 93/100
 
 **Documented columns**: 67/100
 
@@ -1319,11 +1319,13 @@
 
 *Found in the BCSVs but unreferenced in the executable
 
-## 0xb91ea6c2
+## CaptureDoorOrnamentIcon
+
+**Name**: CaptureDoorOrnamentIcon
 
 **Hash**: 0xb91ea6c2
 
-**Type**: u8/s8
+**Hashed string**: CaptureDoorOrnamentIcon u8
 
 **Versions**: 
 
