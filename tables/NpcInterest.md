@@ -1,5 +1,5 @@
 # NpcInterest
-[View this table in your browser](NpcInterest-value.md) (version 1.4.0).
+[View this table in your browser](NpcInterest-value.md) (version 1.5.0).
 
 **Named columns**: 27/27
 
@@ -16,9 +16,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## ContinuousTime
@@ -33,9 +33,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## ItemUniqueID
@@ -50,9 +50,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## BehaviorType
@@ -67,9 +67,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## ConditionType
@@ -82,9 +82,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## FlagType
@@ -97,9 +97,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## InterestEndModeType
@@ -112,9 +112,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## IntervalTime
@@ -127,9 +127,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## LabelType
@@ -142,9 +142,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## MoveASType
@@ -157,9 +157,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## MoveConditionType
@@ -172,9 +172,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## NeedType
@@ -187,9 +187,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## RainActive
@@ -202,9 +202,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## TimeZoneIndoorEarlyMorningLevel
@@ -219,9 +219,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## TimeZoneIndoorEveningLevel
@@ -236,9 +236,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## TimeZoneIndoorMidnightLevel
@@ -253,9 +253,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## TimeZoneIndoorMorningLevel
@@ -270,9 +270,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## TimeZoneIndoorNightLevel
@@ -287,9 +287,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## TimeZoneIndoorNoonLevel
@@ -304,9 +304,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## TimeZoneOutdoorEarlyMorningLevel
@@ -321,9 +321,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## TimeZoneOutdoorEveningLevel
@@ -338,9 +338,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## TimeZoneOutdoorMidnightLevel
@@ -355,9 +355,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## TimeZoneOutdoorMorningLevel
@@ -372,9 +372,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## TimeZoneOutdoorNightLevel
@@ -389,9 +389,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## TimeZoneOutdoorNoonLevel
@@ -406,9 +406,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## VillageDevelopmentLevel
@@ -423,9 +423,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## WaitASType
@@ -440,8 +440,8 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 

@@ -1,5 +1,5 @@
 # RadioJingle
-[View this table in your browser](RadioJingle-value.md) (version 1.4.0).
+[View this table in your browser](RadioJingle-value.md) (version 1.5.0).
 
 **Named columns**: 7/7
 
@@ -16,9 +16,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## Timezone
@@ -31,9 +31,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## Frames
@@ -46,9 +46,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## MusicNo
@@ -61,9 +61,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## UniqueID
@@ -76,9 +76,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## BeforeDays
@@ -91,9 +91,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## EventLabelShort
@@ -106,8 +106,8 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 

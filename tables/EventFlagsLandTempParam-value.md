@@ -67,3 +67,8 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/EventFl
 | 0 | 10 | 77 | 3 | 0 | 0 | 0 | 2 | 'FireworksSitBenchNpcIndex' | '花火大会|ベンチに座るNPC住人番号' | 
 | 0 | 1 | 78 | 3 | 0 | 0 | 2 | 5 | 'NpcVisitPlayerHouse' | 'NPCがプレイヤーの家に訪問中か' | 
 | 0 | 1 | 79 | 3 | 0 | 0 | 2 | 1 | 'TapIndoorPos' | 'ゆめみ|ゆめみ室内での立ち位置制御' | 
+| 0 | 5 | 80 | 3 | 0 | 0 | 0 | 2 | 'SeasonEventActivityType' | '季節イベント行動タイプ' | 
+| 0 | 10 | 81 | 3 | 0 | 1 | 0 | 1 | 'HalloweenApproachNpcIndex' | 'ハロウィン用アプローチをしているNPC住人番号' | 
+| 0 | 1 | 82 | 3 | 0 | 1 | 0 | 1 | 'HalloweenApproachNow' | '現在ハロウィン用アプローチが発生中か' | 
+| 0 | 24 | 84 | 3 | 0 | 0 | 0 | 2 | 'SeasonEventIndoorUpdateHour' | '季節イベント室内NPC更新時刻(時間)' | 
+| 0 | 60 | 85 | 3 | 0 | 0 | 0 | 2 | 'SeasonEventIndoorUpdateMinute' | '季節イベント室内NPC更新時刻(分)' | 

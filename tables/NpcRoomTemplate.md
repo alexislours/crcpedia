@@ -1,5 +1,5 @@
 # NpcRoomTemplate
-[View this table in your browser](NpcRoomTemplate-value.md) (version 1.4.0).
+[View this table in your browser](NpcRoomTemplate-value.md) (version 1.5.0).
 
 **Named columns**: 6/6
 
@@ -15,9 +15,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## Direction
@@ -30,9 +30,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## GroupIndex
@@ -45,9 +45,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## Size
@@ -60,9 +60,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## XUnitIndex
@@ -75,9 +75,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## ZUnitIndex
@@ -90,8 +90,8 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 

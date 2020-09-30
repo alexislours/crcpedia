@@ -313,5 +313,10 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/EventFl
 | None,クリアしない | 0 | EnableReadWrite,○参照○書き込み | NoCheck,警告なし（無断使用不可） | 1 | 363 | 'JohnnyInvisible' | 'ジョニー非表示状態か' | 1 | 0 | 
 | None,クリアしない | 0 | EnableReadOnly,○参照×書き込み | ReadOnly,参照のみ可能 | 1 | 364 | 'DreamUploadPlayerHaveCreaterID' | 'ゆめみ|夢の最終更新者がMyDesignショーケースの作者IDを持ってるか？' | 1 | 0 | 
 | None,クリアしない | 0 | DisableAccess,×参照×書き込み | ManualSend,自動通信しない(送信を自前で対応する) | 5000 | 365 | 'DiveFishNetHostCatchNumResult' | '通信開始時にネットホストのプレイヤーが今までに捕まえた海の幸の数' | 1 | 0 | 
+| None,クリアしない | 0 | DisableAccess,×参照×書き込み | ReadOnly,参照のみ可能 | 9999 | 366 | 'HalloweenSloVisitYear' | 'ハロウィンの初回レイジを予約した年' | 1 | 0 | 
+| Pre,日またぎ成長処理前（経過日数が0以外） | 0 | EnableReadOnly,○参照×書き込み | ReadOnly,参照のみ可能 | 1 | 367 | 'HalloweenSloVisitToday' | '今日がハロウィンのレイジ来訪日' | 1 | 0 | 
+| None,クリアしない | 0 | EnableReadWrite,○参照○書き込み | ReadOnly,参照のみ可能 | 1 | 369 | 'GrowUpAfterPatch1_5' | '1.5適用して成長処理をした' | 1 | 0 | 
 | None,クリアしない | 0 | EnableReadWrite,○参照○書き込み | ReadOnly,参照のみ可能 | 1 | 370 | 'NeedUpdatePassword' | 'セーブデータ復元後のパスワード更新必要' | 1 | 0 | 
+| Pre,日またぎ成長処理前（経過日数が0以外） | 0 | EnableReadOnly,○参照×書き込み | ReadOnly,参照のみ可能 | 1 | 371 | 'IsHalloweenLessThanThreeDays' | 'ハロウィン３日前以内か？' | 1 | 0 | 
 | None,クリアしない | 0 | DisableAccess,×参照×書き込み | ReadOnly,参照のみ可能 | 1 | 374 | 'EventObjFlag0' | 'イベントオブジェフラグ0' | 1 | 0 | 
+| Pre,日またぎ成長処理前（経過日数が0以外） | 0 | EnableReadWrite,○参照○書き込み | ReadOnly,参照のみ可能 | 1 | 379 | 'SecondPublicAnnouncement' | '2回目島内放送の発生が必要か？' | 1 | 0 | 

@@ -1,5 +1,5 @@
 # SeafoodStatusParam
-[View this table in your browser](SeafoodStatusParam-value.md) (version 1.4.0).
+[View this table in your browser](SeafoodStatusParam-value.md) (version 1.5.0).
 
 **Named columns**: 11/11
 
@@ -18,9 +18,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | 
+| No | No | No | Yes | Yes | Yes| 
 
 
 ## CaptureCategory
@@ -35,9 +35,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | 
+| No | No | No | Yes | Yes | Yes| 
 
 
 ## CaptureLevel
@@ -52,9 +52,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | 
+| No | No | No | Yes | Yes | Yes| 
 
 
 ## ShadowType
@@ -69,9 +69,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | 
+| No | No | No | Yes | Yes | Yes| 
 
 
 ## ItemID
@@ -86,9 +86,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | 
+| No | No | No | Yes | Yes | Yes| 
 
 
 ## OpenRecordNum
@@ -103,9 +103,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | 
+| No | No | No | Yes | Yes | Yes| 
 
 
 ## UniqueID
@@ -118,9 +118,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | 
+| No | No | No | Yes | Yes | Yes| 
 
 
 ## DebugName
@@ -133,9 +133,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes* | Yes* | Yes* | Yes* | Yes* | 
+| Yes* | Yes* | Yes* | Yes* | Yes* | Yes*| 
 
 *Found in the BCSVs but unreferenced in the executable
 
@@ -149,9 +149,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | 
+| No | No | No | Yes | Yes | Yes| 
 
 
 ## ResName
@@ -166,9 +166,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | 
+| No | No | No | Yes | Yes | Yes| 
 
 
 ## ResNameMuseum
@@ -183,8 +183,8 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | 
+| No | No | No | Yes | Yes | Yes| 
 
 

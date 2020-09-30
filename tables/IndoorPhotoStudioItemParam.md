@@ -1,5 +1,5 @@
 # IndoorPhotoStudioItemParam
-[View this table in your browser](IndoorPhotoStudioItemParam-value.md) (version 1.4.0).
+[View this table in your browser](IndoorPhotoStudioItemParam-value.md) (version 1.5.0).
 
 **Named columns**: 8/8
 
@@ -18,9 +18,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## ItemID
@@ -35,9 +35,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## PosX
@@ -52,9 +52,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## PosZ
@@ -69,9 +69,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## ReBody
@@ -86,9 +86,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## ReFabric
@@ -103,9 +103,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## RoomIndex
@@ -120,9 +120,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## UniqueID
@@ -135,8 +135,8 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 

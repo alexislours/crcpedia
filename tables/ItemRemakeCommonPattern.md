@@ -1,5 +1,5 @@
 # ItemRemakeCommonPattern
-[View this table in your browser](ItemRemakeCommonPattern-value.md) (version 1.4.0).
+[View this table in your browser](ItemRemakeCommonPattern-value.md) (version 1.5.0).
 
 **Named columns**: 7/7
 
@@ -18,9 +18,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## Color1
@@ -35,9 +35,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## Color2
@@ -52,9 +52,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## SortID
@@ -69,9 +69,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## UniqueID
@@ -84,9 +84,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## Label
@@ -101,9 +101,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## TextureResName
@@ -118,8 +118,8 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | 
+| Yes | Yes | Yes | Yes | Yes | Yes| 
 
 

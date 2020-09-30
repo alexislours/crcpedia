@@ -2,76 +2,76 @@ Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemOutfitCategory.
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemOutfitCategory.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/ItemOutfitCategory.json)
 
-| UniqueID | CanHasSit | _555442aa | _b645432f | HandToolAsName | Label | Misc | Name | _a9f8ee25 | ToolLeftModelName | ToolRightModelName | _f71bffe7 | _1b93daa9 | UseToolLeft |
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 0 | 0 | 0 | 'None' | '' | 'None' | 0000 | 'なし' | '' | '' | '' | '' | '' | 0 | 
-| 1 | 0 | 0 | 'Cap' | '' | 'Cap' | 0000 | '帽子' | '' | '' | '' | '' | '' | 0 | 
-| 2 | 0 | 0 | 'AccessoryEye' | '' | 'AccessoryEye' | 0000 | 'アクセサリ：目' | '' | '' | '' | '' | '' | 0 | 
-| 3 | 0 | 0 | 'Tops' | '' | 'Tops' | 0000 | 'トップス' | '' | '' | '' | '' | '' | 0 | 
-| 4 | 0 | 0 | 'Bottoms' | '' | 'Bottoms' | 0000 | 'ボトムス' | '' | '' | '' | '' | '' | 0 | 
-| 5 | 0 | 0 | 'Socks' | '' | 'Socks' | 0000 | '靴下' | '' | '' | '' | '' | '' | 0 | 
-| 6 | 0 | 0 | 'Shoes' | '' | 'Shoes' | 0000 | '靴' | '' | '' | '' | '' | '' | 0 | 
-| 8 | 0 | 0 | 'Marinesuit' | '' | 'Marinesuit' | 0000 | 'マリンスーツ' | '' | '' | '' | '' | '' | 0 | 
-| 9 | 0 | 1 | 'Scoop' | 'CommonToolHand' | 'Scoop' | 0308 | 'スコップ' | '' | '' | '' | '' | '' | 0 | 
-| 10 | 0 | 1 | 'Axe' | 'CommonToolHand' | 'Axe' | 0308 | 'オノ' | '' | '' | '' | '' | '' | 0 | 
-| 11 | 0 | 1 | 'FishingRod' | 'CommonToolHand' | 'FishingRod' | 0108 | 'つりざお' | '' | '' | 'Main' | '' | '' | 0 | 
-| 12 | 0 | 1 | 'Net' | 'CommonToolHand' | 'Net' | 0108 | 'アミ' | '' | '' | '' | '' | '' | 0 | 
-| 14 | 1 | 1 | 'Umbrella' | 'CommonToolHand' | 'Umbrella' | 8100 | 'カサ' | '' | '' | '' | 'CommonToolUmbrella_Open_Stop' | 'CommonToolUmbrella_Close_Stop' | 0 | 
-| 16 | 0 | 1 | 'GroundMaker' | 'CommonToolHand' | 'GroundMaker' | 0305 | '道造成キット' | '' | 'Sub' | 'Main' | '' | '' | 1 | 
-| 17 | 0 | 1 | 'Watering' | 'CommonToolHand' | 'Watering' | 0508 | 'ジョウロ' | '' | '' | '' | '' | '' | 0 | 
-| 19 | 0 | 0 | 'Bag' | '' | 'Bag' | 0000 | 'カバン' | '' | '' | '' | '' | '' | 0 | 
-| 20 | 0 | 1 | 'CliffMaker' | 'CommonToolHand' | 'CliffMaker' | 0300 | '崖造成キット' | '' | '' | '' | '' | '' | 0 | 
-| 22 | 0 | 1 | 'Ladder' | 'CommonToolHand' | 'Ladder' | 0508 | 'はしご' | '' | '' | '' | '' | '' | 0 | 
-| 23 | 0 | 0 | 'ChangeStick' | 'CommonToolHand' | 'ChangeStick' | 0108 | '変身ステッキ' | '' | '' | '' | '' | '' | 0 | 
-| 25 | 1 | 0 | 'Cracker' | 'CommonToolHand' | 'Cracker' | 0108 | 'クラッカー' | '' | '' | '' | '' | '' | 0 | 
-| 26 | 0 | 1 | 'Slingshot' | 'CommonToolHand' | 'Slingshot' | 0100 | 'パチンコ' | '' | '' | 'Main' | '' | '' | 0 | 
-| 27 | 0 | 0 | 'PinataStick' | 'CommonToolHand' | 'PinataStick' | 0300 | 'ピニャータ割り棒' | '' | '' | '' | '' | '' | 0 | 
-| 28 | 0 | 1 | 'FenceMaker' | 'CommonToolHand' | 'FenceMaker' | 1300 | '柵造成キット' | '' | '' | '' | '' | '' | 0 | 
-| 29 | 0 | 0 | 'Book' | 'CommonToolHand' | 'Book' | 0100 | '本' | 'ToolBook_CloseKeep' | '' | '' | '' | '' | 0 | 
-| 32 | 0 | 0 | 'AccessoryMouth' | '' | 'AccessoryMouth' | 0000 | 'アクセサリ：口' | '' | '' | '' | '' | '' | 0 | 
-| 33 | 0 | 1 | 'RiverMaker' | 'CommonToolHand' | 'RiverMaker' | 0300 | '川造成キット' | '' | '' | '' | '' | '' | 0 | 
-| 34 | 0 | 0 | 'TkkGuitar' | '' | 'TkkGuitar' | 4000 | 'とたけけギター' | '' | '' | '' | '' | '' | 0 | 
-| 35 | 1 | 0 | 'PaperFan' | 'CommonToolHand' | 'PaperFan' | 0100 | 'うちわ' | '' | '' | '' | '' | '' | 0 | 
-| 36 | 1 | 0 | 'SmartPhone' | 'CommonToolHand' | 'SmartPhone' | 0100 | 'スマホ' | '' | '' | '' | '' | '' | 0 | 
-| 37 | 1 | 1 | 'Firework' | 'CommonToolHand' | 'Firework' | 0108 | '花火' | '' | '' | '' | '' | '' | 0 | 
-| 38 | 1 | 0 | 'StickLight' | 'CommonToolHand' | 'StickLight' | 0100 | 'スティックライト' | '' | '' | '' | '' | '' | 0 | 
-| 39 | 1 | 0 | 'SoapBubble' | 'CommonToolHand' | 'SoapBubble' | 0100 | 'シャボン玉' | '' | '' | '' | '' | '' | 0 | 
-| 40 | 1 | 0 | 'BlowStick' | 'CommonToolHand' | 'BlowStick' | 0100 | 'ふきもどし' | '' | '' | '' | '' | '' | 0 | 
-| 41 | 1 | 0 | 'Ocarina' | 'CommonToolHand' | 'Ocarina' | 0b00 | 'オカリナ' | '' | '' | '' | '' | '' | 0 | 
-| 42 | 1 | 0 | 'Panpipe' | 'CommonToolHand' | 'Panpipe' | 0b00 | 'パンフルート' | '' | '' | '' | '' | '' | 0 | 
-| 43 | 1 | 0 | 'Tambourine' | 'CommonToolHand' | 'Tambourine' | 2900 | 'タンバリン' | '' | '' | '' | '' | '' | 0 | 
-| 45 | 0 | 0 | 'Broom' | 'CommonToolHand' | 'Broom' | 0100 | 'ほうき' | '' | '' | '' | '' | '' | 0 | 
-| 47 | 0 | 0 | 'Coffee' | 'CommonToolHand' | 'Coffee' | 0100 | 'コーヒー' | '' | '' | '' | '' | '' | 0 | 
-| 48 | 0 | 0 | 'Ice' | 'CommonToolHand' | 'Ice' | 0100 | 'アイス' | '' | '' | '' | '' | '' | 0 | 
-| 49 | 0 | 0 | 'BagHand' | 'CommonToolHand' | 'BagHand' | 0100 | '手提げカバン' | '' | '' | '' | '' | '' | 0 | 
-| 50 | 0 | 1 | 'JumpStick' | 'CommonToolHand' | 'JumpStick' | 0108 | 'ジャンプ棒' | '' | '' | '' | '' | '' | 0 | 
-| 52 | 0 | 0 | 'Dumbbell' | 'CommonToolHand' | 'Dumbbell' | 0100 | 'ダンベル' | '' | '' | '' | '' | '' | 0 | 
-| 57 | 1 | 0 | 'Windmill' | 'CommonToolHand' | 'Windmill' | 0100 | 'かざぐるま' | '' | '' | '' | '' | '' | 0 | 
-| 58 | 0 | 0 | 'RcmTourFlag' | 'CommonToolHand' | 'RcmTourFlag' | 0100 | 'つぶまめツアー旗' | '' | '' | '' | '' | '' | 0 | 
-| 59 | 0 | 0 | 'Firewood' | 'CommonToolHand' | 'Firewood' | 0100 | '薪' | '' | '' | '' | '' | '' | 0 | 
-| 60 | 0 | 0 | 'Spanner' | '' | 'Spanner' | 0300 | 'スパナとかなづち' | '' | 'Sub' | 'Main' | '' | '' | 1 | 
-| 61 | 0 | 0 | 'HandLens' | 'CommonToolHand' | 'HandLens' | 0100 | '虫眼鏡' | '' | '' | '' | '' | '' | 0 | 
-| 62 | 0 | 0 | 'FruitBasket' | 'CommonToolHand' | 'FruitBasket' | 0100 | '果物カゴ' | '' | '' | '' | '' | '' | 0 | 
-| 63 | 0 | 0 | 'Duster' | 'CommonToolHand' | 'Duster' | 0100 | 'はたき' | '' | '' | '' | 'ToolDuster_Stop' | 'ToolDuster_Stop' | 0 | 
-| 64 | 0 | 0 | 'CuteBagHand' | 'CommonToolHand' | 'CuteBagHand' | 0100 | '手提げかばん(キュート' | '' | '' | '' | '' | '' | 0 | 
-| 65 | 0 | 0 | 'CoolBagHand' | 'CommonToolHand' | 'CoolBagHand' | 0100 | '手提げかばん(クール)' | '' | '' | '' | '' | '' | 0 | 
-| 66 | 0 | 0 | 'LowBagHand' | 'CommonToolHand' | 'LowBagHand' | 0100 | '手提げかばん(生活度低' | '' | '' | '' | '' | '' | 0 | 
-| 67 | 0 | 0 | 'HighBagHand' | 'CommonToolHand' | 'HighBagHand' | 0100 | '手提げかばん(生活度高' | '' | '' | '' | '' | '' | 0 | 
-| 68 | 0 | 0 | 'SmallBook' | 'CommonToolHand' | 'SmallBook' | 0100 | '本(小)' | '' | '' | '' | '' | '' | 0 | 
-| 69 | 0 | 0 | 'LightDumbbell' | 'CommonToolHand' | 'LightDumbbell' | 0100 | 'ダンベル(軽い)' | '' | '' | '' | '' | '' | 0 | 
-| 70 | 0 | 0 | 'Candy' | 'CommonToolHand' | 'Candy' | 0100 | 'キャンディ' | '' | '' | '' | '' | '' | 0 | 
-| 71 | 0 | 0 | 'Canister' | 'CommonToolHand' | 'Canister' | 0100 | '缶' | '' | '' | '' | '' | '' | 0 | 
-| 72 | 0 | 0 | 'Sandwich' | 'CommonToolHand' | 'Sandwich' | 0100 | 'サンドウィッチ' | '' | '' | '' | '' | '' | 0 | 
-| 73 | 0 | 0 | 'Doughnut' | 'CommonToolHand' | 'Doughnut' | 0100 | 'ドーナッツ' | '' | '' | '' | '' | '' | 0 | 
-| 74 | 0 | 0 | 'Branch' | 'CommonToolHand' | 'Branch' | 0100 | 'えだ' | '' | '' | '' | '' | '' | 0 | 
-| 77 | 0 | 0 | 'Sketchbook' | 'CommonToolHand' | 'Sketchbook' | 0302 | 'スケッチブック' | '' | 'Sub' | 'Main' | '' | '' | 1 | 
-| 78 | 1 | 1 | 'Balloon' | 'CommonToolHand10400' | 'Balloon' | 0100 | 'ふうせん' | '' | '' | '' | '' | '' | 0 | 
-| 79 | 0 | 0 | 'Sprayer' | 'CommonToolHand' | 'Sprayer' | 0100 | 'きりふき' | '' | '' | '' | '' | '' | 0 | 
-| 80 | 0 | 0 | 'Cop' | 'CommonToolHand' | 'Cop' | 0100 | 'コップ' | '' | '' | '' | '' | '' | 0 | 
-| 81 | 0 | 0 | 'Smoothie' | 'CommonToolHand' | 'Smoothie' | 0100 | 'スムージー' | '' | '' | '' | '' | '' | 0 | 
-| 82 | 0 | 0 | 'Hammer' | 'CommonToolHand' | 'Hammer' | 0100 | 'かなづち' | '' | '' | '' | '' | '' | 0 | 
-| 84 | 0 | 0 | 'Brush' | 'CommonToolHand' | 'Brush' | 0100 | 'はけ' | '' | '' | '' | '' | '' | 0 | 
-| 86 | 0 | 0 | 'Bouquet' | 'CommonToolHand' | 'Bouquet' | 0300 | 'ブーケ' | '' | '' | '' | '' | '' | 0 | 
-| 87 | 0 | 0 | 'Scallop' | 'CommonToolHand10300' | 'Scallop' | 0300 | 'ホタテ' | '' | '' | '' | '' | '' | 0 | 
-| 88 | 0 | 0 | 'Canvas' | 'CommonToolHand' | 'Canvas' | 0100 | 'キャンバス' | '' | '' | '' | '' | '' | 0 | 
-| 91 | 1 | 0 | 'Pennant' | 'CommonToolHand10400' | 'Pennant' | 0100 | 'ペナント' | '' | '' | '' | '' | '' | 0 | 
+| _2924e11f | UniqueID | CanHasSit | EquipOnlyOutdoor | HandToolAsLabel | HandToolAsName | Label | Misc | Name | ToolEnterAsName | ToolLeftModelName | ToolRightModelName | ToolSetupAsName | ToolSetupPutawayAsName | UseToolLeft |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 0 | 0 | 0 | 0 | 'None' | '' | 'None' | 0000 | 'なし' | '' | '' | '' | '' | '' | 0 | 
+| 0 | 1 | 0 | 0 | 'Cap' | '' | 'Cap' | 0000 | '帽子' | '' | '' | '' | '' | '' | 0 | 
+| 0 | 2 | 0 | 0 | 'AccessoryEye' | '' | 'AccessoryEye' | 0000 | 'アクセサリ：目' | '' | '' | '' | '' | '' | 0 | 
+| 0 | 3 | 0 | 0 | 'Tops' | '' | 'Tops' | 0000 | 'トップス' | '' | '' | '' | '' | '' | 0 | 
+| 0 | 4 | 0 | 0 | 'Bottoms' | '' | 'Bottoms' | 0000 | 'ボトムス' | '' | '' | '' | '' | '' | 0 | 
+| 0 | 5 | 0 | 0 | 'Socks' | '' | 'Socks' | 0000 | '靴下' | '' | '' | '' | '' | '' | 0 | 
+| 0 | 6 | 0 | 0 | 'Shoes' | '' | 'Shoes' | 0000 | '靴' | '' | '' | '' | '' | '' | 0 | 
+| 0 | 8 | 0 | 0 | 'Marinesuit' | '' | 'Marinesuit' | 0000 | 'マリンスーツ' | '' | '' | '' | '' | '' | 0 | 
+| 0 | 9 | 0 | 1 | 'Scoop' | 'CommonToolHand' | 'Scoop' | 0308 | 'スコップ' | '' | '' | '' | '' | '' | 0 | 
+| 0 | 10 | 0 | 1 | 'Axe' | 'CommonToolHand' | 'Axe' | 0308 | 'オノ' | '' | '' | '' | '' | '' | 0 | 
+| 1 | 11 | 0 | 1 | 'FishingRod' | 'CommonToolHand' | 'FishingRod' | 0108 | 'つりざお' | '' | '' | 'Main' | '' | '' | 0 | 
+| 2 | 12 | 0 | 1 | 'Net' | 'CommonToolHand' | 'Net' | 0108 | 'アミ' | '' | '' | '' | '' | '' | 0 | 
+| 3 | 14 | 1 | 1 | 'Umbrella' | 'CommonToolHand' | 'Umbrella' | 8100 | 'カサ' | '' | '' | '' | 'CommonToolUmbrella_Open_Stop' | 'CommonToolUmbrella_Close_Stop' | 0 | 
+| 0 | 16 | 0 | 1 | 'GroundMaker' | 'CommonToolHand' | 'GroundMaker' | 0305 | '道造成キット' | '' | 'Sub' | 'Main' | '' | '' | 1 | 
+| 4 | 17 | 0 | 1 | 'Watering' | 'CommonToolHand' | 'Watering' | 0508 | 'ジョウロ' | '' | '' | '' | '' | '' | 0 | 
+| 0 | 19 | 0 | 0 | 'Bag' | '' | 'Bag' | 0000 | 'カバン' | '' | '' | '' | '' | '' | 0 | 
+| 0 | 20 | 0 | 1 | 'CliffMaker' | 'CommonToolHand' | 'CliffMaker' | 0300 | '崖造成キット' | '' | '' | '' | '' | '' | 0 | 
+| 0 | 22 | 0 | 1 | 'Ladder' | 'CommonToolHand' | 'Ladder' | 0508 | 'はしご' | '' | '' | '' | '' | '' | 0 | 
+| 0 | 23 | 0 | 0 | 'ChangeStick' | 'CommonToolHand' | 'ChangeStick' | 0108 | '変身ステッキ' | '' | '' | '' | '' | '' | 0 | 
+| 5 | 25 | 1 | 0 | 'Cracker' | 'CommonToolHand' | 'Cracker' | 0108 | 'クラッカー' | '' | '' | '' | '' | '' | 0 | 
+| 0 | 26 | 0 | 1 | 'Slingshot' | 'CommonToolHand' | 'Slingshot' | 0100 | 'パチンコ' | '' | '' | 'Main' | '' | '' | 0 | 
+| 0 | 27 | 0 | 0 | 'PinataStick' | 'CommonToolHand' | 'PinataStick' | 0300 | 'ピニャータ割り棒' | '' | '' | '' | '' | '' | 0 | 
+| 0 | 28 | 0 | 1 | 'FenceMaker' | 'CommonToolHand' | 'FenceMaker' | 1300 | '柵造成キット' | '' | '' | '' | '' | '' | 0 | 
+| 6 | 29 | 0 | 0 | 'Book' | 'CommonToolHand' | 'Book' | 0100 | '本' | 'ToolBook_CloseKeep' | '' | '' | '' | '' | 0 | 
+| 0 | 32 | 0 | 0 | 'AccessoryMouth' | '' | 'AccessoryMouth' | 0000 | 'アクセサリ：口' | '' | '' | '' | '' | '' | 0 | 
+| 0 | 33 | 0 | 1 | 'RiverMaker' | 'CommonToolHand' | 'RiverMaker' | 0300 | '川造成キット' | '' | '' | '' | '' | '' | 0 | 
+| 0 | 34 | 0 | 0 | 'TkkGuitar' | '' | 'TkkGuitar' | 4000 | 'とたけけギター' | '' | '' | '' | '' | '' | 0 | 
+| 7 | 35 | 1 | 0 | 'PaperFan' | 'CommonToolHand' | 'PaperFan' | 0100 | 'うちわ' | '' | '' | '' | '' | '' | 0 | 
+| 8 | 36 | 1 | 0 | 'SmartPhone' | 'CommonToolHand' | 'SmartPhone' | 0100 | 'スマホ' | '' | '' | '' | '' | '' | 0 | 
+| 34 | 37 | 1 | 1 | 'Firework' | 'CommonToolHand' | 'Firework' | 0108 | '花火' | '' | '' | '' | '' | '' | 0 | 
+| 35 | 38 | 1 | 0 | 'StickLight' | 'CommonToolHand' | 'StickLight' | 0100 | 'スティックライト' | '' | '' | '' | '' | '' | 0 | 
+| 9 | 39 | 1 | 0 | 'SoapBubble' | 'CommonToolHand' | 'SoapBubble' | 0100 | 'シャボン玉' | '' | '' | '' | '' | '' | 0 | 
+| 0 | 40 | 1 | 0 | 'BlowStick' | 'CommonToolHand' | 'BlowStick' | 0100 | 'ふきもどし' | '' | '' | '' | '' | '' | 0 | 
+| 0 | 41 | 1 | 0 | 'Ocarina' | 'CommonToolHand' | 'Ocarina' | 0b00 | 'オカリナ' | '' | '' | '' | '' | '' | 0 | 
+| 0 | 42 | 1 | 0 | 'Panpipe' | 'CommonToolHand' | 'Panpipe' | 0b00 | 'パンフルート' | '' | '' | '' | '' | '' | 0 | 
+| 36 | 43 | 1 | 0 | 'Tambourine' | 'CommonToolHand' | 'Tambourine' | 2900 | 'タンバリン' | '' | '' | '' | '' | '' | 0 | 
+| 10 | 45 | 0 | 0 | 'Broom' | 'CommonToolHand' | 'Broom' | 0100 | 'ほうき' | '' | '' | '' | '' | '' | 0 | 
+| 11 | 47 | 0 | 0 | 'Coffee' | 'CommonToolHand' | 'Coffee' | 0100 | 'コーヒー' | '' | '' | '' | '' | '' | 0 | 
+| 12 | 48 | 0 | 0 | 'Ice' | 'CommonToolHand' | 'Ice' | 0100 | 'アイス' | '' | '' | '' | '' | '' | 0 | 
+| 0 | 49 | 0 | 0 | 'BagHand' | 'CommonToolHand' | 'BagHand' | 0100 | '手提げカバン' | '' | '' | '' | '' | '' | 0 | 
+| 0 | 50 | 0 | 1 | 'JumpStick' | 'CommonToolHand' | 'JumpStick' | 0108 | 'ジャンプ棒' | '' | '' | '' | '' | '' | 0 | 
+| 13 | 52 | 0 | 0 | 'Dumbbell' | 'CommonToolHand' | 'Dumbbell' | 0100 | 'ダンベル' | '' | '' | '' | '' | '' | 0 | 
+| 14 | 57 | 1 | 0 | 'Windmill' | 'CommonToolHand' | 'Windmill' | 0100 | 'かざぐるま' | '' | '' | '' | '' | '' | 0 | 
+| 0 | 58 | 0 | 0 | 'RcmTourFlag' | 'CommonToolHand' | 'RcmTourFlag' | 0100 | 'つぶまめツアー旗' | '' | '' | '' | '' | '' | 0 | 
+| 15 | 59 | 0 | 0 | 'Firewood' | 'CommonToolHand' | 'Firewood' | 0100 | '薪' | '' | '' | '' | '' | '' | 0 | 
+| 0 | 60 | 0 | 0 | 'Spanner' | '' | 'Spanner' | 0300 | 'スパナとかなづち' | '' | 'Sub' | 'Main' | '' | '' | 1 | 
+| 16 | 61 | 0 | 0 | 'HandLens' | 'CommonToolHand' | 'HandLens' | 0100 | '虫眼鏡' | '' | '' | '' | '' | '' | 0 | 
+| 17 | 62 | 0 | 0 | 'FruitBasket' | 'CommonToolHand' | 'FruitBasket' | 0100 | '果物カゴ' | '' | '' | '' | '' | '' | 0 | 
+| 18 | 63 | 0 | 0 | 'Duster' | 'CommonToolHand' | 'Duster' | 0100 | 'はたき' | '' | '' | '' | 'ToolDuster_Stop' | 'ToolDuster_Stop' | 0 | 
+| 19 | 64 | 0 | 0 | 'CuteBagHand' | 'CommonToolHand' | 'CuteBagHand' | 0100 | '手提げかばん(キュート' | '' | '' | '' | '' | '' | 0 | 
+| 20 | 65 | 0 | 0 | 'CoolBagHand' | 'CommonToolHand' | 'CoolBagHand' | 0100 | '手提げかばん(クール)' | '' | '' | '' | '' | '' | 0 | 
+| 21 | 66 | 0 | 0 | 'LowBagHand' | 'CommonToolHand' | 'LowBagHand' | 0100 | '手提げかばん(生活度低' | '' | '' | '' | '' | '' | 0 | 
+| 22 | 67 | 0 | 0 | 'HighBagHand' | 'CommonToolHand' | 'HighBagHand' | 0100 | '手提げかばん(生活度高' | '' | '' | '' | '' | '' | 0 | 
+| 23 | 68 | 0 | 0 | 'SmallBook' | 'CommonToolHand' | 'SmallBook' | 0100 | '本(小)' | '' | '' | '' | '' | '' | 0 | 
+| 24 | 69 | 0 | 0 | 'LightDumbbell' | 'CommonToolHand' | 'LightDumbbell' | 0100 | 'ダンベル(軽い)' | '' | '' | '' | '' | '' | 0 | 
+| 25 | 70 | 0 | 0 | 'Candy' | 'CommonToolHand' | 'Candy' | 0100 | 'キャンディ' | '' | '' | '' | '' | '' | 0 | 
+| 26 | 71 | 0 | 0 | 'Canister' | 'CommonToolHand' | 'Canister' | 0100 | '缶' | '' | '' | '' | '' | '' | 0 | 
+| 27 | 72 | 0 | 0 | 'Sandwich' | 'CommonToolHand' | 'Sandwich' | 0100 | 'サンドウィッチ' | '' | '' | '' | '' | '' | 0 | 
+| 28 | 73 | 0 | 0 | 'Doughnut' | 'CommonToolHand' | 'Doughnut' | 0100 | 'ドーナッツ' | '' | '' | '' | '' | '' | 0 | 
+| 29 | 74 | 0 | 0 | 'Branch' | 'CommonToolHand' | 'Branch' | 0100 | 'えだ' | '' | '' | '' | '' | '' | 0 | 
+| 0 | 77 | 0 | 0 | 'Sketchbook' | 'CommonToolHand' | 'Sketchbook' | 0302 | 'スケッチブック' | '' | 'Sub' | 'Main' | '' | '' | 1 | 
+| 0 | 78 | 1 | 1 | 'Balloon' | 'CommonToolHand10400' | 'Balloon' | 0100 | 'ふうせん' | '' | '' | '' | '' | '' | 0 | 
+| 30 | 79 | 0 | 0 | 'Sprayer' | 'CommonToolHand' | 'Sprayer' | 0100 | 'きりふき' | '' | '' | '' | '' | '' | 0 | 
+| 31 | 80 | 0 | 0 | 'Cop' | 'CommonToolHand' | 'Cop' | 0100 | 'コップ' | '' | '' | '' | '' | '' | 0 | 
+| 32 | 81 | 0 | 0 | 'Smoothie' | 'CommonToolHand' | 'Smoothie' | 0100 | 'スムージー' | '' | '' | '' | '' | '' | 0 | 
+| 33 | 82 | 0 | 0 | 'Hammer' | 'CommonToolHand' | 'Hammer' | 0100 | 'かなづち' | '' | '' | '' | '' | '' | 0 | 
+| 0 | 84 | 0 | 0 | 'Brush' | 'CommonToolHand' | 'Brush' | 0100 | 'はけ' | '' | '' | '' | '' | '' | 0 | 
+| 0 | 86 | 0 | 0 | 'Bouquet' | 'CommonToolHand' | 'Bouquet' | 0300 | 'ブーケ' | '' | '' | '' | '' | '' | 0 | 
+| 0 | 87 | 0 | 0 | 'Scallop' | 'CommonToolHand10300' | 'Scallop' | 0300 | 'ホタテ' | '' | '' | '' | '' | '' | 0 | 
+| 0 | 88 | 0 | 0 | 'Canvas' | 'CommonToolHand' | 'Canvas' | 0100 | 'キャンバス' | '' | '' | '' | '' | '' | 0 | 
+| 0 | 91 | 1 | 0 | 'Pennant' | 'CommonToolHand10400' | 'Pennant' | 0100 | 'ペナント' | '' | '' | '' | '' | '' | 0 | 

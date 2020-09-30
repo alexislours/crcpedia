@@ -183,3 +183,4 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/RoomFlo
 | None,なし | 888 | None,なし | None,なし | 17 | 12434 | 0 | 246 | 0 | 0 | 'ウェディングなグリーンタイル' | 'RoomTexFloorMarbleTile02' | 1 | 
 | None,なし | 888 | None,なし | None,なし | 3 | 12568 | 0 | 248 | 0 | 0 | 'マーメイドなゆか' | 'RoomSpFloorMermaid00' | 0 | 
 | None,なし | 888 | None,なし | None,なし | 22 | 12569 | 0 | 249 | 1 | 0 | 'かいぞくのゆか' | 'RoomTexFloorPirates00' | 0 | 
+| None,なし | 888 | None,なし | None,なし | 6 | 13225 | 0 | 273 | 0 | 0 | 'ハロウィンなゆか' | 'RoomTexFloorHalloween00' | 0 | 

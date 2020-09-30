@@ -5,11 +5,6 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemUni
 | ScaleOffset | CatalogItemUniqueID | UniqueID | ColorIndex | Label | ModelName | Name | ResName |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 1.0 | 65534 | 5 | -1 | 'None' | '' | '（なし）' | '' | 
-| 0.800000011920929 | 65534 | 279 | -1 | 'MileCard' | 'UnitIconMileCard' | 'たぬきマイルカード' | 'UnitIconMileCard' | 
-| 0.800000011920929 | 65534 | 303 | -1 | 'MarineSuit' | 'UnitIconMarineSuit' | 'マリンスーツ' | 'UnitIconMarineSuit' | 
-| 0.800000011920929 | 65534 | 304 | 1 | 'Cinder' | 'UnitIconFireworks' | 'もえかす' | 'UnitIconFireworks' | 
-| 0.800000011920929 | 65534 | 305 | -1 | 'Pearl' | 'UnitIconPearl' | 'しんじゅ' | 'UnitIconPearl' | 
-| 0.800000011920929 | 65534 | 306 | -1 | 'PirateQuest' | 'UnitIconPirateQuest' | 'むせんき' | 'UnitIconPirateQuest' | 
 | 0.800000011920929 | 65534 | 0 | 0 | 'Leaf' | 'UnitIconLeaf' | '葉っぱ' | 'UnitIconLeaf' | 
 | 0.800000011920929 | 65534 | 273 | 1 | 'LeafYellow' | 'UnitIconLeaf' | '葉っぱ：黄' | 'UnitIconLeaf' | 
 | 0.800000011920929 | 65534 | 157 | -1 | 'RoomWall' | 'UnitIconRoomWall' | '壁紙' | 'UnitIconRoomWall' | 
@@ -26,6 +21,7 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemUni
 | 0.800000011920929 | 65534 | 160 | -1 | 'Umbrella' | 'UnitIconUmbrella' | '装：カサ' | 'UnitIconUmbrella' | 
 | 0.800000011920929 | 65534 | 161 | -1 | 'FishingRod' | 'UnitIconFishingrod' | '道具：つりざお' | 'UnitIconFishingrod' | 
 | 0.800000011920929 | 65534 | 204 | -1 | 'Stick' | 'UnitIconStick' | '変身ステッキ' | 'UnitIconStick' | 
+| 0.800000011920929 | 65534 | 303 | -1 | 'MarineSuit' | 'UnitIconMarineSuit' | 'マリンスーツ' | 'UnitIconMarineSuit' | 
 | 0.800000011920929 | 65534 | 162 | -1 | 'Fence' | 'UnitIconFence' | '柵' | 'UnitIconFence' | 
 | 0.800000011920929 | 65534 | 189 | 0 | 'TentSet' | 'UnitIconTentSet' | 'テントセット' | 'UnitIconTentSet' | 
 | 0.800000011920929 | 65534 | 186 | 1 | 'HousingKit' | 'UnitIconTentSet' | 'ハウジングキット' | 'UnitIconTentSet' | 
@@ -34,7 +30,6 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemUni
 | 0.800000011920929 | 65534 | 208 | -1 | 'Pitfall' | 'UnitIconPitfall' | 'おとしあなのタネ' | 'UnitIconPitfall' | 
 | 0.800000011920929 | 65534 | 207 | -1 | 'Music' | 'UnitIconMusic' | 'ミュージック' | 'UnitIconMusic' | 
 | 0.800000011920929 | 65534 | 184 | -1 | 'Medicine' | 'UnitIconMedicine' | 'おくすり' | 'UnitIconMedicine' | 
-| 0.800000011920929 | 65534 | 237 | 0 | 'Fireworks' | 'UnitIconFireworks' | '置き花火' | 'UnitIconFireworks' | 
 | 0.800000011920929 | 65534 | 209 | 0 | 'RemakeKit' | 'UnitIconRemakeKit' | 'リメイクキット' | 'UnitIconRemakeKit' | 
 | 1.0 | 65534 | 274 | -1 | 'SmartphoneCase' | 'UnitIconSmartphoneCase' | 'スマホケース' | 'UnitIconSmartphoneCase' | 
 | 0.800000011920929 | 65534 | 236 | -1 | 'Timer' | 'UnitIconTimer' | 'タイマー' | 'UnitIconTimer' | 
@@ -61,6 +56,8 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemUni
 | 0.800000011920929 | 7731 | 2 | -1 | 'MoneyBag' | 'UnitIconMoneybag' | 'ベル袋' | 'UnitIconMoneybag' | 
 | 1.0 | 65534 | 219 | 0 | 'Parts' | 'UnitIconParts' | 'ジョニーのパーツ' | 'UnitIconParts' | 
 | 1.0 | 65534 | 239 | 1 | 'PartsDust' | 'UnitIconParts' | 'さびたパーツ' | 'UnitIconParts' | 
+| 0.800000011920929 | 65534 | 306 | -1 | 'PirateQuest' | 'UnitIconPirateQuest' | 'むせんき' | 'UnitIconPirateQuest' | 
+| 0.800000011920929 | 65534 | 305 | -1 | 'Pearl' | 'UnitIconPearl' | 'しんじゅ' | 'UnitIconPearl' | 
 | 0.800000011920929 | 65534 | 170 | -1 | 'LostQuestPouch' | 'UnitIconLostquestPouch' | '落し物：袋' | 'UnitIconLostquestPouch' | 
 | 0.800000011920929 | 65534 | 169 | -1 | 'LostQuestBook' | 'UnitIconLostquestBook' | '落し物：本（読み物）' | 'UnitIconLostquestBook' | 
 | 0.800000011920929 | 65534 | 172 | -1 | 'LostQuestNote' | 'UnitIconLostquestNote' | '落し物：本（書き物）' | 'UnitIconLostquestNote' | 
@@ -114,6 +111,7 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemUni
 | 1.0 | 65534 | 121 | 0 | 'SmartPhone' | 'UnitIconSmartphone' | 'スマホ' | 'UnitIconSmartphone' | 
 | 1.0 | 65534 | 187 | -1 | 'Paper' | 'UnitIconPaper' | '紙きれ1まい' | 'UnitIconPaper' | 
 | 0.800000011920929 | 65534 | 185 | -1 | 'Map' | 'UnitIconMap' | '地図' | 'UnitIconMap' | 
+| 0.800000011920929 | 65534 | 279 | -1 | 'MileCard' | 'UnitIconMileCard' | 'たぬきマイルカード' | 'UnitIconMileCard' | 
 | 0.800000011920929 | 65534 | 217 | -1 | 'GeneralBox' | 'UnitIconGeneralBox' | '汎用アイコン：箱' | 'UnitIconGeneralBox' | 
 | 0.800000011920929 | 65534 | 216 | -1 | 'GeneralSack' | 'UnitIconGeneralSack' | '汎用アイコン：袋' | 'UnitIconGeneralSack' | 
 | 0.800000011920929 | 65534 | 197 | 0 | 'Starpiece' | 'UnitIconStar0' | 'ほしのかけら' | 'UnitIconStar0' | 
@@ -171,6 +169,8 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemUni
 | 0.800000011920929 | 65534 | 155 | -1 | 'FlwAnemone' | 'UnitIconPltFlwPetalAnemone' | '花：アネモネ' | 'UnitIconPltFlwPetalAnemone' | 
 | 0.800000011920929 | 65534 | 144 | -1 | 'FlwMum' | 'UnitIconPltFlwPetalMum' | '花：キク' | 'UnitIconPltFlwPetalMum' | 
 | 0.800000011920929 | 65534 | 145 | -1 | 'FlwHyacinth' | 'UnitIconPltFlwPetalHyacinth' | '花：ヒヤシンス' | 'UnitIconPltFlwPetalHyacinth' | 
+| 0.800000011920929 | 65534 | 23 | -1 | 'Squash' | 'UnitIconPltVgtPumpkin' | 'カボチャ' | 'UnitIconPltVgtPumpkin' | 
+| 0.800000011920929 | 65534 | 152 | -1 | 'SeedlingSquash' | 'UnitIconPltVgtPumpkinSeeding' | 'カボチャのなえ' | 'UnitIconPltVgtPumpkinSeeding' | 
 | 0.800000011920929 | 65534 | 281 | -1 | 'EggGround' | 'UnitIconEggGround' | 'じめんのたまご' | 'UnitIconEggGround' | 
 | 0.800000011920929 | 65534 | 283 | -1 | 'EggRock' | 'UnitIconEggRock' | 'いわのたまご' | 'UnitIconEggRock' | 
 | 0.800000011920929 | 65534 | 284 | -1 | 'EggLeaf' | 'UnitIconEggLeaf' | 'はっぱのたまご' | 'UnitIconEggLeaf' | 
@@ -179,3 +179,7 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemUni
 | 0.800000011920929 | 65534 | 280 | -1 | 'EggFish' | 'UnitIconEggFish' | 'サカナのたまご' | 'UnitIconEggFish' | 
 | 0.800000011920929 | 65534 | 291 | -1 | 'MessageBottleEgg' | 'UnitIconMessageBottleEgg' | 'たまごのメッセージボトル' | 'UnitIconMessageBottleEgg' | 
 | 0.800000011920929 | 65534 | 290 | -1 | 'Love' | 'UnitIconLove' | 'あいのけっしょう' | 'UnitIconLove' | 
+| 0.800000011920929 | 65534 | 237 | 0 | 'Fireworks' | 'UnitIconFireworks' | '置き花火' | 'UnitIconFireworks' | 
+| 0.800000011920929 | 65534 | 304 | 1 | 'Cinder' | 'UnitIconFireworks' | 'もえかす' | 'UnitIconFireworks' | 
+| 0.800000011920929 | 65534 | 313 | -1 | 'Candy' | 'UnitIconCandy' | 'アメ' | 'UnitIconCandy' | 
+| 0.800000011920929 | 65534 | 314 | -1 | 'Lollipop' | 'UnitIconLollipop' | 'ロリポップ' | 'UnitIconLollipop' | 

@@ -37,3 +37,4 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/AITag.c
 | Purpose,目的 | 137 | 'TempCreate_All' | '一時生成_共通' | 
 | Purpose,目的 | 139 | 'Easter' | 'イースター' | 
 | Purpose,目的 | 140 | 'Fireworks' | '花火大会' | 
+| Purpose,目的 | 144 | 'Halloween' | 'ハロウィン' | 

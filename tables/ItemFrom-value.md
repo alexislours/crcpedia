@@ -49,6 +49,7 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemFro
 | 221 | 133 | 'MileExchangeRecipe4' | 'マイル交換_家具レシピ3000' | 
 | 403 | 134 | 'MileExchangeRecipe5' | 'マイル交換_家具レシピ5000' | 
 | 0 | 165 | 'MileExchangeNsoPresent' | 'マイル交換_NSO加入特典' | 
+| 0 | 187 | 'MileExchangeNewColor' | 'マイル交換_新規カラー(買い切り)' | 
 | 0 | 67 | 'Bridge' | '案内所_橋' | 
 | 0 | 68 | 'Slope' | '案内所_坂' | 
 | 51 | 139 | 'OnlineShoppingOnly' | '通信販売のみ' | 
@@ -56,11 +57,14 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemFro
 | 51 | 8 | 'TailorMarketOnly' | '仕立て屋_店舗' | 
 | 51 | 161 | 'TailorXmas' | '仕立て屋_クリスマス' | 
 | 51 | 162 | 'TailorMarketOnlyXmas' | '仕立て屋_店舗_クリスマス' | 
+| 51 | 183 | 'TailorHalloween' | '仕立て屋_ハロウィン' | 
+| 51 | 184 | 'TailorMarketOnlyHalloween' | '仕立て屋_店舗_ハロウィン' | 
 | 253 | 22 | 'RugS' | 'ローラン_S' | 
 | 253 | 23 | 'RugM' | 'ローラン_M' | 
 | 253 | 24 | 'RugL' | 'ローラン_L' | 
 | 451 | 73 | 'LaurentWallFloor' | 'ローラン壁床' | 
 | 23 | 10 | 'ShoesBagShop' | 'シャンク' | 
+| 23 | 188 | 'ShoesBagShop_Halloween' | 'シャンク_ハロウィン' | 
 | 351 | 65 | 'HgcQuestReward' | 'ことの報酬' | 
 | 0 | 5 | 'Gardening' | '園芸店' | 
 | 451 | 166 | 'InariMarket' | 'いなりマーケット' | 
@@ -138,6 +142,7 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemFro
 | 201 | 103 | 'DIYSnowCrystal' | '<DIY>雪の結晶' | 
 | 351 | 158 | 'DIYEasterEgg' | '<DIY>イースターのたまご' | 
 | 451 | 176 | 'DIYPearl' | '<DIY>しんじゅ' | 
+| 201 | 182 | 'DIYPumpkin' | '<DIY>かぼちゃ' | 
 | 201 | 143 | 'MotherDay' | '<リージョン>母の日' | 
 | 201 | 144 | 'WoldChildDay' | '<リージョン>ワールドチャイルド' | 
 | 201 | 145 | 'FatherDay' | '<リージョン>父の日' | 
@@ -151,5 +156,8 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemFro
 | 178 | 159 | 'DeliveryPocketCamp' | '<永続配信>ポケ森コラボ' | 
 | 351 | 163 | 'Easter' | 'イースター' | 
 | 437 | 160 | 'JuneBride' | 'ジューンブライド' | 
+| 231 | 174 | 'Halloween' | 'ハロウィン' | 
+| 231 | 180 | 'Halloween_NPC' | 'ハロウィン_NPC' | 
+| 573 | 181 | 'Halloween_Pumpking' | 'ハロウィン_パンプキング' | 
 | 0 | 106 | 'FutureItem' | '■アップデート向け■' | 
 | 0 | 107 | 'NotAvailable' | '◆入手不可◆' | 

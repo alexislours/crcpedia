@@ -2,7 +2,7 @@ Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/HumanAnimParam.html
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/HumanAnimParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/HumanAnimParam.json)
 
-| _58102055 | LowerSetting | UISortID | UniqueID | _9f5123d4 | _d5217761 | AsCommand | _84761fb6 | CancelFootprint | Comment | _ba199df0 | Misc | MoveAs | ToolAsCommand |
+| EmoticonTool | LowerSetting | UISortID | UniqueID | _9f5123d4 | _d5217761 | AsCommand | CancelFootSE | CancelFootprint | Comment | DisableEmoticon | Misc | MoveAs | ToolAsCommand |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 3751981041 | DisableOnlyLowerBody,下半身再生不可 | 10 | 50 | 2 | 255 | 'MaReGreeting' | 0 | 0 | '【漫符】会釈' | 0 | 1e0000 | 0 | '' | 
 | 3751981041 | DisableOnlyLowerBody,下半身再生不可 | 12 | 39 | 3 | 255 | 'MaReNodding' | 0 | 0 | '【漫符】うなずく' | 0 | 1e0000 | 0 | '' | 
@@ -60,6 +60,8 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/HumanAn
 | 3751981041 | DisableOnlyLowerBody,下半身再生不可 | 10000 | 124 | 3 | 255 | 'MaReSerious' | 0 | 0 | '【漫符】真顔' | 0 | 1e0000 | 0 | '' | 
 | 3751981041 | DisableOnlyLowerBody,下半身再生不可 | 10000 | 125 | 3 | 255 | 'MaReEh' | 0 | 0 | '【漫符】えっ？' | 0 | 1e0000 | 0 | '' | 
 | 3751981041 | DisableOnlyLowerBody,下半身再生不可 | 10000 | 128 | 3 | 255 | 'MaReExplain' | 0 | 0 | '【漫符】説明する' | 0 | 1e0000 | 0 | '' | 
+| 3751981041 | DisableOnlyLowerBody,下半身再生不可 | 20000 | 801 | 3 | 255 | 'MaReAddScaring' | 0 | 0 | '【漫符】【追加】こわがらせる' | 0 | 1e0000 | 0 | '' | 
+| 3751981041 | DisableOnlyLowerBody,下半身再生不可 | 20000 | 805 | 3 | 255 | 'MaReAddPrank' | 0 | 0 | '【漫符】【追加】おどかす' | 0 | 1e0000 | 0 | '' | 
 | 3751981041 | DisableOnlyLowerBody,下半身再生不可 | -15536 | 18 | 3 | 255 | 'MaReEmotEnd' | 0 | 0 | '【漫符】解除' | 0 | 1e0000 | 0 | '' | 
 | 3751981041 | DisableOnlyLowerBody,下半身再生不可 | -15536 | 249 | 2 | 255 | 'DeliveryMrHand' | 0 | 0 | '【漫符】受け渡し補助用両手アニメ' | 0 | 000000 | 0 | '' | 
 | 3751981041 | DisableOnlyLowerBody,下半身再生不可 | -1 | 1 | 7 | 255 | '' | 0 | 0 | 'なし' | 0 | 000000 | 0 | '' | 
@@ -522,3 +524,7 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/HumanAn
 | 3751981041 | EnableOnlyLowerBody_Bed,下半身再生可(寝る系) | -1 | 782 | 4 | 255 | 'PlayerDreamPreparationOpenEye' | 0 | 0 | 'Player:夢入眠姿勢目を開ける' | 0 | 000001 | 0 | '' | 
 | 3751981041 | DisableOnlyLowerBody,下半身再生不可 | -1 | 783 | 0 | 12 | 'PlayerTumbleUpper' | 0 | 0 | 'Player:転ぶ道具分岐用上半身コマンド' | 0 | 020000 | 0 | '' | 
 | 3751981041 | DisableOnlyLowerBody,下半身再生不可 | -1 | 784 | 0 | 255 | 'NpcSpArrangeHigh' | 0 | 0 | '特殊サービス：汎用がさごそ（高いとこ）' | 0 | 400000 | 0 | '' | 
+| 3751981041 | DisableOnlyLowerBody,下半身再生不可 | -1 | 790 | 3 | 255 | 'PlayerBeTeased' | 0 | 0 | 'Player:ハロウィン:いたずらされる' | 0 | 000000 | 0 | '' | 
+| 3751981041 | DisableOnlyLowerBody,下半身再生不可 | -1 | 791 | 0 | 255 | 'NpcPrank' | 0 | 0 | 'NPC：ハロウィン：いたずらする' | 0 | 000000 | 0 | '' | 
+| 3751981041 | DisableOnlyLowerBody,下半身再生不可 | -1 | 798 | 0 | 255 | 'PknTouchHead' | 0 | 0 | 'パンプキング：頭をいじる' | 0 | 400000 | 0 | '' | 
+| 3751981041 | DisableOnlyLowerBody,下半身再生不可 | -1 | 811 | 0 | 255 | 'PknPrank' | 0 | 0 | 'パンプキング：特殊NPC：いたずら' | 0 | 400000 | 0 | '' | 

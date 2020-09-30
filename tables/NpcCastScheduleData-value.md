@@ -2,7 +2,7 @@ Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/NpcCastScheduleData
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/NpcCastScheduleData.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/NpcCastScheduleData.json)
 
-| ApplyNeedActivity | CanDoze | CastLabel | _d507df3e | EndHour | EndMinute | EventName | NeglectSleep | StartHour | StartMinute | _e76db92f |
+| ApplyNeedActivity | CanDoze | CastLabel | _d507df3e | EndHour | EndMinute | EventName | NeglectSleep | StartHour | StartMinute | UseRainGoods |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 1 | 1 | 0 | 0 | 29 | 0 | 'NotEvent' | 0 | 5 | 0 | 1 | 
 | 0 | 0 | 1 | 0 | 29 | 0 | 'NotEvent' | 0 | 5 | 0 | 1 | 
@@ -32,5 +32,6 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/NpcCast
 | 0 | 0 | 25 | 1 | 29 | 0 | 'NotEvent' | 0 | 5 | 0 | 1 | 
 | 0 | 0 | 26 | 1 | 29 | 0 | 'NotEvent' | 0 | 5 | 0 | 0 | 
 | 1 | 1 | 27 | 0 | 29 | 0 | 'NotEvent' | 0 | 5 | 0 | 1 | 
-| 0 | 0 | 28 | 0 | 24 | 0 | 'Fireworks' | 1 | 17 | 0 | 0 | 
-| 0 | 0 | 29 | 0 | 29 | 0 | 'NotEvent' | 0 | 5 | 0 | 0 | 
+| 0 | 0 | 28 | 0 | 24 | 0 | 'Fireworks' | 1 | 18 | 30 | 0 | 
+| 0 | 0 | 29 | 0 | 24 | 0 | 'Halloween' | 1 | 17 | 0 | 0 | 
+| 0 | 0 | 30 | 0 | 29 | 0 | 'NotEvent' | 0 | 5 | 0 | 0 | 

@@ -1,5 +1,5 @@
 # FadeOutDuckingParam
-[View this table in your browser](FadeOutDuckingParam-value.md) (version 1.4.0).
+[View this table in your browser](FadeOutDuckingParam-value.md) (version 1.5.0).
 
 **Named columns**: 2/2
 
@@ -16,9 +16,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | 
+| No | No | No | Yes | Yes | Yes| 
 
 
 ## Name
@@ -31,8 +31,8 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
 |:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | 
+| No | No | No | Yes | Yes | Yes| 
 
 

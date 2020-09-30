@@ -68,4 +68,13 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/EventFl
 | 0 | 1 | 79 | 2 | 'DC_FoxBuyTodayFlag' | 'つねきち|おでかけ先のいなりマーケットで買い物した？' | 
 | 0 | 1 | 80 | 2 | 'OwlStampGotRewardExplain' | 'フータ|スタンプラリー報酬は二重に貰えない説明を受けた' | 
 | 0 | 1 | 81 | 2 | 'V_Sza_TalkFireworksToday' | 'しずえ|花火大会開催中、よその島のしずえと会話した？' | 
+| 0 | 1 | 82 | 2 | 'DC_RcmBoughtCandyTodayFlag' | 'まめきち/ハロウィン|おでかけ先の島で今日アメ買った？' | 
 | 0 | 1 | 83 | 2 | 'V_Sza_FireworksRewardToday' | '花火しずえ|おでかけ先の島で光るアクセサリーもらった？' | 
+| 0 | 1 | 84 | 2 | 'DC_PknTalkTodayFlag' | 'パンプキング/ハロウィン|今日会話した？' | 
+| 0 | 1 | 85 | 2 | 'DC_PknTalkLastNoCandyFlag' | 'パンプキング/ハロウィン|最後の会話時アメ持ってなかった？' | 
+| 0 | 1 | 86 | 2 | 'DC_PknGiveLollipopCount' | 'パンプキング/ハロウィン|ロリポップをあげた回数' | 
+| 0 | 1 | 87 | 2 | 'DC_PknTalkLastNotGetFlag' | 'パンプキング/ハロウィン|最後の会話でアイテムもらえなかった？' | 
+| 0 | 1 | 88 | 2 | 'DC_PknLastGiveCandyFlag' | 'パンプキング/ハロウィン|前回渡したのはアメ？' | 
+| 0 | 1 | 89 | 2 | 'DC_PknPumpkingLookChatFlag' | 'パンプキング/ハロウィン|パンプキング装備の雑談した？' | 
+| 0 | 1 | 90 | 2 | 'DC_NpcGiveCandyCount' | '一般NPC/ハロウィン|アメのお礼もらった回数' | 
+| 0 | 1 | 91 | 2 | 'DC_NpcTalkHalloweenFlag' | '一般NPC/ハロウィン|イベント中、誰かと話した？' | 

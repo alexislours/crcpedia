@@ -33,7 +33,7 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ColGrou
 | 5 | 7 | 29 | 20 | 1 | '道:つち' | 1 | '#A37E3C' | '#FFFFFF' | 0 | 0 | 0 | 0 | 0 | 
 | 13 | 9 | 30 | 21 | 0 | '道:石畳' | 1 | '#FFFFFF' | '#FFFFFF' | 1 | 0 | 0 | 0 | 0 | 
 | 0 | 0 | 31 | 50 | 0 | '欄干' | 0 | '#FFFFFF' | '#FFFFFF' | 0 | 1 | 1 | 0 | 0 | 
-| 15 | 8 | 32 | 10 | 0 | '波打ち際' | 0 | '#FFFFFF' | '#FFFFFF' | 0 | 0 | 0 | 0 | 0 | 
+| 15 | 8 | 32 | 10 | 0 | '波打ち際' | 1 | '#FFFFFF' | '#FFFFFF' | 0 | 0 | 0 | 0 | 0 | 
 | 0 | 0 | 33 | 51 | 0 | 'ラグ専用' | 1 | '#FFFFFF' | '#FFFFFF' | 0 | 0 | 0 | 0 | 0 | 
 | 14 | 8 | 34 | 22 | 1 | '道:濃い色のつち' | 1 | '#AB5A31' | '#EBD8B4' | 0 | 0 | 0 | 0 | 0 | 
 | 21 | 4 | 35 | 23 | 1 | '道：砂' | 1 | '#F3E5A2' | '#FDF4EA' | 0 | 0 | 0 | 0 | 0 | 
@@ -70,3 +70,4 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ColGrou
 | 4 | 4 | 67 | 94 | 0 | '屋内:砂' | 1 | '#FFFFFF' | '#FFFFFF' | 0 | 0 | 0 | 0 | 0 | 
 | 3 | 50 | 68 | 8 | 0 | '海進入禁止' | 1 | '#FFFFFF' | '#FFFFFF' | 0 | 1 | 1 | 0 | 1 | 
 | 0 | 1 | 69 | 95 | 0 | 'ゆめみ室内専用' | 0 | '#FFFFFF' | '#FFFFFF' | 0 | 0 | 0 | 0 | 0 | 
+| 27 | 8 | 70 | 96 | 0 | '盛り土' | 1 | '#FFFFFF' | '#FFFFFF' | 0 | 0 | 0 | 0 | 0 | 

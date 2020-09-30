@@ -34,3 +34,4 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/NpcCast
 | '' | 'AI_NPC_Outdoor/AI_NPC_Indoor' | 4 | 1 | 
 | '' | 'AI_NPC_Outdoor/AI_NPC_Indoor' | 4 | 0 | 
 | '' | 'AI_NPC_Outdoor/AI_NPC_Indoor' | 0 | 0 | 
+| '' | 'AI_NPC_Outdoor/AI_NPC_Indoor' | 0 | 0 | 

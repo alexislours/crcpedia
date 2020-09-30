@@ -51,6 +51,8 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemKin
 | None,なし | None,なし | None,なし | 40_Plant,40_Plant | FtrNoneUser,ユーザなし | 0 | 0 | 161 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 0 | 0 | 1 | 1 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 'Tree' | '植物：木' | 
 | OnCaptureUIcon,あり(Uアイコン) | None,なし | None,なし | 40_Plant,40_Plant | FtrNoneUser,ユーザなし | 10 | 0 | 164 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 0 | 0 | 'BushSeedling' | '植物：低木の苗' | 
 | None,なし | None,なし | None,なし | 40_Plant,40_Plant | FtrNoneUser,ユーザなし | 0 | 0 | 163 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 1 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 'Bush' | '植物：低木' | 
+| OnCaptureUIcon,あり(Uアイコン) | PlantKeepItemWindow,植えるで持ち物閉じない | None,なし | 40_Plant,40_Plant | FtrNoneUser,ユーザなし | 10 | 0 | 166 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 0 | 0 | 'VegeSeedling' | '植物：野菜の苗' | 
+| None,なし | PlantKeepItemWindow,植えるで持ち物閉じない | None,なし | 40_Plant,40_Plant | FtrNoneUser,ユーザなし | 0 | 0 | 198 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 0 | 0 | 1 | 1 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 'VegeTree' | '植物：野菜の木' | 
 | OnCaptureUIcon,あり(Uアイコン) | None,なし | None,なし | 40_Plant,40_Plant | FtrNoneUser,ユーザなし | 10 | 0 | 165 | 1 | 1 | 0 | 1 | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 0 | 0 | 'Vegetable' | '植物：野菜' | 
 | OnCaptureUIcon,あり(Uアイコン) | PlantKeepItemWindow,植えるで持ち物閉じない | None,なし | 40_Plant,40_Plant | FtrNoneUser,ユーザなし | 99 | 0 | 187 | 1 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 0 | 0 | 'Weed' | '植物：雑草' | 
 | OnCaptureUIcon,あり(Uアイコン) | PlantKeepItemWindow,植えるで持ち物閉じない | None,なし | 40_Plant,40_Plant | FtrNoneUser,ユーザなし | 10 | 0 | 54 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 0 | 0 | 'FlowerSeed' | '植物：花の種' | 
@@ -87,7 +89,7 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemKin
 | OnCapture,あり | None,なし | None,なし | 82_Music,82_Music | FtrCommonUser,共通ユーザ | 0 | 0 | 239 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 'MusicMiss' | 'ミュージック(入手不可)' | 
 | OnCapture,あり | None,なし | Ftr,家具 | 84_Bromide,84_Bromide | FtrCommonUser,共通ユーザ | 0 | 0 | 214 | 1 | 0 | 1 | 1 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 0 | 0 | 'Bromide' | 'ブロマイド' | 
 | OnCapture,あり | None,なし | Ftr,家具 | 86_Poster,86_Poster | FtrCommonUser,共通ユーザ | 0 | 0 | 262 | 1 | 0 | 1 | 1 | 0 | 0 | 0 | 1 | 0 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 0 | 0 | 'Poster' | 'ポスター' | 
-| OnCapture,あり | None,なし | None,なし | 62_HousePost,62_HousePost | FtrCommonUser,共通ユーザ | 0 | 0 | 93 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 'HousePost' | '家パーツポスト' | 
+| OnCapture,あり | None,なし | None,なし | 62_HousePost,62_HousePost | FtrCommonUser,共通ユーザ | 0 | 0 | 93 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 'HousePost' | '家パーツポスト' | 
 | OnCapture,あり | DoorDeco,ドア飾り | Ftr,家具 | 61_HouseDoorDeco,61_HouseDoorDeco | FtrCommonUser,共通ユーザ | 0 | 0 | 193 | 1 | 0 | 1 | 1 | 1 | 1 | 0 | 1 | 0 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 0 | 1 | 'DoorDeco' | 'ドア飾り' | 
 | OnCapture,あり | HandyGoods,手持ち品 | None,なし | 83_Fence,83_Fence | FtrNoneUser,ユーザなし | 50 | 0 | 194 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 1 | 0 | 1 | 1 | 0 | 0 | 0 | 'Fence' | '柵' | 
 | OnCapture,あり | None,なし | None,なし | 80_Etc,80_Etc | FtrNoneUser,ユーザなし | 0 | 0 | 189 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 'DummyRecipe' | '陳列用：レシピブック' | 
@@ -105,7 +107,7 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemKin
 | OnCaptureUIcon,あり(Uアイコン) | Bells,お金 | None,なし | 90_Money,90_Money | FtrNoneUser,ユーザなし | -1 | 0 | 2 | 1 | 0 | 0 | 1 | 1 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 0 | 0 | 'Money' | 'ベル（お金）' | 
 | OnCaptureUIcon,あり(Uアイコン) | None,なし | None,なし | 80_Etc,80_Etc | FtrNoneUser,ユーザなし | 0 | 0 | 24 | 1 | 0 | 0 | 1 | 1 | 1 | 0 | 1 | 0 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 0 | 0 | 'FireworkM' | '花火（置き）' | 
 | OnCaptureUIcon,あり(Uアイコン) | None,なし | None,なし | 81_Event,81_Event | FtrNoneUser,ユーザなし | 10 | 0 | 196 | 0 | 1 | 0 | 1 | 1 | 1 | 0 | 1 | 0 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 0 | 1 | 'BdayCupcake' | 'バースデーカップケーキ' | 
-| None,なし | None,なし | None,なし | 81_Event,81_Event | FtrNoneUser,ユーザなし | 5 | 0 | 216 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 'YutaroWisp' | 'ゆうたろうのたましい' | 
+| None,なし | None,なし | None,なし | 81_Event,81_Event | FtrNoneUser,ユーザなし | 5 | 0 | 216 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 'YutaroWisp' | 'ゆうたろうのたましい' | 
 | None,なし | None,なし | None,なし | 81_Event,81_Event | FtrNoneUser,ユーザなし | 10 | 0 | 149 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 'JohnnyQuest' | 'ジョニークエスト' | 
 | OnCaptureUIcon,あり(Uアイコン) | None,なし | None,なし | 81_Event,81_Event | FtrNoneUser,ユーザなし | 10 | 0 | 150 | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 0 | 0 | 'JohnnyQuestDust' | 'ジョニークエストごみ' | 
 | None,なし | None,なし | None,なし | 81_Event,81_Event | FtrNoneUser,ユーザなし | 10 | 0 | 273 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 'PirateQuest' | '海賊クエスト' | 
@@ -119,6 +121,7 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemKin
 | OnCaptureUIcon,あり(Uアイコン) | None,なし | None,なし | 81_Event,81_Event | FtrNoneUser,ユーザなし | 5 | 0 | 261 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 0 | 0 | 'RollanTicket' | 'ローラン引換券' | 
 | OnCaptureUIcon,あり(Uアイコン) | None,なし | None,なし | 81_Event,81_Event | FtrNoneUser,ユーザなし | 30 | 0 | 101 | 1 | 1 | 0 | 0 | 1 | 1 | 0 | 1 | 0 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 0 | 0 | 'EasterEgg' | 'イースターのたまご' | 
 | OnCaptureUIcon,あり(Uアイコン) | None,なし | None,なし | 81_Event,81_Event | FtrNoneUser,ユーザなし | 30 | 0 | 266 | 1 | 0 | 0 | 1 | 1 | 1 | 0 | 1 | 0 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 0 | 0 | 'LoveCrystal' | 'あいのけっしょう' | 
+| OnCaptureUIcon,あり(Uアイコン) | None,なし | None,なし | 81_Event,81_Event | FtrNoneUser,ユーザなし | 30 | 0 | 82 | 1 | 1 | 0 | 1 | 1 | 1 | 0 | 1 | 0 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 0 | 0 | 'Candy' | 'アメ' | 
 | None,なし | None,なし | None,なし | 99_Dummy,99_Dummy | FtrCommonUser,共通ユーザ | 0 | 0 | 208 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 'Giftbox' | '初期支給プレゼントBOX' | 
 | None,なし | None,なし | None,なし | 99_Dummy,99_Dummy | FtrNoneUser,ユーザなし | 0 | 0 | 200 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 'PinataStick' | '装備専用：ピニャータ割り棒' | 
 | None,なし | None,なし | None,なし | 99_Dummy,99_Dummy | FtrNoneUser,ユーザなし | 0 | 0 | 202 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 'NpcOutfit' | '装備品：NPC専用' | 
@@ -129,13 +132,13 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemKin
 | OnCapture,あり | None,なし | None,なし | 01_Art,01_Art | FtrUniqueUser,個別ユーザ | 0 | 0 | 185 | 1 | 0 | 1 | 1 | 1 | 1 | 0 | 1 | 0 | 1 | 0 | 1 | 0 | 1 | 1 | 1 | 0 | 1 | 'SculptureFake' | '芸術品：彫刻贋作' | 
 | None,なし | None,なし | Smartphone,スマホ | 99_Dummy,99_Dummy | FtrNoneUser,ユーザなし | 0 | 0 | 230 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 'SmartPhone' | 'スマホ' | 
 | None,なし | None,なし | None,なし | 99_Dummy,99_Dummy | FtrUniqueUser,個別ユーザ | 0 | 0 | 206 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 'DummyFtr' | 'ダミー家具' | 
-| None,なし | None,なし | None,なし | 81_Event,81_Event | FtrNoneUser,ユーザなし | 0 | 0 | 201 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 'SequenceOnly' | 'シーケンス専用' | 
+| None,なし | None,なし | None,なし | 81_Event,81_Event | FtrNoneUser,ユーザなし | 0 | 0 | 201 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 'SequenceOnly' | 'シーケンス専用' | 
 | None,なし | None,なし | None,なし | 99_Dummy,99_Dummy | FtrCommonUser,共通ユーザ | 0 | 0 | 209 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 'MyDesignObject' | 'マイデザインオブジェクト' | 
 | None,なし | None,なし | None,なし | 99_Dummy,99_Dummy | FtrCommonUser,共通ユーザ | 0 | 0 | 180 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 'MyDesignTexture' | 'マイデザインテクスチャ' | 
 | None,なし | None,なし | None,なし | 99_Dummy,99_Dummy | FtrNoneUser,ユーザなし | 0 | 0 | 147 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 'None' | 'なし' | 
 | OnCaptureUIcon,あり(Uアイコン) | Present,プレゼント | None,なし | 80_Etc,80_Etc | FtrNoneUser,ユーザなし | 0 | 0 | 211 | 1 | 0 | 0 | 1 | 1 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 'DummyWrapping' | 'ダミーラッピング済アイテム' | 
 | None,なし | Present,プレゼント | None,なし | 80_Etc,80_Etc | FtrNoneUser,ユーザなし | 0 | 0 | 212 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 'DummyPresentbox' | 'ダミープレゼントBOX' | 
 | None,なし | Present,プレゼント | None,なし | 80_Etc,80_Etc | FtrNoneUser,ユーザなし | 0 | 0 | 215 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 'DummyCardboard' | 'ダミーダンボール入りアイテム' | 
-| None,なし | None,なし | Ftr,家具 | 99_Dummy,99_Dummy | FtrCommonUser,共通ユーザ | 0 | 0 | 234 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 'EventObjFtr' | 'イベントオブジェ家具' | 
+| None,なし | None,なし | Ftr,家具 | 99_Dummy,99_Dummy | FtrUniqueUser,個別ユーザ | 0 | 0 | 234 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 'EventObjFtr' | 'イベントオブジェ家具' | 
 | None,なし | None,なし | None,なし | 99_Dummy,99_Dummy | FtrNoneUser,ユーザなし | 0 | 0 | 236 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 'NnpcRoomMarker' | 'NPC部屋マーカー' | 
 | OnCaptureUIcon,あり(Uアイコン) | None,なし | None,なし | 91_PhotoStudioList,91_PhotoStudioList | FtrNoneUser,ユーザなし | 0 | 0 | 255 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 'PhotoStudioList' | '撮影スタジオ用アイテム' | 

@@ -92,3 +92,4 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/NpcSpSe
 | 15 | 98 | 'NpcSpScratchFace' | 24 | 'tap' | 50 | 0 | 0 | 
 | 10 | 100 | 'SzaFireworks' | 24 | 'sza' | 80 | 19 | 9 | 
 | 10 | 102 | 'NpcSpArrangeHigh' | 19 | 'fox' | 90 | 0 | 9 | 
+| 10 | 103 | 'PknTouchHead' | 24 | 'pkn' | 80 | 0 | 0 | 

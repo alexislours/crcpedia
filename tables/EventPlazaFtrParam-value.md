@@ -30,3 +30,4 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/EventPl
 | S,南 | OFF,OFF | 13218 | 32 | 0 | 
 | E,東 | OFF,OFF | 9767 | 33 | 1 | 
 | S,南 | OFF,OFF | 2592 | 34 | 0 | 
+| S,南 | OFF,OFF | 13352 | 36 | 0 | 

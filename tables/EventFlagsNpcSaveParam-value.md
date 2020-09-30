@@ -42,4 +42,4 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/EventFl
 | 0 | 10 | 43 | 1 | 0 | 'ForceMoveOutVillagerIndex' | '強制転出に指定した住人番号' | 
 | 0 | 1 | 44 | 0 | 2 | 'DisplayJuneBridePresent' | 'ジューンブライド | 絵皿を飾るか？' | 
 | 0 | 7 | 45 | 0 | 1 | 'ProgressDaysJuneBrideParty' | 'ジューンブライド | 結婚パーティに参加してからの経過日数' | 
-| 0 | 5 | 49 | 0 | 0 | 'EnableConvTalkDaysCount' | '会話のフリを解禁するまでの日数' | 
+| 0 | 6 | 49 | 0 | 0 | 'EnableConvTalkDaysCount' | '会話のフリを解禁するまでの日数' | 

@@ -254,4 +254,5 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/RoomWal
 | UseAO,あり | None,なし | White,蛍光灯 | 888 | 11 | 3 | 23 | 6 | 12469 | 334 | 6 | 'ウェディングなかべ・グリーン' | 'RoomSpWallChurch02' | 1 | 
 | None,なし | Random,ランダム | White,蛍光灯 | 888 | 0 | 3 | 23 | 6 | 12566 | 335 | 6 | 'マーメイドなかべがみ' | 'RoomSpWallMermaid00' | 0 | 
 | UseAO,あり | None,なし | Orange,白熱灯 | 888 | 6 | 0 | 23 | 6 | 12567 | 336 | 6 | 'かいぞくのかべがみ' | 'RoomSpWallPirates00' | 1 | 
+| UseAO,あり | None,なし | White,蛍光灯 | 888 | 6 | 7 | 23 | 6 | 13224 | 362 | 9 | 'ハロウィンなかべ' | 'RoomTexWallHalloween00' | 0 | 
 | None,なし | None,なし | Orange,白熱灯 | 888 | 0 | 8 | 23 | 6 | 13230 | 363 | 6 | 'はなびたいかいのかべ' | 'RoomSpWallFireworks00' | 0 | 

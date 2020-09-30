@@ -24,3 +24,4 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ColEffe
 | 22 | '溶岩' | 
 | 24 | '穴' | 
 | 25 | 'マイデザイン' | 
+| 27 | '盛り土' | 

@@ -18,3 +18,4 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/RadioCM
 | 10.0 | 535 | 212 | 11 | 0 | 'JuneBride' | 0 | 
 | 10.0 | 592 | 213 | 12 | 0 | 'InternationalMuseum' | 0 | 
 | 10.0 | 504 | 214 | 13 | 4 | 'Fireworks' | 0 | 
+| 10.0 | 474 | 215 | 14 | 30 | 'Halloween' | 0 | 

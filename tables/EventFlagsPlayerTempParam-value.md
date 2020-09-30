@@ -91,6 +91,8 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/EventFl
 | 0 | 1 | 94 | 0 | 1 | 2 | 'FoxExitBalloon' | 'つねきち|退店時バルーンを出した' | 
 | 0 | 1 | 96 | 0 | 0 | 2 | 'XctTalkMayDayTourNow' | 'みしらぬネコ|メーデーツアーで会話した？' | 
 | 0 | 1 | 97 | 0 | 0 | 2 | 'DocMayDayTourFirstTalkDone' | 'ロドリー|メーデーツアー到着強制会話済' | 
+| 0 | 1 | 99 | 0 | 1 | 2 | 'RcmCantPlayTalkActingThisScene' | 'まめきち｜シーン入場時に会話のフリをしなかったらON' | 
+| 0 | 1 | 100 | 0 | 1 | 2 | 'TalkSpecialMakeNow' | '今ClothesP（特殊メイク）を見た' | 
 | 0 | 1 | 102 | 0 | 0 | 2 | 'DodDreamTalk' | 'モーリー|夢の中で会話したか？（夢離脱時にロールバック）' | 
 | 0 | 1 | 103 | 0 | 0 | 0 | 'InJuneBrideStudio' | 'ジューンブライド|ジューンブライド専用ステージ内か？' | 
 | 0 | 1 | 104 | 0 | 1 | 2 | 'MyDesignExchangeCallMyIdList' | 'マイデザイン交換端末|このシーンで自身のID一覧を取得したか？' | 

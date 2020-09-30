@@ -11,3 +11,4 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/Release
 | 10200 | 11 | 'Ver1Spring' | '1.2.0 春パッチ' | 
 | 10300 | 10 | 'Ver1Summer' | '1.3.0 夏パッチ' | 
 | 10400 | 9 | 'Ver1Summer2' | '1.4.0 夏パッチ2' | 
+| 10500 | 12 | 'Ver1Autumn' | '1.5.0 秋パッチ' | 

@@ -283,3 +283,6 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/Message
 | 16316115 | 359 | 
 | 3254459 | 360 | 
 | 12086 | 361 | 
+| 16291839 | 363 | 
+| 5217282 | 364 | 
+| 16756224 | 365 | 

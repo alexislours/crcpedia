@@ -10,3 +10,4 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/Message
 | 65535 | 145 | 146 | 146 | 145 | 145 | 145 | 145 | 1 | -1 | 65535 | 3 | 'BoardCardInsect00' | 
 | 65535 | 151 | 152 | 152 | 151 | 151 | 151 | 151 | 1 | -1 | 65535 | 4 | 'BoardCardNewYearsEve00' | 
 | 65535 | 351 | 352 | 352 | 138 | 351 | 351 | 351 | 1 | -1 | 65535 | 5 | 'BoardCardOffice00' | 
+| 65535 | 363 | 365 | 364 | 363 | 363 | 363 | 363 | 1 | -1 | 65535 | 6 | 'BoardCardHalloween00' | 

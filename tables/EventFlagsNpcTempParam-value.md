@@ -59,3 +59,7 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/EventFl
 | 0 | 1 | 57 | 0 | 1 | 2 | 'FireworksApproachTalk' | '花火大会用アプローチ会話が出せる状態か' | 
 | 0 | 1 | 58 | 0 | 1 | 2 | 'NotAddTalkCount' | '会話回数を加算しない' | 
 | 0 | 1 | 59 | 0 | 0 | 2 | 'FireworksItemTalk' | '花火大会用の会話が出せる状態か' | 
+| 0 | 1 | 60 | 0 | 1 | 1 | 'HalloweenReactionPrank' | 'ハロウィン：NPCの視界外から脅かした？' | 
+| 0 | 2 | 61 | 0 | 0 | 1 | 'HalloweenReactionEventPlaza' | 'ハロウィン：広場行動指定' | 
+| 0 | 4 | 62 | 0 | 0 | 1 | 'SeasonEventPlace' | '季節イベント用位置情報' | 
+| 0 | 1 | 63 | 0 | 1 | 2 | 'HalloweenApproachNowStage' | '現在シーンでハロウィン用アプローチをしたか' | 
