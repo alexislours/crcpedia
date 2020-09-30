@@ -5460,7 +5460,7 @@
       },
       {
         "hash": "a5010be8",
-        "type": "u16/s16",
+        "type": "u8",
         "hashedString": "UseCollision u8",
         "hashNotes": "",
         "formattedHash": "_a5010be8",
@@ -12131,7 +12131,7 @@
   },
   "ItemParam": {
     "name": "ItemParam",
-    "namedColumns": "91/100",
+    "namedColumns": "92/100",
     "documentedColumns": "67/100",
     "description": "The big table everyone loves. Params for every item in the game",
     "hashes": [
@@ -12952,11 +12952,11 @@
       },
       {
         "hash": "622c3346",
-        "type": "u8/s8",
-        "hashedString": "",
+        "type": "u8",
+        "hashedString": "CanHide u8",
         "hashNotes": "",
         "formattedHash": "_622c3346",
-        "name": "",
+        "name": "CanHide",
         "functionalityNotes": "",
         "versions": ["", "", "", "", ""],
         "knownFunctionality": false

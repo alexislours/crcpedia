@@ -1,7 +1,7 @@
 # ItemParam
 [View this table in your browser](ItemParam-value.md) (version 1.4.0).
 
-**Named columns**: 91/100
+**Named columns**: 92/100
 
 **Documented columns**: 67/100
 
@@ -1251,11 +1251,13 @@
 | Yes | Yes | Yes | Yes | Yes | 
 
 
-## 0x622c3346
+## CanHide
+
+**Name**: CanHide
 
 **Hash**: 0x622c3346
 
-**Type**: u8/s8
+**Hashed string**: CanHide u8
 
 **Versions**: 
 
