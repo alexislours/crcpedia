@@ -1,9 +1,9 @@
 # CalendarEventParam
 [View this table in your browser](CalendarEventParam-value.md) (version 1.4.0).
 
-**Named columns**: 162/162
+**Named columns**: 162/163
 
-**Documented columns**: 156/162
+**Documented columns**: 156/163
 
 **Description**: Dates and settings for calendar events and Nook Shopping seasonal events
 ## EventType
@@ -55,6 +55,19 @@
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
 |:--:|:--:|:--:|:--:|:--:|
 | No | Yes | Yes | Yes | Yes | 
+
+
+## 0xa745c103
+
+**Hash**: 0xa745c103
+
+**Type**: u32
+
+**Versions**: 
+
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+|:--:|:--:|:--:|:--:|:--:|
+|  |  |  |  |  | 
 
 
 ## TkkSkipBirthday

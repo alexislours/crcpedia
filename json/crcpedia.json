@@ -395,8 +395,8 @@
   },
   "CalendarEventParam": {
     "name": "CalendarEventParam",
-    "namedColumns": "162/162",
-    "documentedColumns": "156/162",
+    "namedColumns": "162/163",
+    "documentedColumns": "156/163",
     "description": "Dates and settings for calendar events and Nook Shopping seasonal events",
     "hashes": [
       {
@@ -429,6 +429,17 @@
         "name": "FlagLand2",
         "functionalityNotes": "Unused, probably the same as FlagLand1 for a second flag",
         "versions": ["No", "Yes", "Yes", "Yes", "Yes"]
+      },
+      {
+        "hash": "a745c103",
+        "type": "u32",
+        "hashedString": "",
+        "hashNotes": "",
+        "formattedHash": "_a745c103",
+        "name": "",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", ""],
+        "knownFunctionality": false
       },
       {
         "hash": "52c75c1e",
@@ -3051,6 +3062,46 @@
         "functionalityNotes": "",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
         "knownFunctionality": true
+      }
+    ]
+  },
+  "CharaMakeHalloweenMakePresetParam": {
+    "name": "CharaMakeHalloweenMakePresetParam",
+    "namedColumns": "0/2",
+    "documentedColumns": "0/2",
+    "hashes": [
+      {
+        "hash": "ea6d4070",
+        "type": "u16",
+        "hashedString": "",
+        "hashNotes": "",
+        "formattedHash": "",
+        "name": "",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", ""],
+        "knownFunctionality": false
+      },
+      {
+        "hash": "25de7b8f",
+        "type": "u16",
+        "hashedString": "",
+        "hashNotes": "",
+        "formattedHash": "",
+        "name": "",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", ""],
+        "knownFunctionality": false
+      },
+      {
+        "hash": "",
+        "type": "",
+        "hashedString": "",
+        "hashNotes": "",
+        "formattedHash": "",
+        "name": "UniqueID",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", ""],
+        "knownFunctionality": false
       }
     ]
   },

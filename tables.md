@@ -13,6 +13,7 @@
 - [CharaMakeEyeTypeParam](tables/CharaMakeEyeTypeParam.md)
 - [CharaMakeHairColorParam](tables/CharaMakeHairColorParam.md)
 - [CharaMakeHairStyleParam](tables/CharaMakeHairStyleParam.md)
+- [CharaMakeHalloweenMakePresetParam](tables/CharaMakeHalloweenMakePresetParam.md)
 - [CharaMakeMouthTypeParam](tables/CharaMakeMouthTypeParam.md)
 - [CharaMakeNoseTypeParam](tables/CharaMakeNoseTypeParam.md)
 - [CharaMakeSkinColorParam](tables/CharaMakeSkinColorParam.md)
