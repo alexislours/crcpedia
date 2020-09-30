@@ -1,9 +1,9 @@
 # EventFlagsNpcMemoryParam
 [View this table in your browser](EventFlagsNpcMemoryParam-value.md) (version 1.4.0).
 
-**Named columns**: 6/9
+**Named columns**: 6/10
 
-**Documented columns**: 5/9
+**Documented columns**: 5/10
 
 **Description**: Flags that villagers remember, mostly dialogs
 ## UniqueID
@@ -45,6 +45,19 @@
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
 |:--:|:--:|:--:|:--:|:--:|
 | Yes | Yes | Yes | Yes | Yes | 
+
+
+## 0xbed25a86
+
+**Hash**: 0xbed25a86
+
+**Type**: u8
+
+**Versions**: 
+
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+|:--:|:--:|:--:|:--:|:--:|
+|  |  |  |  |  | 
 
 
 ## 0x8d401df7
