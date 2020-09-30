@@ -1,13 +1,15 @@
 # CharaMakeHalloweenMakePresetParam
-**Named columns**: 1/3
+**Named columns**: 3/3
 
 **Documented columns**: 0/3
 
-## 0xea6d4070
+## FacePaint
+
+**Name**: FacePaint
 
 **Hash**: 0xea6d4070
 
-**Type**: u16/s16
+**Hashed string**: FacePaint u16
 
 **Versions**: 
 
@@ -16,11 +18,13 @@
 |  |  |  |  |  | 
 
 
-## 0x25de7b8f
+## SkinColor
+
+**Name**: SkinColor
 
 **Hash**: 0x25de7b8f
 
-**Type**: u16
+**Hashed string**: SkinColor u16
 
 **Versions**: 
 

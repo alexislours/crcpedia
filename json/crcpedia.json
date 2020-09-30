@@ -3067,16 +3067,16 @@
   },
   "CharaMakeHalloweenMakePresetParam": {
     "name": "CharaMakeHalloweenMakePresetParam",
-    "namedColumns": "1/3",
+    "namedColumns": "3/3",
     "documentedColumns": "0/3",
     "hashes": [
       {
         "hash": "ea6d4070",
-        "type": "u16/s16",
-        "hashedString": "",
+        "type": "u16",
+        "hashedString": "FacePaint u16",
         "hashNotes": "",
         "formattedHash": "_ea6d4070",
-        "name": "",
+        "name": "FacePaint",
         "functionalityNotes": "",
         "versions": ["", "", "", "", ""],
         "knownFunctionality": false
@@ -3084,10 +3084,10 @@
       {
         "hash": "25de7b8f",
         "type": "u16",
-        "hashedString": "",
+        "hashedString": "SkinColor u16",
         "hashNotes": "",
         "formattedHash": "_25de7b8f",
-        "name": "",
+        "name": "SkinColor",
         "functionalityNotes": "",
         "versions": ["", "", "", "", ""],
         "knownFunctionality": false
@@ -5355,7 +5355,7 @@
   },
   "EventPlazaObjModelParam": {
     "name": "EventPlazaObjModelParam",
-    "namedColumns": "7/10",
+    "namedColumns": "8/10",
     "documentedColumns": "5/10",
     "description": "Objects to be places in the plaza",
     "hashes": [
@@ -5461,10 +5461,10 @@
       {
         "hash": "a5010be8",
         "type": "u16/s16",
-        "hashedString": "",
+        "hashedString": "UseCollision u8",
         "hashNotes": "",
         "formattedHash": "_a5010be8",
-        "name": "",
+        "name": "UseCollision",
         "functionalityNotes": "",
         "versions": ["", "", "", "", ""],
         "knownFunctionality": false

@@ -1,7 +1,7 @@
 # EventPlazaObjModelParam
 [View this table in your browser](EventPlazaObjModelParam-value.md) (version 1.4.0).
 
-**Named columns**: 7/10
+**Named columns**: 8/10
 
 **Documented columns**: 5/10
 
@@ -145,11 +145,13 @@
 |  |  |  |  |  | 
 
 
-## 0xa5010be8
+## UseCollision
+
+**Name**: UseCollision
 
 **Hash**: 0xa5010be8
 
-**Type**: u16/s16
+**Hashed string**: UseCollision u8
 
 **Versions**: 
 
