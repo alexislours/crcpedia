@@ -24490,7 +24490,7 @@
     "hashes": [
       {
         "hash": "b619ba5c",
-        "type": "u32/s32",
+        "type": "f32",
         "hashedString": "DoorDecoZOffset f32",
         "hashNotes": "",
         "formattedHash": "_b619ba5c",
