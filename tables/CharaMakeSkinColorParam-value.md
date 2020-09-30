@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/CharaMakeSkinColorParam.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/CharaMakeSkinColorParam.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/CharaMakeSkinColorParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/CharaMakeSkinColorParam.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/CharaMakeSkinColorParam.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/CharaMakeSkinColorParam.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/CharaMakeSkinColorParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/CharaMakeSkinColorParam.json)
 

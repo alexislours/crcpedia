@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/RecipeCraftParam.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/RecipeCraftParam.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/RecipeCraftParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/RecipeCraftParam.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/RecipeCraftParam.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/RecipeCraftParam.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/RecipeCraftParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/RecipeCraftParam.json)
 

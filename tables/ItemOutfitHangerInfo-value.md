@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemOutfitHangerInfo.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemOutfitHangerInfo.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemOutfitHangerInfo.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/ItemOutfitHangerInfo.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/ItemOutfitHangerInfo.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/ItemOutfitHangerInfo.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemOutfitHangerInfo.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/ItemOutfitHangerInfo.json)
 

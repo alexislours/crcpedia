@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemNpcFtrActionParam.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemNpcFtrActionParam.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemNpcFtrActionParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/ItemNpcFtrActionParam.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/ItemNpcFtrActionParam.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/ItemNpcFtrActionParam.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemNpcFtrActionParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/ItemNpcFtrActionParam.json)
 

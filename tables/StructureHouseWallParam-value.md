@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/StructureHouseWallParam.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/StructureHouseWallParam.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/StructureHouseWallParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/StructureHouseWallParam.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/StructureHouseWallParam.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/StructureHouseWallParam.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/StructureHouseWallParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/StructureHouseWallParam.json)
 

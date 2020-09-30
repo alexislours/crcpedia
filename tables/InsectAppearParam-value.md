@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/InsectAppearParam.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/InsectAppearParam.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/InsectAppearParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/InsectAppearParam.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/InsectAppearParam.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/InsectAppearParam.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/InsectAppearParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/InsectAppearParam.json)
 

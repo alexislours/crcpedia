@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/BgmPropertyControlParam.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/BgmPropertyControlParam.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/BgmPropertyControlParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/BgmPropertyControlParam.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/BgmPropertyControlParam.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/BgmPropertyControlParam.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/BgmPropertyControlParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/BgmPropertyControlParam.json)
 

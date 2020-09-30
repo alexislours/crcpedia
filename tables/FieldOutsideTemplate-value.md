@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/FieldOutsideTemplate.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/FieldOutsideTemplate.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/FieldOutsideTemplate.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/FieldOutsideTemplate.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/FieldOutsideTemplate.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/FieldOutsideTemplate.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/FieldOutsideTemplate.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/FieldOutsideTemplate.json)
 

@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemSize.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemSize.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemSize.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/ItemSize.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/ItemSize.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/ItemSize.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemSize.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/ItemSize.json)
 

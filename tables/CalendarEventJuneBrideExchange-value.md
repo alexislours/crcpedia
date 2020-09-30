@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/CalendarEventJuneBrideExchange.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/CalendarEventJuneBrideExchange.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/CalendarEventJuneBrideExchange.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/CalendarEventJuneBrideExchange.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/CalendarEventJuneBrideExchange.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/CalendarEventJuneBrideExchange.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/CalendarEventJuneBrideExchange.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/CalendarEventJuneBrideExchange.json)
 

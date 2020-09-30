@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/EventFlagsNpcSaveParam.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/EventFlagsNpcSaveParam.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/EventFlagsNpcSaveParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/EventFlagsNpcSaveParam.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/EventFlagsNpcSaveParam.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/EventFlagsNpcSaveParam.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/EventFlagsNpcSaveParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/EventFlagsNpcSaveParam.json)
 

@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/SoundAttributeForPlacement.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/SoundAttributeForPlacement.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/SoundAttributeForPlacement.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/SoundAttributeForPlacement.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/SoundAttributeForPlacement.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/SoundAttributeForPlacement.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/SoundAttributeForPlacement.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/SoundAttributeForPlacement.json)
 

@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/EventFlagsLifeSupportDailyParam.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/EventFlagsLifeSupportDailyParam.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/EventFlagsLifeSupportDailyParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/EventFlagsLifeSupportDailyParam.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/EventFlagsLifeSupportDailyParam.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/EventFlagsLifeSupportDailyParam.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/EventFlagsLifeSupportDailyParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/EventFlagsLifeSupportDailyParam.json)
 

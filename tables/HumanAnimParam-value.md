@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/HumanAnimParam.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/HumanAnimParam.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/HumanAnimParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/HumanAnimParam.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/HumanAnimParam.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/HumanAnimParam.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/HumanAnimParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/HumanAnimParam.json)
 

@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/CalendarEventParam.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/CalendarEventParam.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/CalendarEventParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/CalendarEventParam.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/CalendarEventParam.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/CalendarEventParam.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/CalendarEventParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/CalendarEventParam.json)
 

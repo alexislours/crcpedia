@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ColGroundAttributeParam.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/ColGroundAttributeParam.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/ColGroundAttributeParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/ColGroundAttributeParam.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/ColGroundAttributeParam.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/ColGroundAttributeParam.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ColGroundAttributeParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/ColGroundAttributeParam.json)
 

@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/ItemPlayerInitialOutfitGirlAWParam.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/ItemPlayerInitialOutfitGirlAWParam.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/ItemPlayerInitialOutfitGirlAWParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/ItemPlayerInitialOutfitGirlAWParam.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/ItemPlayerInitialOutfitGirlAWParam.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/ItemPlayerInitialOutfitGirlAWParam.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemPlayerInitialOutfitGirlAWParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/ItemPlayerInitialOutfitGirlAWParam.json)
 

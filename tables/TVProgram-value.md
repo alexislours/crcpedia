@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/TVProgram.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/TVProgram.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/TVProgram.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/TVProgram.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/TVProgram.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/TVProgram.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/TVProgram.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/TVProgram.json)
 

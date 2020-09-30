@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/MessageCardSelectPresent.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/MessageCardSelectPresent.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/MessageCardSelectPresent.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/MessageCardSelectPresent.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/MessageCardSelectPresent.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/MessageCardSelectPresent.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/MessageCardSelectPresent.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/MessageCardSelectPresent.json)
 

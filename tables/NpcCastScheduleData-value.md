@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_140/html/NpcCastScheduleData.html), [CSV](https://wuffs.org/acnh/bcsv_140/csv/NpcCastScheduleData.csv), [JSON](https://wuffs.org/acnh/bcsv_140/json/NpcCastScheduleData.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/NpcCastScheduleData.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/NpcCastScheduleData.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/NpcCastScheduleData.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/NpcCastScheduleData.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/NpcCastScheduleData.json)
 
