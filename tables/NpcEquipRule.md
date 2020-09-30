@@ -1,7 +1,7 @@
 # NpcEquipRule
 [View this table in your browser](NpcEquipRule-value.md) (version 1.4.0).
 
-**Named columns**: 20/21
+**Named columns**: 21/21
 
 **Documented columns**: 16/21
 
@@ -257,11 +257,13 @@
 | Yes | Yes | Yes | Yes | Yes | 
 
 
-## 0x6510a4fe
+## IsEquipCeremony
+
+**Name**: IsEquipCeremony
 
 **Hash**: 0x6510a4fe
 
-**Type**: u8/s8
+**Hashed string**: IsEquipCeremony u8
 
 **Versions**: 
 

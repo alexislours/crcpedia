@@ -18296,7 +18296,7 @@
   },
   "NpcEquipRule": {
     "name": "NpcEquipRule",
-    "namedColumns": "20/21",
+    "namedColumns": "21/21",
     "documentedColumns": "16/21",
     "description": "Parameters for each PurposeTag (AITag) for villager clothing",
     "hashes": [
@@ -18465,10 +18465,10 @@
       {
         "hash": "6510a4fe",
         "type": "u8/s8",
-        "hashedString": "",
+        "hashedString": "IsEquipCeremony u8",
         "hashNotes": "",
         "formattedHash": "_6510a4fe",
-        "name": "",
+        "name": "IsEquipCeremony",
         "functionalityNotes": "",
         "versions": ["", "", "", "", ""],
         "knownFunctionality": false
