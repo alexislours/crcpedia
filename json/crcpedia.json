@@ -438,7 +438,7 @@
         "formattedHash": "_a745c103",
         "name": "FlagPlayerAnnounce",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", ""],
+        "versions": ["No", "No", "No", "No", "No"],
         "knownFunctionality": false
       },
       {
@@ -3078,7 +3078,7 @@
         "formattedHash": "_ea6d4070",
         "name": "FacePaint",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", ""],
+        "versions": ["No", "No", "No", "No", "No"],
         "knownFunctionality": false
       },
       {
@@ -3089,7 +3089,7 @@
         "formattedHash": "_25de7b8f",
         "name": "SkinColor",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", ""],
+        "versions": ["No", "No", "No", "No", "No"],
         "knownFunctionality": false
       },
       {
@@ -3100,7 +3100,7 @@
         "formattedHash": "_54706054",
         "name": "UniqueID",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", ""],
+        "versions": ["No", "No", "No", "No", "No"],
         "knownFunctionality": false
       }
     ]
@@ -4624,7 +4624,7 @@
         "formattedHash": "_bed25a86",
         "name": "",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", ""],
+        "versions": ["No", "No", "No", "No", "No"],
         "knownFunctionality": false
       },
       {
@@ -5455,7 +5455,7 @@
         "formattedHash": "_e2760d00",
         "name": "",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", ""],
+        "versions": ["No", "No", "No", "No", "No"],
         "knownFunctionality": false
       },
       {
@@ -5466,7 +5466,7 @@
         "formattedHash": "_a5010be8",
         "name": "UseCollision",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", ""],
+        "versions": ["No", "No", "No", "No", "No"],
         "knownFunctionality": false
       }
     ]
@@ -5529,7 +5529,7 @@
         "formattedHash": "_160cb241",
         "name": "",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", ""],
+        "versions": ["No", "No", "No", "No", "No"],
         "knownFunctionality": false
       },
       {
@@ -5650,7 +5650,7 @@
         "formattedHash": "_56ee0925",
         "name": "",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", ""],
+        "versions": ["No", "No", "No", "No", "No"],
         "knownFunctionality": false
       },
       {
@@ -11712,7 +11712,7 @@
         "formattedHash": "_2924e11f",
         "name": "",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", ""],
+        "versions": ["No", "No", "No", "No", "No"],
         "knownFunctionality": false
       },
       {
@@ -12958,7 +12958,7 @@
         "formattedHash": "_622c3346",
         "name": "CanHide",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", ""],
+        "versions": ["No", "No", "No", "No", "No"],
         "knownFunctionality": false
       },
       {
@@ -13002,7 +13002,7 @@
         "formattedHash": "_b91ea6c2",
         "name": "CaptureDoorOrnamentIcon",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", ""],
+        "versions": ["No", "No", "No", "No", "No"],
         "knownFunctionality": false
       },
       {
@@ -18470,7 +18470,7 @@
         "formattedHash": "_6510a4fe",
         "name": "IsEquipCeremony",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", ""],
+        "versions": ["No", "No", "No", "No", "No"],
         "knownFunctionality": false
       },
       {
