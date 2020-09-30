@@ -5355,8 +5355,8 @@
   },
   "EventPlazaObjModelParam": {
     "name": "EventPlazaObjModelParam",
-    "namedColumns": "7/8",
-    "documentedColumns": "5/8",
+    "namedColumns": "7/10",
+    "documentedColumns": "5/10",
     "description": "Objects to be places in the plaza",
     "hashes": [
       {
@@ -5448,22 +5448,22 @@
         "knownFunctionality": true
       },
       {
-        "hash": "",
-        "type": "",
+        "hash": "e2760d00",
+        "type": "u8",
         "hashedString": "",
         "hashNotes": "",
-        "formattedHash": "",
+        "formattedHash": "_e2760d00",
         "name": "",
         "functionalityNotes": "",
         "versions": ["", "", "", "", ""],
         "knownFunctionality": false
       },
       {
-        "hash": "",
-        "type": "",
+        "hash": "a5010be8",
+        "type": "u16",
         "hashedString": "",
         "hashNotes": "",
-        "formattedHash": "",
+        "formattedHash": "_a5010be8",
         "name": "",
         "functionalityNotes": "",
         "versions": ["", "", "", "", ""],
@@ -5473,8 +5473,8 @@
   },
   "EventPlazaPlacementParam": {
     "name": "EventPlazaPlacementParam",
-    "namedColumns": "12/17",
-    "documentedColumns": "14/17",
+    "namedColumns": "12/19",
+    "documentedColumns": "14/19",
     "description": "Placement of furniture and objects in the plaza",
     "hashes": [
       {
@@ -5520,6 +5520,17 @@
         "functionalityNotes": "Ftr, NPC, and EventObj",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
         "knownFunctionality": true
+      },
+      {
+        "hash": "160cb241",
+        "type": "string",
+        "hashedString": "",
+        "hashNotes": "",
+        "formattedHash": "_160cb241",
+        "name": "",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", ""],
+        "knownFunctionality": false
       },
       {
         "hash": "20dd4435",
@@ -5629,6 +5640,17 @@
         "name": "",
         "functionalityNotes": "",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes"],
+        "knownFunctionality": false
+      },
+      {
+        "hash": "56ee0925",
+        "type": "string32",
+        "hashedString": "",
+        "hashNotes": "",
+        "formattedHash": "_56ee0925",
+        "name": "",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", ""],
         "knownFunctionality": false
       },
       {

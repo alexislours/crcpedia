@@ -1,9 +1,9 @@
 # EventPlazaPlacementParam
 [View this table in your browser](EventPlazaPlacementParam-value.md) (version 1.4.0).
 
-**Named columns**: 12/17
+**Named columns**: 12/19
 
-**Documented columns**: 14/17
+**Documented columns**: 14/19
 
 **Description**: Placement of furniture and objects in the plaza
 ## 0x036dd90c
@@ -69,6 +69,19 @@
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
 |:--:|:--:|:--:|:--:|:--:|
 | Yes | Yes | Yes | Yes | Yes | 
+
+
+## 0x160cb241
+
+**Hash**: 0x160cb241
+
+**Type**: string
+
+**Versions**: 
+
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+|:--:|:--:|:--:|:--:|:--:|
+|  |  |  |  |  | 
 
 
 ## EventFtrUniqueID
@@ -225,6 +238,19 @@
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
 |:--:|:--:|:--:|:--:|:--:|
 | Yes | Yes | Yes | Yes | Yes | 
+
+
+## 0x56ee0925
+
+**Hash**: 0x56ee0925
+
+**Type**: string32
+
+**Versions**: 
+
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 |
+|:--:|:--:|:--:|:--:|:--:|
+|  |  |  |  |  | 
 
 
 ## NpcSpLabel

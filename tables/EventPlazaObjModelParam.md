@@ -1,9 +1,9 @@
 # EventPlazaObjModelParam
 [View this table in your browser](EventPlazaObjModelParam-value.md) (version 1.4.0).
 
-**Named columns**: 7/8
+**Named columns**: 7/10
 
-**Documented columns**: 5/8
+**Documented columns**: 5/10
 
 **Description**: Objects to be places in the plaza
 ## DemoDistance
@@ -132,11 +132,11 @@
 | Yes | Yes | Yes | Yes | Yes | 
 
 
-## 
+## 0xe2760d00
 
-**Hash**: 
+**Hash**: 0xe2760d00
 
-**Type**: 
+**Type**: u8
 
 **Versions**: 
 
@@ -145,11 +145,11 @@
 |  |  |  |  |  | 
 
 
-## 
+## 0xa5010be8
 
-**Hash**: 
+**Hash**: 0xa5010be8
 
-**Type**: 
+**Type**: u16
 
 **Versions**: 
 
