@@ -245,7 +245,7 @@
 
 **Hashed string**: ItemGender.hshCstringRef
 
-**Notes**: Seems to prevent villagers from wearing non-matching gendered items? (What's NpcGender then?)
+**Notes**: Prevents villagers from wearing non-matching gendered items, and prevents gifting clothes that doesn't match either the player's or villager's gender (don't know what the difference with NpcGender is)
 
 **Versions**: 
 
