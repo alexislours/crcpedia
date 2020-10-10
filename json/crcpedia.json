@@ -19123,7 +19123,7 @@
         "hashNotes": "",
         "formattedHash": "_9bc85bd0",
         "name": "SpotType",
-        "functionalityNotes": "",
+        "functionalityNotes": "Bitfield?",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes", "Yes"],
         "knownFunctionality": false
       },
