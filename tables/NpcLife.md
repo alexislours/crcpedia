@@ -3,10 +3,10 @@
 
 **Named columns**: 40/40
 
-**Documented columns**: 28/40
+**Documented columns**: 32/40
 
 **Description**: Parameters for NPC activities
-## ArriveDist
+## ArriveDist (Unused)
 
 **Name**: ArriveDist
 
@@ -41,7 +41,7 @@
 | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
-## SatisfyMinute
+## SatisfyMinute (Unused)
 
 **Name**: SatisfyMinute
 
@@ -116,6 +116,8 @@
 
 **Hashed string**: GroupActivityPlacementType u8
 
+**Notes**: Villagers' positions during plaza activity?
+
 **Versions**: 
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
@@ -182,7 +184,7 @@
 
 **Hashed string**: HobbyMotif u8
 
-**Notes**: Determines what activities are modified by hobby
+**Notes**: Determines what activities are modified by hobby. Higher HobbyPoint villagers should be more likely to do a hobby.
 
 **Versions**: 
 
@@ -250,6 +252,8 @@
 
 **Hashed string**: LifeMotif u8
 
+**Notes**: Modified by LifePoint. 0 = equipped item could depend on relative LifePoint value. 1 = Restricted to medium and high LifePoint villagers. 2 = Restricted to high LifePoint villagers. 3 = Not modified by LifePoint
+
 **Versions**: 
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
@@ -264,6 +268,8 @@
 **Hash**: 0x1f3bcf5e
 
 **Hashed string**: LiveMotif u8
+
+**Notes**: 0 = Lower LifePoint villagers are more likely to do this activity
 
 **Versions**: 
 

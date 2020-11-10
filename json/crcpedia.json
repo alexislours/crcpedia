@@ -18838,7 +18838,7 @@
   "NpcLife": {
     "name": "NpcLife",
     "namedColumns": "40/40",
-    "documentedColumns": "28/40",
+    "documentedColumns": "32/40",
     "description": "Parameters for NPC activities",
     "hashes": [
       {
@@ -18850,7 +18850,7 @@
         "name": "ArriveDist",
         "functionalityNotes": "All rows are -1",
         "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
-        "knownFunctionality": false
+        "knownFunctionality": "unused"
       },
       {
         "hash": "fd9af1e1",
@@ -18872,7 +18872,7 @@
         "name": "SatisfyMinute",
         "functionalityNotes": "All rows are 15",
         "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
-        "knownFunctionality": false
+        "knownFunctionality": "unused"
       },
       {
         "hash": "40876b17",
@@ -18882,8 +18882,7 @@
         "formattedHash": "_40876b17",
         "name": "BehaviorType",
         "functionalityNotes": "Behavior type ID?",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes", "Yes"]
       },
       {
         "hash": "d941db12",
@@ -18914,9 +18913,8 @@
         "hashNotes": "",
         "formattedHash": "_bdd4dc0f",
         "name": "GroupActivityPlacementType",
-        "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "functionalityNotes": "Villagers' positions during plaza activity?",
+        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes", "Yes"]
       },
       {
         "hash": "cd61ce25",
@@ -18958,7 +18956,7 @@
         "hashNotes": "",
         "formattedHash": "_a42b13ce",
         "name": "HobbyMotif",
-        "functionalityNotes": "Determines what activities are modified by hobby",
+        "functionalityNotes": "Determines what activities are modified by hobby. Higher HobbyPoint villagers should be more likely to do a hobby.",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes", "Yes"],
         "knownFunctionality": true
       },
@@ -19002,9 +19000,9 @@
         "hashNotes": "",
         "formattedHash": "_38954eb6",
         "name": "LifeMotif",
-        "functionalityNotes": "",
+        "functionalityNotes": "Modified by LifePoint. 0 = equipped item could depend on relative LifePoint value. 1 = Restricted to medium and high LifePoint villagers. 2 = Restricted to high LifePoint villagers. 3 = Not modified by LifePoint",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "1f3bcf5e",
@@ -19013,9 +19011,9 @@
         "hashNotes": "",
         "formattedHash": "_1f3bcf5e",
         "name": "LiveMotif",
-        "functionalityNotes": "",
+        "functionalityNotes": "0 = Lower LifePoint villagers are more likely to do this activity",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "35c78d62",
