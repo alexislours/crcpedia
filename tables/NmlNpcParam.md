@@ -276,7 +276,7 @@
 
 **Hashed string**: SmartphoneRemakeCommonPattern s16
 
-**Notes**: Which Sable pattern ID is used for their phone
+**Notes**: Which Sable pattern ID is used for their phone. Used after unlocking Sable patterns, NNpcPhoneColorChangeCounter is incremented by 1 each time a new pattern set is unlocked
 
 **Versions**: 
 
@@ -293,7 +293,7 @@
 
 **Hashed string**: SmartphoneRemakePattern u16
 
-**Notes**: Which phone remake pattern is used for their phone (only used when SmartphoneRemakeCommonPattern is -1?)
+**Notes**: Which phone remake pattern is used for their phone. Used before you unlock Sable patterns or if SmartphoneRemakeCommonPattern is -1
 
 **Versions**: 
 
