@@ -13785,7 +13785,7 @@
   "ItemRemake": {
     "name": "ItemRemake",
     "namedColumns": "56/57",
-    "documentedColumns": "55/57",
+    "documentedColumns": "56/57",
     "description": "Furniture variant information",
     "hashes": [
       {
@@ -14026,9 +14026,9 @@
         "hashNotes": "",
         "formattedHash": "_d4f43b0b",
         "name": "",
-        "functionalityNotes": "",
+        "functionalityNotes": "Can be customized (Non-DIY only)",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "1b98fdf8",

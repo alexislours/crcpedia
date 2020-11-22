@@ -3,7 +3,7 @@
 
 **Named columns**: 56/57
 
-**Documented columns**: 55/57
+**Documented columns**: 56/57
 
 **Description**: Furniture variant information
 ## ItemReFabricType
@@ -364,6 +364,8 @@
 **Hash**: 0xd4f43b0b
 
 **Type**: u8/s8
+
+**Notes**: Can be customized (Non-DIY only)
 
 **Versions**: 
 
