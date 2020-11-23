@@ -1,9 +1,9 @@
 # ItemKind
 [View this table in your browser](ItemKind-value.md) (version 1.5.0).
 
-**Named columns**: 27/28
+**Named columns**: 28/28
 
-**Documented columns**: 20/28
+**Documented columns**: 21/28
 
 **Description**: Defines what actions can be done to items from inventory and other params
 ## FtrIconCaptureType
@@ -406,13 +406,15 @@
 | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
-## 0xc37a683c
+## CantTakeOver
+
+**Name**: CantTakeOver
 
 **Hash**: 0xc37a683c
 
-**Type**: u8/s8
+**Hashed string**: CantTakeOver u8
 
-**Notes**: Not used by the game. Is '1' on the three HousingKit rows
+**Notes**: Can't be taken to another island when the player moves
 
 **Versions**: 
 

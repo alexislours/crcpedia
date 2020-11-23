@@ -381,7 +381,7 @@
 
 **Hashed string**: ItemHobbyType.hshCstringRef
 
-**Notes**: Could possibly be related to villagers' HobbyPoint values in their NpcRoom bymls?
+**Notes**: Seems to be used to generate villagers' HobbyPoint values in their NpcRoom bymls
 
 **Versions**: 
 
@@ -445,7 +445,7 @@
 
 **Type**: hshCstringRef
 
-**Notes**: Low', 'High', 'Normal' and 'None'. Similar to ItemHobbyType. Could have a name similar to ItemLifeType?
+**Notes**: Low', 'High', 'Normal' and 'None'. Similar to ItemHobbyType. Could have a name similar to ItemLifeType? Seems to be used to generate villagers' LifePoint values in their NpcRoom bymls
 
 **Versions**: 
 

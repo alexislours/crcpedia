@@ -10657,8 +10657,8 @@
   },
   "ItemKind": {
     "name": "ItemKind",
-    "namedColumns": "27/28",
-    "documentedColumns": "20/28",
+    "namedColumns": "28/28",
+    "documentedColumns": "21/28",
     "description": "Defines what actions can be done to items from inventory and other params",
     "hashes": [
       {
@@ -10926,13 +10926,13 @@
       {
         "hash": "c37a683c",
         "type": "u8/s8",
-        "hashedString": "",
+        "hashedString": "CantTakeOver u8",
         "hashNotes": "",
         "formattedHash": "_c37a683c",
-        "name": "",
-        "functionalityNotes": "Not used by the game. Is '1' on the three HousingKit rows",
+        "name": "CantTakeOver",
+        "functionalityNotes": "Can't be taken to another island when the player moves",
         "versions": ["Yes*", "Yes*", "Yes*", "Yes*", "Yes*", "Yes*"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "fd3b7c9a",
@@ -12382,9 +12382,8 @@
         "hashNotes": "",
         "formattedHash": "_7b2fdfc1",
         "name": "ItemHobbyType",
-        "functionalityNotes": "Could possibly be related to villagers' HobbyPoint values in their NpcRoom bymls?",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "functionalityNotes": "Seems to be used to generate villagers' HobbyPoint values in their NpcRoom bymls",
+        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes", "Yes"]
       },
       {
         "hash": "5270eb75",
@@ -12426,9 +12425,8 @@
         "hashNotes": "",
         "formattedHash": "_7dcd5be1",
         "name": "",
-        "functionalityNotes": "Low', 'High', 'Normal' and 'None'. Similar to ItemHobbyType. Could have a name similar to ItemLifeType?",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "functionalityNotes": "Low', 'High', 'Normal' and 'None'. Similar to ItemHobbyType. Could have a name similar to ItemLifeType? Seems to be used to generate villagers' LifePoint values in their NpcRoom bymls",
+        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes", "Yes"]
       },
       {
         "hash": "70e19913",
