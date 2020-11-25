@@ -9088,7 +9088,7 @@
   "HumanAnimParam": {
     "name": "HumanAnimParam",
     "namedColumns": "13/15",
-    "documentedColumns": "1/15",
+    "documentedColumns": "2/15",
     "description": "Player animations",
     "hashes": [
       {
@@ -9122,7 +9122,7 @@
         "name": "UISortID",
         "functionalityNotes": "Moved to 2b68ef71 in 1.6.0",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes", "Yes", "No"],
-        "knownFunctionality": false
+        "knownFunctionality": "unused"
       },
       {
         "hash": "2b68ef71",

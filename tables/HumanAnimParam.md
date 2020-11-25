@@ -3,7 +3,7 @@
 
 **Named columns**: 13/15
 
-**Documented columns**: 1/15
+**Documented columns**: 2/15
 
 **Description**: Player animations
 ## EmoticonTool
@@ -36,7 +36,7 @@
 | Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
-## UISortID
+## UISortID (Unused)
 
 **Name**: UISortID
 
