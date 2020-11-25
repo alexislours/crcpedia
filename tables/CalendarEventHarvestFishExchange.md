@@ -1,5 +1,5 @@
 # CalendarEventHarvestFishExchange
-**Named columns**: 2/9
+**Named columns**: 8/9
 
 **Documented columns**: 0/9
 
@@ -33,11 +33,13 @@
 |  |  |  |  |  |  | Yes| 
 
 
-## 0xd1b5c570
+## HarvestFishExchangeIngredients
+
+**Name**: HarvestFishExchangeIngredients
 
 **Hash**: 0xd1b5c570
 
-**Type**: 
+**Hashed string**: HarvestFishExchangeIngredients u8
 
 **Versions**: 
 
@@ -46,11 +48,13 @@
 |  |  |  |  |  |  | Yes| 
 
 
-## 0x3ca0fc03
+## IsAppearNorth
+
+**Name**: IsAppearNorth
 
 **Hash**: 0x3ca0fc03
 
-**Type**: 
+**Hashed string**: IsAppearNorth u8
 
 **Versions**: 
 
@@ -59,11 +63,13 @@
 |  |  |  |  |  |  | Yes| 
 
 
-## 0xc61be841
+## IsAppearSouth
+
+**Name**: IsAppearSouth
 
 **Hash**: 0xc61be841
 
-**Type**: 
+**Hashed string**: IsAppearSouth u8
 
 **Versions**: 
 
@@ -72,11 +78,13 @@
 |  |  |  |  |  |  | Yes| 
 
 
-## 0x20dd4377
+## IsGive
+
+**Name**: IsGive
 
 **Hash**: 0x20dd4377
 
-**Type**: 
+**Hashed string**: IsGive u8
 
 **Versions**: 
 
@@ -85,11 +93,13 @@
 |  |  |  |  |  |  | Yes| 
 
 
-## 0x1365b16d
+## IsWant
+
+**Name**: IsWant
 
 **Hash**: 0x1365b16d
 
-**Type**: 
+**Hashed string**: IsWant u8
 
 **Versions**: 
 
@@ -98,11 +108,13 @@
 |  |  |  |  |  |  | Yes| 
 
 
-## 0xdb015556
+## Special
+
+**Name**: Special
 
 **Hash**: 0xdb015556
 
-**Type**: 
+**Hashed string**: Special u8
 
 **Versions**: 
 
@@ -115,7 +127,7 @@
 
 **Hash**: 0x1b525407
 
-**Type**: 
+**Type**: u32
 
 **Versions**: 
 
