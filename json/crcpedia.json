@@ -395,8 +395,8 @@
   },
   "CalendarEventParam": {
     "name": "CalendarEventParam",
-    "namedColumns": "165/165",
-    "documentedColumns": "159/165",
+    "namedColumns": "166/166",
+    "documentedColumns": "159/166",
     "description": "Dates and settings for calendar events and Nook Shopping seasonal events",
     "hashes": [
       {
@@ -2177,6 +2177,17 @@
         "functionalityNotes": "Same as previous but for southern hemisphere",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes", "Yes", "Yes"],
         "knownFunctionality": true
+      },
+      {
+        "hash": "a09fff5e",
+        "type": "u8",
+        "hashedString": "WeatherChange u8",
+        "hashNotes": "",
+        "formattedHash": "_a09fff5e",
+        "name": "WeatherChange",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", "", "", "Yes"],
+        "knownFunctionality": false
       },
       {
         "hash": "62ec6cf",

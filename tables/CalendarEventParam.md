@@ -1,9 +1,9 @@
 # CalendarEventParam
 [View this table in your browser](CalendarEventParam-value.md) (version 1.6.0).
 
-**Named columns**: 165/165
+**Named columns**: 166/166
 
-**Documented columns**: 159/165
+**Documented columns**: 159/166
 
 **Description**: Dates and settings for calendar events and Nook Shopping seasonal events
 ## EventType
@@ -2755,6 +2755,21 @@
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
+
+
+## WeatherChange
+
+**Name**: WeatherChange
+
+**Hash**: 0xa09fff5e
+
+**Hashed string**: WeatherChange u8
+
+**Versions**: 
+
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|  |  |  |  |  |  | Yes| 
 
 
 ## WeatherPattern (Unused)
