@@ -1,9 +1,9 @@
 # EventPlazaPlacementParam
 [View this table in your browser](EventPlazaPlacementParam-value.md) (version 1.6.0).
 
-**Named columns**: 12/19
+**Named columns**: 13/20
 
-**Documented columns**: 14/19
+**Documented columns**: 14/20
 
 **Description**: Placement of furniture and objects in the plaza
 ## 0x036dd90c
@@ -37,6 +37,21 @@
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
+
+
+## EventWeatherArea
+
+**Name**: EventWeatherArea
+
+**Hash**: 0xc8f02583
+
+**Hashed string**: EventWeatherArea.hshCstringRef
+
+**Versions**: 
+
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|  |  |  |  |  |  | Yes| 
 
 
 ## 0x24e5b19d

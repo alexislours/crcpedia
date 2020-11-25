@@ -5810,8 +5810,8 @@
   },
   "EventPlazaPlacementParam": {
     "name": "EventPlazaPlacementParam",
-    "namedColumns": "12/19",
-    "documentedColumns": "14/19",
+    "namedColumns": "13/20",
+    "documentedColumns": "14/20",
     "description": "Placement of furniture and objects in the plaza",
     "hashes": [
       {
@@ -5835,6 +5835,17 @@
         "functionalityNotes": "PermanentObj, CalendarEvent, VisitorNpc, and NpcGroupActivity",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes", "Yes", "Yes"],
         "knownFunctionality": true
+      },
+      {
+        "hash": "c8f02583",
+        "type": "hshCstringRef",
+        "hashedString": "EventWeatherArea.hshCstringRef",
+        "hashNotes": "",
+        "formattedHash": "_c8f02583",
+        "name": "EventWeatherArea",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", "", "", "Yes"],
+        "knownFunctionality": false
       },
       {
         "hash": "24e5b19d",
@@ -9068,8 +9079,8 @@
   },
   "HumanAnimParam": {
     "name": "HumanAnimParam",
-    "namedColumns": "12/14",
-    "documentedColumns": "1/14",
+    "namedColumns": "13/15",
+    "documentedColumns": "1/15",
     "description": "Player animations",
     "hashes": [
       {
@@ -9104,6 +9115,12 @@
         "functionalityNotes": "",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes", "Yes", "Yes"],
         "knownFunctionality": false
+      },
+      {
+        "hash": "2b68ef71",
+        "type": "u16",
+        "hashedString": "UISortID u16",
+        "versions": ["", "", "", "", "", "", ""]
       },
       {
         "hash": "54706054",
