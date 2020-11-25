@@ -29,7 +29,9 @@ MannequinPause06 -> UiCloset_PoseNatural03
 | Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
-## 0x62ff0c3d
+## MannequinUsage
+
+**Name**: MannequinUsage
 
 **Hash**: 0x62ff0c3d
 

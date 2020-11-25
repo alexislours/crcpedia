@@ -1,7 +1,7 @@
 # FgMainParam
 [View this table in your browser](FgMainParam-value.md) (version 1.6.0).
 
-**Named columns**: 22/24
+**Named columns**: 23/24
 
 **Documented columns**: 17/24
 
@@ -227,11 +227,13 @@
 | Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
-## 0xbe6737ac
+## SortID
+
+**Name**: SortID
 
 **Hash**: 0xbe6737ac
 
-**Type**: u16
+**Hashed string**: SortID s16
 
 **Versions**: 
 
