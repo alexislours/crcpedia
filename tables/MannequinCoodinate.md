@@ -1,9 +1,9 @@
 # MannequinCoodinate
 [View this table in your browser](MannequinCoodinate-value.md) (version 1.6.0).
 
-**Named columns**: 10/10
+**Named columns**: 10/11
 
-**Documented columns**: 10/10
+**Documented columns**: 10/11
 
 **Description**: Params for the mannequin inside Able's
 ## MannequinPose
@@ -27,6 +27,19 @@ MannequinPause06 -> UiCloset_PoseNatural03
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
+
+
+## 0x62ff0c3d
+
+**Hash**: 0x62ff0c3d
+
+**Type**: 
+
+**Versions**: 
+
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|  |  |  |  |  |  | Yes| 
 
 
 ## Seasonality

@@ -11303,7 +11303,10 @@
         "hashedString": "",
         "hashNotes": "",
         "formattedHash": "_b3da5c52",
-        "versions": ["", "", "", "", "", "", ""]
+        "name": "",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", "", "", "Yes"],
+        "knownFunctionality": false
       },
       {
         "hash": "8e07b21e",
@@ -11876,7 +11879,7 @@
         "formattedHash": "_b645432f",
         "name": "HandToolAsLabel",
         "functionalityNotes": "",
-        "versions": ["No", "No", "No", "No", "Yes", "Yes", "Yes"],
+        "versions": ["No", "No", "No", "No", "Yes", "Yes", "No"],
         "knownFunctionality": false
       },
       {
@@ -15518,8 +15521,8 @@
   },
   "MannequinCoodinate": {
     "name": "MannequinCoodinate",
-    "namedColumns": "10/10",
-    "documentedColumns": "10/10",
+    "namedColumns": "10/11",
+    "documentedColumns": "10/11",
     "description": "Params for the mannequin inside Able's",
     "hashes": [
       {
@@ -15532,6 +15535,17 @@
         "functionalityNotes": "The pose used for the model\nMannequinPause01 -> UiCloset_PoseCool01\nMannequinPause02 -> UiCloset_PoseCool02\nMannequinPause03 -> UiCloset_PoseCool03\nMannequinPause04 -> UiCloset_PoseNatural01\nMannequinPause05 -> UiCloset_PoseNatural02\nMannequinPause06 -> UiCloset_PoseNatural03",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes", "Yes", "Yes"],
         "knownFunctionality": true
+      },
+      {
+        "hash": "62ff0c3d",
+        "type": "",
+        "hashedString": "",
+        "hashNotes": "",
+        "formattedHash": "_62ff0c3d",
+        "name": "",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", "", "", "Yes"],
+        "knownFunctionality": false
       },
       {
         "hash": "b44dbf73",
