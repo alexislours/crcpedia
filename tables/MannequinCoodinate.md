@@ -1,5 +1,5 @@
 # MannequinCoodinate
-[View this table in your browser](MannequinCoodinate-value.md) (version 1.5.0).
+[View this table in your browser](MannequinCoodinate-value.md) (version 1.6.0).
 
 **Named columns**: 10/10
 
@@ -24,9 +24,9 @@ MannequinPause06 -> UiCloset_PoseNatural03
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes| 
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | Yes | No| 
 
 
 ## Seasonality
@@ -41,9 +41,9 @@ MannequinPause06 -> UiCloset_PoseNatural03
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes| 
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | Yes | No| 
 
 
 ## AccEye
@@ -58,9 +58,9 @@ MannequinPause06 -> UiCloset_PoseNatural03
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes| 
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | Yes | No| 
 
 
 ## AccMouth
@@ -75,9 +75,9 @@ MannequinPause06 -> UiCloset_PoseNatural03
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes| 
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | Yes | No| 
 
 
 ## Bottoms
@@ -92,9 +92,9 @@ MannequinPause06 -> UiCloset_PoseNatural03
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes| 
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | Yes | No| 
 
 
 ## Cap
@@ -109,9 +109,9 @@ MannequinPause06 -> UiCloset_PoseNatural03
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes| 
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | Yes | No| 
 
 
 ## Shoes
@@ -126,9 +126,9 @@ MannequinPause06 -> UiCloset_PoseNatural03
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes| 
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | Yes | No| 
 
 
 ## Socks
@@ -143,9 +143,9 @@ MannequinPause06 -> UiCloset_PoseNatural03
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes| 
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | Yes | No| 
 
 
 ## Tops
@@ -160,9 +160,9 @@ MannequinPause06 -> UiCloset_PoseNatural03
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes| 
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | Yes | No| 
 
 
 ## UniqueID
@@ -175,8 +175,8 @@ MannequinPause06 -> UiCloset_PoseNatural03
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes| 
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | Yes | No| 
 
 

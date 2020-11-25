@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/ItemNpcRoomReplaceCategory.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/ItemNpcRoomReplaceCategory.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/ItemNpcRoomReplaceCategory.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_160/html/ItemNpcRoomReplaceCategory.html), [CSV](https://wuffs.org/acnh/bcsv_160/csv/ItemNpcRoomReplaceCategory.csv), [JSON](https://wuffs.org/acnh/bcsv_160/json/ItemNpcRoomReplaceCategory.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemNpcRoomReplaceCategory.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/ItemNpcRoomReplaceCategory.json)
 

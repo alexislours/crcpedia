@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/WeatherPatternParam.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/WeatherPatternParam.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/WeatherPatternParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_160/html/WeatherPatternParam.html), [CSV](https://wuffs.org/acnh/bcsv_160/csv/WeatherPatternParam.csv), [JSON](https://wuffs.org/acnh/bcsv_160/json/WeatherPatternParam.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/WeatherPatternParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/WeatherPatternParam.json)
 

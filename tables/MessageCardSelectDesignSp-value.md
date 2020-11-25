@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/MessageCardSelectDesignSp.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/MessageCardSelectDesignSp.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/MessageCardSelectDesignSp.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_160/html/MessageCardSelectDesignSp.html), [CSV](https://wuffs.org/acnh/bcsv_160/csv/MessageCardSelectDesignSp.csv), [JSON](https://wuffs.org/acnh/bcsv_160/json/MessageCardSelectDesignSp.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/MessageCardSelectDesignSp.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/MessageCardSelectDesignSp.json)
 

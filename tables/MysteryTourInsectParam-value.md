@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/MysteryTourInsectParam.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/MysteryTourInsectParam.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/MysteryTourInsectParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_160/html/MysteryTourInsectParam.html), [CSV](https://wuffs.org/acnh/bcsv_160/csv/MysteryTourInsectParam.csv), [JSON](https://wuffs.org/acnh/bcsv_160/json/MysteryTourInsectParam.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/MysteryTourInsectParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/MysteryTourInsectParam.json)
 

@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/FishAppearRiverParam.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/FishAppearRiverParam.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/FishAppearRiverParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_160/html/FishAppearRiverParam.html), [CSV](https://wuffs.org/acnh/bcsv_160/csv/FishAppearRiverParam.csv), [JSON](https://wuffs.org/acnh/bcsv_160/json/FishAppearRiverParam.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/FishAppearRiverParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/FishAppearRiverParam.json)
 

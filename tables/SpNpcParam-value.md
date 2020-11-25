@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/SpNpcParam.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/SpNpcParam.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/SpNpcParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_160/html/SpNpcParam.html), [CSV](https://wuffs.org/acnh/bcsv_160/csv/SpNpcParam.csv), [JSON](https://wuffs.org/acnh/bcsv_160/json/SpNpcParam.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/SpNpcParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/SpNpcParam.json)
 

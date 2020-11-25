@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/ItemSeasonalityParam.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/ItemSeasonalityParam.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/ItemSeasonalityParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_160/html/ItemSeasonalityParam.html), [CSV](https://wuffs.org/acnh/bcsv_160/csv/ItemSeasonalityParam.csv), [JSON](https://wuffs.org/acnh/bcsv_160/json/ItemSeasonalityParam.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemSeasonalityParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/ItemSeasonalityParam.json)
 

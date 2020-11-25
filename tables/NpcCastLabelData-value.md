@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/NpcCastLabelData.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/NpcCastLabelData.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/NpcCastLabelData.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_160/html/NpcCastLabelData.html), [CSV](https://wuffs.org/acnh/bcsv_160/csv/NpcCastLabelData.csv), [JSON](https://wuffs.org/acnh/bcsv_160/json/NpcCastLabelData.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/NpcCastLabelData.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/NpcCastLabelData.json)
 

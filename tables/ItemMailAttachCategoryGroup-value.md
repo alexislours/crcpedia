@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/ItemMailAttachCategoryGroup.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/ItemMailAttachCategoryGroup.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/ItemMailAttachCategoryGroup.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_160/html/ItemMailAttachCategoryGroup.html), [CSV](https://wuffs.org/acnh/bcsv_160/csv/ItemMailAttachCategoryGroup.csv), [JSON](https://wuffs.org/acnh/bcsv_160/json/ItemMailAttachCategoryGroup.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemMailAttachCategoryGroup.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/ItemMailAttachCategoryGroup.json)
 

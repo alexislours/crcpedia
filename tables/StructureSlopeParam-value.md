@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/StructureSlopeParam.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/StructureSlopeParam.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/StructureSlopeParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_160/html/StructureSlopeParam.html), [CSV](https://wuffs.org/acnh/bcsv_160/csv/StructureSlopeParam.csv), [JSON](https://wuffs.org/acnh/bcsv_160/json/StructureSlopeParam.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/StructureSlopeParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/StructureSlopeParam.json)
 

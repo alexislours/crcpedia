@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/FgMainParam.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/FgMainParam.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/FgMainParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_160/html/FgMainParam.html), [CSV](https://wuffs.org/acnh/bcsv_160/csv/FgMainParam.csv), [JSON](https://wuffs.org/acnh/bcsv_160/json/FgMainParam.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/FgMainParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/FgMainParam.json)
 

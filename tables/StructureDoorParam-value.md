@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/StructureDoorParam.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/StructureDoorParam.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/StructureDoorParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_160/html/StructureDoorParam.html), [CSV](https://wuffs.org/acnh/bcsv_160/csv/StructureDoorParam.csv), [JSON](https://wuffs.org/acnh/bcsv_160/json/StructureDoorParam.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/StructureDoorParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/StructureDoorParam.json)
 

@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/EventPlazaPlacementParam.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/EventPlazaPlacementParam.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/EventPlazaPlacementParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_160/html/EventPlazaPlacementParam.html), [CSV](https://wuffs.org/acnh/bcsv_160/csv/EventPlazaPlacementParam.csv), [JSON](https://wuffs.org/acnh/bcsv_160/json/EventPlazaPlacementParam.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/EventPlazaPlacementParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/EventPlazaPlacementParam.json)
 

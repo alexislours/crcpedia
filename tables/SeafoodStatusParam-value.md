@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/SeafoodStatusParam.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/SeafoodStatusParam.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/SeafoodStatusParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_160/html/SeafoodStatusParam.html), [CSV](https://wuffs.org/acnh/bcsv_160/csv/SeafoodStatusParam.csv), [JSON](https://wuffs.org/acnh/bcsv_160/json/SeafoodStatusParam.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/SeafoodStatusParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/SeafoodStatusParam.json)
 

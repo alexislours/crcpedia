@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/RoomWallParam.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/RoomWallParam.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/RoomWallParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_160/html/RoomWallParam.html), [CSV](https://wuffs.org/acnh/bcsv_160/csv/RoomWallParam.csv), [JSON](https://wuffs.org/acnh/bcsv_160/json/RoomWallParam.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/RoomWallParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/RoomWallParam.json)
 

@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/StructureBridgeParam.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/StructureBridgeParam.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/StructureBridgeParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_160/html/StructureBridgeParam.html), [CSV](https://wuffs.org/acnh/bcsv_160/csv/StructureBridgeParam.csv), [JSON](https://wuffs.org/acnh/bcsv_160/json/StructureBridgeParam.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/StructureBridgeParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/StructureBridgeParam.json)
 

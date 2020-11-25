@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/SeafoodShadowInfoParam.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/SeafoodShadowInfoParam.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/SeafoodShadowInfoParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_160/html/SeafoodShadowInfoParam.html), [CSV](https://wuffs.org/acnh/bcsv_160/csv/SeafoodShadowInfoParam.csv), [JSON](https://wuffs.org/acnh/bcsv_160/json/SeafoodShadowInfoParam.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/SeafoodShadowInfoParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/SeafoodShadowInfoParam.json)
 

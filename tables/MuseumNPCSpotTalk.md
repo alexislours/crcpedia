@@ -1,5 +1,5 @@
 # MuseumNPCSpotTalk
-[View this table in your browser](MuseumNPCSpotTalk-value.md) (version 1.5.0).
+[View this table in your browser](MuseumNPCSpotTalk-value.md) (version 1.6.0).
 
 **Named columns**: 5/5
 
@@ -18,9 +18,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes| 
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | Yes | No| 
 
 
 ## UniqueID
@@ -33,9 +33,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes| 
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | Yes | No| 
 
 
 ## SpotTalkKey
@@ -50,9 +50,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes| 
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | Yes | No| 
 
 
 ## SpotTalkLabelKey
@@ -67,9 +67,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes| 
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | Yes | No| 
 
 
 ## SpotTalkName
@@ -84,9 +84,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes* | Yes* | Yes* | Yes* | Yes* | Yes*| 
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes* | Yes* | Yes* | Yes* | Yes* | Yes* | No| 
 
 *Found in the BCSVs but unreferenced in the executable
 

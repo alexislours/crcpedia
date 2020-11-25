@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/CalendarEventCountryParam.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/CalendarEventCountryParam.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/CalendarEventCountryParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_160/html/CalendarEventCountryParam.html), [CSV](https://wuffs.org/acnh/bcsv_160/csv/CalendarEventCountryParam.csv), [JSON](https://wuffs.org/acnh/bcsv_160/json/CalendarEventCountryParam.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/CalendarEventCountryParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/CalendarEventCountryParam.json)
 

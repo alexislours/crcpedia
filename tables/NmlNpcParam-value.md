@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/NmlNpcParam.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/NmlNpcParam.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/NmlNpcParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_160/html/NmlNpcParam.html), [CSV](https://wuffs.org/acnh/bcsv_160/csv/NmlNpcParam.csv), [JSON](https://wuffs.org/acnh/bcsv_160/json/NmlNpcParam.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/NmlNpcParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/NmlNpcParam.json)
 

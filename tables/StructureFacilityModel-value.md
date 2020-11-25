@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/StructureFacilityModel.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/StructureFacilityModel.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/StructureFacilityModel.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_160/html/StructureFacilityModel.html), [CSV](https://wuffs.org/acnh/bcsv_160/csv/StructureFacilityModel.csv), [JSON](https://wuffs.org/acnh/bcsv_160/json/StructureFacilityModel.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/StructureFacilityModel.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/StructureFacilityModel.json)
 

@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/ItemUIContextMenu.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/ItemUIContextMenu.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/ItemUIContextMenu.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_160/html/ItemUIContextMenu.html), [CSV](https://wuffs.org/acnh/bcsv_160/csv/ItemUIContextMenu.csv), [JSON](https://wuffs.org/acnh/bcsv_160/json/ItemUIContextMenu.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemUIContextMenu.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/ItemUIContextMenu.json)
 

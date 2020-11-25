@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/NpcEquipRule.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/NpcEquipRule.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/NpcEquipRule.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_160/html/NpcEquipRule.html), [CSV](https://wuffs.org/acnh/bcsv_160/csv/NpcEquipRule.csv), [JSON](https://wuffs.org/acnh/bcsv_160/json/NpcEquipRule.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/NpcEquipRule.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/NpcEquipRule.json)
 

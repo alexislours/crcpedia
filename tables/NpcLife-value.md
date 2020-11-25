@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/NpcLife.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/NpcLife.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/NpcLife.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_160/html/NpcLife.html), [CSV](https://wuffs.org/acnh/bcsv_160/csv/NpcLife.csv), [JSON](https://wuffs.org/acnh/bcsv_160/json/NpcLife.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/NpcLife.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/NpcLife.json)
 

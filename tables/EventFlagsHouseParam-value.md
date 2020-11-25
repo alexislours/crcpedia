@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/EventFlagsHouseParam.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/EventFlagsHouseParam.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/EventFlagsHouseParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_160/html/EventFlagsHouseParam.html), [CSV](https://wuffs.org/acnh/bcsv_160/csv/EventFlagsHouseParam.csv), [JSON](https://wuffs.org/acnh/bcsv_160/json/EventFlagsHouseParam.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/EventFlagsHouseParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/EventFlagsHouseParam.json)
 

@@ -1,5 +1,5 @@
 # CharaMakeHalloweenMakePresetParam
-[View this table in your browser](CharaMakeHalloweenMakePresetParam-value.md) (version 1.5.0).
+[View this table in your browser](CharaMakeHalloweenMakePresetParam-value.md) (version 1.6.0).
 
 **Named columns**: 3/3
 
@@ -15,9 +15,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | No | No | No | YesNo| 
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| No | No | No | No | No | Yes | No| 
 
 
 ## SkinColor
@@ -30,9 +30,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | No | No | No | YesNo| 
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| No | No | No | No | No | Yes | No| 
 
 
 ## UniqueID
@@ -45,8 +45,8 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | No | No | No | YesNo| 
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| No | No | No | No | No | Yes | No| 
 
 

@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/SoundInstruments.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/SoundInstruments.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/SoundInstruments.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_160/html/SoundInstruments.html), [CSV](https://wuffs.org/acnh/bcsv_160/csv/SoundInstruments.csv), [JSON](https://wuffs.org/acnh/bcsv_160/json/SoundInstruments.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/SoundInstruments.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/SoundInstruments.json)
 

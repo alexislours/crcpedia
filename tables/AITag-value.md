@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/AITag.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/AITag.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/AITag.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_160/html/AITag.html), [CSV](https://wuffs.org/acnh/bcsv_160/csv/AITag.csv), [JSON](https://wuffs.org/acnh/bcsv_160/json/AITag.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/AITag.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/AITag.json)
 

@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/EventFlagsPlayerTempParam.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/EventFlagsPlayerTempParam.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/EventFlagsPlayerTempParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_160/html/EventFlagsPlayerTempParam.html), [CSV](https://wuffs.org/acnh/bcsv_160/csv/EventFlagsPlayerTempParam.csv), [JSON](https://wuffs.org/acnh/bcsv_160/json/EventFlagsPlayerTempParam.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/EventFlagsPlayerTempParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/EventFlagsPlayerTempParam.json)
 

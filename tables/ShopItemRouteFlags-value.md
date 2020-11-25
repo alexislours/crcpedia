@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/ShopItemRouteFlags.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/ShopItemRouteFlags.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/ShopItemRouteFlags.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_160/html/ShopItemRouteFlags.html), [CSV](https://wuffs.org/acnh/bcsv_160/csv/ShopItemRouteFlags.csv), [JSON](https://wuffs.org/acnh/bcsv_160/json/ShopItemRouteFlags.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ShopItemRouteFlags.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/ShopItemRouteFlags.json)
 

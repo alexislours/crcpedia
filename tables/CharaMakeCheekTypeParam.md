@@ -1,5 +1,5 @@
 # CharaMakeCheekTypeParam
-[View this table in your browser](CharaMakeCheekTypeParam-value.md) (version 1.5.0).
+[View this table in your browser](CharaMakeCheekTypeParam-value.md) (version 1.6.0).
 
 **Named columns**: 4/4
 
@@ -16,9 +16,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes| 
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | Yes | No| 
 
 
 ## Label
@@ -31,9 +31,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes| 
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | Yes | No| 
 
 
 ## Name
@@ -46,9 +46,9 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes| 
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | Yes | No| 
 
 
 ## TexName
@@ -63,8 +63,8 @@
 
 **Versions**: 
 
- | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes| 
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| Yes | Yes | Yes | Yes | Yes | Yes | No| 
 
 

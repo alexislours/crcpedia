@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/ItemRemakeCommonPatternCategory.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/ItemRemakeCommonPatternCategory.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/ItemRemakeCommonPatternCategory.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_160/html/ItemRemakeCommonPatternCategory.html), [CSV](https://wuffs.org/acnh/bcsv_160/csv/ItemRemakeCommonPatternCategory.csv), [JSON](https://wuffs.org/acnh/bcsv_160/json/ItemRemakeCommonPatternCategory.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemRemakeCommonPatternCategory.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/ItemRemakeCommonPatternCategory.json)
 

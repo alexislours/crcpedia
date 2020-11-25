@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/ColSoundAttributeParam.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/ColSoundAttributeParam.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/ColSoundAttributeParam.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_160/html/ColSoundAttributeParam.html), [CSV](https://wuffs.org/acnh/bcsv_160/csv/ColSoundAttributeParam.csv), [JSON](https://wuffs.org/acnh/bcsv_160/json/ColSoundAttributeParam.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ColSoundAttributeParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/ColSoundAttributeParam.json)
 

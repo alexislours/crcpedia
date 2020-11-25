@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/MuseumNPCSilhouette.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/MuseumNPCSilhouette.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/MuseumNPCSilhouette.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_160/html/MuseumNPCSilhouette.html), [CSV](https://wuffs.org/acnh/bcsv_160/csv/MuseumNPCSilhouette.csv), [JSON](https://wuffs.org/acnh/bcsv_160/json/MuseumNPCSilhouette.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/MuseumNPCSilhouette.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/MuseumNPCSilhouette.json)
 

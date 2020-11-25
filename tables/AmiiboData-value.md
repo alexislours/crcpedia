@@ -1,4 +1,4 @@
-Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_150/html/AmiiboData.html), [CSV](https://wuffs.org/acnh/bcsv_150/csv/AmiiboData.csv), [JSON](https://wuffs.org/acnh/bcsv_150/json/AmiiboData.json)
+Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_160/html/AmiiboData.html), [CSV](https://wuffs.org/acnh/bcsv_160/csv/AmiiboData.csv), [JSON](https://wuffs.org/acnh/bcsv_160/json/AmiiboData.json)
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/AmiiboData.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/AmiiboData.json)
 
