@@ -1,9 +1,9 @@
 # HumanAnimParam
 [View this table in your browser](HumanAnimParam-value.md) (version 1.6.0).
 
-**Named columns**: 12/14
+**Named columns**: 13/15
 
-**Documented columns**: 1/14
+**Documented columns**: 1/15
 
 **Description**: Player animations
 ## EmoticonTool
@@ -44,11 +44,28 @@
 
 **Hashed string**: UISortID s16
 
+**Notes**: Moved to 2b68ef71 in 1.6.0
+
 **Versions**: 
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
+| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+
+
+## UISortID
+
+**Name**: UISortID
+
+**Hash**: 0x2b68ef71
+
+**Hashed string**: UISortID u16
+
+**Versions**: 
+
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| No | No | No | No | No | No | Yes| 
 
 
 ## UniqueID

@@ -1,9 +1,9 @@
 # EventPlazaPlacementParam
 [View this table in your browser](EventPlazaPlacementParam-value.md) (version 1.6.0).
 
-**Named columns**: 13/20
+**Named columns**: 13/21
 
-**Documented columns**: 14/20
+**Documented columns**: 14/21
 
 **Description**: Placement of furniture and objects in the plaza
 ## 0x036dd90c
@@ -51,7 +51,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|  |  |  |  |  |  | Yes| 
+| No | No | No | No | No | No | Yes| 
 
 
 ## 0x24e5b19d
@@ -227,6 +227,19 @@
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | No | No | No | No | Yes | Yes | Yes| 
+
+
+## 0x4906e466
+
+**Hash**: 0x4906e466
+
+**Type**: 
+
+**Versions**: 
+
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|  |  |  |  |  |  | | 
 
 
 ## 0xe6c63c5c

@@ -5810,8 +5810,8 @@
   },
   "EventPlazaPlacementParam": {
     "name": "EventPlazaPlacementParam",
-    "namedColumns": "13/20",
-    "documentedColumns": "14/20",
+    "namedColumns": "13/21",
+    "documentedColumns": "14/21",
     "description": "Placement of furniture and objects in the plaza",
     "hashes": [
       {
@@ -5844,7 +5844,7 @@
         "formattedHash": "_c8f02583",
         "name": "EventWeatherArea",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", "", "", "Yes"],
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
       },
       {
@@ -5967,6 +5967,14 @@
         "functionalityNotes": "1 = Doesn't appear in dreams, 0 = Does appear in dreams",
         "versions": ["No", "No", "No", "No", "Yes", "Yes", "Yes"],
         "knownFunctionality": true
+      },
+      {
+        "hash": "4906e466",
+        "type": "",
+        "hashedString": "",
+        "hashNotes": "",
+        "formattedHash": "_4906e466",
+        "versions": ["", "", "", "", "", "", ""]
       },
       {
         "hash": "e6c63c5c",
@@ -9112,15 +9120,20 @@
         "hashNotes": "",
         "formattedHash": "_2fe593c3",
         "name": "UISortID",
-        "functionalityNotes": "",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes", "Yes", "Yes"],
+        "functionalityNotes": "Moved to 2b68ef71 in 1.6.0",
+        "versions": ["Yes", "Yes", "Yes", "Yes", "Yes", "Yes", "No"],
         "knownFunctionality": false
       },
       {
         "hash": "2b68ef71",
         "type": "u16",
         "hashedString": "UISortID u16",
-        "versions": ["", "", "", "", "", "", ""]
+        "hashNotes": "",
+        "formattedHash": "_2b68ef71",
+        "name": "UISortID",
+        "functionalityNotes": "",
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
+        "knownFunctionality": false
       },
       {
         "hash": "54706054",
