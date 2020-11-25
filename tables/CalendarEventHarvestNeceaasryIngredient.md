@@ -1,5 +1,5 @@
 # CalendarEventHarvestNeceaasryIngredient
-**Named columns**: 2/17
+**Named columns**: 10/17
 
 **Documented columns**: 0/17
 
@@ -15,7 +15,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|  |  |  |  |  |  | Yes| 
+| No | No | No | No | No | No | Yes| 
 
 
 ## ItemID
@@ -30,201 +30,217 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|  |  |  |  |  |  | Yes| 
+| No | No | No | No | No | No | Yes| 
 
 
-## 0x3ca0fc03
+## IsAppearNorth
+
+**Name**: IsAppearNorth
 
 **Hash**: 0x3ca0fc03
 
-**Type**: 
+**Hashed string**: IsAppearNorth u8
 
 **Versions**: 
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|  |  |  |  |  |  | Yes| 
+| No | No | No | No | No | No | Yes| 
 
 
-## 0xc61be841
+## IsAppearSouth
+
+**Name**: IsAppearSouth
 
 **Hash**: 0xc61be841
 
-**Type**: 
+**Hashed string**: IsAppearSouth u8
 
 **Versions**: 
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|  |  |  |  |  |  | Yes| 
+| No | No | No | No | No | No | Yes| 
 
 
-## 0x647a321a
+## IsHide1
+
+**Name**: IsHide1
 
 **Hash**: 0x647a321a
 
-**Type**: 
+**Hashed string**: IsHide1 u8
 
 **Versions**: 
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|  |  |  |  |  |  | Yes| 
+| No | No | No | No | No | No | Yes| 
 
 
-## 0xb83cd0e1
+## IsHide2_1
+
+**Name**: IsHide2_1
 
 **Hash**: 0xb83cd0e1
 
-**Type**: 
+**Hashed string**: IsHide2_1 u8
 
 **Versions**: 
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|  |  |  |  |  |  | Yes| 
+| No | No | No | No | No | No | Yes| 
 
 
-## 0xaa897f0f
+## IsHide2_2
+
+**Name**: IsHide2_2
 
 **Hash**: 0xaa897f0f
 
-**Type**: 
+**Hashed string**: IsHide2_2 u8
 
 **Versions**: 
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|  |  |  |  |  |  | Yes| 
+| No | No | No | No | No | No | Yes| 
 
 
-## 0xce73fa91
+## IsHide3
+
+**Name**: IsHide3
 
 **Hash**: 0xce73fa91
 
-**Type**: 
+**Hashed string**: IsHide3 u8
 
 **Versions**: 
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|  |  |  |  |  |  | Yes| 
+| No | No | No | No | No | No | Yes| 
 
 
-## 0x53a4c228
+## IsHide4
+
+**Name**: IsHide4
 
 **Hash**: 0x53a4c228
 
-**Type**: 
+**Hashed string**: IsHide4 u8
 
 **Versions**: 
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|  |  |  |  |  |  | Yes| 
+| No | No | No | No | No | No | Yes| 
 
 
 ## 0xf659c43b
 
 **Hash**: 0xf659c43b
 
-**Type**: 
+**Type**: u8
 
 **Versions**: 
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|  |  |  |  |  |  | Yes| 
+| No | No | No | No | No | No | Yes| 
 
 
 ## 0x70cdb695
 
 **Hash**: 0x70cdb695
 
-**Type**: 
+**Type**: u8
 
 **Versions**: 
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|  |  |  |  |  |  | Yes| 
+| No | No | No | No | No | No | Yes| 
 
 
 ## 0x6278197b
 
 **Hash**: 0x6278197b
 
-**Type**: 
+**Type**: u8
 
 **Versions**: 
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|  |  |  |  |  |  | Yes| 
+| No | No | No | No | No | No | Yes| 
 
 
 ## 0xbb916530
 
 **Hash**: 0xbb916530
 
-**Type**: 
+**Type**: u8
 
 **Versions**: 
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|  |  |  |  |  |  | Yes| 
+| No | No | No | No | No | No | Yes| 
 
 
 ## 0xa924cade
 
 **Hash**: 0xa924cade
 
-**Type**: 
+**Type**: u8
 
 **Versions**: 
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|  |  |  |  |  |  | Yes| 
+| No | No | No | No | No | No | Yes| 
 
 
 ## 0xa6945588
 
 **Hash**: 0xa6945588
 
-**Type**: 
+**Type**: u8
 
 **Versions**: 
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|  |  |  |  |  |  | Yes| 
+| No | No | No | No | No | No | Yes| 
 
 
 ## 0xb421fa66
 
 **Hash**: 0xb421fa66
 
-**Type**: 
+**Type**: u8
 
 **Versions**: 
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|  |  |  |  |  |  | Yes| 
+| No | No | No | No | No | No | Yes| 
 
 
-## 0xa3a7a19f
+## IsVariable
+
+**Name**: IsVariable
 
 **Hash**: 0xa3a7a19f
 
-**Type**: 
+**Hashed string**: IsVariable u8
 
 **Versions**: 
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|  |  |  |  |  |  | Yes| 
+| No | No | No | No | No | No | Yes| 
 
 

@@ -1,7 +1,7 @@
 # SeafoodAppearParam
 [View this table in your browser](SeafoodAppearParam-value.md) (version 1.6.0).
 
-**Named columns**: 38/41
+**Named columns**: 41/41
 
 **Documented columns**: 38/41
 
@@ -244,43 +244,49 @@
 | No | No | No | Yes | Yes | Yes | Yes| 
 
 
-## 0x6a1ebb49
+## ProbHarvestDaytime
+
+**Name**: ProbHarvestDaytime
 
 **Hash**: 0x6a1ebb49
 
-**Type**: 
+**Hashed string**: ProbHarvestDaytime u16
 
 **Versions**: 
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|  |  |  |  |  |  | Yes| 
+| No | No | No | No | No | No | Yes| 
 
 
-## 0xec475a23
+## ProbHarvestMorningAndEvening
+
+**Name**: ProbHarvestMorningAndEvening
 
 **Hash**: 0xec475a23
 
-**Type**: 
+**Hashed string**: ProbHarvestMorningAndEvening u16
 
 **Versions**: 
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|  |  |  |  |  |  | Yes| 
+| No | No | No | No | No | No | Yes| 
 
 
-## 0x7b28f877
+## ProbHarvestNight
+
+**Name**: ProbHarvestNight
 
 **Hash**: 0x7b28f877
 
-**Type**: 
+**Hashed string**: ProbHarvestNight u16
 
 **Versions**: 
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|  |  |  |  |  |  | Yes| 
+| No | No | No | No | No | No | Yes| 
 
 
 ## ProbJanDaytime

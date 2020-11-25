@@ -1,7 +1,7 @@
 # MannequinCoodinate
 [View this table in your browser](MannequinCoodinate-value.md) (version 1.6.0).
 
-**Named columns**: 10/11
+**Named columns**: 11/11
 
 **Documented columns**: 10/11
 
@@ -33,13 +33,13 @@ MannequinPause06 -> UiCloset_PoseNatural03
 
 **Hash**: 0x62ff0c3d
 
-**Type**: 
+**Hashed string**: MannequinUsage.hshCstringRef
 
 **Versions**: 
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|  |  |  |  |  |  | Yes| 
+| No | No | No | No | No | No | Yes| 
 
 
 ## Seasonality

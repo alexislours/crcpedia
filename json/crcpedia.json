@@ -292,7 +292,7 @@
         "formattedHash": "_612bc6cf",
         "name": "UniqueID",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", "", "", "Yes"],
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
       },
       {
@@ -303,7 +303,7 @@
         "formattedHash": "_20cb67bc",
         "name": "ItemID",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", "", "", "Yes"],
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
       },
       {
@@ -314,7 +314,7 @@
         "formattedHash": "_d1b5c570",
         "name": "HarvestFishExchangeIngredients",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", "", "", "Yes"],
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
       },
       {
@@ -325,7 +325,7 @@
         "formattedHash": "_3ca0fc03",
         "name": "IsAppearNorth",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", "", "", "Yes"],
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
       },
       {
@@ -336,7 +336,7 @@
         "formattedHash": "_c61be841",
         "name": "IsAppearSouth",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", "", "", "Yes"],
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
       },
       {
@@ -347,7 +347,7 @@
         "formattedHash": "_20dd4377",
         "name": "IsGive",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", "", "", "Yes"],
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
       },
       {
@@ -358,7 +358,7 @@
         "formattedHash": "_1365b16d",
         "name": "IsWant",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", "", "", "Yes"],
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
       },
       {
@@ -369,25 +369,25 @@
         "formattedHash": "_db015556",
         "name": "Special",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", "", "", "Yes"],
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
       },
       {
         "hash": "1b525407",
-        "type": "u32",
+        "type": "u8",
         "hashedString": "",
         "hashNotes": "",
         "formattedHash": "_1b525407",
         "name": "",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", "", "", "Yes"],
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
       }
     ]
   },
   "CalendarEventHarvestNeceaasryIngredient": {
     "name": "CalendarEventHarvestNeceaasryIngredient",
-    "namedColumns": "2/17",
+    "namedColumns": "10/17",
     "documentedColumns": "0/17",
     "description": "",
     "hashes": [
@@ -399,7 +399,7 @@
         "formattedHash": "_612bc6cf",
         "name": "UniqueID",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", "", "", "Yes"],
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
       },
       {
@@ -410,172 +410,172 @@
         "formattedHash": "_20cb67bc",
         "name": "ItemID",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", "", "", "Yes"],
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
       },
       {
         "hash": "3ca0fc03",
-        "type": "",
-        "hashedString": "",
+        "type": "u8",
+        "hashedString": "IsAppearNorth u8",
         "hashNotes": "",
         "formattedHash": "_3ca0fc03",
-        "name": "",
+        "name": "IsAppearNorth",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", "", "", "Yes"],
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
       },
       {
         "hash": "c61be841",
-        "type": "",
-        "hashedString": "",
+        "type": "u8",
+        "hashedString": "IsAppearSouth u8",
         "hashNotes": "",
         "formattedHash": "_c61be841",
-        "name": "",
+        "name": "IsAppearSouth",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", "", "", "Yes"],
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
       },
       {
         "hash": "647a321a",
-        "type": "",
-        "hashedString": "",
+        "type": "u8",
+        "hashedString": "IsHide1 u8",
         "hashNotes": "",
         "formattedHash": "_647a321a",
-        "name": "",
+        "name": "IsHide1",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", "", "", "Yes"],
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
       },
       {
         "hash": "b83cd0e1",
-        "type": "",
-        "hashedString": "",
+        "type": "u8",
+        "hashedString": "IsHide2_1 u8",
         "hashNotes": "",
         "formattedHash": "_b83cd0e1",
-        "name": "",
+        "name": "IsHide2_1",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", "", "", "Yes"],
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
       },
       {
         "hash": "aa897f0f",
-        "type": "",
-        "hashedString": "",
+        "type": "u8",
+        "hashedString": "IsHide2_2 u8",
         "hashNotes": "",
         "formattedHash": "_aa897f0f",
-        "name": "",
+        "name": "IsHide2_2",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", "", "", "Yes"],
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
       },
       {
         "hash": "ce73fa91",
-        "type": "",
-        "hashedString": "",
+        "type": "u8",
+        "hashedString": "IsHide3 u8",
         "hashNotes": "",
         "formattedHash": "_ce73fa91",
-        "name": "",
+        "name": "IsHide3",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", "", "", "Yes"],
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
       },
       {
         "hash": "53a4c228",
-        "type": "",
-        "hashedString": "",
+        "type": "u8",
+        "hashedString": "IsHide4 u8",
         "hashNotes": "",
         "formattedHash": "_53a4c228",
-        "name": "",
+        "name": "IsHide4",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", "", "", "Yes"],
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
       },
       {
         "hash": "f659c43b",
-        "type": "",
+        "type": "u8",
         "hashedString": "",
         "hashNotes": "",
         "formattedHash": "_f659c43b",
         "name": "",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", "", "", "Yes"],
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
       },
       {
         "hash": "70cdb695",
-        "type": "",
+        "type": "u8",
         "hashedString": "",
         "hashNotes": "",
         "formattedHash": "_70cdb695",
         "name": "",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", "", "", "Yes"],
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
       },
       {
         "hash": "6278197b",
-        "type": "",
+        "type": "u8",
         "hashedString": "",
         "hashNotes": "",
         "formattedHash": "_6278197b",
         "name": "",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", "", "", "Yes"],
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
       },
       {
         "hash": "bb916530",
-        "type": "",
+        "type": "u8",
         "hashedString": "",
         "hashNotes": "",
         "formattedHash": "_bb916530",
         "name": "",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", "", "", "Yes"],
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
       },
       {
         "hash": "a924cade",
-        "type": "",
+        "type": "u8",
         "hashedString": "",
         "hashNotes": "",
         "formattedHash": "_a924cade",
         "name": "",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", "", "", "Yes"],
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
       },
       {
         "hash": "a6945588",
-        "type": "",
+        "type": "u8",
         "hashedString": "",
         "hashNotes": "",
         "formattedHash": "_a6945588",
         "name": "",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", "", "", "Yes"],
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
       },
       {
         "hash": "b421fa66",
-        "type": "",
+        "type": "u8",
         "hashedString": "",
         "hashNotes": "",
         "formattedHash": "_b421fa66",
         "name": "",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", "", "", "Yes"],
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
       },
       {
         "hash": "a3a7a19f",
-        "type": "",
-        "hashedString": "",
+        "type": "u8",
+        "hashedString": "IsVariable u8",
         "hashNotes": "",
         "formattedHash": "_a3a7a19f",
-        "name": "",
+        "name": "IsVariable",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", "", "", "Yes"],
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
       }
     ]
@@ -2335,7 +2335,7 @@
         "formattedHash": "_59a07c63",
         "name": "Open2020",
         "functionalityNotes": "Sets events to unlocked in 2020",
-        "versions": ["", "", "", "", "", "", "Yes"],
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": true
       },
       {
@@ -2346,7 +2346,7 @@
         "formattedHash": "_e11c1b06",
         "name": "Open2021",
         "functionalityNotes": "Sets events to unlocked in 2021",
-        "versions": ["", "", "", "", "", "", "Yes"],
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": true
       },
       {
@@ -2488,7 +2488,7 @@
         "formattedHash": "_a09fff5e",
         "name": "WeatherChange",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", "", "", "Yes"],
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
       },
       {
@@ -6302,13 +6302,13 @@
       },
       {
         "hash": "be6737ac",
-        "type": "",
+        "type": "u16",
         "hashedString": "",
         "hashNotes": "",
         "formattedHash": "_be6737ac",
         "name": "",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", "", "", "Yes"],
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
       },
       {
@@ -7829,7 +7829,7 @@
   },
   "FishAppearRiverParam": {
     "name": "FishAppearRiverParam",
-    "namedColumns": "38/41",
+    "namedColumns": "41/41",
     "documentedColumns": "38/41",
     "description": "Spawn rates for river and pond fish",
     "hashes": [
@@ -7978,35 +7978,35 @@
       },
       {
         "hash": "6a1ebb49",
-        "type": "",
-        "hashedString": "",
+        "type": "u16",
+        "hashedString": "ProbHarvestDaytime u16",
         "hashNotes": "",
         "formattedHash": "_6a1ebb49",
-        "name": "",
+        "name": "ProbHarvestDaytime",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", "", "", "Yes"],
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
       },
       {
         "hash": "ec475a23",
-        "type": "",
-        "hashedString": "",
+        "type": "u16",
+        "hashedString": "ProbHarvestMorningAndEvening u16",
         "hashNotes": "",
         "formattedHash": "_ec475a23",
-        "name": "",
+        "name": "ProbHarvestMorningAndEvening",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", "", "", "Yes"],
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
       },
       {
         "hash": "7b28f877",
-        "type": "",
-        "hashedString": "",
+        "type": "u16",
+        "hashedString": "ProbHarvestNight u16",
         "hashNotes": "",
         "formattedHash": "_7b28f877",
-        "name": "",
+        "name": "ProbHarvestNight",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", "", "", "Yes"],
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
       },
       {
@@ -8288,7 +8288,7 @@
   },
   "FishAppearSeaParam": {
     "name": "FishAppearSeaParam",
-    "namedColumns": "38/41",
+    "namedColumns": "41/41",
     "documentedColumns": "38/41",
     "description": "Spawn rates for sea fish",
     "hashes": [
@@ -8437,35 +8437,35 @@
       },
       {
         "hash": "6a1ebb49",
-        "type": "",
-        "hashedString": "",
+        "type": "u16",
+        "hashedString": "ProbHarvestDaytime u16",
         "hashNotes": "",
         "formattedHash": "_6a1ebb49",
-        "name": "",
+        "name": "ProbHarvestDaytime",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", "", "", "Yes"],
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
       },
       {
         "hash": "ec475a23",
-        "type": "",
-        "hashedString": "",
+        "type": "u16",
+        "hashedString": "ProbHarvestMorningAndEvening u16",
         "hashNotes": "",
         "formattedHash": "_ec475a23",
-        "name": "",
+        "name": "ProbHarvestMorningAndEvening",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", "", "", "Yes"],
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
       },
       {
         "hash": "7b28f877",
-        "type": "",
-        "hashedString": "",
+        "type": "u16",
+        "hashedString": "ProbHarvestNight u16",
         "hashNotes": "",
         "formattedHash": "_7b28f877",
-        "name": "",
+        "name": "ProbHarvestNight",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", "", "", "Yes"],
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
       },
       {
@@ -11607,7 +11607,7 @@
         "formattedHash": "_b3da5c52",
         "name": "",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", "", "", "Yes"],
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
       },
       {
@@ -15459,7 +15459,7 @@
         "formattedHash": "_54706054",
         "name": "UniqueID",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", "", "", "Yes"],
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
       },
       {
@@ -15470,7 +15470,7 @@
         "formattedHash": "_13ab5198",
         "name": "Label",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", "", "", "Yes"],
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
       },
       {
@@ -15481,7 +15481,7 @@
         "formattedHash": "_036e8ebe",
         "name": "Name",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", "", "", "Yes"],
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
       }
     ]
@@ -15864,7 +15864,7 @@
   },
   "MannequinCoodinate": {
     "name": "MannequinCoodinate",
-    "namedColumns": "10/11",
+    "namedColumns": "11/11",
     "documentedColumns": "10/11",
     "description": "Params for the mannequin inside Able's",
     "hashes": [
@@ -15882,12 +15882,12 @@
       {
         "hash": "62ff0c3d",
         "type": "",
-        "hashedString": "",
+        "hashedString": "MannequinUsage.hshCstringRef",
         "hashNotes": "",
         "formattedHash": "_62ff0c3d",
         "name": "",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", "", "", "Yes"],
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
       },
       {
@@ -22228,7 +22228,7 @@
         "formattedHash": "_ad0c787a",
         "name": "",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", "", "", "Yes"],
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
       }
     ]
@@ -22917,7 +22917,7 @@
   },
   "SeafoodAppearParam": {
     "name": "SeafoodAppearParam",
-    "namedColumns": "38/41",
+    "namedColumns": "41/41",
     "documentedColumns": "38/41",
     "description": "Spawn rates for sea creatures",
     "hashes": [
@@ -23077,35 +23077,35 @@
       },
       {
         "hash": "6a1ebb49",
-        "type": "",
-        "hashedString": "",
+        "type": "u16",
+        "hashedString": "ProbHarvestDaytime u16",
         "hashNotes": "",
         "formattedHash": "_6a1ebb49",
-        "name": "",
+        "name": "ProbHarvestDaytime",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", "", "", "Yes"],
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
       },
       {
         "hash": "ec475a23",
-        "type": "",
-        "hashedString": "",
+        "type": "u16",
+        "hashedString": "ProbHarvestMorningAndEvening u16",
         "hashNotes": "",
         "formattedHash": "_ec475a23",
-        "name": "",
+        "name": "ProbHarvestMorningAndEvening",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", "", "", "Yes"],
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
       },
       {
         "hash": "7b28f877",
-        "type": "",
-        "hashedString": "",
+        "type": "u16",
+        "hashedString": "ProbHarvestNight u16",
         "hashNotes": "",
         "formattedHash": "_7b28f877",
-        "name": "",
+        "name": "ProbHarvestNight",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", "", "", "Yes"],
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
       },
       {
@@ -24183,7 +24183,7 @@
         "formattedHash": "_57e889b2",
         "name": "SmartphoneRemakeCommonPattern",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", "", "", "Yes"],
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
       },
       {
@@ -24194,7 +24194,7 @@
         "formattedHash": "_f8be7f94",
         "name": "SmartphoneRemakePattern",
         "functionalityNotes": "",
-        "versions": ["", "", "", "", "", "", "Yes"],
+        "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
       },
       {
