@@ -1,9 +1,9 @@
 # FgMainParam
 [View this table in your browser](FgMainParam-value.md) (version 1.6.0).
 
-**Named columns**: 22/23
+**Named columns**: 22/24
 
-**Documented columns**: 17/23
+**Documented columns**: 17/24
 
 **Description**: Parameters for outdoor objects, such as trees
 ## CollisionHeight
@@ -225,6 +225,19 @@
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
+
+
+## 0xbe6737ac
+
+**Hash**: 0xbe6737ac
+
+**Type**: 
+
+**Versions**: 
+
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|  |  |  |  |  |  | Yes| 
 
 
 ## SoundAttribute

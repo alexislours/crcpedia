@@ -5851,8 +5851,8 @@
   },
   "FgMainParam": {
     "name": "FgMainParam",
-    "namedColumns": "22/23",
-    "documentedColumns": "17/23",
+    "namedColumns": "22/24",
+    "documentedColumns": "17/24",
     "description": "Parameters for outdoor objects, such as trees",
     "hashes": [
       {
@@ -5997,6 +5997,17 @@
         "functionalityNotes": "Item returned when picking up",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes", "Yes", "Yes"],
         "knownFunctionality": true
+      },
+      {
+        "hash": "be6737ac",
+        "type": "",
+        "hashedString": "",
+        "hashNotes": "",
+        "formattedHash": "_be6737ac",
+        "name": "",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", "", "", "Yes"],
+        "knownFunctionality": false
       },
       {
         "hash": "2e17a0a7",
@@ -7516,8 +7527,8 @@
   },
   "FishAppearRiverParam": {
     "name": "FishAppearRiverParam",
-    "namedColumns": "38/38",
-    "documentedColumns": "38/38",
+    "namedColumns": "38/41",
+    "documentedColumns": "38/41",
     "description": "Spawn rates for river and pond fish",
     "hashes": [
       {
@@ -7662,6 +7673,39 @@
         "functionalityNotes": "same as above",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes", "Yes", "Yes"],
         "knownFunctionality": true
+      },
+      {
+        "hash": "6a1ebb49",
+        "type": "",
+        "hashedString": "",
+        "hashNotes": "",
+        "formattedHash": "_6a1ebb49",
+        "name": "",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", "", "", "Yes"],
+        "knownFunctionality": false
+      },
+      {
+        "hash": "ec475a23",
+        "type": "",
+        "hashedString": "",
+        "hashNotes": "",
+        "formattedHash": "_ec475a23",
+        "name": "",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", "", "", "Yes"],
+        "knownFunctionality": false
+      },
+      {
+        "hash": "7b28f877",
+        "type": "",
+        "hashedString": "",
+        "hashNotes": "",
+        "formattedHash": "_7b28f877",
+        "name": "",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", "", "", "Yes"],
+        "knownFunctionality": false
       },
       {
         "hash": "b3f1a70f",
@@ -7942,8 +7986,8 @@
   },
   "FishAppearSeaParam": {
     "name": "FishAppearSeaParam",
-    "namedColumns": "38/38",
-    "documentedColumns": "38/38",
+    "namedColumns": "38/41",
+    "documentedColumns": "38/41",
     "description": "Spawn rates for sea fish",
     "hashes": [
       {
@@ -8088,6 +8132,39 @@
         "functionalityNotes": "same as above",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes", "Yes", "Yes"],
         "knownFunctionality": true
+      },
+      {
+        "hash": "6a1ebb49",
+        "type": "",
+        "hashedString": "",
+        "hashNotes": "",
+        "formattedHash": "_6a1ebb49",
+        "name": "",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", "", "", "Yes"],
+        "knownFunctionality": false
+      },
+      {
+        "hash": "ec475a23",
+        "type": "",
+        "hashedString": "",
+        "hashNotes": "",
+        "formattedHash": "_ec475a23",
+        "name": "",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", "", "", "Yes"],
+        "knownFunctionality": false
+      },
+      {
+        "hash": "7b28f877",
+        "type": "",
+        "hashedString": "",
+        "hashNotes": "",
+        "formattedHash": "_7b28f877",
+        "name": "",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", "", "", "Yes"],
+        "knownFunctionality": false
       },
       {
         "hash": "b3f1a70f",
@@ -11205,8 +11282,8 @@
   },
   "ItemNpcOutfitInfo": {
     "name": "ItemNpcOutfitInfo",
-    "namedColumns": "3/5",
-    "documentedColumns": "3/5",
+    "namedColumns": "3/6",
+    "documentedColumns": "3/6",
     "description": "Accessories available to villagers",
     "hashes": [
       {
@@ -11219,6 +11296,14 @@
         "functionalityNotes": "",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes", "Yes", "Yes"],
         "knownFunctionality": true
+      },
+      {
+        "hash": "b3da5c52",
+        "type": "",
+        "hashedString": "",
+        "hashNotes": "",
+        "formattedHash": "_b3da5c52",
+        "versions": ["", "", "", "", "", "", ""]
       },
       {
         "hash": "8e07b21e",
