@@ -5970,7 +5970,7 @@
       },
       {
         "hash": "4906e466",
-        "type": "",
+        "type": "u8/s8",
         "hashedString": "",
         "hashNotes": "",
         "formattedHash": "_4906e466",
@@ -11368,7 +11368,7 @@
       },
       {
         "hash": "c37a683c",
-        "type": "u8/s8",
+        "type": "u8",
         "hashedString": "CantTakeOver u8",
         "hashNotes": "",
         "formattedHash": "_c37a683c",
@@ -18969,7 +18969,7 @@
       },
       {
         "hash": "6510a4fe",
-        "type": "u8/s8",
+        "type": "u8",
         "hashedString": "IsEquipCeremony u8",
         "hashNotes": "",
         "formattedHash": "_6510a4fe",

@@ -233,7 +233,7 @@
 
 **Hash**: 0x4906e466
 
-**Type**: 
+**Type**: u8/s8
 
 **Versions**: 
 
