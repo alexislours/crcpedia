@@ -21631,8 +21631,8 @@
   },
   "RecipeCraftParam": {
     "name": "RecipeCraftParam",
-    "namedColumns": "22/22",
-    "documentedColumns": "22/22",
+    "namedColumns": "22/23",
+    "documentedColumns": "22/23",
     "description": "Params for DIY Recipes",
     "hashes": [
       {
@@ -21876,6 +21876,17 @@
         "functionalityNotes": "Event name for calendar event recipes. If _478b74e4 is \"SelectCalendarEvent\"",
         "versions": ["No", "Yes", "Yes", "Yes", "Yes", "Yes", "Yes"],
         "knownFunctionality": true
+      },
+      {
+        "hash": "ad0c787a",
+        "type": "",
+        "hashedString": "",
+        "hashNotes": "",
+        "formattedHash": "_ad0c787a",
+        "name": "",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", "", "", "Yes"],
+        "knownFunctionality": false
       }
     ]
   },
@@ -22563,8 +22574,8 @@
   },
   "SeafoodAppearParam": {
     "name": "SeafoodAppearParam",
-    "namedColumns": "38/38",
-    "documentedColumns": "38/38",
+    "namedColumns": "38/41",
+    "documentedColumns": "38/41",
     "description": "Spawn rates for sea creatures",
     "hashes": [
       {
@@ -22720,6 +22731,39 @@
         "functionalityNotes": "same as above",
         "versions": ["No", "No", "No", "Yes", "Yes", "Yes", "Yes"],
         "knownFunctionality": true
+      },
+      {
+        "hash": "6a1ebb49",
+        "type": "",
+        "hashedString": "",
+        "hashNotes": "",
+        "formattedHash": "_6a1ebb49",
+        "name": "",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", "", "", "Yes"],
+        "knownFunctionality": false
+      },
+      {
+        "hash": "ec475a23",
+        "type": "",
+        "hashedString": "",
+        "hashNotes": "",
+        "formattedHash": "_ec475a23",
+        "name": "",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", "", "", "Yes"],
+        "knownFunctionality": false
+      },
+      {
+        "hash": "7b28f877",
+        "type": "",
+        "hashedString": "",
+        "hashNotes": "",
+        "formattedHash": "_7b28f877",
+        "name": "",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", "", "", "Yes"],
+        "knownFunctionality": false
       },
       {
         "hash": "b3f1a70f",

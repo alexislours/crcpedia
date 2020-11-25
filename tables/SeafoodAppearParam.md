@@ -1,9 +1,9 @@
 # SeafoodAppearParam
 [View this table in your browser](SeafoodAppearParam-value.md) (version 1.6.0).
 
-**Named columns**: 38/38
+**Named columns**: 38/41
 
-**Documented columns**: 38/38
+**Documented columns**: 38/41
 
 **Description**: Spawn rates for sea creatures
 ## AppearArea
@@ -242,6 +242,45 @@
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | No | No | No | Yes | Yes | Yes | Yes| 
+
+
+## 0x6a1ebb49
+
+**Hash**: 0x6a1ebb49
+
+**Type**: 
+
+**Versions**: 
+
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|  |  |  |  |  |  | Yes| 
+
+
+## 0xec475a23
+
+**Hash**: 0xec475a23
+
+**Type**: 
+
+**Versions**: 
+
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|  |  |  |  |  |  | Yes| 
+
+
+## 0x7b28f877
+
+**Hash**: 0x7b28f877
+
+**Type**: 
+
+**Versions**: 
+
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|  |  |  |  |  |  | Yes| 
 
 
 ## ProbJanDaytime

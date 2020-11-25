@@ -1,9 +1,9 @@
 # RecipeCraftParam
 [View this table in your browser](RecipeCraftParam-value.md) (version 1.6.0).
 
-**Named columns**: 22/22
+**Named columns**: 22/23
 
-**Documented columns**: 22/22
+**Documented columns**: 22/23
 
 **Description**: Params for DIY Recipes
 ## BoardColorID
@@ -376,5 +376,18 @@
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | No | Yes | Yes | Yes | Yes | Yes | Yes| 
+
+
+## 0xad0c787a
+
+**Hash**: 0xad0c787a
+
+**Type**: 
+
+**Versions**: 
+
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|  |  |  |  |  |  | Yes| 
 
 
