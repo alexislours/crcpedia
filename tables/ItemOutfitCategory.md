@@ -16,7 +16,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | No | No | No | Yes* | No| 
+| No | No | No | No | No | Yes* | Yes*| 
 
 *Found in the BCSVs but unreferenced in the executable
 
@@ -32,7 +32,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## CanHasSit
@@ -47,7 +47,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## EquipOnlyOutdoor
@@ -62,7 +62,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## HandToolAsLabel
@@ -77,7 +77,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | No | No | Yes | Yes | No| 
+| No | No | No | No | Yes | Yes | Yes| 
 
 
 ## HandToolAsName
@@ -92,7 +92,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## Label
@@ -107,7 +107,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## Misc
@@ -124,7 +124,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## Name
@@ -139,7 +139,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## ToolEnterAsName
@@ -154,7 +154,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | Yes | Yes | Yes | Yes | No| 
+| No | No | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## ToolLeftModelName
@@ -169,7 +169,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## ToolRightModelName
@@ -184,7 +184,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## ToolSetupAsName
@@ -199,7 +199,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## ToolSetupPutawayAsName
@@ -214,7 +214,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## UseToolLeft
@@ -229,6 +229,6 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 

@@ -20,7 +20,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## NumberingId
@@ -37,7 +37,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## SpNpcCloth
@@ -54,7 +54,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes* | Yes* | Yes* | Yes* | Yes* | Yes* | No| 
+| Yes* | Yes* | Yes* | Yes* | Yes* | Yes* | Yes*| 
 
 *Found in the BCSVs but unreferenced in the executable
 
@@ -72,7 +72,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## NpcLabel
@@ -89,7 +89,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## NpcType
@@ -106,7 +106,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## Reaction
@@ -123,7 +123,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## SeriesId
@@ -140,7 +140,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## Studio
@@ -157,6 +157,6 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 

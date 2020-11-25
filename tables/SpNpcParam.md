@@ -20,7 +20,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## GenderUsEu
@@ -37,7 +37,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## PacketId
@@ -52,7 +52,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## Social
@@ -67,7 +67,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## NpcSpClothSet
@@ -84,7 +84,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## PosterItemID
@@ -101,7 +101,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## Smartphone
@@ -118,7 +118,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## Umbrella
@@ -135,7 +135,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## UniqueID
@@ -150,7 +150,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## BirthMDay
@@ -167,7 +167,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## BirthMonth
@@ -184,7 +184,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## HavokResName
@@ -201,7 +201,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## Label
@@ -216,7 +216,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## NameWithTitle
@@ -231,7 +231,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | Yes | Yes | Yes | Yes | Yes | No| 
+| No | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## NpcColor
@@ -248,7 +248,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## ResName
@@ -265,7 +265,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## SpecialELink
@@ -280,7 +280,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## SpecialSLink
@@ -295,7 +295,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## 0x21c5bbd6
@@ -310,7 +310,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## 0xe52f0037
@@ -325,7 +325,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## 0x42f255d5
@@ -340,7 +340,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## VmPauseType
@@ -357,7 +357,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## VmRhythmType
@@ -374,6 +374,6 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 

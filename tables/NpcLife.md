@@ -20,7 +20,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes* | Yes* | Yes* | Yes* | Yes* | Yes* | No| 
+| Yes* | Yes* | Yes* | Yes* | Yes* | Yes* | Yes*| 
 
 *Found in the BCSVs but unreferenced in the executable
 
@@ -38,7 +38,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## SatisfyMinute (Unused)
@@ -55,7 +55,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes* | Yes* | Yes* | Yes* | Yes* | Yes* | No| 
+| Yes* | Yes* | Yes* | Yes* | Yes* | Yes* | Yes*| 
 
 *Found in the BCSVs but unreferenced in the executable
 
@@ -73,7 +73,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## EquipRule
@@ -90,7 +90,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## FlagType
@@ -105,7 +105,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## GroupActivityPlacementType
@@ -122,7 +122,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## HobbyEducationLevel
@@ -139,7 +139,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## HobbyFashionLevel
@@ -156,7 +156,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## HobbyFitnessLevel
@@ -173,7 +173,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## HobbyMotif
@@ -190,7 +190,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## HobbyMusicLevel
@@ -207,7 +207,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## HobbyNatureLevel
@@ -224,7 +224,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## HobbyPlayLevel
@@ -241,7 +241,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## LifeMotif
@@ -258,7 +258,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## LiveMotif
@@ -275,7 +275,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## LookAtType
@@ -290,7 +290,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## MoveASType
@@ -307,7 +307,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## NetPlay
@@ -322,7 +322,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## RainActive
@@ -337,7 +337,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## RainEquipment
@@ -352,7 +352,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## SeasonAutumnLevel
@@ -369,7 +369,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## SeasonSpringLevel
@@ -386,7 +386,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## SeasonSummerLevel
@@ -403,7 +403,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## SeasonWinterLevel
@@ -420,7 +420,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## SpotType
@@ -437,7 +437,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## TimeZoneIndoorEarlyMorningLevel
@@ -454,7 +454,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## TimeZoneIndoorEveningLevel
@@ -471,7 +471,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## TimeZoneIndoorMidnightLevel
@@ -488,7 +488,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## TimeZoneIndoorMorningLevel
@@ -505,7 +505,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## TimeZoneIndoorNightLevel
@@ -522,7 +522,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## TimeZoneIndoorNoonLevel
@@ -539,7 +539,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## TimeZoneOutdoorEarlyMorningLevel
@@ -556,7 +556,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## TimeZoneOutdoorEveningLevel
@@ -573,7 +573,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## TimeZoneOutdoorMidnightLevel
@@ -590,7 +590,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## TimeZoneOutdoorMorningLevel
@@ -607,7 +607,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## TimeZoneOutdoorNightLevel
@@ -624,7 +624,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## TimeZoneOutdoorNoonLevel
@@ -641,7 +641,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## VillageDevelopmentLevel
@@ -658,7 +658,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## WaitASType
@@ -675,6 +675,6 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 

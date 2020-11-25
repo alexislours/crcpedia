@@ -18,7 +18,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## 0x85a0fa49
@@ -31,7 +31,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## FacilityModelVariation
@@ -46,7 +46,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## FloorHeight
@@ -61,7 +61,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## Door0
@@ -76,7 +76,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## DoorMaterial
@@ -91,7 +91,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## 0x9c2d6dc6
@@ -104,7 +104,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## RoofMaterial
@@ -119,7 +119,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## StructureInfoUniqueID
@@ -134,7 +134,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## UniqueID
@@ -149,7 +149,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## Construction
@@ -164,7 +164,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## GrowLevel
@@ -179,7 +179,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## HasDoorEigyoLight
@@ -194,7 +194,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## HasEigyoLight
@@ -209,7 +209,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## HasNightLight
@@ -224,7 +224,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## IsUseXlink
@@ -239,7 +239,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | Yes | Yes | Yes | Yes | Yes | No| 
+| No | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## ModelName
@@ -254,7 +254,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## UseChimneySmoke
@@ -269,7 +269,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## UseMyDesign
@@ -284,6 +284,6 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | Yes | Yes | Yes | Yes | Yes | No| 
+| Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
 
 

@@ -20,7 +20,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | Yes | No| 
+| No | No | No | Yes | Yes | Yes | Yes| 
 
 
 ## ItemID
@@ -37,7 +37,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | Yes | No| 
+| No | No | No | Yes | Yes | Yes | Yes| 
 
 
 ## ProbAprDaytime
@@ -54,7 +54,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | Yes | No| 
+| No | No | No | Yes | Yes | Yes | Yes| 
 
 
 ## ProbAprMorningAndEvening
@@ -71,7 +71,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | Yes | No| 
+| No | No | No | Yes | Yes | Yes | Yes| 
 
 
 ## ProbAprNight
@@ -88,7 +88,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | Yes | No| 
+| No | No | No | Yes | Yes | Yes | Yes| 
 
 
 ## ProbAugDaytime
@@ -105,7 +105,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | Yes | No| 
+| No | No | No | Yes | Yes | Yes | Yes| 
 
 
 ## ProbAugMorningAndEvening
@@ -122,7 +122,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | Yes | No| 
+| No | No | No | Yes | Yes | Yes | Yes| 
 
 
 ## ProbAugNight
@@ -139,7 +139,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | Yes | No| 
+| No | No | No | Yes | Yes | Yes | Yes| 
 
 
 ## ProbDecDaytime
@@ -156,7 +156,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | Yes | No| 
+| No | No | No | Yes | Yes | Yes | Yes| 
 
 
 ## ProbDecMorningAndEvening
@@ -173,7 +173,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | Yes | No| 
+| No | No | No | Yes | Yes | Yes | Yes| 
 
 
 ## ProbDecNight
@@ -190,7 +190,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | Yes | No| 
+| No | No | No | Yes | Yes | Yes | Yes| 
 
 
 ## ProbFebDaytime
@@ -207,7 +207,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | Yes | No| 
+| No | No | No | Yes | Yes | Yes | Yes| 
 
 
 ## ProbFebMorningAndEvening
@@ -224,7 +224,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | Yes | No| 
+| No | No | No | Yes | Yes | Yes | Yes| 
 
 
 ## ProbFebNight
@@ -241,7 +241,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | Yes | No| 
+| No | No | No | Yes | Yes | Yes | Yes| 
 
 
 ## ProbJanDaytime
@@ -258,7 +258,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | Yes | No| 
+| No | No | No | Yes | Yes | Yes | Yes| 
 
 
 ## ProbJanMorningAndEvening
@@ -275,7 +275,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | Yes | No| 
+| No | No | No | Yes | Yes | Yes | Yes| 
 
 
 ## ProbJanNight
@@ -292,7 +292,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | Yes | No| 
+| No | No | No | Yes | Yes | Yes | Yes| 
 
 
 ## ProbJulDaytime
@@ -309,7 +309,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | Yes | No| 
+| No | No | No | Yes | Yes | Yes | Yes| 
 
 
 ## ProbJulMorningAndEvening
@@ -326,7 +326,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | Yes | No| 
+| No | No | No | Yes | Yes | Yes | Yes| 
 
 
 ## ProbJulNight
@@ -343,7 +343,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | Yes | No| 
+| No | No | No | Yes | Yes | Yes | Yes| 
 
 
 ## ProbJunDaytime
@@ -360,7 +360,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | Yes | No| 
+| No | No | No | Yes | Yes | Yes | Yes| 
 
 
 ## ProbJunMorningAndEvening
@@ -377,7 +377,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | Yes | No| 
+| No | No | No | Yes | Yes | Yes | Yes| 
 
 
 ## ProbJunNight
@@ -394,7 +394,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | Yes | No| 
+| No | No | No | Yes | Yes | Yes | Yes| 
 
 
 ## ProbMarDaytime
@@ -411,7 +411,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | Yes | No| 
+| No | No | No | Yes | Yes | Yes | Yes| 
 
 
 ## ProbMarMorningAndEvening
@@ -428,7 +428,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | Yes | No| 
+| No | No | No | Yes | Yes | Yes | Yes| 
 
 
 ## ProbMarNight
@@ -445,7 +445,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | Yes | No| 
+| No | No | No | Yes | Yes | Yes | Yes| 
 
 
 ## ProbMayDaytime
@@ -462,7 +462,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | Yes | No| 
+| No | No | No | Yes | Yes | Yes | Yes| 
 
 
 ## ProbMayMorningAndEvening
@@ -479,7 +479,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | Yes | No| 
+| No | No | No | Yes | Yes | Yes | Yes| 
 
 
 ## ProbMayNight
@@ -496,7 +496,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | Yes | No| 
+| No | No | No | Yes | Yes | Yes | Yes| 
 
 
 ## ProbNovDaytime
@@ -513,7 +513,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | Yes | No| 
+| No | No | No | Yes | Yes | Yes | Yes| 
 
 
 ## ProbNovMorningAndEvening
@@ -530,7 +530,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | Yes | No| 
+| No | No | No | Yes | Yes | Yes | Yes| 
 
 
 ## ProbNovNight
@@ -547,7 +547,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | Yes | No| 
+| No | No | No | Yes | Yes | Yes | Yes| 
 
 
 ## ProbOctDaytime
@@ -564,7 +564,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | Yes | No| 
+| No | No | No | Yes | Yes | Yes | Yes| 
 
 
 ## ProbOctMorningAndEvening
@@ -581,7 +581,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | Yes | No| 
+| No | No | No | Yes | Yes | Yes | Yes| 
 
 
 ## ProbOctNight
@@ -598,7 +598,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | Yes | No| 
+| No | No | No | Yes | Yes | Yes | Yes| 
 
 
 ## ProbSepDaytime
@@ -615,7 +615,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | Yes | No| 
+| No | No | No | Yes | Yes | Yes | Yes| 
 
 
 ## ProbSepMorningAndEvening
@@ -632,7 +632,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | Yes | No| 
+| No | No | No | Yes | Yes | Yes | Yes| 
 
 
 ## ProbSepNight
@@ -649,6 +649,6 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | No | Yes | Yes | Yes | No| 
+| No | No | No | Yes | Yes | Yes | Yes| 
 
 

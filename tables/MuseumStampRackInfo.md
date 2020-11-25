@@ -20,7 +20,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | Yes | Yes | Yes | Yes | No| 
+| No | No | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## StampRackPutUnitX
@@ -37,7 +37,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | Yes | Yes | Yes | Yes | No| 
+| No | No | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## StampRackPutUnitZ
@@ -54,7 +54,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | Yes | Yes | Yes | Yes | No| 
+| No | No | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## StampRackItemNameA
@@ -71,7 +71,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | Yes | Yes | Yes | Yes | No| 
+| No | No | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## StampRackItemNameB
@@ -86,7 +86,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | Yes | Yes | Yes | Yes | No| 
+| No | No | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## StampRackItemNameC
@@ -101,7 +101,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | Yes | Yes | Yes | Yes | No| 
+| No | No | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## StampRackSetDirection
@@ -118,7 +118,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | Yes | Yes | Yes | Yes | No| 
+| No | No | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## UniqueID
@@ -133,7 +133,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | Yes | Yes | Yes | Yes | No| 
+| No | No | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## StampRackIdx
@@ -148,7 +148,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | Yes | Yes | Yes | Yes | No| 
+| No | No | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## StampRackNameExplainLabel
@@ -165,7 +165,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | Yes | Yes | Yes | Yes | No| 
+| No | No | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## StampRackNameTextLabel
@@ -182,7 +182,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | Yes | Yes | Yes | Yes | No| 
+| No | No | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## 0x96d80132
@@ -197,7 +197,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | Yes | Yes | Yes | Yes | No| 
+| No | No | Yes | Yes | Yes | Yes | Yes| 
 
 
 ## 0xed4b6070
@@ -210,6 +210,6 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | Yes | Yes | Yes | Yes | No| 
+| No | No | Yes | Yes | Yes | Yes | Yes| 
 
 
