@@ -278,6 +278,308 @@
       }
     ]
   },
+  "CalendarEventHarvestFishExchange": {
+    "name": "CalendarEventHarvestFishExchange",
+    "namedColumns": "2/9",
+    "documentedColumns": "0/9",
+    "description": "",
+    "hashes": [
+      {
+        "hash": "612bc6cf",
+        "type": "u32",
+        "hashedString": "UniqueID u32",
+        "hashNotes": "",
+        "formattedHash": "_612bc6cf",
+        "name": "UniqueID",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", "", "", "Yes"],
+        "knownFunctionality": false
+      },
+      {
+        "hash": "20cb67bc",
+        "type": "u16",
+        "hashedString": "ItemID u16",
+        "hashNotes": "",
+        "formattedHash": "_20cb67bc",
+        "name": "ItemID",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", "", "", "Yes"],
+        "knownFunctionality": false
+      },
+      {
+        "hash": "d1b5c570",
+        "type": "",
+        "hashedString": "",
+        "hashNotes": "",
+        "formattedHash": "_d1b5c570",
+        "name": "",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", "", "", "Yes"],
+        "knownFunctionality": false
+      },
+      {
+        "hash": "3ca0fc03",
+        "type": "",
+        "hashedString": "",
+        "hashNotes": "",
+        "formattedHash": "_3ca0fc03",
+        "name": "",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", "", "", "Yes"],
+        "knownFunctionality": false
+      },
+      {
+        "hash": "c61be841",
+        "type": "",
+        "hashedString": "",
+        "hashNotes": "",
+        "formattedHash": "_c61be841",
+        "name": "",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", "", "", "Yes"],
+        "knownFunctionality": false
+      },
+      {
+        "hash": "20dd4377",
+        "type": "",
+        "hashedString": "",
+        "hashNotes": "",
+        "formattedHash": "_20dd4377",
+        "name": "",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", "", "", "Yes"],
+        "knownFunctionality": false
+      },
+      {
+        "hash": "1365b16d",
+        "type": "",
+        "hashedString": "",
+        "hashNotes": "",
+        "formattedHash": "_1365b16d",
+        "name": "",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", "", "", "Yes"],
+        "knownFunctionality": false
+      },
+      {
+        "hash": "db015556",
+        "type": "",
+        "hashedString": "",
+        "hashNotes": "",
+        "formattedHash": "_db015556",
+        "name": "",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", "", "", "Yes"],
+        "knownFunctionality": false
+      },
+      {
+        "hash": "1b525407",
+        "type": "",
+        "hashedString": "",
+        "hashNotes": "",
+        "formattedHash": "_1b525407",
+        "name": "",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", "", "", "Yes"],
+        "knownFunctionality": false
+      }
+    ]
+  },
+  "CalendarEventHarvestNeceaasryIngredient": {
+    "name": "CalendarEventHarvestNeceaasryIngredient",
+    "namedColumns": "2/17",
+    "documentedColumns": "0/17",
+    "description": "",
+    "hashes": [
+      {
+        "hash": "612bc6cf",
+        "type": "u32",
+        "hashedString": "UniqueID u32",
+        "hashNotes": "",
+        "formattedHash": "_612bc6cf",
+        "name": "UniqueID",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", "", "", "Yes"],
+        "knownFunctionality": false
+      },
+      {
+        "hash": "20cb67bc",
+        "type": "u16",
+        "hashedString": "ItemID u16",
+        "hashNotes": "",
+        "formattedHash": "_20cb67bc",
+        "name": "ItemID",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", "", "", "Yes"],
+        "knownFunctionality": false
+      },
+      {
+        "hash": "3ca0fc03",
+        "type": "",
+        "hashedString": "",
+        "hashNotes": "",
+        "formattedHash": "_3ca0fc03",
+        "name": "",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", "", "", "Yes"],
+        "knownFunctionality": false
+      },
+      {
+        "hash": "c61be841",
+        "type": "",
+        "hashedString": "",
+        "hashNotes": "",
+        "formattedHash": "_c61be841",
+        "name": "",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", "", "", "Yes"],
+        "knownFunctionality": false
+      },
+      {
+        "hash": "647a321a",
+        "type": "",
+        "hashedString": "",
+        "hashNotes": "",
+        "formattedHash": "_647a321a",
+        "name": "",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", "", "", "Yes"],
+        "knownFunctionality": false
+      },
+      {
+        "hash": "b83cd0e1",
+        "type": "",
+        "hashedString": "",
+        "hashNotes": "",
+        "formattedHash": "_b83cd0e1",
+        "name": "",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", "", "", "Yes"],
+        "knownFunctionality": false
+      },
+      {
+        "hash": "aa897f0f",
+        "type": "",
+        "hashedString": "",
+        "hashNotes": "",
+        "formattedHash": "_aa897f0f",
+        "name": "",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", "", "", "Yes"],
+        "knownFunctionality": false
+      },
+      {
+        "hash": "ce73fa91",
+        "type": "",
+        "hashedString": "",
+        "hashNotes": "",
+        "formattedHash": "_ce73fa91",
+        "name": "",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", "", "", "Yes"],
+        "knownFunctionality": false
+      },
+      {
+        "hash": "53a4c228",
+        "type": "",
+        "hashedString": "",
+        "hashNotes": "",
+        "formattedHash": "_53a4c228",
+        "name": "",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", "", "", "Yes"],
+        "knownFunctionality": false
+      },
+      {
+        "hash": "f659c43b",
+        "type": "",
+        "hashedString": "",
+        "hashNotes": "",
+        "formattedHash": "_f659c43b",
+        "name": "",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", "", "", "Yes"],
+        "knownFunctionality": false
+      },
+      {
+        "hash": "70cdb695",
+        "type": "",
+        "hashedString": "",
+        "hashNotes": "",
+        "formattedHash": "_70cdb695",
+        "name": "",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", "", "", "Yes"],
+        "knownFunctionality": false
+      },
+      {
+        "hash": "6278197b",
+        "type": "",
+        "hashedString": "",
+        "hashNotes": "",
+        "formattedHash": "_6278197b",
+        "name": "",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", "", "", "Yes"],
+        "knownFunctionality": false
+      },
+      {
+        "hash": "bb916530",
+        "type": "",
+        "hashedString": "",
+        "hashNotes": "",
+        "formattedHash": "_bb916530",
+        "name": "",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", "", "", "Yes"],
+        "knownFunctionality": false
+      },
+      {
+        "hash": "a924cade",
+        "type": "",
+        "hashedString": "",
+        "hashNotes": "",
+        "formattedHash": "_a924cade",
+        "name": "",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", "", "", "Yes"],
+        "knownFunctionality": false
+      },
+      {
+        "hash": "a6945588",
+        "type": "",
+        "hashedString": "",
+        "hashNotes": "",
+        "formattedHash": "_a6945588",
+        "name": "",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", "", "", "Yes"],
+        "knownFunctionality": false
+      },
+      {
+        "hash": "b421fa66",
+        "type": "",
+        "hashedString": "",
+        "hashNotes": "",
+        "formattedHash": "_b421fa66",
+        "name": "",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", "", "", "Yes"],
+        "knownFunctionality": false
+      },
+      {
+        "hash": "a3a7a19f",
+        "type": "",
+        "hashedString": "",
+        "hashNotes": "",
+        "formattedHash": "_a3a7a19f",
+        "name": "",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", "", "", "Yes"],
+        "knownFunctionality": false
+      }
+    ]
+  },
   "CalendarEventJuneBrideExchange": {
     "name": "CalendarEventJuneBrideExchange",
     "namedColumns": "5/5",
@@ -15143,6 +15445,47 @@
       }
     ]
   },
+  "ItemUIFurnitureCategory": {
+    "name": "ItemUIFurnitureCategory",
+    "namedColumns": "3/3",
+    "documentedColumns": "0/3",
+    "description": "",
+    "hashes": [
+      {
+        "hash": "54706054",
+        "type": "u16",
+        "hashedString": "UniqueID u16",
+        "hashNotes": "",
+        "formattedHash": "_54706054",
+        "name": "UniqueID",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", "", "", "Yes"],
+        "knownFunctionality": false
+      },
+      {
+        "hash": "13ab5198",
+        "type": "string64",
+        "hashedString": "Label string64",
+        "hashNotes": "",
+        "formattedHash": "_13ab5198",
+        "name": "Label",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", "", "", "Yes"],
+        "knownFunctionality": false
+      },
+      {
+        "hash": "36e8ebe",
+        "type": "string64",
+        "hashedString": "Name string64",
+        "hashNotes": "",
+        "formattedHash": "_036e8ebe",
+        "name": "Name",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", "", "", "Yes"],
+        "knownFunctionality": false
+      }
+    ]
+  },
   "ItemUnitIcon": {
     "name": "ItemUnitIcon",
     "namedColumns": "8/8",
@@ -23751,8 +24094,8 @@
   },
   "SpNpcParam": {
     "name": "SpNpcParam",
-    "namedColumns": "20/23",
-    "documentedColumns": "14/23",
+    "namedColumns": "22/25",
+    "documentedColumns": "14/25",
     "description": "Main params for special NPCs",
     "hashes": [
       {
@@ -23831,6 +24174,28 @@
         "functionalityNotes": "ID of the phonecase of the Special NPC",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes", "Yes", "Yes"],
         "knownFunctionality": true
+      },
+      {
+        "hash": "57e889b2",
+        "type": "s16",
+        "hashedString": "SmartphoneRemakeCommonPattern s16",
+        "hashNotes": "",
+        "formattedHash": "_57e889b2",
+        "name": "SmartphoneRemakeCommonPattern",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", "", "", "Yes"],
+        "knownFunctionality": false
+      },
+      {
+        "hash": "f8be7f94",
+        "type": "u16",
+        "hashedString": "SmartphoneRemakePattern u16",
+        "hashNotes": "",
+        "formattedHash": "_f8be7f94",
+        "name": "SmartphoneRemakePattern",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", "", "", "Yes"],
+        "knownFunctionality": false
       },
       {
         "hash": "bb9c816e",

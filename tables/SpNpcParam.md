@@ -1,9 +1,9 @@
 # SpNpcParam
 [View this table in your browser](SpNpcParam-value.md) (version 1.6.0).
 
-**Named columns**: 20/23
+**Named columns**: 22/25
 
-**Documented columns**: 14/23
+**Documented columns**: 14/25
 
 **Description**: Main params for special NPCs
 ## GenderAsia
@@ -119,6 +119,36 @@
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | Yes | Yes | Yes | Yes | Yes | Yes | Yes| 
+
+
+## SmartphoneRemakeCommonPattern
+
+**Name**: SmartphoneRemakeCommonPattern
+
+**Hash**: 0x57e889b2
+
+**Hashed string**: SmartphoneRemakeCommonPattern s16
+
+**Versions**: 
+
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|  |  |  |  |  |  | Yes| 
+
+
+## SmartphoneRemakePattern
+
+**Name**: SmartphoneRemakePattern
+
+**Hash**: 0xf8be7f94
+
+**Hashed string**: SmartphoneRemakePattern u16
+
+**Versions**: 
+
+ | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|  |  |  |  |  |  | Yes| 
 
 
 ## Umbrella
