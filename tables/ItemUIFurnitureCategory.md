@@ -3,8 +3,9 @@
 
 **Named columns**: 3/3
 
-**Documented columns**: 0/3
+**Documented columns**: 3/3
 
+**Description**: Used for sorting items in storage by type?
 ## UniqueID
 
 **Name**: UniqueID

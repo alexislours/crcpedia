@@ -3,7 +3,7 @@
 
 **Named columns**: 11/11
 
-**Documented columns**: 10/11
+**Documented columns**: 11/11
 
 **Description**: Params for the mannequin inside Able's
 ## MannequinPose
@@ -36,6 +36,8 @@ MannequinPause06 -> UiCloset_PoseNatural03
 **Hash**: 0x62ff0c3d
 
 **Hashed string**: MannequinUsage.hshCstringRef
+
+**Notes**: Used for events
 
 **Versions**: 
 

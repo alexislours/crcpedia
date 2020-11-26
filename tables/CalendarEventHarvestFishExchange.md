@@ -5,6 +5,7 @@
 
 **Documented columns**: 7/9
 
+**Description**: Ingredients villagers want and trade
 ## UniqueID
 
 **Name**: UniqueID

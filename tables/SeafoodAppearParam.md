@@ -3,7 +3,7 @@
 
 **Named columns**: 41/41
 
-**Documented columns**: 38/41
+**Documented columns**: 41/41
 
 **Description**: Spawn rates for sea creatures
 ## AppearArea
@@ -252,6 +252,8 @@
 
 **Hashed string**: ProbHarvestDaytime u16
 
+**Notes**: same as above, except on Turkey Day
+
 **Versions**: 
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
@@ -267,6 +269,8 @@
 
 **Hashed string**: ProbHarvestMorningAndEvening u16
 
+**Notes**: same as above, except on Turkey Day
+
 **Versions**: 
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
@@ -281,6 +285,8 @@
 **Hash**: 0x7b28f877
 
 **Hashed string**: ProbHarvestNight u16
+
+**Notes**: same as above, except on Turkey Day
 
 **Versions**: 
 

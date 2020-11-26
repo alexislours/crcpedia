@@ -282,7 +282,7 @@
     "name": "CalendarEventHarvestFishExchange",
     "namedColumns": "8/9",
     "documentedColumns": "7/9",
-    "description": "",
+    "description": "Ingredients villagers want and trade",
     "hashes": [
       {
         "hash": "612bc6cf",
@@ -388,7 +388,7 @@
     "name": "CalendarEventHarvestNeceaasryIngredient",
     "namedColumns": "17/17",
     "documentedColumns": "17/17",
-    "description": "",
+    "description": "Ingredients for Turkey Day dishes",
     "hashes": [
       {
         "hash": "612bc6cf",
@@ -3404,7 +3404,7 @@
     "name": "CharaMakeHalloweenMakePresetParam",
     "namedColumns": "3/3",
     "documentedColumns": "0/3",
-    "description": "",
+    "description": "Preset facepaint patterns and skin colors for Halloween tricks",
     "hashes": [
       {
         "hash": "ea6d4070",
@@ -15477,8 +15477,8 @@
   "ItemUIFurnitureCategory": {
     "name": "ItemUIFurnitureCategory",
     "namedColumns": "3/3",
-    "documentedColumns": "0/3",
-    "description": "",
+    "documentedColumns": "3/3",
+    "description": "Used for sorting items in storage by type?",
     "hashes": [
       {
         "hash": "54706054",
@@ -15489,7 +15489,7 @@
         "name": "UniqueID",
         "functionalityNotes": "",
         "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "13ab5198",
@@ -15500,7 +15500,7 @@
         "name": "Label",
         "functionalityNotes": "",
         "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "36e8ebe",
@@ -15511,7 +15511,7 @@
         "name": "Name",
         "functionalityNotes": "",
         "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       }
     ]
   },
@@ -15894,7 +15894,7 @@
   "MannequinCoodinate": {
     "name": "MannequinCoodinate",
     "namedColumns": "11/11",
-    "documentedColumns": "10/11",
+    "documentedColumns": "11/11",
     "description": "Params for the mannequin inside Able's",
     "hashes": [
       {
@@ -15915,9 +15915,9 @@
         "hashNotes": "",
         "formattedHash": "_62ff0c3d",
         "name": "MannequinUsage",
-        "functionalityNotes": "",
+        "functionalityNotes": "Used for events",
         "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "b44dbf73",
@@ -22256,7 +22256,7 @@
         "hashNotes": "",
         "formattedHash": "_ad0c787a",
         "name": "",
-        "functionalityNotes": "",
+        "functionalityNotes": "1 on only HarvestFestival recipes",
         "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
       }
@@ -22947,7 +22947,7 @@
   "SeafoodAppearParam": {
     "name": "SeafoodAppearParam",
     "namedColumns": "41/41",
-    "documentedColumns": "38/41",
+    "documentedColumns": "41/41",
     "description": "Spawn rates for sea creatures",
     "hashes": [
       {
@@ -23111,9 +23111,9 @@
         "hashNotes": "",
         "formattedHash": "_6a1ebb49",
         "name": "ProbHarvestDaytime",
-        "functionalityNotes": "",
+        "functionalityNotes": "same as above, except on Turkey Day",
         "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "ec475a23",
@@ -23122,9 +23122,9 @@
         "hashNotes": "",
         "formattedHash": "_ec475a23",
         "name": "ProbHarvestMorningAndEvening",
-        "functionalityNotes": "",
+        "functionalityNotes": "same as above, except on Turkey Day",
         "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "7b28f877",
@@ -23133,9 +23133,9 @@
         "hashNotes": "",
         "formattedHash": "_7b28f877",
         "name": "ProbHarvestNight",
-        "functionalityNotes": "",
+        "functionalityNotes": "same as above, except on Turkey Day",
         "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "b3f1a70f",

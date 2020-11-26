@@ -5,6 +5,7 @@
 
 **Documented columns**: 0/3
 
+**Description**: Preset facepaint patterns and skin colors for Halloween tricks
 ## FacePaint
 
 **Name**: FacePaint
