@@ -3,7 +3,7 @@
 
 **Named columns**: 20/21
 
-**Documented columns**: 17/21
+**Documented columns**: 18/21
 
 **Description**: Nook Miles achievements
 ## FlagLand
@@ -251,6 +251,8 @@
 **Hash**: 0x5971a42e
 
 **Hashed string**: WaitFrame u32
+
+**Notes**: Number of frames needed to pass before the phone beeps for the achievement
 
 **Versions**: 
 

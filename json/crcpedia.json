@@ -4452,7 +4452,7 @@
   "EventFlagsLifeSupportAchievementParam": {
     "name": "EventFlagsLifeSupportAchievementParam",
     "namedColumns": "20/21",
-    "documentedColumns": "17/21",
+    "documentedColumns": "18/21",
     "description": "Nook Miles achievements",
     "hashes": [
       {
@@ -4614,9 +4614,9 @@
         "hashNotes": "",
         "formattedHash": "_5971a42e",
         "name": "WaitFrame",
-        "functionalityNotes": "",
+        "functionalityNotes": "Number of frames needed to pass before the phone beeps for the achievement",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "54706054",
@@ -4689,7 +4689,7 @@
   "EventFlagsLifeSupportDailyParam": {
     "name": "EventFlagsLifeSupportDailyParam",
     "namedColumns": "20/20",
-    "documentedColumns": "15/20",
+    "documentedColumns": "16/20",
     "description": "Nook Miles Plus",
     "hashes": [
       {
@@ -4710,9 +4710,9 @@
         "hashNotes": "",
         "formattedHash": "_5971a42e",
         "name": "WaitFrame",
-        "functionalityNotes": "",
+        "functionalityNotes": "Number of frames needed to pass before the phone beeps for the achievement",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes", "Yes", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "8792265f",
