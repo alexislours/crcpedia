@@ -1,7 +1,7 @@
 # CalendarEventHarvestNeceaasryIngredient
 **Named columns**: 17/17
 
-**Documented columns**: 0/17
+**Documented columns**: 17/17
 
 ## UniqueID
 
@@ -41,6 +41,8 @@
 
 **Hashed string**: IsAppearNorth u8
 
+**Notes**: Can appear in the northern hemisphere
+
 **Versions**: 
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
@@ -55,6 +57,8 @@
 **Hash**: 0xc61be841
 
 **Hashed string**: IsAppearSouth u8
+
+**Notes**: Can appear in the southern hemisphere
 
 **Versions**: 
 
@@ -71,6 +75,8 @@
 
 **Hashed string**: IsHide1 u8
 
+**Notes**: Secret ingredient for dish 1
+
 **Versions**: 
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
@@ -85,6 +91,8 @@
 **Hash**: 0xb83cd0e1
 
 **Hashed string**: IsHide2_1 u8
+
+**Notes**: Secret ingredient 1 for dish 2
 
 **Versions**: 
 
@@ -101,6 +109,8 @@
 
 **Hashed string**: IsHide2_2 u8
 
+**Notes**: Secret ingredient 2 for dish 2
+
 **Versions**: 
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
@@ -115,6 +125,8 @@
 **Hash**: 0xce73fa91
 
 **Hashed string**: IsHide3 u8
+
+**Notes**: Secret ingredient for dish 3
 
 **Versions**: 
 
@@ -131,6 +143,8 @@
 
 **Hashed string**: IsHide4 u8
 
+**Notes**: Secret ingredient for dish 4
+
 **Versions**: 
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
@@ -145,6 +159,8 @@
 **Hash**: 0xf659c43b
 
 **Hashed string**: IsNecessary1_1 u8
+
+**Notes**: Regular ingredient for dish 1
 
 **Versions**: 
 
@@ -161,6 +177,8 @@
 
 **Hashed string**: IsNecessary2_1 u8
 
+**Notes**: Regular ingredient 1 for dish 2
+
 **Versions**: 
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
@@ -175,6 +193,8 @@
 **Hash**: 0x6278197b
 
 **Hashed string**: IsNecessary2_2 u8
+
+**Notes**: Regular ingredient 2 for dish 2
 
 **Versions**: 
 
@@ -191,6 +211,8 @@
 
 **Hashed string**: IsNecessary3_1 u8
 
+**Notes**: Regular ingredient 1 for dish 3
+
 **Versions**: 
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
@@ -205,6 +227,8 @@
 **Hash**: 0xa924cade
 
 **Hashed string**: IsNecessary3_2 u8
+
+**Notes**: Regular ingredient 2 for dish 3
 
 **Versions**: 
 
@@ -221,6 +245,8 @@
 
 **Hashed string**: IsNecessary4_1 u8
 
+**Notes**: Regular ingredient 1 for dish 4
+
 **Versions**: 
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
@@ -236,6 +262,8 @@
 
 **Hashed string**: IsNecessary4_2 u8
 
+**Notes**: Regular ingredient 2 for dish 4
+
 **Versions**: 
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
@@ -250,6 +278,8 @@
 **Hash**: 0xa3a7a19f
 
 **Hashed string**: IsVariable u8
+
+**Notes**: Chooses between multiple options
 
 **Versions**: 
 

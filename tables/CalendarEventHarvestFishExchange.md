@@ -1,7 +1,7 @@
 # CalendarEventHarvestFishExchange
 **Named columns**: 8/9
 
-**Documented columns**: 0/9
+**Documented columns**: 7/9
 
 ## UniqueID
 
@@ -41,6 +41,8 @@
 
 **Hashed string**: HarvestFishExchangeIngredients u8
 
+**Notes**: Whether it's an ingredient. 0 = not ingredient, 1 = regular ingredient, 2 = secret ingredient, 3 = regular or secret ingredient
+
 **Versions**: 
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
@@ -55,6 +57,8 @@
 **Hash**: 0x3ca0fc03
 
 **Hashed string**: IsAppearNorth u8
+
+**Notes**: Can appear in the northern hemisphere
 
 **Versions**: 
 
@@ -71,6 +75,8 @@
 
 **Hashed string**: IsAppearSouth u8
 
+**Notes**: Can appear in the southern hemisphere
+
 **Versions**: 
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
@@ -85,6 +91,8 @@
 **Hash**: 0x20dd4377
 
 **Hashed string**: IsGive u8
+
+**Notes**: Can be given by the villager
 
 **Versions**: 
 
@@ -101,6 +109,8 @@
 
 **Hashed string**: IsWant u8
 
+**Notes**: Can be wanted by the villager
+
 **Versions**: 
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
@@ -115,6 +125,8 @@
 **Hash**: 0xdb015556
 
 **Hashed string**: Special u8
+
+**Notes**: Ingredient 2 for dish 3 and 4?
 
 **Versions**: 
 
