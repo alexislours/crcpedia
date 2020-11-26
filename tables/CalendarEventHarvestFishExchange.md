@@ -1,4 +1,6 @@
 # CalendarEventHarvestFishExchange
+[View this table in your browser](CalendarEventHarvestFishExchange-value.md) (version 1.6.0).
+
 **Named columns**: 8/9
 
 **Documented columns**: 7/9

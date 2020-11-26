@@ -19,3 +19,5 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/RadioCM
 | 10.0 | 592 | 213 | 12 | 0 | 'InternationalMuseum' | 0 | 
 | 10.0 | 504 | 214 | 13 | 4 | 'Fireworks' | 0 | 
 | 10.0 | 474 | 215 | 14 | 30 | 'Halloween' | 0 | 
+| 10.0 | 583 | 216 | 15 | 7 | 'HarvestFestival' | 0 | 
+| 10.0 | 400 | 217 | 16 | 24 | 'XmasEve' | 0 | 

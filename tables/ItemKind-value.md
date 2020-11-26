@@ -2,7 +2,7 @@ Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_160/html/ItemKind.html), [CS
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemKind.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/ItemKind.json)
 
-| FtrIconCaptureType | ItemKindUIType | ItemRemakeType | MessageKind | SLinkType | MultiHoldMaxNum | SaveCountMaxNum | UniqueID | CanBury | CanEat | CanFtr | CanGift | CanNpcBirthdayPresent | CanNpcPresent | CanPlant | CanPut | CanPutWallAndFloor | CanSell | CanSellSimple | CanSetChest | CanSetCloset | CanSetInTrashBox | CanSetItem | CanUsePhotoStudio | _c37a683c | IsCollectAchievement | Label | Name |
+| FtrIconCaptureType | ItemKindUIType | ItemRemakeType | MessageKind | SLinkType | MultiHoldMaxNum | SaveCountMaxNum | UniqueID | CanBury | CanEat | CanFtr | CanGift | CanNpcBirthdayPresent | CanNpcPresent | CanPlant | CanPut | CanPutWallAndFloor | CanSell | CanSellSimple | CanSetChest | CanSetCloset | CanSetInTrashBox | CanSetItem | CanUsePhotoStudio | CantTakeOver | IsCollectAchievement | Label | Name |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | OnCapture,あり | None,なし | Ftr,家具 | 00_Ftr,00_Ftr | FtrUniqueUser,個別ユーザ | 0 | 0 | 5 | 1 | 0 | 1 | 1 | 1 | 1 | 0 | 1 | 0 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 0 | 1 | 'Ftr' | '家具' | 
 | OnCapture,あり | WallPaper,壁紙 | None,なし | 50_RoomWall,50_RoomWall | FtrNoneUser,ユーザなし | 0 | 0 | 228 | 1 | 0 | 0 | 1 | 1 | 1 | 0 | 1 | 0 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 0 | 1 | 'RoomWall' | '内装：壁紙' | 
@@ -47,6 +47,8 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemKin
 | OnCapture,あり | HandyGoods,手持ち品 | None,なし | 80_Etc,80_Etc | FtrCommonUser,共通ユーザ | 0 | 0 | 227 | 1 | 0 | 1 | 1 | 1 | 1 | 0 | 1 | 0 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 0 | 0 | 'Balloon' | 'サブ道具：風船' | 
 | OnCaptureUIcon,あり(Uアイコン) | Timer,タイマー | None,なし | 20_Tool,20_Tool | FtrCommonUser,共通ユーザ | 0 | 0 | 22 | 1 | 0 | 0 | 1 | 1 | 1 | 0 | 1 | 0 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 0 | 0 | 'Timer' | 'タイマー' | 
 | OnCapture,あり | HandyGoods,手持ち品 | None,なし | 80_Etc,80_Etc | FtrCommonUser,共通ユーザ | 0 | 0 | 274 | 1 | 0 | 1 | 1 | 1 | 1 | 0 | 1 | 0 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 0 | 0 | 'HandheldPennant' | 'サブ道具：手持ちペナント' | 
+| None,なし | HandyGoods,手持ち品 | None,なし | 80_Etc,80_Etc | FtrCommonUser,共通ユーザ | 0 | 0 | 282 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 'BigbagPresent' | 'サブ道具：プレゼントぶくろ' | 
+| OnCapture,あり | HandyGoods,手持ち品 | None,なし | 80_Etc,80_Etc | FtrCommonUser,共通ユーザ | 0 | 0 | 283 | 1 | 0 | 1 | 1 | 1 | 1 | 0 | 1 | 0 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 0 | 0 | 'JuiceFuzzyapple' | 'サブ道具：スパークリングサイダー' | 
 | OnCaptureUIcon,あり(Uアイコン) | None,なし | None,なし | 40_Plant,40_Plant | FtrNoneUser,ユーザなし | 10 | 0 | 162 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 0 | 0 | 'TreeSeedling' | '植物：木の苗' | 
 | None,なし | None,なし | None,なし | 40_Plant,40_Plant | FtrNoneUser,ユーザなし | 0 | 0 | 161 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 0 | 0 | 1 | 1 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 'Tree' | '植物：木' | 
 | OnCaptureUIcon,あり(Uアイコン) | None,なし | None,なし | 40_Plant,40_Plant | FtrNoneUser,ユーザなし | 10 | 0 | 164 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 0 | 0 | 'BushSeedling' | '植物：低木の苗' | 
@@ -111,17 +113,19 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemKin
 | None,なし | None,なし | None,なし | 81_Event,81_Event | FtrNoneUser,ユーザなし | 10 | 0 | 149 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 'JohnnyQuest' | 'ジョニークエスト' | 
 | OnCaptureUIcon,あり(Uアイコン) | None,なし | None,なし | 81_Event,81_Event | FtrNoneUser,ユーザなし | 10 | 0 | 150 | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 0 | 0 | 'JohnnyQuestDust' | 'ジョニークエストごみ' | 
 | None,なし | None,なし | None,なし | 81_Event,81_Event | FtrNoneUser,ユーザなし | 10 | 0 | 273 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 'PirateQuest' | '海賊クエスト' | 
-| None,なし | Present,プレゼント | None,なし | 80_Etc,80_Etc | FtrNoneUser,ユーザなし | 0 | 0 | 207 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 'QuestWrapping' | 'クエスト配達プレゼントBOX' | 
-| None,なし | LostProperty,落とし物 | None,なし | 81_Event,81_Event | FtrNoneUser,ユーザなし | 0 | 0 | 78 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 'LostQuest' | 'おとしもの' | 
-| OnCaptureUIcon,あり(Uアイコン) | None,なし | None,なし | 81_Event,81_Event | FtrNoneUser,ユーザなし | 0 | 0 | 79 | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 'LostQuestDust' | 'おとしものゴミ' | 
+| None,なし | Present,プレゼント | None,なし | 80_Etc,80_Etc | FtrNoneUser,ユーザなし | 0 | 0 | 207 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 'QuestWrapping' | 'クエスト配達プレゼントBOX' | 
+| None,なし | Present,プレゼント | None,なし | 80_Etc,80_Etc | FtrNoneUser,ユーザなし | 0 | 0 | 281 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 'QuestChristmasPresentbox' | 'クエストクリスマスプレゼントBOX' | 
+| None,なし | LostProperty,落とし物 | None,なし | 81_Event,81_Event | FtrNoneUser,ユーザなし | 0 | 0 | 78 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 'LostQuest' | 'おとしもの' | 
+| OnCaptureUIcon,あり(Uアイコン) | None,なし | None,なし | 81_Event,81_Event | FtrNoneUser,ユーザなし | 0 | 0 | 79 | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 1 | 1 | 0 | 1 | 0 | 'LostQuestDust' | 'おとしものゴミ' | 
 | OnCaptureUIcon,あり(Uアイコン) | None,なし | None,なし | 81_Event,81_Event | FtrNoneUser,ユーザなし | 10 | 0 | 243 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 0 | 0 | 'TailorTicket' | '仕立て屋クーポン' | 
-| OnCaptureUIcon,あり(Uアイコン) | TreasureCapsule,宝探しカプセル | None,なし | 81_Event,81_Event | FtrNoneUser,ユーザなし | 0 | 0 | 178 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 'TreasureQuest' | '宝探しカプセル' | 
-| None,なし | None,なし | None,なし | 81_Event,81_Event | FtrNoneUser,ユーザなし | 0 | 0 | 179 | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 'TreasureQuestDust' | '宝探しカプセルごみ' | 
+| OnCaptureUIcon,あり(Uアイコン) | TreasureCapsule,宝探しカプセル | None,なし | 81_Event,81_Event | FtrNoneUser,ユーザなし | 0 | 0 | 178 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 'TreasureQuest' | '宝探しカプセル' | 
+| None,なし | None,なし | None,なし | 81_Event,81_Event | FtrNoneUser,ユーザなし | 0 | 0 | 179 | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 1 | 1 | 0 | 1 | 0 | 'TreasureQuestDust' | '宝探しカプセルごみ' | 
 | OnCaptureUIcon,あり(Uアイコン) | None,なし | None,なし | 80_Etc,80_Etc | FtrNoneUser,ユーザなし | 10 | 0 | 241 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 0 | 0 | 'MilePlaneTicket' | 'マイル航空券' | 
 | OnCaptureUIcon,あり(Uアイコン) | None,なし | None,なし | 81_Event,81_Event | FtrNoneUser,ユーザなし | 5 | 0 | 261 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 0 | 0 | 'RollanTicket' | 'ローラン引換券' | 
 | OnCaptureUIcon,あり(Uアイコン) | None,なし | None,なし | 81_Event,81_Event | FtrNoneUser,ユーザなし | 30 | 0 | 101 | 1 | 1 | 0 | 0 | 1 | 1 | 0 | 1 | 0 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 0 | 0 | 'EasterEgg' | 'イースターのたまご' | 
 | OnCaptureUIcon,あり(Uアイコン) | None,なし | None,なし | 81_Event,81_Event | FtrNoneUser,ユーザなし | 30 | 0 | 266 | 1 | 0 | 0 | 1 | 1 | 1 | 0 | 1 | 0 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 0 | 0 | 'LoveCrystal' | 'あいのけっしょう' | 
 | OnCaptureUIcon,あり(Uアイコン) | None,なし | None,なし | 81_Event,81_Event | FtrNoneUser,ユーザなし | 30 | 0 | 82 | 1 | 1 | 0 | 1 | 1 | 1 | 0 | 1 | 0 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 0 | 0 | 'Candy' | 'アメ' | 
+| None,なし | None,なし | None,なし | 81_Event,81_Event | FtrUniqueUser,個別ユーザ | 0 | 0 | 280 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 'HarvestDish' | 'ハーベストの料理' | 
 | None,なし | None,なし | None,なし | 99_Dummy,99_Dummy | FtrCommonUser,共通ユーザ | 0 | 0 | 208 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 'Giftbox' | '初期支給プレゼントBOX' | 
 | None,なし | None,なし | None,なし | 99_Dummy,99_Dummy | FtrNoneUser,ユーザなし | 0 | 0 | 200 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 'PinataStick' | '装備専用：ピニャータ割り棒' | 
 | None,なし | None,なし | None,なし | 99_Dummy,99_Dummy | FtrNoneUser,ユーザなし | 0 | 0 | 202 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 'NpcOutfit' | '装備品：NPC専用' | 

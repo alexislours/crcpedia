@@ -110,4 +110,5 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/EventFl
 | 0 | 1 | 121 | 1 | 1 | 2 | 'AlwJuneBridePartyEndFlag' | 'リサ/ジューンブライド|パーティ終わる場合の会話聞いた' | 
 | 0 | 1 | 122 | 0 | 1 | 2 | 'RecommendDIYtrialMayDay' | 'たぬきち/メーデー|DIY体験会を受けるように勧められた' | 
 | 0 | 3 | 123 | 0 | 1 | 2 | 'FoxCheckArtCount' | 'つねきち|チェックした美術品の数' | 
+| 0 | 1 | 124 | 0 | 1 | 2 | 'SzaChristmasHintMessage' | 'しずえ|クリスマスのヒントメッセージを出した？' | 
 | 0 | 1 | 125 | 0 | 0 | 0 | 'IsJuneBrideDemoSitStart' | 'ジューンブライド|座り状態でセレモニーデモ開始したか？' | 

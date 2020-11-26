@@ -25,3 +25,7 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/Ducking
 | 41 | 'EF_透過全画面_ALL' | 
 | 42 | '専用EF_ゆめみから覚める_SE' | 
 | 43 | '専用EF_ゆめみに落ちる_SE' | 
+| 44 | '専用EF_しずえからオーナメントもらう暗転_SE' | 
+| 45 | '専用EF_ハーベストで料理が完成暗転_SE' | 
+| 46 | '専用EF_ハーベスト料理デモのわくわく漫符' | 
+| 47 | '専用EF_ハーベスト料理デモのオーディオ家具' | 

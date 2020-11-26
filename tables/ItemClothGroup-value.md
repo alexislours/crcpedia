@@ -136,6 +136,8 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemClo
 | AllYear,通年 | 3386 | 154 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | '' | 'TopsTexOnepieceBoxLShirt' | 'シャツワンピ' | 0 | 
 | Summer,夏 | 3387 | 155 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | '' | 'TopsTexOnepieceAlineNShirt' | 'そでなしシャツワンピ' | 0 | 
 | AllYear,通年 | 3388 | 156 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 1 | '' | 'TopsTexTopYshirtsLTuxedo' | 'タキシード' | 0 | 
+| AllYear,通年 | 3390 | 157 | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | '' | 'TopsTexTopCoatLSanta' | 'サンタのジャケット' | 0 | 
+| AllYear,通年 | 3391 | 158 | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | '' | 'BottomsTexPantsNormalSanta' | 'サンタのズボン' | 0 | 
 | AllYear,通年 | 3401 | 159 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 1 | '' | 'TopsTexTopCoatLMorningcoat' | 'モーニングコート' | 0 | 
 | AllYear,通年 | 3405 | 160 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | '' | 'BottomsTexPantsWideSchool' | 'せいふくのズボン' | 0 | 
 | AllYear,通年 | 3408 | 161 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | '' | 'BottomsTexPantsNormalSlacksgaudy' | 'ハデなスラックス' | 0 | 
@@ -381,6 +383,7 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemClo
 | Winter,冬 | 4489 | 403 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | '' | 'TopsTexOnepieceRibLShawl' | 'ショールコーデワンピ' | 0 | 
 | AllYear,通年 | 9280 | 404 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 1 | '' | 'BottomsTexPantsWideKnee' | 'ひざあてズボン' | 0 | 
 | AllYear,通年 | 4491 | 405 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | '' | 'AccessoryMouthCucumber' | 'きゅうりパック' | 0 | 
+| AllYear,通年 | 4492 | 406 | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | '' | 'AccessoryMouthSanta' | 'サンタのヒゲ' | 0 | 
 | AllYear,通年 | 4496 | 407 | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | '' | 'AccessoryGlassmouthNose' | 'つけばな' | 0 | 
 | AllYear,通年 | 4501 | 408 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | '' | 'AccessoryGlassmouthBeard' | 'ヒゲメガネ' | 0 | 
 | AllYear,通年 | 4502 | 409 | 1 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | '' | 'BottomsTexSkirtLongTiered' | 'ティアードスカート' | 0 | 
@@ -390,6 +393,7 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemClo
 | Summer,夏 | 4506 | 413 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | '' | 'TopsTexOnepieceBalloonHDolly' | 'ドーリーワンピース' | 0 | 
 | AllYear,通年 | 9449 | 414 | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | '' | 'TopsTexTopYshirtsLChimayo' | 'チマヨベスト' | 0 | 
 | AllYear,通年 | 4510 | 415 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | '' | 'AccessoryGlassBirthday' | 'バースデーサングラス' | 0 | 
+| AllYear,通年 | 4511 | 416 | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | '' | 'TopsTexOnepieceOverallLReindeer' | 'トナカイなふく' | 0 | 
 | AllYear,通年 | 4512 | 417 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | '' | 'AccessoryGlassmouthPack' | 'パック' | 0 | 
 | AllYear,通年 | 4513 | 418 | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | '' | 'AccessoryGlassEyes' | 'をかしなめがね' | 0 | 
 | AllYear,通年 | 4514 | 419 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | '' | 'BottomsTexPantsNormalCycle' | 'サイクルボトム' | 0 | 
@@ -634,6 +638,7 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemClo
 | AllYear,通年 | 5299 | 663 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | '' | 'CapHatSimple' | 'しっそなぼうし' | 0 | 
 | AllYear,通年 | 5305 | 664 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | '' | 'CapHatSports' | 'うんどうぼう' | 0 | 
 | AllYear,通年 | 10931 | 665 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | '' | 'CapHatNightcap' | 'もこもこナイトキャップ' | 1 | 
+| AllYear,通年 | 5306 | 666 | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | '' | 'CapHatSanta' | 'サンタのぼうし' | 0 | 
 | AllYear,通年 | 5307 | 667 | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | '' | 'CapHatCrown' | 'おうかん' | 0 | 
 | AllYear,通年 | 5311 | 669 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 1 | 0 | 0 | 1 | '' | 'CapHatTowel' | 'タオル' | 0 | 
 | AllYear,通年 | 10933 | 670 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | '' | 'CapHatAcorn' | 'どんぐりニット' | 0 | 
@@ -711,6 +716,7 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemClo
 | Winter,冬 | 5442 | 747 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | '' | 'TopsTexOnepieceOverallLNordic' | 'さむいくにのふく' | 0 | 
 | AllYear,通年 | 5443 | 748 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 1 | '' | 'CapCostumeRacing' | 'フルフェイスメット' | 0 | 
 | AllYear,通年 | 9912 | 749 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | '' | 'SocksTexChimayo' | 'チマヨがらソックス' | 0 | 
+| AllYear,通年 | 5446 | 750 | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | '' | 'CapBangsReindeer' | 'トナカイのぼうし' | 0 | 
 | AllYear,通年 | 5447 | 751 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | '' | 'CapHatCow' | 'うしのほね' | 0 | 
 | Winter,冬 | 5448 | 752 | 1 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | '' | 'BottomsTexSkirtBoxChidori' | 'ちどりのスカート' | 0 | 
 | AllYear,通年 | 5449 | 754 | 1 | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | '' | 'BottomsTexSkirtAlineShabby' | 'シャビーなスカート' | 0 | 
@@ -1140,7 +1146,7 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemClo
 | AllYear,通年 | 12497 | 1219 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 'TshirtsL' | 'TopsTexOnepieceOverallLJune' | 'じゅんぱくのタキシード' | 0 | 
 | AllYear,通年 | 12575 | 1220 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | '' | 'TopsTexTopCoatHChildren' | 'てづくりのマント' | 0 | 
 | AllYear,通年 | 12576 | 1221 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | '' | 'CapOrnamentAChildren' | 'てづくりのおうかん' | 0 | 
-| AllYear,通年 | 12577 | 1222 | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 0 | '' | 'CapHatSummer' | 'げしさいのはなかんむり' | 0 | 
+| AllYear,通年 | 12577 | 1222 | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 0 | '' | 'CapHatSummer' | 'ひまわりのはなかんむり' | 0 | 
 | AllYear,通年 | 12660 | 1223 | 0 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | '' | 'ShoesLowcutMermaid' | 'マーメイドなくつ' | 0 | 
 | AllYear,通年 | 12661 | 1224 | 0 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | '' | 'CapOrnamentCMermaid' | 'マーメイドなティアラ' | 0 | 
 | AllYear,通年 | 12662 | 1225 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | '' | 'AccessoryGlassPiratespatch' | 'かいぞくのアイパッチ' | 0 | 
@@ -1153,7 +1159,7 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemClo
 | AllYear,通年 | 12797 | 1233 | 1 | 1 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | '' | 'BagBackpackHarvest' | 'ぶどうのしゅうかくおけ' | 0 | 
 | AllYear,通年 | 12958 | 1244 | 0 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | '' | 'TopsTexOnepieceAlongNMermaiddress' | 'マーメイドなおさかなドレス' | 0 | 
 | AllYear,通年 | 12957 | 1245 | 0 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | '' | 'TopsTexOnepieceDressNMermaid' | 'マーメイドなプリンセスドレス' | 0 | 
-| Winter,冬 | 12959 | 1246 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | '' | 'TopsTexTopOuterLWintersolstice' | 'とうじのセーター' | 0 | 
+| Winter,冬 | 12959 | 1246 | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | '' | 'TopsTexTopOuterLWintersolstice' | 'まふゆのセーター' | 0 | 
 | AllYear,通年 | 12980 | 1255 | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | '' | 'CapOrnamentCPirate' | 'かいぞくのおたからおうかん' | 0 | 
 | AllYear,通年 | 12982 | 1256 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | '' | 'TopsTexTopYshirtsHNookyellow' | 'たぬきかいはつアロハ・コーラル' | 0 | 
 | AllYear,通年 | 12983 | 1257 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | '' | 'TopsTexTopYshirtsHNookgreen' | 'たぬきかいはつアロハ・グリーン' | 0 | 

@@ -43,3 +43,12 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/EventFl
 | 0 | 1 | 44 | 0 | 2 | 'DisplayJuneBridePresent' | 'ジューンブライド | 絵皿を飾るか？' | 
 | 0 | 7 | 45 | 0 | 1 | 'ProgressDaysJuneBrideParty' | 'ジューンブライド | 結婚パーティに参加してからの経過日数' | 
 | 0 | 6 | 49 | 0 | 0 | 'EnableConvTalkDaysCount' | '会話のフリを解禁するまでの日数' | 
+| 0 | 29 | 50 | 3 | 0 | 'WantIngredients' | 'ハーベスト｜要求する食材' | 
+| 0 | 29 | 51 | 1 | 0 | 'BeforeGiveIngredients' | 'ハーベスト｜直前にくれた食材' | 
+| 0 | 29 | 52 | 1 | 0 | 'BeforeWantIngredients' | 'ハーベスト｜直前に要求した食材' | 
+| 0 | 300 | 54 | 1 | 0 | 'XmasEveWakeUpMinute' | 'クリスマス|起床時刻制御用' | 
+| 0 | 1 | 55 | 1 | 2 | 'EquipChristmasWear' | 'クリスマス用装備にする' | 
+| 0 | 2 | 56 | 1 | 2 | 'HarvestGiveHint1' | 'ハーベスト｜1品目の隠し食材ヒント出したら1か2をセット' | 
+| 0 | 2 | 57 | 1 | 2 | 'HarvestGiveHint2' | 'ハーベスト｜2品目の隠し食材ヒント出したら1か2をセット' | 
+| 0 | 2 | 58 | 1 | 2 | 'HarvestGiveHint3' | 'ハーベスト｜3品目の隠し食材ヒント出したら1か2をセット' | 
+| 0 | 2 | 59 | 1 | 2 | 'HarvestGiveHint4' | 'ハーベスト｜4品目の隠し食材ヒント出したら1か2をセット' | 

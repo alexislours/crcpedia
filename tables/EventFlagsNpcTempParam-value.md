@@ -63,3 +63,7 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/EventFl
 | 0 | 2 | 61 | 0 | 0 | 1 | 'HalloweenReactionEventPlaza' | 'ハロウィン：広場行動指定' | 
 | 0 | 4 | 62 | 0 | 0 | 1 | 'SeasonEventPlace' | '季節イベント用位置情報' | 
 | 0 | 1 | 63 | 0 | 1 | 2 | 'HalloweenApproachNowStage' | '現在シーンでハロウィン用アプローチをしたか' | 
+| 0 | 2 | 64 | 0 | 1 | 1 | 'HarvestPlazaPlace' | 'ハーベスト：NPCの配置場所' | 
+| 0 | 2 | 65 | 0 | 0 | 1 | 'HarvestPlazaHandTool' | 'ハーベスト：手持ちアイテムの種類' | 
+| 0 | 1 | 67 | 0 | 0 | 2 | 'ChristmasApproachTalk' | 'クリスマス用アプローチ会話が出せる状態か' | 
+| 0 | 1 | 68 | 0 | 1 | 2 | 'HarvestNpcAttentionPPocket' | 'ハーベスト：このシーンでプレイヤのポケットの食材に反応した？' | 

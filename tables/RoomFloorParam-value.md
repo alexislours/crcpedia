@@ -150,7 +150,7 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/RoomFlo
 | None,なし | 888 | None,なし | None,なし | 2 | 5253 | 1 | 185 | 1 | 0 | 'りゅうひょうのゆか' | 'RoomSpFloorIceFloe00' | 0 | 
 | None,なし | 888 | None,なし | None,なし | 67 | 5255 | 0 | 186 | 1 | 0 | 'オアシスなゆか' | 'RoomSpFloorOasis00' | 0 | 
 | None,なし | 888 | None,なし | None,なし | 23 | 5267 | 1 | 187 | 0 | 0 | 'くものうえ' | 'RoomSpFloorCloud00' | 0 | 
-| None,なし | 888 | None,なし | None,なし | 23 | 5268 | 1 | 188 | 1 | 0 | 'うみのそこのゆか' | 'RoomSpFloorFishTank00' | 0 | 
+| None,なし | 888 | Scale,あり | None,なし | 23 | 5268 | 1 | 188 | 1 | 0 | 'うみのそこのゆか' | 'RoomSpFloorFishTank00' | 0 | 
 | None,なし | 888 | None,なし | None,なし | 23 | 5269 | 1 | 189 | 0 | 0 | 'ぎんがけいのゆか' | 'RoomSpFloorGalaxy00' | 0 | 
 | None,なし | 888 | Scale,あり | Scale,あり | 25 | 5270 | 0 | 190 | 0 | 0 | 'うちゅうせんのゆか' | 'RoomSpFloorSF00' | 0 | 
 | None,なし | 888 | None,なし | None,なし | 3 | 5274 | 1 | 191 | 1 | 0 | 'ようがんのゆか' | 'RoomSpFloorVolcano00' | 0 | 
@@ -184,3 +184,4 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/RoomFlo
 | None,なし | 888 | None,なし | None,なし | 3 | 12568 | 0 | 248 | 0 | 0 | 'マーメイドなゆか' | 'RoomSpFloorMermaid00' | 0 | 
 | None,なし | 888 | None,なし | None,なし | 22 | 12569 | 0 | 249 | 1 | 0 | 'かいぞくのゆか' | 'RoomTexFloorPirates00' | 0 | 
 | None,なし | 888 | None,なし | None,なし | 6 | 13225 | 0 | 273 | 0 | 0 | 'ハロウィンなゆか' | 'RoomTexFloorHalloween00' | 0 | 
+| None,なし | 888 | None,なし | None,なし | 6 | 13319 | 0 | 275 | 0 | 0 | 'サンクスギビングなゆか' | 'RoomTexFloorHarvest00' | 1 | 

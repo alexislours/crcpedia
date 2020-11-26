@@ -10,6 +10,7 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/Calenda
 | 8 | 8 | 'China' | 
 | 9 | 9 | 'Korea' | 
 | 10 | 10 | 'Japan' | 
+| 17 | 17 | 'Russia' | 
 | 25 | 25 | 'France' | 
 | 26 | 26 | 'Spain' | 
 | 28 | 28 | 'Italy' | 

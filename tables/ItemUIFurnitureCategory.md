@@ -1,4 +1,6 @@
 # ItemUIFurnitureCategory
+[View this table in your browser](ItemUIFurnitureCategory-value.md) (version 1.6.0).
+
 **Named columns**: 3/3
 
 **Documented columns**: 0/3

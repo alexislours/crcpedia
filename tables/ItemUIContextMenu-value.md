@@ -32,6 +32,7 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemUIC
 | 150 | 22 | 0 | 'CheckLost' | '0126' | '調べる' | 
 | 150 | 86 | 0 | 'OpenPresent' | '0113' | '開ける' | 
 | 150 | 87 | 0 | 'CheckTreasure' | '0144' | '開ける' | 
+| 150 | 103 | 0 | 'CheckBigbagPresent' | '0153' | '中を見る' | 
 | 200 | 25 | 0 | 'Exclude' | '0127' | 'しまう' | 
 | 300 | 14 | 1 | 'TakeMedicine' | '0115' | '飲む' | 
 | 300 | 31 | 0 | 'Eat' | '0133' | '食べる' | 

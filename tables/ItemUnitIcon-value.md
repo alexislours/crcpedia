@@ -32,6 +32,7 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemUni
 | 0.800000011920929 | 65534 | 184 | -1 | 'Medicine' | 'UnitIconMedicine' | 'おくすり' | 'UnitIconMedicine' | 
 | 0.800000011920929 | 65534 | 209 | 0 | 'RemakeKit' | 'UnitIconRemakeKit' | 'リメイクキット' | 'UnitIconRemakeKit' | 
 | 1.0 | 65534 | 274 | -1 | 'SmartphoneCase' | 'UnitIconSmartphoneCase' | 'スマホケース' | 'UnitIconSmartphoneCase' | 
+| 1.0 | 65534 | 315 | -1 | 'SmartphoneCaseComp' | 'UnitIconSmartphoneCaseComp' | 'ポケットキャンプのスマホリメイクキット' | 'UnitIconSmartphoneCaseComp' | 
 | 0.800000011920929 | 65534 | 236 | -1 | 'Timer' | 'UnitIconTimer' | 'タイマー' | 'UnitIconTimer' | 
 | 0.800000011920929 | 65534 | 59 | -1 | 'Honeycomb' | 'UnitIconHoneycomb' | 'ハチの巣' | 'UnitIconHoneycomb' | 
 | 0.800000011920929 | 65534 | 72 | -1 | 'Weed' | 'UnitIconPltWeed' | '雑草' | 'UnitIconPltWeed' | 
@@ -144,6 +145,7 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemUni
 | 0.800000011920929 | 65534 | 243 | 13 | 'WPaperBrown' | 'UnitIconWrappingPaper' | 'ラッピングペーパー：ブラウン' | 'UnitIconWrappingPaper' | 
 | 0.800000011920929 | 65534 | 242 | 14 | 'WPaperGray' | 'UnitIconWrappingPaper' | 'ラッピングペーパー：グレー' | 'UnitIconWrappingPaper' | 
 | 0.800000011920929 | 65534 | 241 | 15 | 'WPaperBlack' | 'UnitIconWrappingPaper' | 'ラッピングペーパー：ブラック' | 'UnitIconWrappingPaper' | 
+| 0.800000011920929 | 65534 | 317 | -1 | 'WPaperOrnament' | 'UnitIconWrappingPaperOrnament' | 'ラッピングペーパー：オーナメント ' | 'UnitIconWrappingPaperOrnament' | 
 | 0.800000011920929 | 65534 | 257 | 0 | 'WParcelYellow' | 'UnitIconWrapping' | 'ラッピング袋：イエロー' | 'UnitIconWrapping' | 
 | 0.800000011920929 | 65534 | 258 | 1 | 'WParcelPink' | 'UnitIconWrapping' | 'ラッピング袋：ピンク' | 'UnitIconWrapping' | 
 | 0.800000011920929 | 65534 | 259 | 2 | 'WParcelOrange' | 'UnitIconWrapping' | 'ラッピング袋：オレンジ' | 'UnitIconWrapping' | 
@@ -160,6 +162,7 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemUni
 | 0.800000011920929 | 65534 | 270 | 13 | 'WParcelBrown' | 'UnitIconWrapping' | 'ラッピング袋：ブラウン' | 'UnitIconWrapping' | 
 | 0.800000011920929 | 65534 | 271 | 14 | 'WParcelGary' | 'UnitIconWrapping' | 'ラッピング袋：グレー' | 'UnitIconWrapping' | 
 | 0.800000011920929 | 65534 | 272 | 15 | 'WParcelBlack' | 'UnitIconWrapping' | 'ラッピング袋：ブラック' | 'UnitIconWrapping' | 
+| 0.800000011920929 | 65534 | 316 | -1 | 'WParceOrnament' | 'UnitIconWrappingOrnament' | 'ラッピング袋：オーナメント ' | 'UnitIconWrappingOrnament' | 
 | 0.800000011920929 | 65534 | 150 | -1 | 'FlwTulip' | 'UnitIconPltFlwPetalTulip' | '花：チューリップ' | 'UnitIconPltFlwPetalTulip' | 
 | 0.800000011920929 | 65534 | 146 | -1 | 'FlwPansy' | 'UnitIconPltFlwPetalPansy' | '花：パンジー' | 'UnitIconPltFlwPetalPansy' | 
 | 0.800000011920929 | 65534 | 148 | -1 | 'FlwCosmos' | 'UnitIconPltFlwPetalCosmos' | '花：コスモス' | 'UnitIconPltFlwPetalCosmos' | 

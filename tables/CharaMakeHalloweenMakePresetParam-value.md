@@ -2,7 +2,7 @@ Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_160/html/CharaMakeHalloweenM
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/CharaMakeHalloweenMakePresetParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/CharaMakeHalloweenMakePresetParam.json)
 
-| _ea6d4070 | _25de7b8f | UniqueID |
+| FacePaint | SkinColor | UniqueID |
 |:--:|:--:|:--:|
 | 0 | 8 | 0 | 
 | 0 | 9 | 1 | 

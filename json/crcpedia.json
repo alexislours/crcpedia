@@ -6172,7 +6172,7 @@
   "FgMainParam": {
     "name": "FgMainParam",
     "namedColumns": "23/24",
-    "documentedColumns": "17/24",
+    "documentedColumns": "18/24",
     "description": "Parameters for outdoor objects, such as trees",
     "hashes": [
       {
@@ -6327,7 +6327,7 @@
         "name": "SortID",
         "functionalityNotes": "",
         "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "2e17a0a7",
@@ -7848,7 +7848,7 @@
   "FishAppearRiverParam": {
     "name": "FishAppearRiverParam",
     "namedColumns": "41/41",
-    "documentedColumns": "38/41",
+    "documentedColumns": "41/41",
     "description": "Spawn rates for river and pond fish",
     "hashes": [
       {
@@ -8001,9 +8001,9 @@
         "hashNotes": "",
         "formattedHash": "_6a1ebb49",
         "name": "ProbHarvestDaytime",
-        "functionalityNotes": "",
+        "functionalityNotes": "same as above, except on Turkey Day",
         "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "ec475a23",
@@ -8012,9 +8012,9 @@
         "hashNotes": "",
         "formattedHash": "_ec475a23",
         "name": "ProbHarvestMorningAndEvening",
-        "functionalityNotes": "",
+        "functionalityNotes": "same as above, except on Turkey Day",
         "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "7b28f877",
@@ -8023,9 +8023,9 @@
         "hashNotes": "",
         "formattedHash": "_7b28f877",
         "name": "ProbHarvestNight",
-        "functionalityNotes": "",
+        "functionalityNotes": "same as above, except on Turkey Day",
         "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "b3f1a70f",
@@ -8307,7 +8307,7 @@
   "FishAppearSeaParam": {
     "name": "FishAppearSeaParam",
     "namedColumns": "41/41",
-    "documentedColumns": "38/41",
+    "documentedColumns": "41/41",
     "description": "Spawn rates for sea fish",
     "hashes": [
       {
@@ -8460,9 +8460,9 @@
         "hashNotes": "",
         "formattedHash": "_6a1ebb49",
         "name": "ProbHarvestDaytime",
-        "functionalityNotes": "",
+        "functionalityNotes": "same as above, except on Turkey Day",
         "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "ec475a23",
@@ -8471,9 +8471,9 @@
         "hashNotes": "",
         "formattedHash": "_ec475a23",
         "name": "ProbHarvestMorningAndEvening",
-        "functionalityNotes": "",
+        "functionalityNotes": "same as above, except on Turkey Day",
         "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "7b28f877",
@@ -8482,9 +8482,9 @@
         "hashNotes": "",
         "formattedHash": "_7b28f877",
         "name": "ProbHarvestNight",
-        "functionalityNotes": "",
+        "functionalityNotes": "same as above, except on Turkey Day",
         "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
-        "knownFunctionality": false
+        "knownFunctionality": true
       },
       {
         "hash": "b3f1a70f",
@@ -11635,7 +11635,7 @@
         "hashNotes": "",
         "formattedHash": "_b3da5c52",
         "name": "",
-        "functionalityNotes": "",
+        "functionalityNotes": "All 0s",
         "versions": ["No", "No", "No", "No", "No", "No", "Yes"],
         "knownFunctionality": false
       },

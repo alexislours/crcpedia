@@ -38,3 +38,6 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/AITag.c
 | Purpose,目的 | 139 | 'Easter' | 'イースター' | 
 | Purpose,目的 | 140 | 'Fireworks' | '花火大会' | 
 | Purpose,目的 | 144 | 'Halloween' | 'ハロウィン' | 
+| Purpose,目的 | 146 | 'Harvest_Party' | 'ハーベスト_立食' | 
+| Purpose,目的 | 147 | 'Harvest_Cook' | 'ハーベスト_調理' | 
+| Purpose,目的 | 148 | 'Christmas' | 'クリスマス' | 

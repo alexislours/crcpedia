@@ -138,3 +138,16 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/EventFl
 | 134 | 0 | 1 | 0 | 0 | 0 | 2 | 'FollowQuestAfter' | 1 | '追従｜追従クエスト後か？ ' | 
 | 136 | 0 | 1 | 0 | 0 | 0 | 2 | 'HalloweenLastNotGetFlag' | 1 | 'ハロウィン|最後の会話で報酬アイテムもらえなかった？' | 
 | 137 | 0 | 1 | 0 | 0 | 0 | 2 | 'HalloweenLastNotGetItem' | 16 | 'ハロウィン|最後の会話でもらえなかった報酬アイテム' | 
+| 138 | 0 | 1 | 0 | 0 | 0 | 2 | 'HarvestItemExchangeToday' | 1 | 'ハーベスト｜物々交換を１度でも行ったか？' | 
+| 139 | 0 | 0 | 0 | 0 | 0 | 2 | 'ChristmasSantaPresentsFlag' | 1 | 'サンタミッションのプレゼントを受け取ったか？' | 
+| 140 | 0 | 1 | 0 | 0 | 0 | 2 | 'ChristmasSantaPresentsNoGetFlag' | 1 | 'サンタミッションのお返しが持ち物一杯で受け取れなかった？' | 
+| 141 | 0 | 1 | 0 | 0 | 0 | 2 | 'ChristmasSantaPresentsReturnFlag' | 1 | 'サンタミッションでプレゼント渡したらお返しくれたか？' | 
+| 142 | 0 | 0 | 0 | 0 | 0 | 2 | 'ChristmasGiftExchangeFlag' | 1 | 'そのNPCとプレゼント交換をしたか？' | 
+| 143 | 0 | 1 | 0 | 0 | 0 | 0 | 'ChristmasExchangeItemType' | 8 | 'クリスマス｜プレゼント交換であげたプレゼントの種類' | 
+| 144 | 0 | 1 | 0 | 0 | 0 | 2 | 'ChristmasCosJudgeFlag' | 1 | 'イブにサンタの恰好をしているか？' | 
+| 145 | 0 | 1 | 0 | 0 | 0 | 2 | 'ChristmasCannotGetNnpcItemFlag' | 1 | 'クリスマス|このNPCから受け取り損ねたアイテムがある？' | 
+| 146 | 0 | 1 | 0 | 0 | 0 | 2 | 'ChristmasAfterMesFlag' | 1 | 'クリスマス（25日）に専用会話を聞いた？' | 
+| 147 | 0 | 1 | 0 | 0 | 0 | 2 | 'ChristmasWrappingGiftNoGetFlag' | 1 | 'クリスマス|持ち物一杯でラッピングペーパーを受け取り損ねた？' | 
+| 148 | 0 | 1 | 0 | 0 | 0 | 0 | 'ChristmasSantaPresentItemType' | 8 | 'クリスマス｜サンタミッションであげたプレゼントの種類' | 
+| 149 | 0 | 1 | 0 | 0 | 0 | 0 | 'ChristmasExchangeRemakeId' | 8 | 'クリスマス｜プレゼント交換であげたプレゼントのリメイクID' | 
+| 150 | 0 | 1 | 0 | 0 | 0 | 0 | 'ChristmasSantaPresentRemakeId' | 8 | 'クリスマス｜サンタミッションであげたプレゼントのリメイクID' | 

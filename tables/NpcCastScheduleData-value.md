@@ -34,4 +34,5 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/NpcCast
 | 1 | 1 | 27 | 0 | 29 | 0 | 'NotEvent' | 0 | 5 | 0 | 1 | 
 | 0 | 0 | 28 | 0 | 24 | 0 | 'Fireworks' | 1 | 18 | 30 | 0 | 
 | 0 | 0 | 29 | 0 | 24 | 0 | 'Halloween' | 1 | 17 | 0 | 0 | 
-| 0 | 0 | 30 | 0 | 29 | 0 | 'NotEvent' | 0 | 5 | 0 | 0 | 
+| 0 | 0 | 30 | 0 | 24 | 0 | 'HarvestFestival' | 1 | 9 | 0 | 0 | 
+| 0 | 0 | 31 | 0 | 29 | 0 | 'NotEvent' | 0 | 5 | 0 | 0 | 

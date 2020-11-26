@@ -78,3 +78,6 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/EventFl
 | 0 | 1 | 89 | 2 | 'DC_PknPumpkingLookChatFlag' | 'パンプキング/ハロウィン|パンプキング装備の雑談した？' | 
 | 0 | 1 | 90 | 2 | 'DC_NpcGiveCandyCount' | '一般NPC/ハロウィン|アメのお礼もらった回数' | 
 | 0 | 1 | 91 | 2 | 'DC_NpcTalkHalloweenFlag' | '一般NPC/ハロウィン|イベント中、誰かと話した？' | 
+| 0 | 1 | 93 | 2 | 'DC_TukTalkBeforeEvent' | 'ハーベスト|お出かけ先のフランクリンとイベント前に話した？' | 
+| 0 | 1 | 94 | 2 | 'DC_TukTalkRunningEvent' | 'ハーベスト|お出かけ先のフランクリンとイベント中に話した？' | 
+| 0 | 1 | 95 | 2 | 'DC_TukTalkAfterEvent' | 'ハーベスト|お出かけ先のフランクリンとイベント後に話した？' | 

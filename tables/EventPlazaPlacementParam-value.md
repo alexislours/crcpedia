@@ -2,92 +2,110 @@ Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_160/html/EventPlazaPlacement
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/EventPlazaPlacementParam.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/EventPlazaPlacementParam.json)
 
-| _036dd90c | EventType | _24e5b19d | PlacementKind | _160cb241 | EventFtrUniqueID | EventObjUniqueID | OffsetX | OffsetZ | UniqueID | CalendarEventKey | _b8e42602 | DisableInDream | _e6c63c5c | _7215b154 | _56ee0925 | NpcSpLabel | PlacementKey | VisitorNpcLabel |
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 2442620672 | PermanentObj,常設オブジェ | 3069107721 | EventObj,イベントオブジェ | 55916349 | 0 | 0 | 0 | 0 | 0 | 'EventNone' | 0 | 0 | '' | '' | '' | '' | 'Invalid' | '' | 
-| 2442620672 | PermanentObj,常設オブジェ | 3069107721 | EventObj,イベントオブジェ | 55916349 | 0 | 1 | 3 | 5 | 1 | 'EventNone' | 0 | 0 | '' | 'EventPlazaBuilt' | '' | '' | 'P_EventNone_EventObj_0' | '' | 
-| 2442620672 | PermanentObj,常設オブジェ | 3069107721 | EventObj,イベントオブジェ | 55916349 | 0 | 2 | 1 | 1 | 2 | 'EventNone' | 0 | 0 | '' | 'BuiltTownOffice' | '' | '' | 'P_EventNone_EventObj_1' | '' | 
-| 2442620672 | PermanentObj,常設オブジェ | 3069107721 | EventObj,イベントオブジェ | 55916349 | 0 | 2 | 21 | 1 | 3 | 'EventNone' | 0 | 0 | '' | 'BuiltTownOffice' | '' | '' | 'P_EventNone_EventObj_2' | '' | 
-| 816937239 | CalendarEvent,カレンダーイベント | 3069107721 | EventObj,イベントオブジェ | 55916349 | 0 | 3 | 14 | 10 | 4 | 'InsectConvention' | 0 | 1 | '' | '' | '' | '' | 'E_InsectConvention_EventObj_0' | '' | 
-| 3606818269 | CalendarEvent,カレンダーイベント | 3069107721 | EventObj,イベントオブジェ | 55916349 | 0 | 4 | 14 | 10 | 5 | 'FishingConvention' | 0 | 1 | '' | '' | '' | '' | 'E_FishingConvention_EventObj_0' | '' | 
-| 3577827741 | CalendarEvent,カレンダーイベント | 3069107721 | EventObj,イベントオブジェ | 55916349 | 0 | 5 | 17 | 6 | 6 | 'Countdown' | 0 | 1 | '' | '' | '' | '' | 'E_Countdown_EventObj_0' | '' | 
-| 816937239 | CalendarEvent,カレンダーイベント | 3069107721 | NPC,NPC | 55916349 | 0 | 0 | 12 | 14 | 7 | 'InsectConvention' | 0 | 1 | '' | '' | '' | 'chy' | 'E_InsectConvention_NPC_0' | '' | 
-| 3606818269 | CalendarEvent,カレンダーイベント | 3069107721 | NPC,NPC | 55916349 | 0 | 0 | 12 | 14 | 8 | 'FishingConvention' | 0 | 1 | '' | '' | '' | 'bey' | 'E_FishingConvention_NPC_0' | '' | 
-| 2442620672 | PermanentObj,常設オブジェ | 3069107721 | EventObj,イベントオブジェ | 55916349 | 0 | 14 | 10 | 9 | 9 | 'EventNone' | 0 | 1 | 'ChangePlazaFtrToNormal' | 'SetPrologueBonfire' | '' | '' | 'P_EventNone_EventObj_4' | '' | 
-| 1976680253 | CalendarEvent,カレンダーイベント | 3069107721 | NPC,NPC | 55916349 | 0 | 0 | 11 | 9 | 10 | 'TotakekeLive' | 0 | 1 | 'TkkReturn' | '' | '' | 'tkkA' | 'E_TotakekeLive_NPC_0' | '' | 
-| 1976680253 | CalendarEvent,カレンダーイベント | 3069107721 | Ftr,家具 | 55916349 | 22 | 0 | 16 | 9 | 11 | 'TotakekeLive' | 0 | 1 | 'TkkReturn' | '' | '' | '' | 'E_TotakekeLive_Ftr_0' | '' | 
-| 1976680253 | CalendarEvent,カレンダーイベント | 3069107721 | Ftr,家具 | 55916349 | 22 | 0 | 16 | 11 | 12 | 'TotakekeLive' | 0 | 1 | 'TkkReturn' | '' | '' | '' | 'E_TotakekeLive_Ftr_1' | '' | 
-| 1976680253 | CalendarEvent,カレンダーイベント | 3069107721 | Ftr,家具 | 55916349 | 22 | 0 | 16 | 13 | 14 | 'TotakekeLive' | 0 | 1 | 'TkkReturn' | '' | '' | '' | 'E_TotakekeLive_Ftr_2' | '' | 
-| 1976680253 | CalendarEvent,カレンダーイベント | 3069107721 | Ftr,家具 | 55916349 | 21 | 0 | 12 | 16 | 15 | 'TotakekeLive' | 0 | 1 | 'TkkReturn' | '' | '' | '' | 'E_TotakekeLive_Ftr_3' | '' | 
-| 1976680253 | CalendarEvent,カレンダーイベント | 3069107721 | Ftr,家具 | 55916349 | 11 | 0 | 6 | 9 | 17 | 'TotakekeLive' | 0 | 1 | 'TkkReturn' | '' | '' | '' | 'E_TotakekeLive_Ftr_4' | '' | 
-| 1976680253 | CalendarEvent,カレンダーイベント | 3069107721 | Ftr,家具 | 55916349 | 11 | 0 | 6 | 11 | 18 | 'TotakekeLive' | 0 | 1 | 'TkkReturn' | '' | '' | '' | 'E_TotakekeLive_Ftr_5' | '' | 
-| 1976680253 | CalendarEvent,カレンダーイベント | 3069107721 | Ftr,家具 | 55916349 | 11 | 0 | 6 | 13 | 19 | 'TotakekeLive' | 0 | 1 | 'TkkReturn' | '' | '' | '' | 'E_TotakekeLive_Ftr_6' | '' | 
-| 1976680253 | CalendarEvent,カレンダーイベント | 3069107721 | Ftr,家具 | 55916349 | 21 | 0 | 10 | 16 | 21 | 'TotakekeLive' | 0 | 1 | 'TkkReturn' | '' | '' | '' | 'E_TotakekeLive_Ftr_7' | '' | 
-| 3577827741 | CalendarEvent,カレンダーイベント | 3069107721 | NPC,NPC | 55916349 | 0 | 0 | 8 | 10 | 22 | 'Countdown' | 0 | 1 | 'TkkReturn' | '' | '' | 'sza' | 'E_Countdown_NPC_0' | '' | 
-| 1438808674 | CalendarEvent,カレンダーイベント | 3069107721 | NPC,NPC | 55916349 | 0 | 0 | 7 | 8 | 23 | 'Fireworks' | 0 | 1 | '' | 'BuiltTownOffice' | '' | 'sza' | 'E_Fireworks_NPC_0' | '' | 
-| 3577827741 | CalendarEvent,カレンダーイベント | 3069107721 | NPC,NPC | 55916349 | 0 | 0 | 15 | 10 | 24 | 'Countdown' | 0 | 1 | '' | '' | '' | 'rco' | 'E_Countdown_NPC_1' | '' | 
-| 2442620672 | PermanentObj,常設オブジェ | 3069107721 | EventObj,イベントオブジェ | 55916349 | 0 | 8 | 2 | 3 | 25 | 'EventNone' | 0 | 0 | 'EventPlazaBuilt' | '' | '' | '' | 'P_EventNone_EventObj_3' | '' | 
-| 3577827741 | CalendarEvent,カレンダーイベント | 3069107721 | Ftr,家具 | 55916349 | 3 | 0 | 2 | 0 | 26 | 'Countdown' | 0 | 1 | '' | '' | '' | '' | 'E_Countdown_Ftr_0' | '' | 
-| 1976680253 | CalendarEvent,カレンダーイベント | 3069107721 | Ftr,家具 | 55916349 | 4 | 0 | 11 | 9 | 27 | 'TotakekeLive' | 0 | 1 | 'TkkReturn' | '' | '' | '' | 'E_TotakekeLive_Ftr_8' | '' | 
-| 3577827741 | CalendarEvent,カレンダーイベント | 3069107721 | Ftr,家具 | 55916349 | 5 | 0 | 0 | 0 | 30 | 'Countdown' | 0 | 1 | '' | '' | '' | '' | 'E_Countdown_Ftr_1' | '' | 
-| 3577827741 | CalendarEvent,カレンダーイベント | 3069107721 | Ftr,家具 | 55916349 | 6 | 0 | 4 | 0 | 31 | 'Countdown' | 0 | 1 | '' | '' | '' | '' | 'E_Countdown_Ftr_2' | '' | 
-| 3577827741 | CalendarEvent,カレンダーイベント | 3069107721 | Ftr,家具 | 55916349 | 6 | 0 | 18 | 0 | 32 | 'Countdown' | 0 | 1 | '' | '' | '' | '' | 'E_Countdown_Ftr_3' | '' | 
-| 3577827741 | CalendarEvent,カレンダーイベント | 3069107721 | Ftr,家具 | 55916349 | 3 | 0 | 20 | 0 | 33 | 'Countdown' | 0 | 1 | '' | '' | '' | '' | 'E_Countdown_Ftr_4' | '' | 
-| 3577827741 | CalendarEvent,カレンダーイベント | 3069107721 | Ftr,家具 | 55916349 | 5 | 0 | 22 | 0 | 34 | 'Countdown' | 0 | 1 | '' | '' | '' | '' | 'E_Countdown_Ftr_5' | '' | 
-| 3577827741 | CalendarEvent,カレンダーイベント | 3069107721 | Ftr,家具 | 55916349 | 3 | 0 | 18 | 18 | 35 | 'Countdown' | 0 | 1 | '' | '' | '' | '' | 'E_Countdown_Ftr_6' | '' | 
-| 3577827741 | CalendarEvent,カレンダーイベント | 3069107721 | Ftr,家具 | 55916349 | 5 | 0 | 22 | 11 | 36 | 'Countdown' | 0 | 1 | '' | '' | '' | '' | 'E_Countdown_Ftr_7' | '' | 
-| 3577827741 | CalendarEvent,カレンダーイベント | 3069107721 | Ftr,家具 | 55916349 | 6 | 0 | 3 | 17 | 37 | 'Countdown' | 0 | 1 | '' | '' | '' | '' | 'E_Countdown_Ftr_8' | '' | 
-| 3577827741 | CalendarEvent,カレンダーイベント | 3069107721 | Ftr,家具 | 55916349 | 3 | 0 | 1 | 8 | 38 | 'Countdown' | 0 | 1 | '' | '' | '' | '' | 'E_Countdown_Ftr_9' | '' | 
-| 3577827741 | CalendarEvent,カレンダーイベント | 3069107721 | Ftr,家具 | 55916349 | 5 | 0 | 5 | 13 | 39 | 'Countdown' | 0 | 1 | '' | '' | '' | '' | 'E_Countdown_Ftr_10' | '' | 
-| 3577827741 | CalendarEvent,カレンダーイベント | 3069107721 | EventObj,イベントオブジェ | 55916349 | 0 | 10 | 9 | 7 | 40 | 'Countdown' | 0 | 1 | '' | '' | '' | '' | 'E_Countdown_EventObj_1' | '' | 
-| 2442620672 | VisitorNpc,来訪NPC | 3069107721 | EventObj,イベントオブジェ | 55916349 | 0 | 11 | 16 | 13 | 46 | 'EventNone' | 0 | 1 | '' | '' | '' | '' | 'V_hgc_EventObj_0' | 'hgc' | 
-| 2442620672 | PermanentObj,常設オブジェ | 3069107721 | Ftr,家具 | 55916349 | 12 | 0 | 2 | 4 | 47 | 'EventNone' | 0 | 1 | 'ChangePlazaFtrToNormal' | '' | '' | '' | 'P_EventNone_Ftr_1' | '' | 
-| 2442620672 | PermanentObj,常設オブジェ | 3069107721 | Ftr,家具 | 55916349 | 13 | 0 | 20 | 6 | 48 | 'EventNone' | 0 | 1 | 'SetPrologueBonfire' | '' | '' | '' | 'P_EventNone_Ftr_2' | '' | 
-| 2442620672 | PermanentObj,常設オブジェ | 3069107721 | Ftr,家具 | 55916349 | 13 | 0 | 18 | 6 | 49 | 'EventNone' | 0 | 1 | 'SetPrologueBonfire' | '' | '' | '' | 'P_EventNone_Ftr_3' | '' | 
-| 2442620672 | PermanentObj,常設オブジェ | 3069107721 | Ftr,家具 | 55916349 | 14 | 0 | 8 | 3 | 50 | 'EventNone' | 0 | 1 | 'SetPrologueBonfire' | '' | '' | '' | 'P_EventNone_Ftr_4' | '' | 
-| 2442620672 | PermanentObj,常設オブジェ | 3069107721 | Ftr,家具 | 55916349 | 15 | 0 | 2 | 14 | 51 | 'EventNone' | 0 | 1 | 'ChangePlazaFtrToNormal' | '' | '' | '' | 'P_EventNone_Ftr_5' | '' | 
-| 2442620672 | PermanentObj,常設オブジェ | 3069107721 | Ftr,家具 | 55916349 | 17 | 0 | 16 | 6 | 53 | 'EventNone' | 0 | 1 | 'ChangePlazaFtrToNormal' | '' | '' | '' | 'P_EventNone_Ftr_7' | '' | 
-| 2442620672 | PermanentObj,常設オブジェ | 3069107721 | Ftr,家具 | 55916349 | 18 | 0 | 6 | 9 | 54 | 'EventNone' | 0 | 1 | 'ChangePlazaFtrToNormal' | 'SetPrologueBonfire' | '' | '' | 'P_EventNone_Ftr_8' | '' | 
-| 2442620672 | PermanentObj,常設オブジェ | 3069107721 | Ftr,家具 | 55916349 | 19 | 0 | 16 | 9 | 55 | 'EventNone' | 0 | 1 | 'ChangePlazaFtrToNormal' | 'SetPrologueBonfire' | '' | '' | 'P_EventNone_Ftr_9' | '' | 
-| 2442620672 | VisitorNpc,来訪NPC | 3069107721 | EventObj,イベントオブジェ | 55916349 | 0 | 12 | 15 | 11 | 56 | 'EventNone' | 0 | 1 | '' | '' | '' | '' | 'V_skk_EventObj_0' | 'skk' | 
-| 2442620672 | VisitorNpc,来訪NPC | 3069107721 | EventObj,イベントオブジェ | 55916349 | 0 | 13 | 15 | 11 | 57 | 'EventNone' | 0 | 1 | '' | '' | '' | '' | 'V_hgh_EventObj_0' | 'hgh' | 
-| 2442620672 | PermanentObj,常設オブジェ | 3069107721 | Ftr,家具 | 55916349 | 20 | 0 | 5 | 9 | 58 | 'EventNone' | 0 | 1 | 'AllowNpcInterestActivity' | 'ChangePlazaFtrToNormal' | '' | '' | 'P_EventNone_Ftr_10' | '' | 
-| 2442620672 | NpcGroupActivity,NPC集団行動 | 1599806144 | Ftr,家具 | 55916349 | 23 | 0 | 3 | 12 | 59 | 'EventNone' | 0 | 1 | '' | '' | '' | '' | 'N_Picnic_Ftr_0' | '' | 
-| 2442620672 | NpcGroupActivity,NPC集団行動 | 1599806144 | Ftr,家具 | 55916349 | 23 | 0 | 6 | 11 | 60 | 'EventNone' | 0 | 1 | '' | '' | '' | '' | 'N_Picnic_Ftr_1' | '' | 
-| 2442620672 | NpcGroupActivity,NPC集団行動 | 1599806144 | Ftr,家具 | 55916349 | 23 | 0 | 9 | 12 | 61 | 'EventNone' | 0 | 1 | '' | '' | '' | '' | 'N_Picnic_Ftr_2' | '' | 
-| 2442620672 | NpcGroupActivity,NPC集団行動 | 3337932548 | Ftr,家具 | 55916349 | 24 | 0 | 6 | 12 | 62 | 'EventNone' | 0 | 1 | '' | '' | '' | '' | 'N_Bonfire_Ftr_0' | '' | 
-| 2320053723 | CalendarEvent,カレンダーイベント | 3069107721 | NPC,NPC | 55916349 | 0 | 0 | 11 | 9 | 65 | 'FirstLive' | 0 | 1 | '' | '' | '' | 'tkkA' | 'E_FirstLive_NPC_0' | '' | 
-| 2320053723 | CalendarEvent,カレンダーイベント | 3069107721 | Ftr,家具 | 55916349 | 4 | 0 | 11 | 9 | 66 | 'FirstLive' | 0 | 1 | '' | '' | '' | '' | 'E_FirstLive_Ftr_0' | '' | 
-| 2442620672 | NpcGroupActivity,NPC集団行動 | 3481144875 | Ftr,家具 | 55916349 | 25 | 0 | 4 | 12 | 69 | 'EventNone' | 0 | 1 | '' | '' | '' | '' | 'N_BenchResting_Ftr_0' | '' | 
-| 2442620672 | NpcGroupActivity,NPC集団行動 | 3135991362 | Ftr,家具 | 55916349 | 25 | 0 | 4 | 12 | 70 | 'EventNone' | 0 | 1 | '' | '' | '' | '' | 'N_BenchDrinking_Ftr_0' | '' | 
-| 2442620672 | NpcGroupActivity,NPC集団行動 | 30251072 | Ftr,家具 | 55916349 | 23 | 0 | 3 | 12 | 71 | 'EventNone' | 0 | 1 | '' | '' | '' | '' | 'N_PicnicSpring_Ftr_0' | '' | 
-| 2442620672 | NpcGroupActivity,NPC集団行動 | 30251072 | Ftr,家具 | 55916349 | 23 | 0 | 6 | 11 | 72 | 'EventNone' | 0 | 1 | '' | '' | '' | '' | 'N_PicnicSpring_Ftr_1' | '' | 
-| 2442620672 | NpcGroupActivity,NPC集団行動 | 30251072 | Ftr,家具 | 55916349 | 23 | 0 | 9 | 12 | 73 | 'EventNone' | 0 | 1 | '' | '' | '' | '' | 'N_PicnicSpring_Ftr_2' | '' | 
-| 2442620672 | NpcGroupActivity,NPC集団行動 | 808665389 | Ftr,家具 | 55916349 | 26 | 0 | 6 | 12 | 74 | 'EventNone' | 0 | 1 | '' | '' | '' | '' | 'N_PicnicAutumn_Ftr_0' | '' | 
-| 2442620672 | NpcGroupActivity,NPC集団行動 | 2631727836 | Ftr,家具 | 55916349 | 23 | 0 | 3 | 12 | 75 | 'EventNone' | 0 | 1 | '' | '' | '' | '' | 'N_PicnicWinter_Ftr_0' | '' | 
-| 2442620672 | NpcGroupActivity,NPC集団行動 | 2631727836 | Ftr,家具 | 55916349 | 23 | 0 | 6 | 11 | 76 | 'EventNone' | 0 | 1 | '' | '' | '' | '' | 'N_PicnicWinter_Ftr_1' | '' | 
-| 2442620672 | NpcGroupActivity,NPC集団行動 | 2631727836 | Ftr,家具 | 55916349 | 23 | 0 | 9 | 12 | 77 | 'EventNone' | 0 | 1 | '' | '' | '' | '' | 'N_PicnicWinter_Ftr_2' | '' | 
-| 2442620672 | NpcGroupActivity,NPC集団行動 | 879712066 | Ftr,家具 | 55916349 | 27 | 0 | 6 | 12 | 78 | 'EventNone' | 0 | 1 | '' | '' | '' | '' | 'N_GroupCleaning_Ftr_0' | '' | 
-| 2442620672 | PermanentObj,常設オブジェ | 3069107721 | Ftr,家具 | 55916349 | 25 | 0 | 4 | 12 | 81 | 'EventNone' | 1 | 1 | 'AllowNpcGroupActivity' | 'AllowNpcInterestActivity' | '' | '' | 'P_EventNone_Ftr_11' | '' | 
-| 721077695 | CalendarEvent,カレンダーイベント | 3069107721 | NPC,NPC | 55916349 | 0 | 0 | 16 | 14 | 82 | 'Easter' | 0 | 1 | '' | '' | '' | 'pyn' | 'E_Easter_NPC_0' | '' | 
-| 2442620672 | VisitorNpc,来訪NPC | 3069107721 | EventObj,イベントオブジェ | 55916349 | 0 | 17 | 16 | 11 | 83 | 'EventNone' | 0 | 1 | 'EventObjFlag0' | '' | '' | '' | 'V_slo_EventObj_0' | 'slo' | 
-| 721077695 | CalendarEvent,カレンダーイベント | 3069107721 | Ftr,家具 | 55916349 | 30 | 0 | 17 | 12 | 85 | 'Easter' | 0 | 1 | '' | '' | '' | '' | 'E_Easter_Ftr_0' | '' | 
-| 2442620672 | PermanentObj,常設オブジェ | 3069107721 | Ftr,家具 | 55916349 | 31 | 0 | 10 | 12 | 86 | 'EventNone' | 0 | 0 | '' | 'IsDreamingBed' | '' | '' | 'P_EventNone_Ftr_12' | '' | 
-| 2442620672 | PermanentObj,常設オブジェ | 3069107721 | NPC,NPC | 55916349 | 0 | 0 | 8 | 10 | 92 | 'EventNone' | 0 | 0 | '' | 'IsDreamingBed' | '' | 'tap' | 'P_EventNone_Npc_0' | '' | 
-| 1438808674 | CalendarEvent,カレンダーイベント | 3069107721 | EventObj,イベントオブジェ | 55916349 | 0 | 18 | 16 | 8 | 94 | 'Fireworks' | 0 | 1 | 'BuiltTownOffice' | '' | '' | '' | 'E_Fireworks_EventObj_0' | '' | 
-| 1438808674 | CalendarEvent,カレンダーイベント | 3069107721 | NPC,NPC | 55916349 | 0 | 0 | 15 | 12 | 95 | 'Fireworks' | 0 | 1 | 'BuiltTownOffice' | '' | '' | 'fox' | 'E_Fireworks_NPC_1' | '' | 
-| 2442620672 | PermanentObj,常設オブジェ | 3069107721 | Ftr,家具 | 55916349 | 32 | 0 | 14 | 12 | 97 | 'EventNone' | 0 | 0 | '' | 'IsDreamingBed' | '' | '' | 'P_EventNone_Ftr_13' | '' | 
-| 1438808674 | CalendarEvent,カレンダーイベント | 3069107721 | Ftr,家具 | 55916349 | 25 | 0 | 4 | 14 | 98 | 'Fireworks' | 0 | 1 | 'BuiltTownOffice' | '' | '' | '' | 'E_Fireworks_Ftr_0' | '' | 
-| 2442620672 | PermanentObj,常設オブジェ | 3069107721 | EventObj,イベントオブジェ | 55916349 | 0 | 19 | 3 | 12 | 99 | 'EventNone' | 0 | 0 | '' | 'DreamUploadPlayerHaveCreaterID' | '' | '' | 'P_EventNone_EventObj_5' | '' | 
-| 221557742 | CalendarEvent,カレンダーイベント | 3069107721 | NPC,NPC | 55916349 | 0 | 0 | 16 | 14 | 100 | 'Halloween' | 0 | 1 | '' | '' | '' | 'pkn' | 'E_Halloween_NPC_0' | '' | 
-| 221557742 | CalendarEvent,カレンダーイベント | 3069107721 | EventObj,イベントオブジェ | 1945988660 | 0 | 20 | 6 | 2 | 101 | 'Halloween' | 0 | 1 | '' | '' | '' | '' | 'E_Halloween_EventObj_0' | '' | 
-| 1438808674 | CalendarEvent,カレンダーイベント | 3069107721 | Ftr,家具 | 55916349 | 33 | 0 | 20 | 7 | 102 | 'Fireworks' | 0 | 1 | 'BuiltTownOffice' | '' | '' | '' | 'E_Fireworks_Ftr_1' | '' | 
-| 1438808674 | CalendarEvent,カレンダーイベント | 3069107721 | NPC,NPC | 55916349 | 0 | 0 | 15 | 11 | 103 | 'Fireworks' | 0 | 1 | '' | 'BuiltTownOffice' | '' | 'fox' | 'E_Fireworks_NPC_2' | '' | 
-| 1438808674 | CalendarEvent,カレンダーイベント | 3069107721 | EventObj,イベントオブジェ | 55916349 | 0 | 18 | 16 | 7 | 104 | 'Fireworks' | 0 | 1 | '' | 'BuiltTownOffice' | '' | '' | 'E_Fireworks_EventObj_1' | '' | 
-| 1438808674 | CalendarEvent,カレンダーイベント | 3069107721 | Ftr,家具 | 55916349 | 33 | 0 | 20 | 7 | 105 | 'Fireworks' | 0 | 1 | '' | 'BuiltTownOffice' | '' | '' | 'E_Fireworks_Ftr_2' | '' | 
-| 1438808674 | CalendarEvent,カレンダーイベント | 3069107721 | Ftr,家具 | 55916349 | 25 | 0 | 3 | 14 | 107 | 'Fireworks' | 0 | 1 | '' | 'BuiltTownOffice' | '' | '' | 'E_Fireworks_Ftr_3' | '' | 
-| 2442620672 | NpcGroupActivity,NPC集団行動 | 2857164571 | Ftr,家具 | 55916349 | 34 | 0 | 4 | 14 | 108 | 'EventNone' | 0 | 1 | '' | '' | '' | '' | 'N_GroupPlayFirework_Ftr_0' | '' | 
-| 2442620672 | PermanentObj,常設オブジェ | 3069107721 | Ftr,家具 | 1945988660 | 36 | 0 | 7 | 6 | 113 | 'EventNone' | 0 | 1 | '' | 'IsHalloweenLessThanThreeDays' | 'CalendarEventStop' | '' | 'P_EventNone_Ftr_14' | '' | 
-| 2442620672 | PermanentObj,常設オブジェ | 3069107721 | Ftr,家具 | 1945988660 | 36 | 0 | 15 | 6 | 114 | 'EventNone' | 0 | 1 | '' | 'IsHalloweenLessThanThreeDays' | 'CalendarEventStop' | '' | 'P_EventNone_Ftr_15' | '' | 
-| 2442620672 | PermanentObj,常設オブジェ | 3069107721 | Ftr,家具 | 2267135278 | 36 | 0 | 13 | 4 | 115 | 'EventNone' | 0 | 1 | '' | 'IsHalloweenLessThanThreeDays' | 'CalendarEventStop' | '' | 'P_EventNone_Ftr_16' | '' | 
-| 2442620672 | VisitorNpc,来訪NPC | 3069107721 | EventObj,イベントオブジェ | 55916349 | 0 | 24 | 16 | 11 | 117 | 'EventNone' | 0 | 1 | '' | 'EventObjFlag0' | '' | '' | 'V_slo_EventObj_1' | 'slo' | 
+| _036dd90c | EventType | EventWeatherArea | _24e5b19d | PlacementKind | _160cb241 | EventFtrUniqueID | EventObjUniqueID | OffsetX | OffsetZ | UniqueID | CalendarEventKey | _b8e42602 | DisableInDream | _4906e466 | LandFlagKeyOFF | LandFlagKeyON | _56ee0925 | NpcSpLabel | PlacementKey | VisitorNpcLabel |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 2442620672 | PermanentObj,常設オブジェ | 55916349 | 3069107721 | EventObj,イベントオブジェ | 55916349 | 0 | 0 | 0 | 0 | 0 | 'EventNone' | 0 | 0 | 0 | '' | '' | '' | '' | 'Invalid' | '' | 
+| 2442620672 | PermanentObj,常設オブジェ | 55916349 | 3069107721 | EventObj,イベントオブジェ | 55916349 | 0 | 1 | 3 | 5 | 1 | 'EventNone' | 0 | 0 | 0 | '' | 'EventPlazaBuilt' | '' | '' | 'P_EventNone_EventObj_0' | '' | 
+| 2442620672 | PermanentObj,常設オブジェ | 55916349 | 3069107721 | EventObj,イベントオブジェ | 55916349 | 0 | 2 | 1 | 1 | 2 | 'EventNone' | 0 | 0 | 0 | '' | 'BuiltTownOffice' | '' | '' | 'P_EventNone_EventObj_1' | '' | 
+| 2442620672 | PermanentObj,常設オブジェ | 55916349 | 3069107721 | EventObj,イベントオブジェ | 55916349 | 0 | 2 | 21 | 1 | 3 | 'EventNone' | 0 | 0 | 0 | '' | 'BuiltTownOffice' | '' | '' | 'P_EventNone_EventObj_2' | '' | 
+| 816937239 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | EventObj,イベントオブジェ | 55916349 | 0 | 3 | 14 | 10 | 4 | 'InsectConvention' | 0 | 1 | 0 | '' | '' | '' | '' | 'E_InsectConvention_EventObj_0' | '' | 
+| 3606818269 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | EventObj,イベントオブジェ | 55916349 | 0 | 4 | 14 | 10 | 5 | 'FishingConvention' | 0 | 1 | 0 | '' | '' | '' | '' | 'E_FishingConvention_EventObj_0' | '' | 
+| 3577827741 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | EventObj,イベントオブジェ | 55916349 | 0 | 5 | 17 | 6 | 6 | 'Countdown' | 0 | 1 | 0 | '' | '' | '' | '' | 'E_Countdown_EventObj_0' | '' | 
+| 816937239 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | NPC,NPC | 55916349 | 0 | 0 | 12 | 14 | 7 | 'InsectConvention' | 0 | 1 | 0 | '' | '' | '' | 'chy' | 'E_InsectConvention_NPC_0' | '' | 
+| 3606818269 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | NPC,NPC | 55916349 | 0 | 0 | 12 | 14 | 8 | 'FishingConvention' | 0 | 1 | 0 | '' | '' | '' | 'bey' | 'E_FishingConvention_NPC_0' | '' | 
+| 2442620672 | PermanentObj,常設オブジェ | 55916349 | 3069107721 | EventObj,イベントオブジェ | 55916349 | 0 | 14 | 10 | 9 | 9 | 'EventNone' | 0 | 1 | 0 | 'ChangePlazaFtrToNormal' | 'SetPrologueBonfire' | '' | '' | 'P_EventNone_EventObj_4' | '' | 
+| 1976680253 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | NPC,NPC | 55916349 | 0 | 0 | 11 | 9 | 10 | 'TotakekeLive' | 0 | 1 | 0 | 'TkkReturn' | '' | '' | 'tkkA' | 'E_TotakekeLive_NPC_0' | '' | 
+| 1976680253 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | Ftr,家具 | 55916349 | 22 | 0 | 16 | 9 | 11 | 'TotakekeLive' | 0 | 1 | 0 | 'TkkReturn' | '' | '' | '' | 'E_TotakekeLive_Ftr_0' | '' | 
+| 1976680253 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | Ftr,家具 | 55916349 | 22 | 0 | 16 | 11 | 12 | 'TotakekeLive' | 0 | 1 | 0 | 'TkkReturn' | '' | '' | '' | 'E_TotakekeLive_Ftr_1' | '' | 
+| 1976680253 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | Ftr,家具 | 55916349 | 22 | 0 | 16 | 13 | 14 | 'TotakekeLive' | 0 | 1 | 0 | 'TkkReturn' | '' | '' | '' | 'E_TotakekeLive_Ftr_2' | '' | 
+| 1976680253 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | Ftr,家具 | 55916349 | 21 | 0 | 12 | 16 | 15 | 'TotakekeLive' | 0 | 1 | 0 | 'TkkReturn' | '' | '' | '' | 'E_TotakekeLive_Ftr_3' | '' | 
+| 1976680253 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | Ftr,家具 | 55916349 | 11 | 0 | 6 | 9 | 17 | 'TotakekeLive' | 0 | 1 | 0 | 'TkkReturn' | '' | '' | '' | 'E_TotakekeLive_Ftr_4' | '' | 
+| 1976680253 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | Ftr,家具 | 55916349 | 11 | 0 | 6 | 11 | 18 | 'TotakekeLive' | 0 | 1 | 0 | 'TkkReturn' | '' | '' | '' | 'E_TotakekeLive_Ftr_5' | '' | 
+| 1976680253 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | Ftr,家具 | 55916349 | 11 | 0 | 6 | 13 | 19 | 'TotakekeLive' | 0 | 1 | 0 | 'TkkReturn' | '' | '' | '' | 'E_TotakekeLive_Ftr_6' | '' | 
+| 1976680253 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | Ftr,家具 | 55916349 | 21 | 0 | 10 | 16 | 21 | 'TotakekeLive' | 0 | 1 | 0 | 'TkkReturn' | '' | '' | '' | 'E_TotakekeLive_Ftr_7' | '' | 
+| 3577827741 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | NPC,NPC | 55916349 | 0 | 0 | 8 | 10 | 22 | 'Countdown' | 0 | 1 | 0 | 'TkkReturn' | '' | '' | 'sza' | 'E_Countdown_NPC_0' | '' | 
+| 1438808674 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | NPC,NPC | 55916349 | 0 | 0 | 7 | 8 | 23 | 'Fireworks' | 0 | 1 | 0 | '' | 'BuiltTownOffice' | '' | 'sza' | 'E_Fireworks_NPC_0' | '' | 
+| 3577827741 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | NPC,NPC | 55916349 | 0 | 0 | 15 | 10 | 24 | 'Countdown' | 0 | 1 | 0 | '' | '' | '' | 'rco' | 'E_Countdown_NPC_1' | '' | 
+| 2442620672 | PermanentObj,常設オブジェ | 55916349 | 3069107721 | EventObj,イベントオブジェ | 55916349 | 0 | 8 | 2 | 3 | 25 | 'EventNone' | 0 | 0 | 0 | 'EventPlazaBuilt' | '' | '' | '' | 'P_EventNone_EventObj_3' | '' | 
+| 3577827741 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | Ftr,家具 | 55916349 | 3 | 0 | 2 | 0 | 26 | 'Countdown' | 0 | 1 | 0 | '' | '' | '' | '' | 'E_Countdown_Ftr_0' | '' | 
+| 1976680253 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | Ftr,家具 | 55916349 | 4 | 0 | 11 | 9 | 27 | 'TotakekeLive' | 0 | 1 | 0 | 'TkkReturn' | '' | '' | '' | 'E_TotakekeLive_Ftr_8' | '' | 
+| 3577827741 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | Ftr,家具 | 55916349 | 5 | 0 | 0 | 0 | 30 | 'Countdown' | 0 | 1 | 0 | '' | '' | '' | '' | 'E_Countdown_Ftr_1' | '' | 
+| 3577827741 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | Ftr,家具 | 55916349 | 6 | 0 | 4 | 0 | 31 | 'Countdown' | 0 | 1 | 0 | '' | '' | '' | '' | 'E_Countdown_Ftr_2' | '' | 
+| 3577827741 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | Ftr,家具 | 55916349 | 6 | 0 | 18 | 0 | 32 | 'Countdown' | 0 | 1 | 0 | '' | '' | '' | '' | 'E_Countdown_Ftr_3' | '' | 
+| 3577827741 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | Ftr,家具 | 55916349 | 3 | 0 | 20 | 0 | 33 | 'Countdown' | 0 | 1 | 0 | '' | '' | '' | '' | 'E_Countdown_Ftr_4' | '' | 
+| 3577827741 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | Ftr,家具 | 55916349 | 5 | 0 | 22 | 0 | 34 | 'Countdown' | 0 | 1 | 0 | '' | '' | '' | '' | 'E_Countdown_Ftr_5' | '' | 
+| 3577827741 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | Ftr,家具 | 55916349 | 3 | 0 | 18 | 18 | 35 | 'Countdown' | 0 | 1 | 0 | '' | '' | '' | '' | 'E_Countdown_Ftr_6' | '' | 
+| 3577827741 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | Ftr,家具 | 55916349 | 5 | 0 | 22 | 11 | 36 | 'Countdown' | 0 | 1 | 0 | '' | '' | '' | '' | 'E_Countdown_Ftr_7' | '' | 
+| 3577827741 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | Ftr,家具 | 55916349 | 6 | 0 | 3 | 17 | 37 | 'Countdown' | 0 | 1 | 0 | '' | '' | '' | '' | 'E_Countdown_Ftr_8' | '' | 
+| 3577827741 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | Ftr,家具 | 55916349 | 3 | 0 | 1 | 8 | 38 | 'Countdown' | 0 | 1 | 0 | '' | '' | '' | '' | 'E_Countdown_Ftr_9' | '' | 
+| 3577827741 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | Ftr,家具 | 55916349 | 5 | 0 | 5 | 13 | 39 | 'Countdown' | 0 | 1 | 0 | '' | '' | '' | '' | 'E_Countdown_Ftr_10' | '' | 
+| 3577827741 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | EventObj,イベントオブジェ | 55916349 | 0 | 10 | 9 | 7 | 40 | 'Countdown' | 0 | 1 | 0 | '' | '' | '' | '' | 'E_Countdown_EventObj_1' | '' | 
+| 2442620672 | VisitorNpc,来訪NPC | 55916349 | 3069107721 | EventObj,イベントオブジェ | 55916349 | 0 | 11 | 16 | 13 | 46 | 'EventNone' | 0 | 1 | 0 | '' | '' | '' | '' | 'V_hgc_EventObj_0' | 'hgc' | 
+| 2442620672 | PermanentObj,常設オブジェ | 55916349 | 3069107721 | Ftr,家具 | 55916349 | 12 | 0 | 2 | 4 | 47 | 'EventNone' | 0 | 1 | 0 | 'ChangePlazaFtrToNormal' | '' | '' | '' | 'P_EventNone_Ftr_1' | '' | 
+| 2442620672 | PermanentObj,常設オブジェ | 55916349 | 3069107721 | Ftr,家具 | 55916349 | 13 | 0 | 20 | 6 | 48 | 'EventNone' | 0 | 1 | 0 | 'SetPrologueBonfire' | '' | '' | '' | 'P_EventNone_Ftr_2' | '' | 
+| 2442620672 | PermanentObj,常設オブジェ | 55916349 | 3069107721 | Ftr,家具 | 55916349 | 13 | 0 | 18 | 6 | 49 | 'EventNone' | 0 | 1 | 0 | 'SetPrologueBonfire' | '' | '' | '' | 'P_EventNone_Ftr_3' | '' | 
+| 2442620672 | PermanentObj,常設オブジェ | 55916349 | 3069107721 | Ftr,家具 | 55916349 | 14 | 0 | 8 | 3 | 50 | 'EventNone' | 0 | 1 | 0 | 'SetPrologueBonfire' | '' | '' | '' | 'P_EventNone_Ftr_4' | '' | 
+| 2442620672 | PermanentObj,常設オブジェ | 55916349 | 3069107721 | Ftr,家具 | 55916349 | 15 | 0 | 2 | 14 | 51 | 'EventNone' | 0 | 1 | 0 | 'ChangePlazaFtrToNormal' | '' | '' | '' | 'P_EventNone_Ftr_5' | '' | 
+| 2442620672 | PermanentObj,常設オブジェ | 55916349 | 3069107721 | Ftr,家具 | 55916349 | 17 | 0 | 16 | 6 | 53 | 'EventNone' | 0 | 1 | 0 | 'ChangePlazaFtrToNormal' | '' | '' | '' | 'P_EventNone_Ftr_7' | '' | 
+| 2442620672 | PermanentObj,常設オブジェ | 55916349 | 3069107721 | Ftr,家具 | 55916349 | 18 | 0 | 6 | 9 | 54 | 'EventNone' | 0 | 1 | 0 | 'ChangePlazaFtrToNormal' | 'SetPrologueBonfire' | '' | '' | 'P_EventNone_Ftr_8' | '' | 
+| 2442620672 | PermanentObj,常設オブジェ | 55916349 | 3069107721 | Ftr,家具 | 55916349 | 19 | 0 | 16 | 9 | 55 | 'EventNone' | 0 | 1 | 0 | 'ChangePlazaFtrToNormal' | 'SetPrologueBonfire' | '' | '' | 'P_EventNone_Ftr_9' | '' | 
+| 2442620672 | VisitorNpc,来訪NPC | 55916349 | 3069107721 | EventObj,イベントオブジェ | 55916349 | 0 | 12 | 15 | 11 | 56 | 'EventNone' | 0 | 1 | 0 | '' | '' | '' | '' | 'V_skk_EventObj_0' | 'skk' | 
+| 2442620672 | VisitorNpc,来訪NPC | 55916349 | 3069107721 | EventObj,イベントオブジェ | 55916349 | 0 | 13 | 15 | 11 | 57 | 'EventNone' | 0 | 1 | 0 | '' | '' | '' | '' | 'V_hgh_EventObj_0' | 'hgh' | 
+| 2442620672 | PermanentObj,常設オブジェ | 55916349 | 3069107721 | Ftr,家具 | 55916349 | 20 | 0 | 5 | 9 | 58 | 'EventNone' | 0 | 1 | 0 | 'AllowNpcInterestActivity' | 'ChangePlazaFtrToNormal' | '' | '' | 'P_EventNone_Ftr_10' | '' | 
+| 2442620672 | NpcGroupActivity,NPC集団行動 | 55916349 | 1599806144 | Ftr,家具 | 55916349 | 23 | 0 | 3 | 12 | 59 | 'EventNone' | 0 | 1 | 0 | '' | '' | '' | '' | 'N_Picnic_Ftr_0' | '' | 
+| 2442620672 | NpcGroupActivity,NPC集団行動 | 55916349 | 1599806144 | Ftr,家具 | 55916349 | 23 | 0 | 6 | 11 | 60 | 'EventNone' | 0 | 1 | 0 | '' | '' | '' | '' | 'N_Picnic_Ftr_1' | '' | 
+| 2442620672 | NpcGroupActivity,NPC集団行動 | 55916349 | 1599806144 | Ftr,家具 | 55916349 | 23 | 0 | 9 | 12 | 61 | 'EventNone' | 0 | 1 | 0 | '' | '' | '' | '' | 'N_Picnic_Ftr_2' | '' | 
+| 2442620672 | NpcGroupActivity,NPC集団行動 | 55916349 | 3337932548 | Ftr,家具 | 55916349 | 24 | 0 | 6 | 12 | 62 | 'EventNone' | 0 | 1 | 0 | '' | '' | '' | '' | 'N_Bonfire_Ftr_0' | '' | 
+| 2442620672 | PermanentObj,常設オブジェ | 55916349 | 3069107721 | NPC,NPC | 55916349 | 0 | 0 | 11 | 9 | 65 | 'EventNone' | 0 | 1 | 0 | '' | 'TkkFirstLiveNow' | '' | 'tkkA' | 'P_EventNone_Npc_2' | '' | 
+| 2442620672 | PermanentObj,常設オブジェ | 55916349 | 3069107721 | Ftr,家具 | 55916349 | 4 | 0 | 11 | 9 | 66 | 'EventNone' | 0 | 1 | 0 | '' | 'TkkFirstLiveNow' | '' | '' | 'P_EventNone_Ftr_17' | '' | 
+| 2442620672 | NpcGroupActivity,NPC集団行動 | 55916349 | 3481144875 | Ftr,家具 | 55916349 | 25 | 0 | 4 | 12 | 69 | 'EventNone' | 0 | 1 | 0 | '' | '' | '' | '' | 'N_BenchResting_Ftr_0' | '' | 
+| 2442620672 | NpcGroupActivity,NPC集団行動 | 55916349 | 3135991362 | Ftr,家具 | 55916349 | 25 | 0 | 4 | 12 | 70 | 'EventNone' | 0 | 1 | 0 | '' | '' | '' | '' | 'N_BenchDrinking_Ftr_0' | '' | 
+| 2442620672 | NpcGroupActivity,NPC集団行動 | 55916349 | 30251072 | Ftr,家具 | 55916349 | 23 | 0 | 3 | 12 | 71 | 'EventNone' | 0 | 1 | 0 | '' | '' | '' | '' | 'N_PicnicSpring_Ftr_0' | '' | 
+| 2442620672 | NpcGroupActivity,NPC集団行動 | 55916349 | 30251072 | Ftr,家具 | 55916349 | 23 | 0 | 6 | 11 | 72 | 'EventNone' | 0 | 1 | 0 | '' | '' | '' | '' | 'N_PicnicSpring_Ftr_1' | '' | 
+| 2442620672 | NpcGroupActivity,NPC集団行動 | 55916349 | 30251072 | Ftr,家具 | 55916349 | 23 | 0 | 9 | 12 | 73 | 'EventNone' | 0 | 1 | 0 | '' | '' | '' | '' | 'N_PicnicSpring_Ftr_2' | '' | 
+| 2442620672 | NpcGroupActivity,NPC集団行動 | 55916349 | 808665389 | Ftr,家具 | 55916349 | 26 | 0 | 6 | 12 | 74 | 'EventNone' | 0 | 1 | 0 | '' | '' | '' | '' | 'N_PicnicAutumn_Ftr_0' | '' | 
+| 2442620672 | NpcGroupActivity,NPC集団行動 | 55916349 | 2631727836 | Ftr,家具 | 55916349 | 23 | 0 | 3 | 12 | 75 | 'EventNone' | 0 | 1 | 0 | '' | '' | '' | '' | 'N_PicnicWinter_Ftr_0' | '' | 
+| 2442620672 | NpcGroupActivity,NPC集団行動 | 55916349 | 2631727836 | Ftr,家具 | 55916349 | 23 | 0 | 6 | 11 | 76 | 'EventNone' | 0 | 1 | 0 | '' | '' | '' | '' | 'N_PicnicWinter_Ftr_1' | '' | 
+| 2442620672 | NpcGroupActivity,NPC集団行動 | 55916349 | 2631727836 | Ftr,家具 | 55916349 | 23 | 0 | 9 | 12 | 77 | 'EventNone' | 0 | 1 | 0 | '' | '' | '' | '' | 'N_PicnicWinter_Ftr_2' | '' | 
+| 2442620672 | NpcGroupActivity,NPC集団行動 | 55916349 | 879712066 | Ftr,家具 | 55916349 | 27 | 0 | 6 | 12 | 78 | 'EventNone' | 0 | 1 | 0 | '' | '' | '' | '' | 'N_GroupCleaning_Ftr_0' | '' | 
+| 2442620672 | PermanentObj,常設オブジェ | 55916349 | 3069107721 | Ftr,家具 | 55916349 | 25 | 0 | 4 | 12 | 81 | 'EventNone' | 1 | 1 | 0 | 'AllowNpcGroupActivity' | 'AllowNpcInterestActivity' | '' | '' | 'P_EventNone_Ftr_11' | '' | 
+| 721077695 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | NPC,NPC | 55916349 | 0 | 0 | 16 | 14 | 82 | 'Easter' | 0 | 1 | 0 | '' | '' | '' | 'pyn' | 'E_Easter_NPC_0' | '' | 
+| 2442620672 | VisitorNpc,来訪NPC | 55916349 | 3069107721 | EventObj,イベントオブジェ | 55916349 | 0 | 17 | 16 | 11 | 83 | 'EventNone' | 0 | 1 | 0 | 'EventObjFlag0' | '' | '' | '' | 'V_slo_EventObj_0' | 'slo' | 
+| 721077695 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | Ftr,家具 | 55916349 | 30 | 0 | 17 | 12 | 85 | 'Easter' | 0 | 1 | 0 | '' | '' | '' | '' | 'E_Easter_Ftr_0' | '' | 
+| 2442620672 | PermanentObj,常設オブジェ | 55916349 | 3069107721 | Ftr,家具 | 55916349 | 31 | 0 | 10 | 12 | 86 | 'EventNone' | 0 | 0 | 0 | '' | 'IsDreamingBed' | '' | '' | 'P_EventNone_Ftr_12' | '' | 
+| 2442620672 | PermanentObj,常設オブジェ | 55916349 | 3069107721 | NPC,NPC | 55916349 | 0 | 0 | 8 | 10 | 92 | 'EventNone' | 0 | 0 | 0 | '' | 'IsDreamingBed' | '' | 'tap' | 'P_EventNone_Npc_0' | '' | 
+| 1438808674 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | EventObj,イベントオブジェ | 55916349 | 0 | 18 | 16 | 8 | 94 | 'Fireworks' | 0 | 1 | 0 | 'BuiltTownOffice' | '' | '' | '' | 'E_Fireworks_EventObj_0' | '' | 
+| 1438808674 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | NPC,NPC | 55916349 | 0 | 0 | 15 | 12 | 95 | 'Fireworks' | 0 | 1 | 0 | 'BuiltTownOffice' | '' | '' | 'fox' | 'E_Fireworks_NPC_1' | '' | 
+| 2442620672 | PermanentObj,常設オブジェ | 55916349 | 3069107721 | Ftr,家具 | 55916349 | 32 | 0 | 14 | 12 | 97 | 'EventNone' | 0 | 0 | 0 | '' | 'IsDreamingBed' | '' | '' | 'P_EventNone_Ftr_13' | '' | 
+| 1438808674 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | Ftr,家具 | 55916349 | 25 | 0 | 4 | 14 | 98 | 'Fireworks' | 0 | 1 | 0 | 'BuiltTownOffice' | '' | '' | '' | 'E_Fireworks_Ftr_0' | '' | 
+| 2442620672 | PermanentObj,常設オブジェ | 55916349 | 3069107721 | EventObj,イベントオブジェ | 55916349 | 0 | 19 | 3 | 12 | 99 | 'EventNone' | 0 | 0 | 0 | '' | 'DreamUploadPlayerHaveCreaterID' | '' | '' | 'P_EventNone_EventObj_5' | '' | 
+| 221557742 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | NPC,NPC | 55916349 | 0 | 0 | 16 | 14 | 100 | 'Halloween' | 0 | 1 | 0 | '' | '' | '' | 'pkn' | 'E_Halloween_NPC_0' | '' | 
+| 221557742 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | EventObj,イベントオブジェ | 1945988660 | 0 | 20 | 6 | 2 | 101 | 'Halloween' | 0 | 1 | 0 | '' | '' | '' | '' | 'E_Halloween_EventObj_0' | '' | 
+| 1438808674 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | Ftr,家具 | 55916349 | 33 | 0 | 20 | 7 | 102 | 'Fireworks' | 0 | 1 | 0 | 'BuiltTownOffice' | '' | '' | '' | 'E_Fireworks_Ftr_1' | '' | 
+| 1438808674 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | NPC,NPC | 55916349 | 0 | 0 | 15 | 11 | 103 | 'Fireworks' | 0 | 1 | 0 | '' | 'BuiltTownOffice' | '' | 'fox' | 'E_Fireworks_NPC_2' | '' | 
+| 1438808674 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | EventObj,イベントオブジェ | 55916349 | 0 | 18 | 16 | 7 | 104 | 'Fireworks' | 0 | 1 | 0 | '' | 'BuiltTownOffice' | '' | '' | 'E_Fireworks_EventObj_1' | '' | 
+| 1438808674 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | Ftr,家具 | 55916349 | 33 | 0 | 20 | 7 | 105 | 'Fireworks' | 0 | 1 | 0 | '' | 'BuiltTownOffice' | '' | '' | 'E_Fireworks_Ftr_2' | '' | 
+| 1438808674 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | Ftr,家具 | 55916349 | 25 | 0 | 3 | 14 | 107 | 'Fireworks' | 0 | 1 | 0 | '' | 'BuiltTownOffice' | '' | '' | 'E_Fireworks_Ftr_3' | '' | 
+| 2442620672 | NpcGroupActivity,NPC集団行動 | 55916349 | 2857164571 | Ftr,家具 | 55916349 | 34 | 0 | 4 | 14 | 108 | 'EventNone' | 0 | 1 | 0 | '' | '' | '' | '' | 'N_GroupPlayFirework_Ftr_0' | '' | 
+| 2442620672 | PermanentObj,常設オブジェ | 55916349 | 3069107721 | Ftr,家具 | 1945988660 | 36 | 0 | 7 | 6 | 113 | 'EventNone' | 0 | 1 | 0 | '' | 'IsHalloweenLessThanThreeDays' | 'CalendarEventStop' | '' | 'P_EventNone_Ftr_14' | '' | 
+| 2442620672 | PermanentObj,常設オブジェ | 55916349 | 3069107721 | Ftr,家具 | 1945988660 | 36 | 0 | 15 | 6 | 114 | 'EventNone' | 0 | 1 | 0 | '' | 'IsHalloweenLessThanThreeDays' | 'CalendarEventStop' | '' | 'P_EventNone_Ftr_15' | '' | 
+| 2442620672 | PermanentObj,常設オブジェ | 55916349 | 3069107721 | Ftr,家具 | 2267135278 | 36 | 0 | 13 | 4 | 115 | 'EventNone' | 0 | 1 | 0 | '' | 'IsHalloweenLessThanThreeDays' | 'CalendarEventStop' | '' | 'P_EventNone_Ftr_16' | '' | 
+| 2442620672 | VisitorNpc,来訪NPC | 55916349 | 3069107721 | EventObj,イベントオブジェ | 55916349 | 0 | 24 | 16 | 11 | 117 | 'EventNone' | 0 | 1 | 0 | '' | 'EventObjFlag0' | '' | '' | 'V_slo_EventObj_1' | 'slo' | 
+| 1975492931 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | NPC,NPC | 55916349 | 0 | 0 | 18 | 12 | 123 | 'HarvestFestival' | 0 | 1 | 0 | '' | 'BuiltTownOffice' | '' | 'tuk' | 'E_HarvestFestival_NPC_1' | '' | 
+| 1975492931 | CalendarEvent,カレンダーイベント | 501948358 | 3069107721 | Ftr,家具 | 55916349 | 38 | 0 | 16 | 14 | 125 | 'HarvestFestival' | 0 | 1 | 0 | '' | 'BuiltTownOffice' | '' | '' | 'E_HarvestFestival_Ftr_5' | '' | 
+| 1975492931 | CalendarEvent,カレンダーイベント | 501948358 | 3069107721 | EventObj,イベントオブジェ | 1945988660 | 0 | 22 | 6 | 2 | 126 | 'HarvestFestival' | 0 | 1 | 1 | '' | '' | '' | '' | 'E_HarvestFestival_EventObj_0' | '' | 
+| 3653757890 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | NPC,NPC | 55916349 | 0 | 0 | 16 | 14 | 130 | 'XmasEve' | 0 | 1 | 0 | '' | '' | '' | 'rei' | 'E_XmasEve_NPC_0' | '' | 
+| 1975492931 | CalendarEvent,カレンダーイベント | 501948358 | 3069107721 | Ftr,家具 | 55916349 | 40 | 0 | 5 | 12 | 131 | 'HarvestFestival' | 0 | 1 | 0 | '' | 'BuiltTownOffice' | '' | '' | 'E_HarvestFestival_Ftr_2' | '' | 
+| 1975492931 | CalendarEvent,カレンダーイベント | 501948358 | 3069107721 | Ftr,家具 | 55916349 | 40 | 0 | 9 | 12 | 132 | 'HarvestFestival' | 0 | 1 | 0 | '' | 'BuiltTownOffice' | '' | '' | 'E_HarvestFestival_Ftr_3' | '' | 
+| 1975492931 | CalendarEvent,カレンダーイベント | 2161400432 | 3069107721 | Ftr,家具 | 55916349 | 41 | 0 | 16 | 14 | 133 | 'HarvestFestival' | 0 | 1 | 0 | '' | 'BuiltTownOffice' | '' | '' | 'E_HarvestFestival_Ftr_6' | '' | 
+| 1975492931 | CalendarEvent,カレンダーイベント | 2161400432 | 3069107721 | Ftr,家具 | 55916349 | 43 | 0 | 5 | 12 | 134 | 'HarvestFestival' | 0 | 1 | 0 | '' | 'BuiltTownOffice' | '' | '' | 'E_HarvestFestival_Ftr_7' | '' | 
+| 1975492931 | CalendarEvent,カレンダーイベント | 2161400432 | 3069107721 | Ftr,家具 | 55916349 | 43 | 0 | 9 | 12 | 135 | 'HarvestFestival' | 0 | 1 | 0 | '' | 'BuiltTownOffice' | '' | '' | 'E_HarvestFestival_Ftr_8' | '' | 
+| 1975492931 | CalendarEvent,カレンダーイベント | 2161400432 | 3069107721 | EventObj,イベントオブジェ | 1945988660 | 0 | 23 | 6 | 2 | 136 | 'HarvestFestival' | 0 | 1 | 1 | '' | '' | '' | '' | 'E_HarvestFestival_EventObj_1' | '' | 
+| 2658881296 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | Ftr,家具 | 55916349 | 44 | 0 | 6 | 6 | 138 | 'XmasReady2' | 0 | 1 | 0 | '' | 'BuiltTownOffice' | '' | '' | 'E_XmasReady2_Ftr_17' | '' | 
+| 3653757890 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | Ftr,家具 | 55916349 | 44 | 0 | 6 | 6 | 139 | 'XmasEve' | 0 | 1 | 0 | '' | 'BuiltTownOffice' | '' | '' | 'E_XmasEve_Ftr_18' | '' | 
+| 2395235643 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | EventObj,イベントオブジェ | 1945988660 | 0 | 26 | 6 | 2 | 140 | 'XmasReady1' | 0 | 1 | 0 | '' | 'BuiltTownOffice' | '' | '' | 'E_XmasReady1_EventObj_0' | '' | 
+| 2658881296 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | EventObj,イベントオブジェ | 1945988660 | 0 | 26 | 6 | 2 | 141 | 'XmasReady2' | 0 | 1 | 0 | '' | 'BuiltTownOffice' | '' | '' | 'E_XmasReady2_EventObj_1' | '' | 
+| 3653757890 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | EventObj,イベントオブジェ | 1945988660 | 0 | 25 | 6 | 2 | 142 | 'XmasEve' | 0 | 1 | 0 | '' | 'BuiltTownOffice' | '' | '' | 'E_XmasEve_EventObj_2' | '' | 
+| 1975492931 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | EventObj,イベントオブジェ | 55916349 | 0 | 27 | 16 | 14 | 145 | 'HarvestFestival' | 0 | 1 | 0 | '' | 'BuiltTownOffice' | '' | '' | 'E_HarvestFestival_EventObj_2' | '' | 
+| 4076568509 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | EventObj,イベントオブジェ | 55916349 | 0 | 25 | 6 | 2 | 147 | 'XmasAfter' | 0 | 1 | 0 | '' | 'BuiltTownOffice' | '' | '' | 'E_XmasAfter_EventObj_4' | '' | 
+| 4076568509 | CalendarEvent,カレンダーイベント | 55916349 | 3069107721 | Ftr,家具 | 55916349 | 44 | 0 | 6 | 6 | 149 | 'XmasAfter' | 0 | 1 | 0 | '' | 'BuiltTownOffice' | '' | '' | 'E_XmasAfter_Ftr_19' | '' | 

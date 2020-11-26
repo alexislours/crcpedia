@@ -2,7 +2,7 @@ Ninji's exports: [HTML](https://wuffs.org/acnh/bcsv_160/html/NpcEquipRule.html),
 
 Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/NpcEquipRule.csv), [JSON](https://github.com/McSpazzy/acnh-json/blob/master/NpcEquipRule.json)
 
-| ClothesFrequencyWear | ClothesPurposeLimit | ClothesTemporarilyCreate | PurposeScore | PurposeTag | ScoreMultiplier | SeasonScore | TasteScore | UniqueID | CapFrequencyWear | CapPurposeLimit | CapTemporarilyCreate | GlassesFrequencyWear | GlassesPurposeLimit | GlassesTemporarilyCreate | _6510a4fe | Label | MaskFrequencyWear | MaskPurposeLimit | MaskTemporarilyCreate | Name |
+| ClothesFrequencyWear | ClothesPurposeLimit | ClothesTemporarilyCreate | PurposeScore | PurposeTag | ScoreMultiplier | SeasonScore | TasteScore | UniqueID | CapFrequencyWear | CapPurposeLimit | CapTemporarilyCreate | GlassesFrequencyWear | GlassesPurposeLimit | GlassesTemporarilyCreate | IsEquipCeremony | Label | MaskFrequencyWear | MaskPurposeLimit | MaskTemporarilyCreate | Name |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | Always,◎ | None,- | None,- | 3 | 12 | 2.0 | 2 | 5 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 'Usually' | 0 | 0 | 0 | '日常' | 
 | Always,◎ | Limit,限 | Condition,条 | 2 | 17 | 4.0 | 0 | 8 | 9 | 3 | 1 | 2 | 0 | 0 | 0 | 0 | 'SnowWear' | 0 | 0 | 0 | '雪具' | 
@@ -26,3 +26,6 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/NpcEqui
 | Always,◎ | Limit,限 | Enable,可 | 2 | 31 | 4.0 | 0 | 8 | 29 | 3 | 1 | 1 | 0 | 0 | 0 | 1 | 'Easter' | 0 | 0 | 0 | 'イースター' | 
 | Always,◎ | Limit,限 | None,- | 2 | 32 | 4.0 | 0 | 8 | 30 | 3 | 1 | 0 | 0 | 0 | 0 | 0 | 'Fireworks' | 0 | 0 | 0 | '花火大会' | 
 | Always,◎ | Limit,限 | Enable,可 | 2 | 33 | 4.0 | 0 | 8 | 31 | 3 | 1 | 1 | 0 | 0 | 0 | 1 | 'Halloween' | 0 | 0 | 0 | 'ハロウィン' | 
+| Always,◎ | Limit,限 | Enable,可 | 2 | 35 | 4.0 | 0 | 8 | 32 | 3 | 1 | 1 | 0 | 0 | 0 | 1 | 'Harvest_Cook' | 0 | 0 | 0 | 'ハーベスト_調理' | 
+| Always,◎ | Limit,限 | Enable,可 | 2 | 34 | 4.0 | 0 | 8 | 33 | 3 | 1 | 1 | 0 | 0 | 0 | 1 | 'Harvest_Party' | 0 | 0 | 0 | 'ハーベスト_立食' | 
+| Always,◎ | Limit,限 | None,- | 2 | 36 | 4.0 | 0 | 8 | 34 | 3 | 1 | 1 | 0 | 0 | 0 | 1 | 'Christmas' | 0 | 0 | 0 | 'クリスマス' | 

@@ -32,3 +32,4 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/BgmProp
 | 31 | 'YumemiDemoWakeUpState' | 
 | 32 | 'YumemiFieldBgmDelay' | 
 | 33 | 'EventAnnounceState' | 
+| 34 | 'HarvestCookingState' | 

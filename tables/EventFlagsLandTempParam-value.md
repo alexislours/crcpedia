@@ -70,5 +70,10 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/EventFl
 | 0 | 5 | 80 | 3 | 0 | 0 | 0 | 2 | 'SeasonEventActivityType' | '季節イベント行動タイプ' | 
 | 0 | 10 | 81 | 3 | 0 | 1 | 0 | 1 | 'HalloweenApproachNpcIndex' | 'ハロウィン用アプローチをしているNPC住人番号' | 
 | 0 | 1 | 82 | 3 | 0 | 1 | 0 | 1 | 'HalloweenApproachNow' | '現在ハロウィン用アプローチが発生中か' | 
-| 0 | 24 | 84 | 3 | 0 | 0 | 0 | 2 | 'SeasonEventIndoorUpdateHour' | '季節イベント室内NPC更新時刻(時間)' | 
-| 0 | 60 | 85 | 3 | 0 | 0 | 0 | 2 | 'SeasonEventIndoorUpdateMinute' | '季節イベント室内NPC更新時刻(分)' | 
+| 0 | 24 | 84 | 3 | 0 | 0 | 0 | 5 | 'SeasonEventIndoorUpdateHour' | '季節イベント室内NPC更新時刻(時間)' | 
+| 0 | 60 | 85 | 3 | 0 | 0 | 0 | 5 | 'SeasonEventIndoorUpdateMinute' | '季節イベント室内NPC更新時刻(分)' | 
+| 0 | 4 | 86 | 3 | 0 | 0 | 2 | 0 | 'HarvestDemoCooking' | 'ハーベスト|料理デモ：今回配置された料理番号' | 
+| 0 | 3 | 87 | 3 | 1 | 0 | 2 | 0 | 'HarvestDemoNpcStep' | 'ハーベスト|料理デモ：一般NPCの行動状態' | 
+| 0 | 4 | 88 | 3 | 1 | 0 | 2 | 0 | 'HarvestDemoPlayerProgress' | 'ハーベスト|料理デモ：デモ中のプレイヤーの進捗' | 
+| 0 | 1 | 91 | 3 | 0 | 0 | 0 | 2 | 'SeasonEventIndoorSceneChangeUpdate' | 'シーン切替時の季節イベント室内割り振り更新要求' | 
+| 0 | 1 | 92 | 3 | 0 | 0 | 2 | 0 | 'TukBehaviorControlFlag' | 'ハーベスト|演技、道具、コンロを制御するフラグ' | 

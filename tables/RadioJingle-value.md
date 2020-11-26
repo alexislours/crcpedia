@@ -24,3 +24,6 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/RadioJi
 | 1.0 | Night,夜 | 364 | 318 | 17 | 0 | 'EventNone' | 
 | 10.0 | AllDay,一日中 | 332 | 319 | 19 | 11 | 'Easter' | 
 | 10.0 | AllDay,一日中 | 287 | 320 | 20 | 30 | 'Halloween' | 
+| 10.0 | AllDay,一日中 | 392 | 321 | 21 | 7 | 'HarvestFestival' | 
+| 10.0 | AllDay,一日中 | 262 | 322 | 22 | 24 | 'XmasEve' | 
+| 10.0 | AllDay,一日中 | 396 | 323 | 23 | 14 | 'Countdown' | 

@@ -59,9 +59,11 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ItemAct
 | FtrMailBox,FtrMailBox | None,なし | MailBoxTypeE,ポスト：タイプE | 57 | 1 | 1 | 'MailBoxTypeE' | 'ポスト：タイプE' | 0 | 
 | FtrTriggerOnOff,FtrTriggerOnOff | None,なし | Unknown,未設定 | 21 | 1 | 1 | 'TrashBox' | 'ゴミ箱' | 0 | 
 | FtrLoopAuto,FtrLoopAuto | None,なし | Unknown,未設定 | 16 | 1 | 1 | 'Bamboo' | 'たなばたのささ' | 0 | 
+| FtrLoopAuto,FtrLoopAuto | None,なし | Unknown,未設定 | 79 | 1 | 1 | 'CrsSocks' | 'くつしたのかざり' | 1 | 
 | FtrInsectSing,FtrInsectSing | None,なし | Unknown,未設定 | 65 | 1 | 0 | 'SingInsect' | '鳴くムシ' | 1 | 
 | FtrLoopAuto,FtrLoopAuto | None,なし | Unknown,未設定 | 49 | 1 | 1 | 'MoveBox' | '初期支給プレゼントBOX' | 0 | 
 | FtrLoopAuto,FtrLoopAuto | None,なし | Unknown,未設定 | 66 | 0 | 0 | 'MyDesignRug' | 'マイデザインラグ' | 0 | 
 | FtrActionMusicJacket,FtrMusicJacket | None,なし | Unknown,未設定 | 67 | 1 | 0 | 'MusicJacket' | 'ミュージックジャケット' | 0 | 
 | FtrLoopAuto,FtrLoopAuto | None,なし | Unknown,未設定 | 68 | 1 | 1 | 'Bromide' | 'ブロマイド' | 1 | 
 | FtrLoopAuto,FtrLoopAuto | None,なし | Unknown,未設定 | 70 | 1 | 1 | 'StampRack' | 'スタンプ台(国際ミュージアム)' | 0 | 
+| FtrTriggerToLoopOnOff,FtrTriggerToLoopOnOff | None,なし | Unknown,未設定 | 81 | 1 | 0 | 'HarvestKitchen' | 'フランクリンのキッチン(ハーベスト)' | 0 | 

@@ -3,7 +3,7 @@
 
 **Named columns**: 23/24
 
-**Documented columns**: 17/24
+**Documented columns**: 18/24
 
 **Description**: Parameters for outdoor objects, such as trees
 ## CollisionHeight

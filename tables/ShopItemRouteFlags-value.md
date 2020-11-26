@@ -24,3 +24,5 @@ Spazzy's exports: [CSV](https://github.com/McSpazzy/acnh-csv/blob/master/ShopIte
 | 125 | -1 | Shop,お店 | 0 | 'Shop_EnableRecipeLadder' | 
 | 330 | -1 | Label1,タヌポート | 0 | 'MileExchangeNsoPresent' | 
 | -1 | 1215 | Label1,タヌポート | 1 | 'MileExchangeNewColor' | 
+| 380 | -1 | Shop,お店 | 0 | 'Harvest_RecipeBook' | 
+| -1 | 140 | Label1,タヌポート | 1 | 'MileExchangeReaction' | 
