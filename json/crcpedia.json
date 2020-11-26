@@ -5973,7 +5973,10 @@
         "hashedString": "",
         "hashNotes": "",
         "formattedHash": "_4906e466",
-        "versions": ["", "", "", "", "", "", ""]
+        "name": "",
+        "functionalityNotes": "",
+        "versions": ["", "", "", "", "", "", "Yes"],
+        "knownFunctionality": false
       },
       {
         "hash": "e6c63c5c",
