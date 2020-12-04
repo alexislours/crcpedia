@@ -726,7 +726,7 @@
 
 **Hashed string**: ItemRegionFilter.hshCstringRef
 
-**Notes**: Determines that celebratory candles aren't suitable for Europe
+**Notes**: Determines that celebratory candles aren't suitable for Europe (except they ARE available in Europe)
 
 **Versions**: 
 

@@ -13063,7 +13063,7 @@
         "hashNotes": "",
         "formattedHash": "_ea9fc92a",
         "name": "ItemRegionFilter",
-        "functionalityNotes": "Determines that celebratory candles aren't suitable for Europe",
+        "functionalityNotes": "Determines that celebratory candles aren't suitable for Europe (except they ARE available in Europe)",
         "versions": ["Yes", "Yes", "Yes", "Yes", "Yes", "Yes", "Yes"],
         "knownFunctionality": false
       },
