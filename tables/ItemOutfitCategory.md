@@ -77,8 +77,9 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| No | No | No | No | Yes | Yes | No| 
+| No | No | No | No | Yes | Yes | Yes*| 
 
+*Found in the BCSVs but unreferenced in the executable
 
 ## HandToolAsName
 
