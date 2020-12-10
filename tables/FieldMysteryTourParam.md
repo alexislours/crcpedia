@@ -18,7 +18,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | No | No | No | No | No | Yes| 
+| Yes | No | No | No | No | No | No| 
 
 
 ## FishPattern (Unused)
@@ -35,7 +35,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | No | No | No | No | No | Yes| 
+| Yes | No | No | No | No | No | No| 
 
 
 ## InsectPattern (Unused)
@@ -52,7 +52,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | No | No | No | No | No | Yes| 
+| Yes | No | No | No | No | No | No| 
 
 
 ## MysteryTourFieldUniqueID (Unused)
@@ -69,7 +69,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | No | No | No | No | No | Yes| 
+| Yes | No | No | No | No | No | No| 
 
 
 ## MysteryTourItemUniqueID (Unused)
@@ -86,7 +86,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | No | No | No | No | No | Yes| 
+| Yes | No | No | No | No | No | No| 
 
 
 ## SelectWeight (Unused)
@@ -103,7 +103,7 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | No | No | No | No | No | Yes| 
+| Yes | No | No | No | No | No | No| 
 
 
 ## UniqueID (Unused)
@@ -120,6 +120,6 @@
 
  | 1.0.0 | 1.1.0 | 1.2.0 | 1.3.0 | 1.4.0 | 1.5.0 | 1.6.0
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Yes | No | No | No | No | No | Yes| 
+| Yes | No | No | No | No | No | No| 
 
 

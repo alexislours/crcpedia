@@ -2498,7 +2498,7 @@
         "formattedHash": "_062ec6cf",
         "name": "WeatherPattern",
         "functionalityNotes": "Was always empty. Removed in 1.3.0",
-        "versions": ["Yes*", "Yes*", "Yes*", "No", "No", "No", "Yes*"],
+        "versions": ["Yes*", "Yes*", "Yes*", "No", "No", "No", "No"],
         "knownFunctionality": "unused"
       },
       {
@@ -7372,7 +7372,7 @@
         "formattedHash": "_e8fa8b93",
         "name": "MysteryTourFieldOutside",
         "functionalityNotes": "Removed in 1.1.0",
-        "versions": ["Yes", "No", "No", "No", "No", "No", "Yes"],
+        "versions": ["Yes", "No", "No", "No", "No", "No", "No"],
         "knownFunctionality": "unused"
       },
       {
@@ -7383,7 +7383,7 @@
         "formattedHash": "_54706054",
         "name": "UniqueID",
         "functionalityNotes": "Removed in 1.1.0",
-        "versions": ["Yes", "No", "No", "No", "No", "No", "Yes"],
+        "versions": ["Yes", "No", "No", "No", "No", "No", "No"],
         "knownFunctionality": "unused"
       }
     ]
@@ -7402,7 +7402,7 @@
         "formattedHash": "_54706054",
         "name": "UniqueID",
         "functionalityNotes": "Removed in 1.1.0",
-        "versions": ["Yes", "No", "No", "No", "No", "No", "Yes"],
+        "versions": ["Yes", "No", "No", "No", "No", "No", "No"],
         "knownFunctionality": "unused"
       }
     ]
@@ -7421,7 +7421,7 @@
         "formattedHash": "_dd59b554",
         "name": "ItemPlacementKind",
         "functionalityNotes": "Removed in 1.1.0",
-        "versions": ["Yes", "No", "No", "No", "No", "No", "Yes"],
+        "versions": ["Yes", "No", "No", "No", "No", "No", "No"],
         "knownFunctionality": "unused"
       },
       {
@@ -7432,7 +7432,7 @@
         "formattedHash": "_b1f384dc",
         "name": "FishPattern",
         "functionalityNotes": "Removed in 1.1.0",
-        "versions": ["Yes", "No", "No", "No", "No", "No", "Yes"],
+        "versions": ["Yes", "No", "No", "No", "No", "No", "No"],
         "knownFunctionality": "unused"
       },
       {
@@ -7443,7 +7443,7 @@
         "formattedHash": "_e23c6453",
         "name": "InsectPattern",
         "functionalityNotes": "Removed in 1.1.0",
-        "versions": ["Yes", "No", "No", "No", "No", "No", "Yes"],
+        "versions": ["Yes", "No", "No", "No", "No", "No", "No"],
         "knownFunctionality": "unused"
       },
       {
@@ -7454,7 +7454,7 @@
         "formattedHash": "_72573f73",
         "name": "MysteryTourFieldUniqueID",
         "functionalityNotes": "Removed in 1.1.0",
-        "versions": ["Yes", "No", "No", "No", "No", "No", "Yes"],
+        "versions": ["Yes", "No", "No", "No", "No", "No", "No"],
         "knownFunctionality": "unused"
       },
       {
@@ -7465,7 +7465,7 @@
         "formattedHash": "_7a09986c",
         "name": "MysteryTourItemUniqueID",
         "functionalityNotes": "Removed in 1.1.0",
-        "versions": ["Yes", "No", "No", "No", "No", "No", "Yes"],
+        "versions": ["Yes", "No", "No", "No", "No", "No", "No"],
         "knownFunctionality": "unused"
       },
       {
@@ -7476,7 +7476,7 @@
         "formattedHash": "_d89a0db0",
         "name": "SelectWeight",
         "functionalityNotes": "Removed in 1.1.0",
-        "versions": ["Yes", "No", "No", "No", "No", "No", "Yes"],
+        "versions": ["Yes", "No", "No", "No", "No", "No", "No"],
         "knownFunctionality": "unused"
       },
       {
@@ -7487,7 +7487,7 @@
         "formattedHash": "_54706054",
         "name": "UniqueID",
         "functionalityNotes": "Removed in 1.1.0",
-        "versions": ["Yes", "No", "No", "No", "No", "No", "Yes"],
+        "versions": ["Yes", "No", "No", "No", "No", "No", "No"],
         "knownFunctionality": "unused"
       }
     ]
@@ -21576,7 +21576,7 @@
         "formattedHash": "_ae3add79",
         "name": "DemoNetLockState",
         "functionalityNotes": "Moved to e50d3218 in 1.4.0",
-        "versions": ["Yes", "Yes", "Yes", "Yes", "No", "No", "Yes*"],
+        "versions": ["Yes", "Yes", "Yes", "Yes", "No", "No", "No"],
         "knownFunctionality": "unused"
       },
       {
@@ -22604,7 +22604,7 @@
         "formattedHash": "_05836619",
         "name": "Reverberation",
         "functionalityNotes": "Removed in 1.3.0",
-        "versions": ["Yes*", "Yes*", "Yes*", "No", "No", "No", "Yes*"],
+        "versions": ["Yes*", "Yes*", "Yes*", "No", "No", "No", "No"],
         "knownFunctionality": "unused"
       },
       {
@@ -22838,7 +22838,7 @@
         "formattedHash": "_05836619",
         "name": "Reverberation",
         "functionalityNotes": "Removed in 1.3.0",
-        "versions": ["Yes*", "Yes*", "Yes*", "No", "No", "No", "Yes*"],
+        "versions": ["Yes*", "Yes*", "Yes*", "No", "No", "No", "No"],
         "knownFunctionality": "unused"
       },
       {
@@ -23881,7 +23881,7 @@
         "formattedHash": "_54706054",
         "name": "UniqueID",
         "functionalityNotes": "Removed in 1.3.0",
-        "versions": ["No", "Yes", "Yes", "No", "No", "No", "Yes"],
+        "versions": ["No", "Yes", "Yes", "No", "No", "No", "No"],
         "knownFunctionality": "unused"
       },
       {
@@ -23892,7 +23892,7 @@
         "formattedHash": "_85cf1615",
         "name": "Name",
         "functionalityNotes": "Removed in 1.3.0",
-        "versions": ["No", "Yes", "Yes", "No", "No", "No", "Yes"],
+        "versions": ["No", "Yes", "Yes", "No", "No", "No", "No"],
         "knownFunctionality": "unused"
       }
     ]
